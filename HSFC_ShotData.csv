@@ -1,0 +1,23 @@
+Season,Team,Player_Name,Opponent,Start_x,Start_y,Shot Type,Shot Foot,Shot Outcome,Goal,Assist_Type,Defenders_Between,Defender_Distance,Body Part ,Goalkeeper Position
+23/24,FC Hartlepool,Ben Henderson,Newcastle Blue Star,82,70,Shot,Left Foot ,Blocked,0,Pass ,1,1,0.8,Centre 
+23/24,Newcastle Blue Star,Shaun Ryder,FC Hartlepool,75,62,Shot,Left Foot ,Blocked,0,Through Ball,2,1.5,0.8,Left 
+23/24,FC Hartlepool,Philly Angus,Newcastle Blue Star,89,52.5,Shot,Right Foot,Goal,1,Pass ,0,0,0.8,Right
+23/24,Newcastle Blue Star,Dan Lanning,FC Hartlepool,81,62,Shot,Head,On Target,0,Through Ball,0,0,0.8,Centre 
+23/24,FC Hartlepool,Ben Henderson,Newcastle Blue Star,84,50,Shot,Other,Goal,1,Cross,0,0,0.8,Left 
+23/24,Newcastle Blue Star,Shaun Ryder,FC Hartlepool,80,70,Shot,Right Foot,On Target,0,Cross,2,3,0.8,Right
+23/24,FC Hartlepool,Ben Henderson,Newcastle Blue Star,84,75,Shot,Left Foot ,Blocked,0,Cross,1,1.5,0.8,Centre 
+23/24,Newcastle Blue Star,Alfie Livermore,FC Hartlepool,79,40,Shot,Left Foot ,Blocked,0,Through Ball,1,1,0.8,Left 
+23/24,Newcastle Blue Star,Shaun Ryder,FC Hartlepool,94,62,Header,Right Foot,On Target,0,Pass ,1,0.1,0.5,Right
+23/24,FC Hartlepool,Tom Gavin,Newcastle Blue Star,78,41,Free Kick,Head,Blocked,0,Cross,3,4.57,0.8,Centre 
+23/24,FC Hartlepool,Ben Henderson,Newcastle Blue Star,83.5,50,Shot,Other,On Target,0,Pass ,1,1.7,0.8,Left 
+23/24,Newcastle Blue Star,Connor Oliver,FC Hartlepool,78,71,Shot,Right Foot,Blocked,0,Through Ball,2,3,0.8,Right
+23/24,Newcastle Blue Star,Alfie Livermore,FC Hartlepool,75,56,Shot,Left Foot ,Blocked,0,Pass ,1,5,0.8,Left 
+23/24,Newcastle Blue Star,Stephen Forster,FC Hartlepool,74,25,Shot,Left Foot ,Off Target,0,Through Ball,3,6,0.8,Right
+23/24,Newcastle Blue Star,Dan Lanning,FC Hartlepool,94,41,Header,Right Foot,Off Target,0,Cross,1,0.1,0.5,Centre 
+23/24,Newcastle Blue Star,Connor Oliver,FC Hartlepool,75,20,Free Kick,Head,Off Target,0,Cross,1,7,0.8,Left 
+23/24,Newcastle Blue Star,Dan Lanning,FC Hartlepool,77,53,Shot,Other,Off Target,0,Cross,1,4.5,0.8,Right
+23/24,FC Hartlepool,Dean Cope,Newcastle Blue Star,93.5,48,Header,Right Foot,Off Target,0,Through Ball,4,0.1,0.5,Centre 
+23/24,FC Hartlepool,Ben Henderson,Newcastle Blue Star,78,52,Shot,Other,Off Target,0,Pass ,1,4,0.8,Left 
+23/24,Newcastle Blue Star,Dan Lanning ,FC Hartlepool,89,49,Shot,Right Foot,Off Target,0,Cross,1,0.1,0.8,Right
+23/24,FC Hartlepool,Alex Hutchingson,Newcastle Blue Star,90,75,Shot,Right Foot,Off Target,0,Cross,1,0.8,0.8,Right
+23/24,Newcastle Blue Star,Dan Turner,FC Hartlepool,80,48.5,Shot,Head,Goal,1,Pass ,1,2,0.8,Centre 
