@@ -1,0 +1,138 @@
+minute,team,opposition,id,play pos,event,x,y,outcome
+13,Billingham,Durham Uni,Ath1,front row,carry,80,68,kick return
+16,Billingham,Durham Uni,Ath1,front row,carry,58,35,open play
+29,Billingham,Durham Uni,Ath1,front row,carry,8.5,39,offload
+30,Billingham,Durham Uni,Ath1,front row,carry,80,69,kick return
+22,Billingham,Durham Uni,Ath1,front row,carry,2,69,gls
+13,Billingham,Durham Uni,Ath7,back row,carry,78,15,open play
+16,Billingham,Durham Uni,Ath7,back row,carry,54,12,open play
+24,Billingham,Durham Uni,Ath7,back row,carry,77,38,kick return
+47,Billingham,Durham Uni,Ath7,back row,carry,45.1,20,tap pen support
+100,Billingham,Durham Uni,Ath7,back row,carry,88,45,open play
+22,Billingham,Durham Uni,Ath7,back row,carry,22,5.5,gls
+39,Billingham,Durham Uni,Ath7,back row,carry,5,55,gls
+65,Billingham,Durham Uni,Ath7,back row,carry,50,65,gls
+67,Billingham,Durham Uni,Ath7,back row,carry,45,25,gls
+36,Billingham,Durham Uni,Ath15,back three,carry,85,17,kick return
+45,Billingham,Durham Uni,Ath15,back three,carry,46,57,open play
+47,Billingham,Durham Uni,Ath15,back three,carry,47,15,open play
+50,Billingham,Durham Uni,Ath15,back three,carry,50,40,kick return
+65,Billingham,Durham Uni,Ath15,back three,carry,32,69,kick return
+80,Billingham,Durham Uni,Ath15,back three,carry,50.5,33,open play
+89,Billingham,Durham Uni,Ath15,back three,carry,10,17,open play
+16,Billingham,Durham Uni,Ath15,back three,carry,59.7,35,gls
+47,Billingham,Durham Uni,Ath15,back three,carry,45.5,25,gls
+69,Billingham,Durham Uni,Ath15,back three,carry,49.8,45,gls
+89,Billingham,Durham Uni,Ath15,back three,carry,72,65,gls
+21,Billingham,Durham Uni,Ath13,centre,carry,35,70,error
+30,Billingham,Durham Uni,Ath11,back three,carry,60,0,error
+78,Billingham,Durham Uni,Ath11,back three,carry,100,69,error
+105,Billingham,Durham Uni,Ath27,centre,carry,95,4,error
+45,Billingham,Durham Uni,Ath14,back three,carry,61,68,kick return
+86,Billingham,Durham Uni,Ath14,back three,carry,38,11,open play
+26,Billingham,Durham Uni,Ath14,back three,carry,24,6,gls
+47,Billingham,Durham Uni,Ath12,centre,carry,45.5,51,open play
+53,Billingham,Durham Uni,Ath12,centre,carry,77,20,open play
+67,Billingham,Durham Uni,Ath12,centre,carry,33,65,kick return
+48,Billingham,Durham Uni,Ath12,centre,carry,38,21,gls
+15,Billingham,Durham Uni,Ath11,back three,carry,74,11,gls
+22,Billingham,Durham Uni,Ath11,back three,carry,19,67,gls
+26,Billingham,Durham Uni,Ath11,back three,carry,40,6,gls
+30,Billingham,Durham Uni,Ath11,back three,carry,68,3.5,gls
+43,Billingham,Durham Uni,Ath11,back three,carry,58,8,gls
+78,Billingham,Durham Uni,Ath11,back three,carry,80,3,gls
+45,Billingham,Durham Uni,Ath20,back row,carry,53,39,open play
+82,Billingham,Durham Uni,Ath27,centre,carry,62.5,14.5,support carry
+99,Billingham,Durham Uni,Ath20,back row,carry,43,49,open play
+80,Billingham,Durham Uni,Ath20,back row,carry,56,38,gls
+80,Billingham,Durham Uni,Ath20,back row,carry,60,35,gls
+82,Billingham,Durham Uni,Ath20,back row,carry,56,40,gls
+85,Billingham,Durham Uni,Ath20,back row,carry,21.5,37,gls
+86,Billingham,Durham Uni,Ath27,centre,carry,66,10,gls
+87,Billingham,Durham Uni,Ath27,centre,carry,68,27,gls
+87,Billingham,Durham Uni,Ath20,back row,carry,80,17.5,gls
+91,Billingham,Durham Uni,Ath27,centre,carry,11,19,gls
+98,Billingham,Durham Uni,Ath27,centre,carry,60.5,36,gls
+107,Billingham,Durham Uni,Ath27,centre,carry,77.5,58,gls
+91,Billingham,Durham Uni,Ath23,back three,carry,22,10,support carry
+92,Billingham,Durham Uni,Ath21,back row,carry,36,15,open play
+94,Billingham,Durham Uni,Ath21,back row,carry,36,35,open play
+100,Billingham,Durham Uni,Ath21,back row,carry,87,55,open play
+104,Billingham,Durham Uni,Ath25,back three,carry,43.5,7,support carry
+104,Billingham,Durham Uni,Ath21,back row,carry,44,21,open play
+87,Billingham,Durham Uni,Ath17,front row,carry,85,36.5,gls
+90,Billingham,Durham Uni,Ath21,back row,carry,17,38,open play
+91,Billingham,Durham Uni,Ath23,back three,carry,22.5,9,support carry
+93,Billingham,Durham Uni,Ath24,back three,carry,37,60,open play
+94,Billingham,Durham Uni,Ath19,second row,carry,44,53,open play
+104,Billingham,Durham Uni,Ath23,back three,carry,42.5,21,gls
+105,Billingham,Durham Uni,Ath25,back three,carry,43.5,8,gls
+16,Billingham,Durham Uni,Ath8,back row,carry,56.5,21,open play
+24,Billingham,Durham Uni,Ath8,back row,carry,80,32,open play
+67,Billingham,Durham Uni,Ath8,back row,carry,48,36.5,open play
+86,Billingham,Durham Uni,Ath8,back row,carry,63.5,44,open play
+87,Billingham,Durham Uni,Ath8,back row,carry,76,47,support carry
+24,Billingham,Durham Uni,Ath8,back row,carry,73,30,gls
+28,Billingham,Durham Uni,Ath8,back row,carry,24,10,gls
+64,Billingham,Durham Uni,Ath8,back row,carry,15,21,gls
+66,Billingham,Durham Uni,Ath8,back row,carry,46.5,55,gls
+92,Billingham,Durham Uni,Ath8,back row,carry,36,17,gls
+22,Billingham,Durham Uni,Ath6,back row,carry,16,18,open play
+25,Billingham,Durham Uni,Ath6,back row,carry,50,55,tap pen
+30,Billingham,Durham Uni,Ath6,back row,carry,75,55,open play
+47,Billingham,Durham Uni,Ath6,back row,carry,45,36.8,open play
+80,Billingham,Durham Uni,Ath6,back row,carry,59,15,open play
+16,Billingham,Durham Uni,Ath6,back row,carry,59.5,16,gls
+21,Billingham,Durham Uni,Ath6,back row,carry,35,60,gls
+22,Billingham,Durham Uni,Ath6,back row,carry,33,55,gls
+29,Billingham,Durham Uni,Ath6,back row,carry,5,38,gls
+45,Billingham,Durham Uni,Ath6,back row,carry,53.5,58,gls
+45,Billingham,Durham Uni,Ath6,back row,carry,45,53,gls
+50,Billingham,Durham Uni,Ath6,back row,carry,6,58,gls
+67,Billingham,Durham Uni,Ath6,back row,carry,42,62,gls
+69,Billingham,Durham Uni,Ath6,back row,carry,54,36,gls
+78,Billingham,Durham Uni,Ath6,back row,carry,68,52,gls
+93,Billingham,Durham Uni,Ath6,back row,carry,37,56,gls
+94,Billingham,Durham Uni,Ath6,back row,carry,39,57,gls
+40,Billingham,Durham Uni,Ath9,half back,carry,78,57,kick return
+49,Billingham,Durham Uni,Ath9,half back,carry,8,55,open play
+46,Billingham,Durham Uni,Ath3,front row,carry,46.5,40,open play
+66,Billingham,Durham Uni,Ath3,front row,carry,50,54,open play
+67,Billingham,Durham Uni,Ath3,front row,carry,42,44,open play
+13,Billingham,Durham Uni,Ath3,front row,carry,80,50,gls
+24,Billingham,Durham Uni,Ath3,front row,carry,78,17,gls
+45,Billingham,Durham Uni,Ath3,front row,carry,45,40,support carry
+48,Billingham,Durham Uni,Ath3,front row,carry,16,49,gls
+47,Billingham,Durham Uni,Ath4,second row,carry,45.5,38,open play
+48,Billingham,Durham Uni,Ath4,second row,carry,24,21,support carry
+51,Billingham,Durham Uni,Ath4,second row,carry,16,4,support carry
+16,Billingham,Durham Uni,Ath4,second row,carry,58.5,30,gls
+22,Billingham,Durham Uni,Ath4,second row,carry,42,24,gls
+50,Billingham,Durham Uni,Ath18,front row,carry,34,35,support carry
+78,Billingham,Durham Uni,Ath18,front row,carry,10,20,open play
+69,Billingham,Durham Uni,Ath5,second row,carry,55.5,35,open play
+70,Billingham,Durham Uni,Ath5,second row,carry,96,8,open play
+105,Billingham,Durham Uni,Ath5,second row,carry,47,53,open play
+22,Billingham,Durham Uni,Ath5,second row,carry,18,13.5,gls
+26,Billingham,Durham Uni,Ath5,second row,carry,24,13.5,gls
+29,Billingham,Durham Uni,Ath5,second row,carry,8,18,gls
+37,Billingham,Durham Uni,Ath5,second row,carry,60.5,33,gls
+48,Billingham,Durham Uni,Ath5,second row,carry,22,26,gls
+50,Billingham,Durham Uni,Ath5,second row,carry,5,57,gls
+78,Billingham,Durham Uni,Ath5,second row,carry,78,1.5,gls
+99,Billingham,Durham Uni,Ath5,second row,carry,40,13.5,gls
+105,Billingham,Durham Uni,Ath5,second row,carry,48,50,gls
+80,Billingham,Durham Uni,Ath22,half back,carry,60,61,open play
+100,Billingham,Durham Uni,Ath22,half back,carry,92,43,tap pen
+105,Billingham,Durham Uni,Ath22,half back,carry,78,50,support carry
+65,Billingham,Durham Uni,Ath16,front row,carry,26,37,support carry
+87,Billingham,Durham Uni,Ath16,front row,carry,17,4.5,support carry
+82,Billingham,Durham Uni,Ath16,front row,carry,61,34,gls
+16,Billingham,Durham Uni,Ath13,centre,carry,58,54,gls
+21,Billingham,Durham Uni,Ath13,centre,carry,57.5,55,gls
+22,Billingham,Durham Uni,Ath14,back three,carry,45,15,gls
+46,Billingham,Durham Uni,Ath13,centre,carry,45.5,33.5,gls
+25,Billingham,Durham Uni,Ath2,front row,carry,55,55,gls
+87,Billingham,Durham Uni,Ath12,centre,linebreak,90,36,open play
+78,Billingham,Durham Uni,Ath27,centre,linebreak,23,55,open play
+80,Billingham,Durham Uni,Ath18,front row,linebreak,60,58,open play
