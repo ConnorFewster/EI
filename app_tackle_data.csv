@@ -1,0 +1,61 @@
+minute,team,opposition,id,play pos,event,x,y,outcome
+16,Billingham,Durham Uni,Ath1,front row,tackle,50,25,offload allowed
+33,Billingham,Durham Uni,Ath1,front row,tackle,54.7,58,successful
+33,Billingham,Durham Uni,Ath1,front row,tackle,95,65,successful
+54,Billingham,Durham Uni,Ath7,back row,tackle,95,10,successful
+61,Billingham,Durham Uni,Ath7,back row,tackle,74,61,successful
+62,Billingham,Durham Uni,Ath7,back row,tackle,64,15,successful
+65,Billingham,Durham Uni,Ath7,back row,tackle,66,20,successful
+73,Billingham,Durham Uni,Ath7,back row,tackle,45,52,successful
+83,Billingham,Durham Uni,Ath7,back row,tackle,47,21,successful
+83,Billingham,Durham Uni,Ath15,back three,tackle,40,33,successful
+36,Billingham,Durham Uni,Ath14,back three,tackle,22,5,successful
+69,Billingham,Durham Uni,Ath14,back three,tackle,90,2.5,successful
+19,Billingham,Durham Uni,Ath12,centre,tackle,55,9,dominant
+19,Billingham,Durham Uni,Ath12,centre,tackle,50,40,dominant
+54,Billingham,Durham Uni,Ath12,centre,tackle,94,29,dominant
+62,Billingham,Durham Uni,Ath12,centre,tackle,74,20,successful
+62,Billingham,Durham Uni,Ath12,centre,tackle,68,52,successful
+31,Billingham,Durham Uni,Ath12,centre,tackle,56,40,missed
+54,Billingham,Durham Uni,Ath12,centre,tackle,83,39,missed
+52,Billingham,Durham Uni,Ath11,back three,tackle,43,36,successful
+54,Billingham,Durham Uni,Ath11,back three,tackle,90,5,successful
+62,Billingham,Durham Uni,Ath11,back three,tackle,60,6,successful
+31,Billingham,Durham Uni,Ath20,back row,tackle,60,39,successful
+54,Billingham,Durham Uni,Ath20,back row,tackle,95,35,successful
+62,Billingham,Durham Uni,Ath20,back row,tackle,65,52,successful
+73,Billingham,Durham Uni,Ath27,centre,tackle,45,64,successful
+83,Billingham,Durham Uni,Ath27,centre,tackle,41.5,15.5,successful
+84,Billingham,Durham Uni,Ath20,back row,tackle,33,35.5,successful
+96,Billingham,Durham Uni,Ath27,centre,tackle,45.5,33,dominant
+103,Billingham,Durham Uni,Ath20,back row,tackle,38.5,57,successful
+82,Billingham,Durham Uni,Ath17,front row,tackle,35,48,successful
+83,Billingham,Durham Uni,Ath17,front row,tackle,44,37,successful
+83,Billingham,Durham Uni,Ath19,second row,tackle,44.5,20,missed
+19,Billingham,Durham Uni,Ath8,back row,tackle,55.5,8,successful
+65,Billingham,Durham Uni,Ath8,back row,tackle,70,22,successful
+82,Billingham,Durham Uni,Ath8,back row,tackle,35,48.2,successful
+14,Billingham,Durham Uni,Ath6,back row,tackle,45.5,60,successful
+25,Billingham,Durham Uni,Ath6,back row,tackle,48,64,successful
+36,Billingham,Durham Uni,Ath6,back row,tackle,21,37,successful
+62,Billingham,Durham Uni,Ath6,back row,tackle,68,5,missed
+54,Billingham,Durham Uni,Ath3,front row,tackle,95,35,successful
+19,Billingham,Durham Uni,Ath3,front row,tackle,55.3,42,missed
+19,Billingham,Durham Uni,Ath4,second row,tackle,59,47,successful
+61,Billingham,Durham Uni,Ath4,second row,tackle,75,51,successful
+64,Billingham,Durham Uni,Ath18,front row,tackle,65,40,successful
+19,Billingham,Durham Uni,Ath5,second row,tackle,52,20,successful
+62,Billingham,Durham Uni,Ath5,second row,tackle,64,5,successful
+96,Billingham,Durham Uni,Ath22,half back,tackle,43.5,5.5,successful
+73,Billingham,Durham Uni,Ath22,half back,tackle,51,20,missed
+107,Billingham,Durham Uni,Ath16,front row,tackle,78,53,successful
+31,Billingham,Durham Uni,Ath13,centre,tackle,65,64,successful
+62,Billingham,Durham Uni,Ath13,centre,tackle,76,22,missed
+36,Billingham,Durham Uni,Ath2,front row,tackle,20,55,successful
+54,Billingham,Durham Uni,Ath2,front row,tackle,95,20,successful
+61,Billingham,Durham Uni,Ath2,front row,tackle,76,52,successful
+19,Billingham,Durham Uni,Ath10,half back,tackle,54,18,successful
+52,Billingham,Durham Uni,Ath10,half back,tackle,42,36,successful
+54,Billingham,Durham Uni,Ath10,half back,tackle,90,39,successful
+107,Billingham,Durham Uni,Ath10,half back,tackle,45,15.5,missed
+54,Billingham,Durham Uni,Ath6,back row,tackle,95,22,successful
