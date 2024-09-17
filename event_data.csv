@@ -17,6 +17,15 @@ Ath1,Harrogate,carry,3
 Ath1,Harrogate,gls,2
 Ath1,Harrogate,linebreak,0
 Ath1,Harrogate,defender beaten,1
+Ath1,Tynedale,try,0
+Ath1,Tynedale,try assist,0
+Ath1,Tynedale,tackle,5
+Ath1,Tynedale,dominant tackle,0
+Ath1,Tynedale,missed tackle,2
+Ath1,Tynedale,carry,9
+Ath1,Tynedale,gls,3
+Ath1,Tynedale,linebreak,0
+Ath1,Tynedale,defender beaten,0
 Ath10,Durham Uni,try,0
 Ath10,Durham Uni,try assist,0
 Ath10,Durham Uni,tackle,4
@@ -35,6 +44,15 @@ Ath10,Harrogate,carry,0
 Ath10,Harrogate,gls,0
 Ath10,Harrogate,linebreak,0
 Ath10,Harrogate,defender beaten,0
+Ath10,Tynedale,try,0
+Ath10,Tynedale,try assist,0
+Ath10,Tynedale,tackle,8
+Ath10,Tynedale,dominant tackle,0
+Ath10,Tynedale,missed tackle,2
+Ath10,Tynedale,carry,2
+Ath10,Tynedale,gls,0
+Ath10,Tynedale,linebreak,0
+Ath10,Tynedale,defender beaten,0
 Ath11,Durham Uni,try,0
 Ath11,Durham Uni,try assist,1
 Ath11,Durham Uni,tackle,3
@@ -53,6 +71,15 @@ Ath11,Harrogate,carry,3
 Ath11,Harrogate,gls,0
 Ath11,Harrogate,linebreak,2
 Ath11,Harrogate,defender beaten,1
+Ath11,Tynedale,try,2
+Ath11,Tynedale,try assist,1
+Ath11,Tynedale,tackle,7
+Ath11,Tynedale,dominant tackle,0
+Ath11,Tynedale,missed tackle,2
+Ath11,Tynedale,carry,9
+Ath11,Tynedale,gls,5
+Ath11,Tynedale,linebreak,1
+Ath11,Tynedale,defender beaten,3
 Ath12,Durham Uni,try,1
 Ath12,Durham Uni,try assist,0
 Ath12,Durham Uni,tackle,7
@@ -71,6 +98,15 @@ Ath12,Harrogate,carry,2
 Ath12,Harrogate,gls,2
 Ath12,Harrogate,linebreak,1
 Ath12,Harrogate,defender beaten,5
+Ath12,Tynedale,try,0
+Ath12,Tynedale,try assist,0
+Ath12,Tynedale,tackle,13
+Ath12,Tynedale,dominant tackle,0
+Ath12,Tynedale,missed tackle,1
+Ath12,Tynedale,carry,4
+Ath12,Tynedale,gls,2
+Ath12,Tynedale,linebreak,0
+Ath12,Tynedale,defender beaten,1
 Ath13,Durham Uni,try,0
 Ath13,Durham Uni,try assist,0
 Ath13,Durham Uni,tackle,2
@@ -89,6 +125,15 @@ Ath13,Harrogate,carry,2
 Ath13,Harrogate,gls,1
 Ath13,Harrogate,linebreak,1
 Ath13,Harrogate,defender beaten,1
+Ath13,Tynedale,try,1
+Ath13,Tynedale,try assist,1
+Ath13,Tynedale,tackle,11
+Ath13,Tynedale,dominant tackle,0
+Ath13,Tynedale,missed tackle,4
+Ath13,Tynedale,carry,4
+Ath13,Tynedale,gls,1
+Ath13,Tynedale,linebreak,0
+Ath13,Tynedale,defender beaten,1
 Ath14,Durham Uni,try,0
 Ath14,Durham Uni,try assist,0
 Ath14,Durham Uni,tackle,2
@@ -107,6 +152,15 @@ Ath14,Harrogate,carry,5
 Ath14,Harrogate,gls,0
 Ath14,Harrogate,linebreak,0
 Ath14,Harrogate,defender beaten,1
+Ath14,Tynedale,try,0
+Ath14,Tynedale,try assist,0
+Ath14,Tynedale,tackle,11
+Ath14,Tynedale,dominant tackle,0
+Ath14,Tynedale,missed tackle,4
+Ath14,Tynedale,carry,6
+Ath14,Tynedale,gls,1
+Ath14,Tynedale,linebreak,0
+Ath14,Tynedale,defender beaten,0
 Ath15,Durham Uni,try,0
 Ath15,Durham Uni,try assist,0
 Ath15,Durham Uni,tackle,1
@@ -125,6 +179,15 @@ Ath15,Harrogate,carry,8
 Ath15,Harrogate,gls,2
 Ath15,Harrogate,linebreak,1
 Ath15,Harrogate,defender beaten,6
+Ath15,Tynedale,try,0
+Ath15,Tynedale,try assist,0
+Ath15,Tynedale,tackle,8
+Ath15,Tynedale,dominant tackle,0
+Ath15,Tynedale,missed tackle,5
+Ath15,Tynedale,carry,10
+Ath15,Tynedale,gls,2
+Ath15,Tynedale,linebreak,0
+Ath15,Tynedale,defender beaten,4
 Ath16,Durham Uni,try,1
 Ath16,Durham Uni,try assist,0
 Ath16,Durham Uni,tackle,1
@@ -143,6 +206,15 @@ Ath16,Harrogate,carry,1
 Ath16,Harrogate,gls,1
 Ath16,Harrogate,linebreak,0
 Ath16,Harrogate,defender beaten,0
+Ath16,Tynedale,try,0
+Ath16,Tynedale,try assist,0
+Ath16,Tynedale,tackle,5
+Ath16,Tynedale,dominant tackle,0
+Ath16,Tynedale,missed tackle,2
+Ath16,Tynedale,carry,2
+Ath16,Tynedale,gls,1
+Ath16,Tynedale,linebreak,1
+Ath16,Tynedale,defender beaten,1
 Ath17,Durham Uni,try,0
 Ath17,Durham Uni,try assist,1
 Ath17,Durham Uni,tackle,2
@@ -161,6 +233,15 @@ Ath17,Harrogate,carry,1
 Ath17,Harrogate,gls,1
 Ath17,Harrogate,linebreak,0
 Ath17,Harrogate,defender beaten,0
+Ath17,Tynedale,try,0
+Ath17,Tynedale,try assist,0
+Ath17,Tynedale,tackle,4
+Ath17,Tynedale,dominant tackle,0
+Ath17,Tynedale,missed tackle,0
+Ath17,Tynedale,carry,1
+Ath17,Tynedale,gls,1
+Ath17,Tynedale,linebreak,0
+Ath17,Tynedale,defender beaten,0
 Ath18,Durham Uni,try,0
 Ath18,Durham Uni,try assist,0
 Ath18,Durham Uni,tackle,1
@@ -179,6 +260,15 @@ Ath19,Durham Uni,carry,1
 Ath19,Durham Uni,gls,0
 Ath19,Durham Uni,linebreak,0
 Ath19,Durham Uni,defender beaten,0
+Ath19,Tynedale,try,0
+Ath19,Tynedale,try assist,0
+Ath19,Tynedale,tackle,2
+Ath19,Tynedale,dominant tackle,0
+Ath19,Tynedale,missed tackle,1
+Ath19,Tynedale,carry,0
+Ath19,Tynedale,gls,0
+Ath19,Tynedale,linebreak,0
+Ath19,Tynedale,defender beaten,0
 Ath2,Durham Uni,try,0
 Ath2,Durham Uni,try assist,0
 Ath2,Durham Uni,tackle,3
@@ -197,6 +287,15 @@ Ath2,Harrogate,carry,6
 Ath2,Harrogate,gls,2
 Ath2,Harrogate,linebreak,0
 Ath2,Harrogate,defender beaten,3
+Ath2,Tynedale,try,0
+Ath2,Tynedale,try assist,0
+Ath2,Tynedale,tackle,12
+Ath2,Tynedale,dominant tackle,0
+Ath2,Tynedale,missed tackle,3
+Ath2,Tynedale,carry,3
+Ath2,Tynedale,gls,1
+Ath2,Tynedale,linebreak,0
+Ath2,Tynedale,defender beaten,0
 Ath20,Durham Uni,try,0
 Ath20,Durham Uni,try assist,0
 Ath20,Durham Uni,tackle,5
@@ -206,6 +305,15 @@ Ath20,Durham Uni,carry,7
 Ath20,Durham Uni,gls,5
 Ath20,Durham Uni,linebreak,0
 Ath20,Durham Uni,defender beaten,0
+Ath20,Tynedale,try,0
+Ath20,Tynedale,try assist,0
+Ath20,Tynedale,tackle,6
+Ath20,Tynedale,dominant tackle,2
+Ath20,Tynedale,missed tackle,0
+Ath20,Tynedale,carry,3
+Ath20,Tynedale,gls,1
+Ath20,Tynedale,linebreak,0
+Ath20,Tynedale,defender beaten,1
 Ath21,Durham Uni,try,0
 Ath21,Durham Uni,try assist,0
 Ath21,Durham Uni,tackle,0
@@ -233,6 +341,15 @@ Ath22,Harrogate,carry,1
 Ath22,Harrogate,gls,0
 Ath22,Harrogate,linebreak,0
 Ath22,Harrogate,defender beaten,0
+Ath22,Tynedale,try,0
+Ath22,Tynedale,try assist,0
+Ath22,Tynedale,tackle,2
+Ath22,Tynedale,dominant tackle,0
+Ath22,Tynedale,missed tackle,0
+Ath22,Tynedale,carry,1
+Ath22,Tynedale,gls,0
+Ath22,Tynedale,linebreak,0
+Ath22,Tynedale,defender beaten,0
 Ath23,Durham Uni,try,0
 Ath23,Durham Uni,try assist,0
 Ath23,Durham Uni,tackle,0
@@ -287,6 +404,15 @@ Ath29,Harrogate,carry,9
 Ath29,Harrogate,gls,4
 Ath29,Harrogate,linebreak,1
 Ath29,Harrogate,defender beaten,1
+Ath29,Tynedale,try,0
+Ath29,Tynedale,try assist,0
+Ath29,Tynedale,tackle,14
+Ath29,Tynedale,dominant tackle,1
+Ath29,Tynedale,missed tackle,4
+Ath29,Tynedale,carry,15
+Ath29,Tynedale,gls,6
+Ath29,Tynedale,linebreak,0
+Ath29,Tynedale,defender beaten,3
 Ath3,Durham Uni,try,0
 Ath3,Durham Uni,try assist,0
 Ath3,Durham Uni,tackle,2
@@ -305,6 +431,15 @@ Ath3,Harrogate,carry,1
 Ath3,Harrogate,gls,1
 Ath3,Harrogate,linebreak,0
 Ath3,Harrogate,defender beaten,0
+Ath3,Tynedale,try,0
+Ath3,Tynedale,try assist,1
+Ath3,Tynedale,tackle,5
+Ath3,Tynedale,dominant tackle,0
+Ath3,Tynedale,missed tackle,0
+Ath3,Tynedale,carry,7
+Ath3,Tynedale,gls,6
+Ath3,Tynedale,linebreak,0
+Ath3,Tynedale,defender beaten,4
 Ath4,Durham Uni,try,0
 Ath4,Durham Uni,try assist,0
 Ath4,Durham Uni,tackle,2
@@ -323,6 +458,15 @@ Ath4,Harrogate,carry,0
 Ath4,Harrogate,gls,0
 Ath4,Harrogate,linebreak,0
 Ath4,Harrogate,defender beaten,0
+Ath4,Tynedale,try,0
+Ath4,Tynedale,try assist,0
+Ath4,Tynedale,tackle,1
+Ath4,Tynedale,dominant tackle,0
+Ath4,Tynedale,missed tackle,0
+Ath4,Tynedale,carry,3
+Ath4,Tynedale,gls,3
+Ath4,Tynedale,linebreak,0
+Ath4,Tynedale,defender beaten,1
 Ath5,Durham Uni,try,1
 Ath5,Durham Uni,try assist,0
 Ath5,Durham Uni,tackle,2
@@ -341,6 +485,15 @@ Ath5,Harrogate,carry,5
 Ath5,Harrogate,gls,5
 Ath5,Harrogate,linebreak,0
 Ath5,Harrogate,defender beaten,2
+Ath5,Tynedale,try,0
+Ath5,Tynedale,try assist,0
+Ath5,Tynedale,tackle,5
+Ath5,Tynedale,dominant tackle,0
+Ath5,Tynedale,missed tackle,0
+Ath5,Tynedale,carry,7
+Ath5,Tynedale,gls,5
+Ath5,Tynedale,linebreak,0
+Ath5,Tynedale,defender beaten,3
 Ath6,Durham Uni,try,1
 Ath6,Durham Uni,try assist,0
 Ath6,Durham Uni,tackle,5
@@ -359,6 +512,15 @@ Ath6,Harrogate,carry,5
 Ath6,Harrogate,gls,2
 Ath6,Harrogate,linebreak,0
 Ath6,Harrogate,defender beaten,1
+Ath6,Tynedale,try,0
+Ath6,Tynedale,try assist,0
+Ath6,Tynedale,tackle,18
+Ath6,Tynedale,dominant tackle,0
+Ath6,Tynedale,missed tackle,5
+Ath6,Tynedale,carry,12
+Ath6,Tynedale,gls,4
+Ath6,Tynedale,linebreak,0
+Ath6,Tynedale,defender beaten,0
 Ath7,Durham Uni,try,1
 Ath7,Durham Uni,try assist,0
 Ath7,Durham Uni,tackle,6
@@ -377,6 +539,15 @@ Ath7,Harrogate,carry,5
 Ath7,Harrogate,gls,2
 Ath7,Harrogate,linebreak,0
 Ath7,Harrogate,defender beaten,0
+Ath7,Tynedale,try,0
+Ath7,Tynedale,try assist,0
+Ath7,Tynedale,tackle,11
+Ath7,Tynedale,dominant tackle,0
+Ath7,Tynedale,missed tackle,0
+Ath7,Tynedale,carry,7
+Ath7,Tynedale,gls,5
+Ath7,Tynedale,linebreak,0
+Ath7,Tynedale,defender beaten,0
 Ath8,Durham Uni,try,0
 Ath8,Durham Uni,try assist,0
 Ath8,Durham Uni,tackle,3
@@ -395,6 +566,15 @@ Ath8,Harrogate,carry,4
 Ath8,Harrogate,gls,1
 Ath8,Harrogate,linebreak,0
 Ath8,Harrogate,defender beaten,0
+Ath8,Tynedale,try,0
+Ath8,Tynedale,try assist,0
+Ath8,Tynedale,tackle,12
+Ath8,Tynedale,dominant tackle,1
+Ath8,Tynedale,missed tackle,2
+Ath8,Tynedale,carry,8
+Ath8,Tynedale,gls,5
+Ath8,Tynedale,linebreak,0
+Ath8,Tynedale,defender beaten,2
 Ath9,Durham Uni,try,0
 Ath9,Durham Uni,try assist,0
 Ath9,Durham Uni,tackle,0
@@ -413,6 +593,15 @@ Ath9,Harrogate,carry,3
 Ath9,Harrogate,gls,1
 Ath9,Harrogate,linebreak,0
 Ath9,Harrogate,defender beaten,1
+Ath9,Tynedale,try,0
+Ath9,Tynedale,try assist,0
+Ath9,Tynedale,tackle,8
+Ath9,Tynedale,dominant tackle,0
+Ath9,Tynedale,missed tackle,3
+Ath9,Tynedale,carry,6
+Ath9,Tynedale,gls,2
+Ath9,Tynedale,linebreak,1
+Ath9,Tynedale,defender beaten,4
 Team,Harrogate,try,0
 Team,Harrogate,try assist,0
 Team,Harrogate,tackle,0
