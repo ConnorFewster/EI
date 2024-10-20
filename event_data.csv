@@ -62,6 +62,15 @@ Ath1,Tynedale,carry,9
 Ath1,Tynedale,gls,3
 Ath1,Tynedale,linebreak,0
 Ath1,Tynedale,defender beaten,0
+Ath1,Wharfedale,try,0
+Ath1,Wharfedale,try assist,0
+Ath1,Wharfedale,tackle,6
+Ath1,Wharfedale,dominant tackle,1
+Ath1,Wharfedale,missed tackle,0
+Ath1,Wharfedale,carry,7
+Ath1,Wharfedale,gls,3
+Ath1,Wharfedale,linebreak,0
+Ath1,Wharfedale,defender beaten,1
 Ath10,Durham Uni,try,0
 Ath10,Durham Uni,try assist,0
 Ath10,Durham Uni,tackle,4
@@ -116,6 +125,15 @@ Ath10,Tynedale,carry,2
 Ath10,Tynedale,gls,0
 Ath10,Tynedale,linebreak,0
 Ath10,Tynedale,defender beaten,0
+Ath10,Wharfedale,try,0
+Ath10,Wharfedale,try assist,0
+Ath10,Wharfedale,tackle,2
+Ath10,Wharfedale,dominant tackle,0
+Ath10,Wharfedale,missed tackle,1
+Ath10,Wharfedale,carry,0
+Ath10,Wharfedale,gls,0
+Ath10,Wharfedale,linebreak,0
+Ath10,Wharfedale,defender beaten,0
 Ath11,Durham Uni,try,0
 Ath11,Durham Uni,try assist,1
 Ath11,Durham Uni,tackle,3
@@ -170,6 +188,15 @@ Ath11,Tynedale,carry,9
 Ath11,Tynedale,gls,5
 Ath11,Tynedale,linebreak,1
 Ath11,Tynedale,defender beaten,3
+Ath11,Wharfedale,try,0
+Ath11,Wharfedale,try assist,0
+Ath11,Wharfedale,tackle,6
+Ath11,Wharfedale,dominant tackle,0
+Ath11,Wharfedale,missed tackle,0
+Ath11,Wharfedale,carry,9
+Ath11,Wharfedale,gls,3
+Ath11,Wharfedale,linebreak,1
+Ath11,Wharfedale,defender beaten,4
 Ath12,Durham Uni,try,1
 Ath12,Durham Uni,try assist,0
 Ath12,Durham Uni,tackle,7
@@ -233,6 +260,15 @@ Ath12,Tynedale,carry,4
 Ath12,Tynedale,gls,2
 Ath12,Tynedale,linebreak,0
 Ath12,Tynedale,defender beaten,1
+Ath12,Wharfedale,try,1
+Ath12,Wharfedale,try assist,0
+Ath12,Wharfedale,tackle,9
+Ath12,Wharfedale,dominant tackle,0
+Ath12,Wharfedale,missed tackle,4
+Ath12,Wharfedale,carry,3
+Ath12,Wharfedale,gls,1
+Ath12,Wharfedale,linebreak,1
+Ath12,Wharfedale,defender beaten,2
 Ath13,Durham Uni,try,0
 Ath13,Durham Uni,try assist,0
 Ath13,Durham Uni,tackle,2
@@ -296,6 +332,15 @@ Ath13,Tynedale,carry,4
 Ath13,Tynedale,gls,1
 Ath13,Tynedale,linebreak,0
 Ath13,Tynedale,defender beaten,1
+Ath13,Wharfedale,try,0
+Ath13,Wharfedale,try assist,0
+Ath13,Wharfedale,tackle,13
+Ath13,Wharfedale,dominant tackle,0
+Ath13,Wharfedale,missed tackle,3
+Ath13,Wharfedale,carry,6
+Ath13,Wharfedale,gls,4
+Ath13,Wharfedale,linebreak,0
+Ath13,Wharfedale,defender beaten,4
 Ath14,Durham Uni,try,0
 Ath14,Durham Uni,try assist,0
 Ath14,Durham Uni,tackle,2
@@ -350,6 +395,15 @@ Ath14,Tynedale,carry,6
 Ath14,Tynedale,gls,1
 Ath14,Tynedale,linebreak,0
 Ath14,Tynedale,defender beaten,0
+Ath14,Wharfedale,try,0
+Ath14,Wharfedale,try assist,0
+Ath14,Wharfedale,tackle,5
+Ath14,Wharfedale,dominant tackle,0
+Ath14,Wharfedale,missed tackle,2
+Ath14,Wharfedale,carry,7
+Ath14,Wharfedale,gls,1
+Ath14,Wharfedale,linebreak,0
+Ath14,Wharfedale,defender beaten,4
 Ath15,Durham Uni,try,0
 Ath15,Durham Uni,try assist,0
 Ath15,Durham Uni,tackle,1
@@ -413,6 +467,15 @@ Ath15,Tynedale,carry,10
 Ath15,Tynedale,gls,2
 Ath15,Tynedale,linebreak,0
 Ath15,Tynedale,defender beaten,4
+Ath15,Wharfedale,try,0
+Ath15,Wharfedale,try assist,0
+Ath15,Wharfedale,tackle,5
+Ath15,Wharfedale,dominant tackle,0
+Ath15,Wharfedale,missed tackle,3
+Ath15,Wharfedale,carry,7
+Ath15,Wharfedale,gls,3
+Ath15,Wharfedale,linebreak,0
+Ath15,Wharfedale,defender beaten,2
 Ath16,Durham Uni,try,1
 Ath16,Durham Uni,try assist,0
 Ath16,Durham Uni,tackle,1
@@ -467,6 +530,15 @@ Ath16,Tynedale,carry,2
 Ath16,Tynedale,gls,1
 Ath16,Tynedale,linebreak,1
 Ath16,Tynedale,defender beaten,1
+Ath16,Wharfedale,try,0
+Ath16,Wharfedale,try assist,0
+Ath16,Wharfedale,tackle,8
+Ath16,Wharfedale,dominant tackle,0
+Ath16,Wharfedale,missed tackle,2
+Ath16,Wharfedale,carry,4
+Ath16,Wharfedale,gls,3
+Ath16,Wharfedale,linebreak,0
+Ath16,Wharfedale,defender beaten,0
 Ath17,Durham Uni,try,0
 Ath17,Durham Uni,try assist,1
 Ath17,Durham Uni,tackle,2
@@ -512,6 +584,15 @@ Ath17,Tynedale,carry,1
 Ath17,Tynedale,gls,1
 Ath17,Tynedale,linebreak,0
 Ath17,Tynedale,defender beaten,0
+Ath17,Wharfedale,try,0
+Ath17,Wharfedale,try assist,0
+Ath17,Wharfedale,tackle,3
+Ath17,Wharfedale,dominant tackle,0
+Ath17,Wharfedale,missed tackle,0
+Ath17,Wharfedale,carry,2
+Ath17,Wharfedale,gls,2
+Ath17,Wharfedale,linebreak,0
+Ath17,Wharfedale,defender beaten,0
 Ath18,Durham Uni,try,0
 Ath18,Durham Uni,try assist,0
 Ath18,Durham Uni,tackle,1
@@ -557,6 +638,15 @@ Ath18,Otley,carry,2
 Ath18,Otley,gls,1
 Ath18,Otley,linebreak,0
 Ath18,Otley,defender beaten,0
+Ath18,Wharfedale,try,0
+Ath18,Wharfedale,try assist,0
+Ath18,Wharfedale,tackle,5
+Ath18,Wharfedale,dominant tackle,0
+Ath18,Wharfedale,missed tackle,1
+Ath18,Wharfedale,carry,1
+Ath18,Wharfedale,gls,1
+Ath18,Wharfedale,linebreak,0
+Ath18,Wharfedale,defender beaten,1
 Ath19,Durham Uni,try,0
 Ath19,Durham Uni,try assist,0
 Ath19,Durham Uni,tackle,1
@@ -638,6 +728,15 @@ Ath2,Tynedale,carry,3
 Ath2,Tynedale,gls,1
 Ath2,Tynedale,linebreak,0
 Ath2,Tynedale,defender beaten,0
+Ath2,Wharfedale,try,0
+Ath2,Wharfedale,try assist,0
+Ath2,Wharfedale,tackle,9
+Ath2,Wharfedale,dominant tackle,1
+Ath2,Wharfedale,missed tackle,1
+Ath2,Wharfedale,carry,2
+Ath2,Wharfedale,gls,0
+Ath2,Wharfedale,linebreak,0
+Ath2,Wharfedale,defender beaten,0
 Ath20,Durham Uni,try,0
 Ath20,Durham Uni,try assist,0
 Ath20,Durham Uni,tackle,5
@@ -737,6 +836,15 @@ Ath22,Tynedale,carry,1
 Ath22,Tynedale,gls,0
 Ath22,Tynedale,linebreak,0
 Ath22,Tynedale,defender beaten,0
+Ath22,Wharfedale,try,2
+Ath22,Wharfedale,try assist,0
+Ath22,Wharfedale,tackle,2
+Ath22,Wharfedale,dominant tackle,0
+Ath22,Wharfedale,missed tackle,0
+Ath22,Wharfedale,carry,3
+Ath22,Wharfedale,gls,1
+Ath22,Wharfedale,linebreak,0
+Ath22,Wharfedale,defender beaten,3
 Ath23,Durham Uni,try,0
 Ath23,Durham Uni,try assist,0
 Ath23,Durham Uni,tackle,0
@@ -818,6 +926,15 @@ Ath25,Leeds,carry,2
 Ath25,Leeds,gls,1
 Ath25,Leeds,linebreak,0
 Ath25,Leeds,defender beaten,0
+Ath25,Wharfedale,try,0
+Ath25,Wharfedale,try assist,0
+Ath25,Wharfedale,tackle,4
+Ath25,Wharfedale,dominant tackle,0
+Ath25,Wharfedale,missed tackle,2
+Ath25,Wharfedale,carry,1
+Ath25,Wharfedale,gls,0
+Ath25,Wharfedale,linebreak,0
+Ath25,Wharfedale,defender beaten,0
 Ath27,Durham Uni,try,0
 Ath27,Durham Uni,try assist,0
 Ath27,Durham Uni,tackle,3
@@ -872,6 +989,15 @@ Ath29,Tynedale,carry,15
 Ath29,Tynedale,gls,6
 Ath29,Tynedale,linebreak,0
 Ath29,Tynedale,defender beaten,3
+Ath29,Wharfedale,try,0
+Ath29,Wharfedale,try assist,0
+Ath29,Wharfedale,tackle,11
+Ath29,Wharfedale,dominant tackle,1
+Ath29,Wharfedale,missed tackle,0
+Ath29,Wharfedale,carry,10
+Ath29,Wharfedale,gls,5
+Ath29,Wharfedale,linebreak,0
+Ath29,Wharfedale,defender beaten,2
 Ath3,Durham Uni,try,0
 Ath3,Durham Uni,try assist,0
 Ath3,Durham Uni,tackle,2
@@ -935,6 +1061,15 @@ Ath31,Leeds,carry,9
 Ath31,Leeds,gls,4
 Ath31,Leeds,linebreak,0
 Ath31,Leeds,defender beaten,5
+Ath31,Wharfedale,try,0
+Ath31,Wharfedale,try assist,0
+Ath31,Wharfedale,tackle,4
+Ath31,Wharfedale,dominant tackle,1
+Ath31,Wharfedale,missed tackle,0
+Ath31,Wharfedale,carry,0
+Ath31,Wharfedale,gls,0
+Ath31,Wharfedale,linebreak,0
+Ath31,Wharfedale,defender beaten,0
 Ath34,Leeds,try,0
 Ath34,Leeds,try assist,0
 Ath34,Leeds,tackle,4
@@ -1016,6 +1151,15 @@ Ath4,Tynedale,carry,3
 Ath4,Tynedale,gls,3
 Ath4,Tynedale,linebreak,0
 Ath4,Tynedale,defender beaten,1
+Ath4,Wharfedale,try,0
+Ath4,Wharfedale,try assist,0
+Ath4,Wharfedale,tackle,2
+Ath4,Wharfedale,dominant tackle,0
+Ath4,Wharfedale,missed tackle,0
+Ath4,Wharfedale,carry,0
+Ath4,Wharfedale,gls,0
+Ath4,Wharfedale,linebreak,0
+Ath4,Wharfedale,defender beaten,0
 Ath5,Durham Uni,try,1
 Ath5,Durham Uni,try assist,0
 Ath5,Durham Uni,tackle,2
@@ -1070,6 +1214,15 @@ Ath5,Tynedale,carry,7
 Ath5,Tynedale,gls,5
 Ath5,Tynedale,linebreak,0
 Ath5,Tynedale,defender beaten,3
+Ath5,Wharfedale,try,0
+Ath5,Wharfedale,try assist,0
+Ath5,Wharfedale,tackle,5
+Ath5,Wharfedale,dominant tackle,0
+Ath5,Wharfedale,missed tackle,0
+Ath5,Wharfedale,carry,6
+Ath5,Wharfedale,gls,1
+Ath5,Wharfedale,linebreak,0
+Ath5,Wharfedale,defender beaten,0
 Ath6,Durham Uni,try,1
 Ath6,Durham Uni,try assist,0
 Ath6,Durham Uni,tackle,5
@@ -1133,6 +1286,15 @@ Ath6,Tynedale,carry,12
 Ath6,Tynedale,gls,4
 Ath6,Tynedale,linebreak,0
 Ath6,Tynedale,defender beaten,0
+Ath6,Wharfedale,try,0
+Ath6,Wharfedale,try assist,0
+Ath6,Wharfedale,tackle,9
+Ath6,Wharfedale,dominant tackle,0
+Ath6,Wharfedale,missed tackle,1
+Ath6,Wharfedale,carry,9
+Ath6,Wharfedale,gls,4
+Ath6,Wharfedale,linebreak,0
+Ath6,Wharfedale,defender beaten,0
 Ath7,Durham Uni,try,1
 Ath7,Durham Uni,try assist,0
 Ath7,Durham Uni,tackle,6
@@ -1196,6 +1358,15 @@ Ath7,Tynedale,carry,7
 Ath7,Tynedale,gls,5
 Ath7,Tynedale,linebreak,0
 Ath7,Tynedale,defender beaten,0
+Ath7,Wharfedale,try,0
+Ath7,Wharfedale,try assist,0
+Ath7,Wharfedale,tackle,9
+Ath7,Wharfedale,dominant tackle,0
+Ath7,Wharfedale,missed tackle,2
+Ath7,Wharfedale,carry,4
+Ath7,Wharfedale,gls,3
+Ath7,Wharfedale,linebreak,0
+Ath7,Wharfedale,defender beaten,0
 Ath8,Durham Uni,try,0
 Ath8,Durham Uni,try assist,0
 Ath8,Durham Uni,tackle,3
@@ -1250,6 +1421,15 @@ Ath8,Tynedale,carry,8
 Ath8,Tynedale,gls,5
 Ath8,Tynedale,linebreak,0
 Ath8,Tynedale,defender beaten,2
+Ath8,Wharfedale,try,0
+Ath8,Wharfedale,try assist,0
+Ath8,Wharfedale,tackle,0
+Ath8,Wharfedale,dominant tackle,0
+Ath8,Wharfedale,missed tackle,0
+Ath8,Wharfedale,carry,1
+Ath8,Wharfedale,gls,0
+Ath8,Wharfedale,linebreak,0
+Ath8,Wharfedale,defender beaten,0
 Ath9,Durham Uni,try,0
 Ath9,Durham Uni,try assist,0
 Ath9,Durham Uni,tackle,0
@@ -1313,6 +1493,15 @@ Ath9,Tynedale,carry,6
 Ath9,Tynedale,gls,2
 Ath9,Tynedale,linebreak,1
 Ath9,Tynedale,defender beaten,4
+Ath9,Wharfedale,try,0
+Ath9,Wharfedale,try assist,0
+Ath9,Wharfedale,tackle,3
+Ath9,Wharfedale,dominant tackle,0
+Ath9,Wharfedale,missed tackle,0
+Ath9,Wharfedale,carry,2
+Ath9,Wharfedale,gls,2
+Ath9,Wharfedale,linebreak,0
+Ath9,Wharfedale,defender beaten,0
 Team,Harrogate,try,0
 Team,Harrogate,try assist,0
 Team,Harrogate,tackle,0
