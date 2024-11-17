@@ -44,6 +44,15 @@ Ath1,Leeds,carry,9
 Ath1,Leeds,gls,6
 Ath1,Leeds,linebreak,0
 Ath1,Leeds,defender beaten,1
+Ath1,Lymm,try,0
+Ath1,Lymm,try assist,0
+Ath1,Lymm,tackle,8
+Ath1,Lymm,dominant tackle,1
+Ath1,Lymm,missed tackle,1
+Ath1,Lymm,carry,5
+Ath1,Lymm,gls,4
+Ath1,Lymm,linebreak,0
+Ath1,Lymm,defender beaten,2
 Ath1,Otley,try,0
 Ath1,Otley,try assist,0
 Ath1,Otley,tackle,9
@@ -125,6 +134,15 @@ Ath10,Hull I's,carry,3
 Ath10,Hull I's,gls,1
 Ath10,Hull I's,linebreak,1
 Ath10,Hull I's,defender beaten,0
+Ath10,Lymm,try,0
+Ath10,Lymm,try assist,0
+Ath10,Lymm,tackle,4
+Ath10,Lymm,dominant tackle,0
+Ath10,Lymm,missed tackle,2
+Ath10,Lymm,carry,7
+Ath10,Lymm,gls,2
+Ath10,Lymm,linebreak,0
+Ath10,Lymm,defender beaten,0
 Ath10,Otley,try,0
 Ath10,Otley,try assist,1
 Ath10,Otley,tackle,8
@@ -287,6 +305,15 @@ Ath12,Leeds,carry,2
 Ath12,Leeds,gls,2
 Ath12,Leeds,linebreak,0
 Ath12,Leeds,defender beaten,2
+Ath12,Lymm,try,0
+Ath12,Lymm,try assist,1
+Ath12,Lymm,tackle,14
+Ath12,Lymm,dominant tackle,0
+Ath12,Lymm,missed tackle,4
+Ath12,Lymm,carry,6
+Ath12,Lymm,gls,2
+Ath12,Lymm,linebreak,1
+Ath12,Lymm,defender beaten,2
 Ath12,Otley,try,0
 Ath12,Otley,try assist,0
 Ath12,Otley,tackle,14
@@ -377,6 +404,15 @@ Ath13,Leeds,carry,5
 Ath13,Leeds,gls,1
 Ath13,Leeds,linebreak,0
 Ath13,Leeds,defender beaten,0
+Ath13,Lymm,try,0
+Ath13,Lymm,try assist,0
+Ath13,Lymm,tackle,8
+Ath13,Lymm,dominant tackle,0
+Ath13,Lymm,missed tackle,2
+Ath13,Lymm,carry,3
+Ath13,Lymm,gls,2
+Ath13,Lymm,linebreak,1
+Ath13,Lymm,defender beaten,1
 Ath13,Otley,try,0
 Ath13,Otley,try assist,0
 Ath13,Otley,tackle,12
@@ -458,6 +494,15 @@ Ath14,Leeds,carry,6
 Ath14,Leeds,gls,1
 Ath14,Leeds,linebreak,1
 Ath14,Leeds,defender beaten,2
+Ath14,Lymm,try,0
+Ath14,Lymm,try assist,0
+Ath14,Lymm,tackle,7
+Ath14,Lymm,dominant tackle,0
+Ath14,Lymm,missed tackle,3
+Ath14,Lymm,carry,9
+Ath14,Lymm,gls,3
+Ath14,Lymm,linebreak,0
+Ath14,Lymm,defender beaten,2
 Ath14,Otley,try,1
 Ath14,Otley,try assist,0
 Ath14,Otley,tackle,3
@@ -548,6 +593,15 @@ Ath15,Leeds,carry,9
 Ath15,Leeds,gls,2
 Ath15,Leeds,linebreak,0
 Ath15,Leeds,defender beaten,1
+Ath15,Lymm,try,0
+Ath15,Lymm,try assist,0
+Ath15,Lymm,tackle,9
+Ath15,Lymm,dominant tackle,0
+Ath15,Lymm,missed tackle,6
+Ath15,Lymm,carry,20
+Ath15,Lymm,gls,7
+Ath15,Lymm,linebreak,0
+Ath15,Lymm,defender beaten,8
 Ath15,Otley,try,0
 Ath15,Otley,try assist,0
 Ath15,Otley,tackle,7
@@ -638,6 +692,15 @@ Ath16,Leeds,carry,3
 Ath16,Leeds,gls,2
 Ath16,Leeds,linebreak,0
 Ath16,Leeds,defender beaten,0
+Ath16,Lymm,try,0
+Ath16,Lymm,try assist,0
+Ath16,Lymm,tackle,8
+Ath16,Lymm,dominant tackle,0
+Ath16,Lymm,missed tackle,4
+Ath16,Lymm,carry,5
+Ath16,Lymm,gls,1
+Ath16,Lymm,linebreak,1
+Ath16,Lymm,defender beaten,0
 Ath16,Preston,try,1
 Ath16,Preston,try assist,0
 Ath16,Preston,tackle,2
@@ -872,6 +935,15 @@ Ath2,Leeds,carry,1
 Ath2,Leeds,gls,0
 Ath2,Leeds,linebreak,0
 Ath2,Leeds,defender beaten,1
+Ath2,Lymm,try,1
+Ath2,Lymm,try assist,0
+Ath2,Lymm,tackle,7
+Ath2,Lymm,dominant tackle,0
+Ath2,Lymm,missed tackle,1
+Ath2,Lymm,carry,1
+Ath2,Lymm,gls,0
+Ath2,Lymm,linebreak,0
+Ath2,Lymm,defender beaten,0
 Ath2,Otley,try,0
 Ath2,Otley,try assist,0
 Ath2,Otley,tackle,18
@@ -935,6 +1007,15 @@ Ath20,Hull I's,carry,5
 Ath20,Hull I's,gls,2
 Ath20,Hull I's,linebreak,0
 Ath20,Hull I's,defender beaten,1
+Ath20,Lymm,try,1
+Ath20,Lymm,try assist,0
+Ath20,Lymm,tackle,8
+Ath20,Lymm,dominant tackle,0
+Ath20,Lymm,missed tackle,3
+Ath20,Lymm,carry,1
+Ath20,Lymm,gls,0
+Ath20,Lymm,linebreak,1
+Ath20,Lymm,defender beaten,0
 Ath20,Tynedale,try,0
 Ath20,Tynedale,try assist,0
 Ath20,Tynedale,tackle,6
@@ -998,6 +1079,15 @@ Ath22,Leeds,carry,0
 Ath22,Leeds,gls,0
 Ath22,Leeds,linebreak,0
 Ath22,Leeds,defender beaten,0
+Ath22,Lymm,try,0
+Ath22,Lymm,try assist,1
+Ath22,Lymm,tackle,5
+Ath22,Lymm,dominant tackle,0
+Ath22,Lymm,missed tackle,5
+Ath22,Lymm,carry,1
+Ath22,Lymm,gls,1
+Ath22,Lymm,linebreak,0
+Ath22,Lymm,defender beaten,0
 Ath22,Otley,try,0
 Ath22,Otley,try assist,0
 Ath22,Otley,tackle,1
@@ -1106,6 +1196,15 @@ Ath24,Leeds,carry,3
 Ath24,Leeds,gls,1
 Ath24,Leeds,linebreak,0
 Ath24,Leeds,defender beaten,0
+Ath24,Lymm,try,1
+Ath24,Lymm,try assist,0
+Ath24,Lymm,tackle,5
+Ath24,Lymm,dominant tackle,0
+Ath24,Lymm,missed tackle,1
+Ath24,Lymm,carry,3
+Ath24,Lymm,gls,1
+Ath24,Lymm,linebreak,1
+Ath24,Lymm,defender beaten,2
 Ath24,Preston,try,1
 Ath24,Preston,try assist,0
 Ath24,Preston,tackle,5
@@ -1142,6 +1241,15 @@ Ath25,Leeds,carry,2
 Ath25,Leeds,gls,1
 Ath25,Leeds,linebreak,0
 Ath25,Leeds,defender beaten,0
+Ath25,Lymm,try,0
+Ath25,Lymm,try assist,0
+Ath25,Lymm,tackle,1
+Ath25,Lymm,dominant tackle,0
+Ath25,Lymm,missed tackle,0
+Ath25,Lymm,carry,5
+Ath25,Lymm,gls,1
+Ath25,Lymm,linebreak,0
+Ath25,Lymm,defender beaten,2
 Ath25,Preston,try,0
 Ath25,Preston,try assist,0
 Ath25,Preston,tackle,1
@@ -1178,6 +1286,15 @@ Ath27,Harrogate,carry,2
 Ath27,Harrogate,gls,1
 Ath27,Harrogate,linebreak,0
 Ath27,Harrogate,defender beaten,1
+Ath27,Lymm,try,1
+Ath27,Lymm,try assist,0
+Ath27,Lymm,tackle,2
+Ath27,Lymm,dominant tackle,0
+Ath27,Lymm,missed tackle,2
+Ath27,Lymm,carry,10
+Ath27,Lymm,gls,8
+Ath27,Lymm,linebreak,0
+Ath27,Lymm,defender beaten,7
 Ath29,Harrogate,try,1
 Ath29,Harrogate,try assist,0
 Ath29,Harrogate,tackle,16
@@ -1196,6 +1313,15 @@ Ath29,Leeds,carry,12
 Ath29,Leeds,gls,8
 Ath29,Leeds,linebreak,0
 Ath29,Leeds,defender beaten,0
+Ath29,Lymm,try,0
+Ath29,Lymm,try assist,0
+Ath29,Lymm,tackle,14
+Ath29,Lymm,dominant tackle,1
+Ath29,Lymm,missed tackle,1
+Ath29,Lymm,carry,12
+Ath29,Lymm,gls,5
+Ath29,Lymm,linebreak,0
+Ath29,Lymm,defender beaten,0
 Ath29,Otley,try,0
 Ath29,Otley,try assist,0
 Ath29,Otley,tackle,16
@@ -1250,6 +1376,15 @@ Ath3,Harrogate,carry,1
 Ath3,Harrogate,gls,1
 Ath3,Harrogate,linebreak,0
 Ath3,Harrogate,defender beaten,0
+Ath3,Lymm,try,0
+Ath3,Lymm,try assist,0
+Ath3,Lymm,tackle,3
+Ath3,Lymm,dominant tackle,0
+Ath3,Lymm,missed tackle,0
+Ath3,Lymm,carry,3
+Ath3,Lymm,gls,1
+Ath3,Lymm,linebreak,1
+Ath3,Lymm,defender beaten,0
 Ath3,Otley,try,0
 Ath3,Otley,try assist,0
 Ath3,Otley,tackle,3
@@ -1331,6 +1466,15 @@ Ath35,Hull I's,carry,6
 Ath35,Hull I's,gls,4
 Ath35,Hull I's,linebreak,1
 Ath35,Hull I's,defender beaten,2
+Ath35,Lymm,try,0
+Ath35,Lymm,try assist,0
+Ath35,Lymm,tackle,4
+Ath35,Lymm,dominant tackle,1
+Ath35,Lymm,missed tackle,0
+Ath35,Lymm,carry,10
+Ath35,Lymm,gls,5
+Ath35,Lymm,linebreak,0
+Ath35,Lymm,defender beaten,3
 Ath35,Preston,try,0
 Ath35,Preston,try assist,0
 Ath35,Preston,tackle,1
@@ -1340,6 +1484,15 @@ Ath35,Preston,carry,5
 Ath35,Preston,gls,4
 Ath35,Preston,linebreak,0
 Ath35,Preston,defender beaten,1
+Ath36,Lymm,try,0
+Ath36,Lymm,try assist,0
+Ath36,Lymm,tackle,11
+Ath36,Lymm,dominant tackle,1
+Ath36,Lymm,missed tackle,4
+Ath36,Lymm,carry,10
+Ath36,Lymm,gls,2
+Ath36,Lymm,linebreak,0
+Ath36,Lymm,defender beaten,1
 Ath36,Preston,try,0
 Ath36,Preston,try assist,0
 Ath36,Preston,tackle,12
@@ -1412,6 +1565,15 @@ Ath4,Leeds,carry,0
 Ath4,Leeds,gls,0
 Ath4,Leeds,linebreak,0
 Ath4,Leeds,defender beaten,0
+Ath4,Lymm,try,0
+Ath4,Lymm,try assist,0
+Ath4,Lymm,tackle,10
+Ath4,Lymm,dominant tackle,1
+Ath4,Lymm,missed tackle,2
+Ath4,Lymm,carry,6
+Ath4,Lymm,gls,3
+Ath4,Lymm,linebreak,1
+Ath4,Lymm,defender beaten,1
 Ath4,Otley,try,0
 Ath4,Otley,try assist,0
 Ath4,Otley,tackle,6
@@ -1556,6 +1718,15 @@ Ath6,Leeds,carry,10
 Ath6,Leeds,gls,5
 Ath6,Leeds,linebreak,0
 Ath6,Leeds,defender beaten,1
+Ath6,Lymm,try,0
+Ath6,Lymm,try assist,0
+Ath6,Lymm,tackle,15
+Ath6,Lymm,dominant tackle,0
+Ath6,Lymm,missed tackle,2
+Ath6,Lymm,carry,15
+Ath6,Lymm,gls,5
+Ath6,Lymm,linebreak,0
+Ath6,Lymm,defender beaten,2
 Ath6,Otley,try,0
 Ath6,Otley,try assist,0
 Ath6,Otley,tackle,16
@@ -1727,6 +1898,15 @@ Ath8,Hull I's,carry,1
 Ath8,Hull I's,gls,0
 Ath8,Hull I's,linebreak,0
 Ath8,Hull I's,defender beaten,0
+Ath8,Lymm,try,0
+Ath8,Lymm,try assist,0
+Ath8,Lymm,tackle,10
+Ath8,Lymm,dominant tackle,0
+Ath8,Lymm,missed tackle,3
+Ath8,Lymm,carry,9
+Ath8,Lymm,gls,4
+Ath8,Lymm,linebreak,0
+Ath8,Lymm,defender beaten,2
 Ath8,Otley,try,0
 Ath8,Otley,try assist,0
 Ath8,Otley,tackle,11
@@ -1871,6 +2051,15 @@ Team,Harrogate,carry,0
 Team,Harrogate,gls,0
 Team,Harrogate,linebreak,0
 Team,Harrogate,defender beaten,0
+team,Lymm,try,0
+team,Lymm,try assist,0
+team,Lymm,tackle,0
+team,Lymm,dominant tackle,0
+team,Lymm,missed tackle,0
+team,Lymm,carry,0
+team,Lymm,gls,0
+team,Lymm,linebreak,0
+team,Lymm,defender beaten,0
 team,Sheffield,try,0
 team,Sheffield,try assist,0
 team,Sheffield,tackle,0
