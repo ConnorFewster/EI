@@ -1,721 +1,601 @@
 ID,opposition,KPI,value
-Ath1,St Peters York,linebreak,0
-Ath1,St Peters York,defender_beaten,0
-Ath1,St Peters York,tackle,3
-Ath1,St Peters York,dominant_tackle,0
-Ath1,St Peters York,missed_tackle,0
-Ath1,St Peters York,turnover_won,2
-Ath1,St Peters York,pen_con,0
-Ath1,St Peters York,try_assist,0
-Ath1,St Peters York,try,0
-Ath1,St Peters York,total_carries,7
-Ath1,St Peters York,successful_tackles,4
-Ath1,St Peters York,total_gls,2
-Ath2,St Peters York,linebreak,0
-Ath2,St Peters York,defender_beaten,0
-Ath2,St Peters York,tackle,3
-Ath2,St Peters York,dominant_tackle,0
-Ath2,St Peters York,missed_tackle,5
-Ath2,St Peters York,turnover_won,0
-Ath2,St Peters York,pen_con,0
-Ath2,St Peters York,try_assist,0
-Ath2,St Peters York,try,0
-Ath2,St Peters York,total_carries,1
-Ath2,St Peters York,successful_tackles,3
-Ath2,St Peters York,total_gls,1
-Ath3,St Peters York,linebreak,0
-Ath3,St Peters York,defender_beaten,1
-Ath3,St Peters York,tackle,3
-Ath3,St Peters York,dominant_tackle,0
-Ath3,St Peters York,missed_tackle,2
-Ath3,St Peters York,turnover_won,0
-Ath3,St Peters York,pen_con,0
-Ath3,St Peters York,try_assist,0
-Ath3,St Peters York,try,0
-Ath3,St Peters York,total_carries,1
-Ath3,St Peters York,successful_tackles,3
-Ath3,St Peters York,total_gls,1
-Ath4,St Peters York,linebreak,0
-Ath4,St Peters York,defender_beaten,0
-Ath4,St Peters York,tackle,1
-Ath4,St Peters York,dominant_tackle,0
-Ath4,St Peters York,missed_tackle,1
-Ath4,St Peters York,turnover_won,1
-Ath4,St Peters York,pen_con,1
-Ath4,St Peters York,try_assist,0
-Ath4,St Peters York,try,0
-Ath4,St Peters York,total_carries,0
-Ath4,St Peters York,successful_tackles,1
-Ath4,St Peters York,total_gls,0
-Ath5,St Peters York,linebreak,0
-Ath5,St Peters York,defender_beaten,0
-Ath5,St Peters York,tackle,3
-Ath5,St Peters York,dominant_tackle,0
-Ath5,St Peters York,missed_tackle,1
-Ath5,St Peters York,turnover_won,0
-Ath5,St Peters York,pen_con,0
-Ath5,St Peters York,try_assist,0
-Ath5,St Peters York,try,0
-Ath5,St Peters York,total_carries,1
-Ath5,St Peters York,successful_tackles,3
-Ath5,St Peters York,total_gls,0
-Ath6,St Peters York,linebreak,0
-Ath6,St Peters York,defender_beaten,0
-Ath6,St Peters York,tackle,6
-Ath6,St Peters York,dominant_tackle,0
-Ath6,St Peters York,missed_tackle,2
-Ath6,St Peters York,turnover_won,0
-Ath6,St Peters York,pen_con,0
-Ath6,St Peters York,try_assist,0
-Ath6,St Peters York,try,0
-Ath6,St Peters York,total_carries,3
-Ath6,St Peters York,successful_tackles,6
-Ath6,St Peters York,total_gls,1
-Ath7,St Peters York,linebreak,0
-Ath7,St Peters York,defender_beaten,4
-Ath7,St Peters York,tackle,6
-Ath7,St Peters York,dominant_tackle,0
-Ath7,St Peters York,missed_tackle,1
-Ath7,St Peters York,turnover_won,0
-Ath7,St Peters York,pen_con,0
-Ath7,St Peters York,try_assist,0
-Ath7,St Peters York,try,1
-Ath7,St Peters York,total_carries,4
-Ath7,St Peters York,successful_tackles,8
-Ath7,St Peters York,total_gls,1
-Ath8,St Peters York,linebreak,0
-Ath8,St Peters York,defender_beaten,1
-Ath8,St Peters York,tackle,7
-Ath8,St Peters York,dominant_tackle,0
-Ath8,St Peters York,missed_tackle,1
-Ath8,St Peters York,turnover_won,0
-Ath8,St Peters York,pen_con,0
-Ath8,St Peters York,try_assist,0
-Ath8,St Peters York,try,0
-Ath8,St Peters York,total_carries,2
-Ath8,St Peters York,successful_tackles,9
-Ath8,St Peters York,total_gls,1
-Ath9,St Peters York,linebreak,0
-Ath9,St Peters York,defender_beaten,2
-Ath9,St Peters York,tackle,6
-Ath9,St Peters York,dominant_tackle,0
-Ath9,St Peters York,missed_tackle,1
-Ath9,St Peters York,turnover_won,1
-Ath9,St Peters York,pen_con,0
-Ath9,St Peters York,try_assist,2
-Ath9,St Peters York,try,1
-Ath9,St Peters York,total_carries,3
-Ath9,St Peters York,successful_tackles,6
-Ath9,St Peters York,total_gls,2
-Ath10,St Peters York,linebreak,0
-Ath10,St Peters York,defender_beaten,2
-Ath10,St Peters York,tackle,5
-Ath10,St Peters York,dominant_tackle,0
-Ath10,St Peters York,missed_tackle,1
-Ath10,St Peters York,turnover_won,1
-Ath10,St Peters York,pen_con,0
-Ath10,St Peters York,try_assist,0
-Ath10,St Peters York,try,0
-Ath10,St Peters York,total_carries,2
-Ath10,St Peters York,successful_tackles,6
-Ath10,St Peters York,total_gls,1
-Ath11,St Peters York,linebreak,1
-Ath11,St Peters York,defender_beaten,1
-Ath11,St Peters York,tackle,2
-Ath11,St Peters York,dominant_tackle,0
-Ath11,St Peters York,missed_tackle,1
-Ath11,St Peters York,turnover_won,0
-Ath11,St Peters York,pen_con,0
-Ath11,St Peters York,try_assist,0
-Ath11,St Peters York,try,0
-Ath11,St Peters York,total_carries,1
-Ath11,St Peters York,successful_tackles,3
-Ath11,St Peters York,total_gls,1
-Ath12,St Peters York,linebreak,0
-Ath12,St Peters York,defender_beaten,3
-Ath12,St Peters York,tackle,4
-Ath12,St Peters York,dominant_tackle,1
-Ath12,St Peters York,missed_tackle,2
-Ath12,St Peters York,turnover_won,0
-Ath12,St Peters York,pen_con,1
-Ath12,St Peters York,try_assist,0
-Ath12,St Peters York,try,0
-Ath12,St Peters York,total_carries,3
-Ath12,St Peters York,successful_tackles,5
-Ath12,St Peters York,total_gls,3
-Ath13,St Peters York,linebreak,2
-Ath13,St Peters York,defender_beaten,2
-Ath13,St Peters York,tackle,1
-Ath13,St Peters York,dominant_tackle,0
-Ath13,St Peters York,missed_tackle,4
-Ath13,St Peters York,turnover_won,1
-Ath13,St Peters York,pen_con,1
-Ath13,St Peters York,try_assist,0
-Ath13,St Peters York,try,1
-Ath13,St Peters York,total_carries,7
-Ath13,St Peters York,successful_tackles,3
-Ath13,St Peters York,total_gls,4
-Ath14,St Peters York,linebreak,0
-Ath14,St Peters York,defender_beaten,1
-Ath14,St Peters York,tackle,1
-Ath14,St Peters York,dominant_tackle,0
-Ath14,St Peters York,missed_tackle,1
-Ath14,St Peters York,turnover_won,0
-Ath14,St Peters York,pen_con,1
-Ath14,St Peters York,try_assist,0
-Ath14,St Peters York,try,0
-Ath14,St Peters York,total_carries,1
-Ath14,St Peters York,successful_tackles,2
-Ath14,St Peters York,total_gls,1
-Ath15,St Peters York,linebreak,0
-Ath15,St Peters York,defender_beaten,4
-Ath15,St Peters York,tackle,4
-Ath15,St Peters York,dominant_tackle,0
-Ath15,St Peters York,missed_tackle,6
-Ath15,St Peters York,turnover_won,0
-Ath15,St Peters York,pen_con,1
-Ath15,St Peters York,try_assist,0
-Ath15,St Peters York,try,0
-Ath15,St Peters York,total_carries,4
-Ath15,St Peters York,successful_tackles,5
-Ath15,St Peters York,total_gls,0
-Ath16,St Peters York,linebreak,0
-Ath16,St Peters York,defender_beaten,0
-Ath16,St Peters York,tackle,1
-Ath16,St Peters York,dominant_tackle,0
-Ath16,St Peters York,missed_tackle,0
-Ath16,St Peters York,turnover_won,0
-Ath16,St Peters York,pen_con,0
-Ath16,St Peters York,try_assist,0
-Ath16,St Peters York,try,0
-Ath16,St Peters York,total_carries,0
-Ath16,St Peters York,successful_tackles,1
-Ath16,St Peters York,total_gls,0
-Ath17,St Peters York,linebreak,0
-Ath17,St Peters York,defender_beaten,0
-Ath17,St Peters York,tackle,1
-Ath17,St Peters York,dominant_tackle,0
-Ath17,St Peters York,missed_tackle,2
-Ath17,St Peters York,turnover_won,0
-Ath17,St Peters York,pen_con,0
-Ath17,St Peters York,try_assist,0
-Ath17,St Peters York,try,1
-Ath17,St Peters York,total_carries,6
-Ath17,St Peters York,successful_tackles,1
-Ath17,St Peters York,total_gls,2
-Ath18,St Peters York,linebreak,0
-Ath18,St Peters York,defender_beaten,0
-Ath18,St Peters York,tackle,4
-Ath18,St Peters York,dominant_tackle,0
-Ath18,St Peters York,missed_tackle,0
-Ath18,St Peters York,turnover_won,0
-Ath18,St Peters York,pen_con,1
-Ath18,St Peters York,try_assist,0
-Ath18,St Peters York,try,0
-Ath18,St Peters York,total_carries,0
-Ath18,St Peters York,successful_tackles,4
-Ath18,St Peters York,total_gls,0
-Ath19,St Peters York,linebreak,0
-Ath19,St Peters York,defender_beaten,0
-Ath19,St Peters York,tackle,0
-Ath19,St Peters York,dominant_tackle,0
-Ath19,St Peters York,missed_tackle,0
-Ath19,St Peters York,turnover_won,0
-Ath19,St Peters York,pen_con,0
-Ath19,St Peters York,try_assist,0
-Ath19,St Peters York,try,0
-Ath19,St Peters York,total_carries,1
-Ath19,St Peters York,successful_tackles,0
-Ath19,St Peters York,total_gls,0
-Ath20,St Peters York,linebreak,0
-Ath20,St Peters York,defender_beaten,0
-Ath20,St Peters York,tackle,0
-Ath20,St Peters York,dominant_tackle,0
-Ath20,St Peters York,missed_tackle,0
-Ath20,St Peters York,turnover_won,0
-Ath20,St Peters York,pen_con,0
-Ath20,St Peters York,try_assist,0
-Ath20,St Peters York,try,0
-Ath20,St Peters York,total_carries,0
-Ath20,St Peters York,successful_tackles,0
-Ath20,St Peters York,total_gls,0
-Ath21,St Peters York,linebreak,0
-Ath21,St Peters York,defender_beaten,0
-Ath21,St Peters York,tackle,1
-Ath21,St Peters York,dominant_tackle,0
-Ath21,St Peters York,missed_tackle,1
-Ath21,St Peters York,turnover_won,0
-Ath21,St Peters York,pen_con,0
-Ath21,St Peters York,try_assist,0
-Ath21,St Peters York,try,0
-Ath21,St Peters York,total_carries,0
-Ath21,St Peters York,successful_tackles,2
-Ath21,St Peters York,total_gls,0
-Ath22,St Peters York,linebreak,0
-Ath22,St Peters York,defender_beaten,2
-Ath22,St Peters York,tackle,1
-Ath22,St Peters York,dominant_tackle,0
-Ath22,St Peters York,missed_tackle,2
-Ath22,St Peters York,turnover_won,0
-Ath22,St Peters York,pen_con,0
-Ath22,St Peters York,try_assist,0
-Ath22,St Peters York,try,0
-Ath22,St Peters York,total_carries,4
-Ath22,St Peters York,successful_tackles,1
-Ath22,St Peters York,total_gls,2
-Ath23,Scarborogh College,linebreak,0
-Ath23,Scarborogh College,defender_beaten,0
-Ath23,Scarborogh College,tackle,0
-Ath23,Scarborogh College,dominant_tackle,0
-Ath23,Scarborogh College,missed_tackle,1
-Ath23,Scarborogh College,turnover_won,0
-Ath23,Scarborogh College,pen_con,0
-Ath23,Scarborogh College,try_assist,0
-Ath23,Scarborogh College,try,0
-Ath23,Scarborogh College,total_carries,3
-Ath23,Scarborogh College,successful_tackles,0
-Ath23,Scarborogh College,total_gls,0
-Ath3,Scarborogh College,linebreak,0
-Ath3,Scarborogh College,defender_beaten,0
-Ath3,Scarborogh College,tackle,1
-Ath3,Scarborogh College,dominant_tackle,0
-Ath3,Scarborogh College,missed_tackle,1
-Ath3,Scarborogh College,turnover_won,0
-Ath3,Scarborogh College,pen_con,0
-Ath3,Scarborogh College,try_assist,0
-Ath3,Scarborogh College,try,0
-Ath3,Scarborogh College,total_carries,3
-Ath3,Scarborogh College,successful_tackles,1
-Ath3,Scarborogh College,total_gls,1
-Ath24,Scarborogh College,linebreak,0
-Ath24,Scarborogh College,defender_beaten,0
-Ath24,Scarborogh College,tackle,7
-Ath24,Scarborogh College,dominant_tackle,0
-Ath24,Scarborogh College,missed_tackle,1
-Ath24,Scarborogh College,turnover_won,1
-Ath24,Scarborogh College,pen_con,0
-Ath24,Scarborogh College,try_assist,0
-Ath24,Scarborogh College,try,0
-Ath24,Scarborogh College,total_carries,3
-Ath24,Scarborogh College,successful_tackles,8
-Ath24,Scarborogh College,total_gls,3
-Ath4,Scarborogh College,linebreak,0
-Ath4,Scarborogh College,defender_beaten,0
-Ath4,Scarborogh College,tackle,4
-Ath4,Scarborogh College,dominant_tackle,0
-Ath4,Scarborogh College,missed_tackle,1
-Ath4,Scarborogh College,turnover_won,0
-Ath4,Scarborogh College,pen_con,0
-Ath4,Scarborogh College,try_assist,0
-Ath4,Scarborogh College,try,0
-Ath4,Scarborogh College,total_carries,1
-Ath4,Scarborogh College,successful_tackles,4
-Ath4,Scarborogh College,total_gls,0
-Ath1,Scarborogh College,linebreak,0
-Ath1,Scarborogh College,defender_beaten,1
-Ath1,Scarborogh College,tackle,1
-Ath1,Scarborogh College,dominant_tackle,0
-Ath1,Scarborogh College,missed_tackle,1
-Ath1,Scarborogh College,turnover_won,0
-Ath1,Scarborogh College,pen_con,2
-Ath1,Scarborogh College,try_assist,0
-Ath1,Scarborogh College,try,0
-Ath1,Scarborogh College,total_carries,6
-Ath1,Scarborogh College,successful_tackles,1
-Ath1,Scarborogh College,total_gls,2
-Ath6,Scarborogh College,linebreak,0
-Ath6,Scarborogh College,defender_beaten,1
-Ath6,Scarborogh College,tackle,4
-Ath6,Scarborogh College,dominant_tackle,0
-Ath6,Scarborogh College,missed_tackle,2
-Ath6,Scarborogh College,turnover_won,0
-Ath6,Scarborogh College,pen_con,0
-Ath6,Scarborogh College,try_assist,0
-Ath6,Scarborogh College,try,0
-Ath6,Scarborogh College,total_carries,3
-Ath6,Scarborogh College,successful_tackles,4
-Ath6,Scarborogh College,total_gls,1
-Ath7,Scarborogh College,linebreak,1
-Ath7,Scarborogh College,defender_beaten,3
-Ath7,Scarborogh College,tackle,5
-Ath7,Scarborogh College,dominant_tackle,0
-Ath7,Scarborogh College,missed_tackle,3
-Ath7,Scarborogh College,turnover_won,0
-Ath7,Scarborogh College,pen_con,0
-Ath7,Scarborogh College,try_assist,0
-Ath7,Scarborogh College,try,2
-Ath7,Scarborogh College,total_carries,4
-Ath7,Scarborogh College,successful_tackles,8
-Ath7,Scarborogh College,total_gls,2
-Ath8,Scarborogh College,linebreak,0
-Ath8,Scarborogh College,defender_beaten,0
-Ath8,Scarborogh College,tackle,7
-Ath8,Scarborogh College,dominant_tackle,0
-Ath8,Scarborogh College,missed_tackle,1
-Ath8,Scarborogh College,turnover_won,1
-Ath8,Scarborogh College,pen_con,0
-Ath8,Scarborogh College,try_assist,0
-Ath8,Scarborogh College,try,0
-Ath8,Scarborogh College,total_carries,1
-Ath8,Scarborogh College,successful_tackles,8
-Ath8,Scarborogh College,total_gls,1
-Ath25,Scarborogh College,linebreak,0
-Ath25,Scarborogh College,defender_beaten,0
-Ath25,Scarborogh College,tackle,0
-Ath25,Scarborogh College,dominant_tackle,0
-Ath25,Scarborogh College,missed_tackle,2
-Ath25,Scarborogh College,turnover_won,0
-Ath25,Scarborogh College,pen_con,0
-Ath25,Scarborogh College,try_assist,0
-Ath25,Scarborogh College,try,0
-Ath25,Scarborogh College,total_carries,1
-Ath25,Scarborogh College,successful_tackles,0
-Ath25,Scarborogh College,total_gls,0
-Ath10,Scarborogh College,linebreak,0
-Ath10,Scarborogh College,defender_beaten,0
-Ath10,Scarborogh College,tackle,7
-Ath10,Scarborogh College,dominant_tackle,0
-Ath10,Scarborogh College,missed_tackle,2
-Ath10,Scarborogh College,turnover_won,0
-Ath10,Scarborogh College,pen_con,1
-Ath10,Scarborogh College,try_assist,2
-Ath10,Scarborogh College,try,0
-Ath10,Scarborogh College,total_carries,1
-Ath10,Scarborogh College,successful_tackles,7
-Ath10,Scarborogh College,total_gls,0
-Ath11,Scarborogh College,linebreak,0
-Ath11,Scarborogh College,defender_beaten,0
-Ath11,Scarborogh College,tackle,1
-Ath11,Scarborogh College,dominant_tackle,0
-Ath11,Scarborogh College,missed_tackle,1
-Ath11,Scarborogh College,turnover_won,0
-Ath11,Scarborogh College,pen_con,0
-Ath11,Scarborogh College,try_assist,0
-Ath11,Scarborogh College,try,0
-Ath11,Scarborogh College,total_carries,2
-Ath11,Scarborogh College,successful_tackles,2
-Ath11,Scarborogh College,total_gls,0
-Ath26,Scarborogh College,linebreak,0
-Ath26,Scarborogh College,defender_beaten,1
-Ath26,Scarborogh College,tackle,8
-Ath26,Scarborogh College,dominant_tackle,2
-Ath26,Scarborogh College,missed_tackle,1
-Ath26,Scarborogh College,turnover_won,0
-Ath26,Scarborogh College,pen_con,1
-Ath26,Scarborogh College,try_assist,0
-Ath26,Scarborogh College,try,0
-Ath26,Scarborogh College,total_carries,8
-Ath26,Scarborogh College,successful_tackles,11
-Ath26,Scarborogh College,total_gls,2
-Ath12,Scarborogh College,linebreak,0
-Ath12,Scarborogh College,defender_beaten,0
-Ath12,Scarborogh College,tackle,6
-Ath12,Scarborogh College,dominant_tackle,0
-Ath12,Scarborogh College,missed_tackle,2
-Ath12,Scarborogh College,turnover_won,1
-Ath12,Scarborogh College,pen_con,0
-Ath12,Scarborogh College,try_assist,0
-Ath12,Scarborogh College,try,1
-Ath12,Scarborogh College,total_carries,2
-Ath12,Scarborogh College,successful_tackles,7
-Ath12,Scarborogh College,total_gls,0
-Ath22,Scarborogh College,linebreak,0
-Ath22,Scarborogh College,defender_beaten,1
-Ath22,Scarborogh College,tackle,1
-Ath22,Scarborogh College,dominant_tackle,0
-Ath22,Scarborogh College,missed_tackle,1
-Ath22,Scarborogh College,turnover_won,0
-Ath22,Scarborogh College,pen_con,0
-Ath22,Scarborogh College,try_assist,0
-Ath22,Scarborogh College,try,0
-Ath22,Scarborogh College,total_carries,3
-Ath22,Scarborogh College,successful_tackles,1
-Ath22,Scarborogh College,total_gls,0
-Ath15,Scarborogh College,linebreak,0
-Ath15,Scarborogh College,defender_beaten,0
-Ath15,Scarborogh College,tackle,4
-Ath15,Scarborogh College,dominant_tackle,0
-Ath15,Scarborogh College,missed_tackle,5
-Ath15,Scarborogh College,turnover_won,0
-Ath15,Scarborogh College,pen_con,0
-Ath15,Scarborogh College,try_assist,0
-Ath15,Scarborogh College,try,0
-Ath15,Scarborogh College,total_carries,5
-Ath15,Scarborogh College,successful_tackles,6
-Ath15,Scarborogh College,total_gls,0
-Ath2,Scarborogh College,linebreak,0
-Ath2,Scarborogh College,defender_beaten,0
-Ath2,Scarborogh College,tackle,4
-Ath2,Scarborogh College,dominant_tackle,0
-Ath2,Scarborogh College,missed_tackle,2
-Ath2,Scarborogh College,turnover_won,0
-Ath2,Scarborogh College,pen_con,0
-Ath2,Scarborogh College,try_assist,0
-Ath2,Scarborogh College,try,0
-Ath2,Scarborogh College,total_carries,1
-Ath2,Scarborogh College,successful_tackles,4
-Ath2,Scarborogh College,total_gls,1
-Ath17,Scarborogh College,linebreak,0
-Ath17,Scarborogh College,defender_beaten,0
-Ath17,Scarborogh College,tackle,4
-Ath17,Scarborogh College,dominant_tackle,0
-Ath17,Scarborogh College,missed_tackle,0
-Ath17,Scarborogh College,turnover_won,0
-Ath17,Scarborogh College,pen_con,1
-Ath17,Scarborogh College,try_assist,0
-Ath17,Scarborogh College,try,0
-Ath17,Scarborogh College,total_carries,1
-Ath17,Scarborogh College,successful_tackles,4
-Ath17,Scarborogh College,total_gls,0
-Ath5,Scarborogh College,linebreak,0
-Ath5,Scarborogh College,defender_beaten,1
-Ath5,Scarborogh College,tackle,1
-Ath5,Scarborogh College,dominant_tackle,0
-Ath5,Scarborogh College,missed_tackle,1
-Ath5,Scarborogh College,turnover_won,2
-Ath5,Scarborogh College,pen_con,0
-Ath5,Scarborogh College,try_assist,0
-Ath5,Scarborogh College,try,0
-Ath5,Scarborogh College,total_carries,2
-Ath5,Scarborogh College,successful_tackles,1
-Ath5,Scarborogh College,total_gls,1
-Ath9,Scarborogh College,linebreak,0
-Ath9,Scarborogh College,defender_beaten,1
-Ath9,Scarborogh College,tackle,2
-Ath9,Scarborogh College,dominant_tackle,0
-Ath9,Scarborogh College,missed_tackle,0
-Ath9,Scarborogh College,turnover_won,0
-Ath9,Scarborogh College,pen_con,0
-Ath9,Scarborogh College,try_assist,0
-Ath9,Scarborogh College,try,0
-Ath9,Scarborogh College,total_carries,3
-Ath9,Scarborogh College,successful_tackles,2
-Ath9,Scarborogh College,total_gls,2
-Ath27,Scarborogh College,linebreak,0
-Ath27,Scarborogh College,defender_beaten,0
-Ath27,Scarborogh College,tackle,2
-Ath27,Scarborogh College,dominant_tackle,0
-Ath27,Scarborogh College,missed_tackle,0
-Ath27,Scarborogh College,turnover_won,0
-Ath27,Scarborogh College,pen_con,0
-Ath27,Scarborogh College,try_assist,0
-Ath27,Scarborogh College,try,0
-Ath27,Scarborogh College,total_carries,0
-Ath27,Scarborogh College,successful_tackles,2
-Ath27,Scarborogh College,total_gls,0
-Ath17,Tyne Met,linebreak,0
-Ath17,Tyne Met,defender_beaten,0
-Ath17,Tyne Met,tackle,7
-Ath17,Tyne Met,dominant_tackle,0
-Ath17,Tyne Met,missed_tackle,3
-Ath17,Tyne Met,turnover_won,0
-Ath17,Tyne Met,pen_con,1
-Ath17,Tyne Met,try_assist,0
-Ath17,Tyne Met,try,0
-Ath17,Tyne Met,total_carries,3
-Ath17,Tyne Met,successful_tackles,7
-Ath17,Tyne Met,total_gls,1
-Ath3,Tyne Met,linebreak,0
-Ath3,Tyne Met,defender_beaten,3
-Ath3,Tyne Met,tackle,6
-Ath3,Tyne Met,dominant_tackle,1
-Ath3,Tyne Met,missed_tackle,3
-Ath3,Tyne Met,turnover_won,1
-Ath3,Tyne Met,pen_con,2
-Ath3,Tyne Met,try_assist,0
-Ath3,Tyne Met,try,0
-Ath3,Tyne Met,total_carries,4
-Ath3,Tyne Met,successful_tackles,7
-Ath3,Tyne Met,total_gls,3
-Ath23,Tyne Met,linebreak,0
-Ath23,Tyne Met,defender_beaten,0
-Ath23,Tyne Met,tackle,10
-Ath23,Tyne Met,dominant_tackle,0
-Ath23,Tyne Met,missed_tackle,2
-Ath23,Tyne Met,turnover_won,1
-Ath23,Tyne Met,pen_con,3
-Ath23,Tyne Met,try_assist,0
-Ath23,Tyne Met,try,0
-Ath23,Tyne Met,total_carries,2
-Ath23,Tyne Met,successful_tackles,11
-Ath23,Tyne Met,total_gls,1
-Ath1,Tyne Met,linebreak,1
-Ath1,Tyne Met,defender_beaten,0
-Ath1,Tyne Met,tackle,4
-Ath1,Tyne Met,dominant_tackle,1
-Ath1,Tyne Met,missed_tackle,0
-Ath1,Tyne Met,turnover_won,0
-Ath1,Tyne Met,pen_con,0
-Ath1,Tyne Met,try_assist,0
-Ath1,Tyne Met,try,0
-Ath1,Tyne Met,total_carries,9
-Ath1,Tyne Met,successful_tackles,5
-Ath1,Tyne Met,total_gls,5
-Ath4,Tyne Met,linebreak,0
-Ath4,Tyne Met,defender_beaten,1
-Ath4,Tyne Met,tackle,10
-Ath4,Tyne Met,dominant_tackle,2
-Ath4,Tyne Met,missed_tackle,4
-Ath4,Tyne Met,turnover_won,1
-Ath4,Tyne Met,pen_con,2
-Ath4,Tyne Met,try_assist,0
-Ath4,Tyne Met,try,1
-Ath4,Tyne Met,total_carries,6
-Ath4,Tyne Met,successful_tackles,12
-Ath4,Tyne Met,total_gls,1
-Ath6,Tyne Met,linebreak,0
-Ath6,Tyne Met,defender_beaten,1
-Ath6,Tyne Met,tackle,11
-Ath6,Tyne Met,dominant_tackle,1
-Ath6,Tyne Met,missed_tackle,0
-Ath6,Tyne Met,turnover_won,3
-Ath6,Tyne Met,pen_con,1
-Ath6,Tyne Met,try_assist,0
-Ath6,Tyne Met,try,0
-Ath6,Tyne Met,total_carries,4
-Ath6,Tyne Met,successful_tackles,14
-Ath6,Tyne Met,total_gls,1
-Ath7,Tyne Met,linebreak,2
-Ath7,Tyne Met,defender_beaten,15
-Ath7,Tyne Met,tackle,10
-Ath7,Tyne Met,dominant_tackle,1
-Ath7,Tyne Met,missed_tackle,1
-Ath7,Tyne Met,turnover_won,1
-Ath7,Tyne Met,pen_con,0
-Ath7,Tyne Met,try_assist,1
-Ath7,Tyne Met,try,0
-Ath7,Tyne Met,total_carries,13
-Ath7,Tyne Met,successful_tackles,12
-Ath7,Tyne Met,total_gls,6
-Ath8,Tyne Met,linebreak,0
-Ath8,Tyne Met,defender_beaten,0
-Ath8,Tyne Met,tackle,3
-Ath8,Tyne Met,dominant_tackle,0
-Ath8,Tyne Met,missed_tackle,2
-Ath8,Tyne Met,turnover_won,0
-Ath8,Tyne Met,pen_con,0
-Ath8,Tyne Met,try_assist,0
-Ath8,Tyne Met,try,3
-Ath8,Tyne Met,total_carries,0
-Ath8,Tyne Met,successful_tackles,3
-Ath8,Tyne Met,total_gls,0
-Ath20,Tyne Met,linebreak,0
-Ath20,Tyne Met,defender_beaten,1
-Ath20,Tyne Met,tackle,5
-Ath20,Tyne Met,dominant_tackle,0
-Ath20,Tyne Met,missed_tackle,4
-Ath20,Tyne Met,turnover_won,0
-Ath20,Tyne Met,pen_con,1
-Ath20,Tyne Met,try_assist,1
-Ath20,Tyne Met,try,0
-Ath20,Tyne Met,total_carries,1
-Ath20,Tyne Met,successful_tackles,5
-Ath20,Tyne Met,total_gls,0
-Ath25,Tyne Met,linebreak,0
-Ath25,Tyne Met,defender_beaten,4
-Ath25,Tyne Met,tackle,4
-Ath25,Tyne Met,dominant_tackle,0
-Ath25,Tyne Met,missed_tackle,0
-Ath25,Tyne Met,turnover_won,0
-Ath25,Tyne Met,pen_con,0
-Ath25,Tyne Met,try_assist,1
-Ath25,Tyne Met,try,0
-Ath25,Tyne Met,total_carries,4
-Ath25,Tyne Met,successful_tackles,4
-Ath25,Tyne Met,total_gls,1
-Ath26,Tyne Met,linebreak,1
-Ath26,Tyne Met,defender_beaten,4
-Ath26,Tyne Met,tackle,2
-Ath26,Tyne Met,dominant_tackle,0
-Ath26,Tyne Met,missed_tackle,1
-Ath26,Tyne Met,turnover_won,0
-Ath26,Tyne Met,pen_con,0
-Ath26,Tyne Met,try_assist,0
-Ath26,Tyne Met,try,0
-Ath26,Tyne Met,total_carries,7
-Ath26,Tyne Met,successful_tackles,3
-Ath26,Tyne Met,total_gls,5
-Ath10,Tyne Met,linebreak,0
-Ath10,Tyne Met,defender_beaten,4
-Ath10,Tyne Met,tackle,11
-Ath10,Tyne Met,dominant_tackle,1
-Ath10,Tyne Met,missed_tackle,0
-Ath10,Tyne Met,turnover_won,1
-Ath10,Tyne Met,pen_con,2
-Ath10,Tyne Met,try_assist,0
-Ath10,Tyne Met,try,0
-Ath10,Tyne Met,total_carries,6
-Ath10,Tyne Met,successful_tackles,15
-Ath10,Tyne Met,total_gls,3
-Ath12,Tyne Met,linebreak,1
-Ath12,Tyne Met,defender_beaten,4
-Ath12,Tyne Met,tackle,10
-Ath12,Tyne Met,dominant_tackle,0
-Ath12,Tyne Met,missed_tackle,2
-Ath12,Tyne Met,turnover_won,1
-Ath12,Tyne Met,pen_con,3
-Ath12,Tyne Met,try_assist,0
-Ath12,Tyne Met,try,0
-Ath12,Tyne Met,total_carries,9
-Ath12,Tyne Met,successful_tackles,12
-Ath12,Tyne Met,total_gls,3
-Ath11,Tyne Met,linebreak,0
-Ath11,Tyne Met,defender_beaten,0
-Ath11,Tyne Met,tackle,3
-Ath11,Tyne Met,dominant_tackle,0
-Ath11,Tyne Met,missed_tackle,4
-Ath11,Tyne Met,turnover_won,0
-Ath11,Tyne Met,pen_con,0
-Ath11,Tyne Met,try_assist,0
-Ath11,Tyne Met,try,1
-Ath11,Tyne Met,total_carries,2
-Ath11,Tyne Met,successful_tackles,5
-Ath11,Tyne Met,total_gls,1
-Ath15,Tyne Met,linebreak,2
-Ath15,Tyne Met,defender_beaten,3
-Ath15,Tyne Met,tackle,7
-Ath15,Tyne Met,dominant_tackle,0
-Ath15,Tyne Met,missed_tackle,2
-Ath15,Tyne Met,turnover_won,1
-Ath15,Tyne Met,pen_con,2
-Ath15,Tyne Met,try_assist,1
-Ath15,Tyne Met,try,0
-Ath15,Tyne Met,total_carries,7
-Ath15,Tyne Met,successful_tackles,9
-Ath15,Tyne Met,total_gls,2
-Ath2,Tyne Met,linebreak,0
-Ath2,Tyne Met,defender_beaten,0
-Ath2,Tyne Met,tackle,2
-Ath2,Tyne Met,dominant_tackle,0
-Ath2,Tyne Met,missed_tackle,1
-Ath2,Tyne Met,turnover_won,0
-Ath2,Tyne Met,pen_con,0
-Ath2,Tyne Met,try_assist,0
-Ath2,Tyne Met,try,0
-Ath2,Tyne Met,total_carries,3
-Ath2,Tyne Met,successful_tackles,2
-Ath2,Tyne Met,total_gls,0
-Ath5,Tyne Met,linebreak,0
-Ath5,Tyne Met,defender_beaten,0
-Ath5,Tyne Met,tackle,2
-Ath5,Tyne Met,dominant_tackle,0
-Ath5,Tyne Met,missed_tackle,0
-Ath5,Tyne Met,turnover_won,1
-Ath5,Tyne Met,pen_con,0
-Ath5,Tyne Met,try_assist,0
-Ath5,Tyne Met,try,0
-Ath5,Tyne Met,total_carries,0
-Ath5,Tyne Met,successful_tackles,2
-Ath5,Tyne Met,total_gls,0
-Ath27,Tyne Met,linebreak,0
-Ath27,Tyne Met,defender_beaten,0
-Ath27,Tyne Met,tackle,3
-Ath27,Tyne Met,dominant_tackle,0
-Ath27,Tyne Met,missed_tackle,1
-Ath27,Tyne Met,turnover_won,1
-Ath27,Tyne Met,pen_con,1
-Ath27,Tyne Met,try_assist,0
-Ath27,Tyne Met,try,0
-Ath27,Tyne Met,total_carries,2
-Ath27,Tyne Met,successful_tackles,4
-Ath27,Tyne Met,total_gls,1
+Ath1,St Peters York,Linebreak,0
+Ath1,St Peters York,Defender Beaten,0
+Ath1,St Peters York,Dominant Tackle,0
+Ath1,St Peters York,Missed Tackles,0
+Ath1,St Peters York,Turnovers Won,2
+Ath1,St Peters York,Pen Conceded,0
+Ath1,St Peters York,Try Assists,0
+Ath1,St Peters York,Tries Scored,0
+Ath1,St Peters York,Total Carries,7
+Ath1,St Peters York,Tackles Completed,4
+Ath2,St Peters York,Linebreak,0
+Ath2,St Peters York,Defender Beaten,0
+Ath2,St Peters York,Dominant Tackle,0
+Ath2,St Peters York,Missed Tackles,5
+Ath2,St Peters York,Turnovers Won,0
+Ath2,St Peters York,Pen Conceded,0
+Ath2,St Peters York,Try Assists,0
+Ath2,St Peters York,Tries Scored,0
+Ath2,St Peters York,Total Carries,1
+Ath2,St Peters York,Tackles Completed,3
+Ath3,St Peters York,Linebreak,0
+Ath3,St Peters York,Defender Beaten,1
+Ath3,St Peters York,Dominant Tackle,0
+Ath3,St Peters York,Missed Tackles,2
+Ath3,St Peters York,Turnovers Won,0
+Ath3,St Peters York,Pen Conceded,0
+Ath3,St Peters York,Try Assists,0
+Ath3,St Peters York,Tries Scored,0
+Ath3,St Peters York,Total Carries,1
+Ath3,St Peters York,Tackles Completed,3
+Ath4,St Peters York,Linebreak,0
+Ath4,St Peters York,Defender Beaten,0
+Ath4,St Peters York,Dominant Tackle,0
+Ath4,St Peters York,Missed Tackles,1
+Ath4,St Peters York,Turnovers Won,1
+Ath4,St Peters York,Pen Conceded,1
+Ath4,St Peters York,Try Assists,0
+Ath4,St Peters York,Tries Scored,0
+Ath4,St Peters York,Total Carries,0
+Ath4,St Peters York,Tackles Completed,1
+Ath5,St Peters York,Linebreak,0
+Ath5,St Peters York,Defender Beaten,0
+Ath5,St Peters York,Dominant Tackle,0
+Ath5,St Peters York,Missed Tackles,1
+Ath5,St Peters York,Turnovers Won,0
+Ath5,St Peters York,Pen Conceded,0
+Ath5,St Peters York,Try Assists,0
+Ath5,St Peters York,Tries Scored,0
+Ath5,St Peters York,Total Carries,1
+Ath5,St Peters York,Tackles Completed,3
+Ath6,St Peters York,Linebreak,0
+Ath6,St Peters York,Defender Beaten,0
+Ath6,St Peters York,Dominant Tackle,0
+Ath6,St Peters York,Missed Tackles,2
+Ath6,St Peters York,Turnovers Won,0
+Ath6,St Peters York,Pen Conceded,0
+Ath6,St Peters York,Try Assists,0
+Ath6,St Peters York,Tries Scored,0
+Ath6,St Peters York,Total Carries,3
+Ath6,St Peters York,Tackles Completed,6
+Ath7,St Peters York,Linebreak,0
+Ath7,St Peters York,Defender Beaten,4
+Ath7,St Peters York,Dominant Tackle,0
+Ath7,St Peters York,Missed Tackles,1
+Ath7,St Peters York,Turnovers Won,0
+Ath7,St Peters York,Pen Conceded,0
+Ath7,St Peters York,Try Assists,0
+Ath7,St Peters York,Tries Scored,1
+Ath7,St Peters York,Total Carries,4
+Ath7,St Peters York,Tackles Completed,8
+Ath8,St Peters York,Linebreak,0
+Ath8,St Peters York,Defender Beaten,1
+Ath8,St Peters York,Dominant Tackle,0
+Ath8,St Peters York,Missed Tackles,1
+Ath8,St Peters York,Turnovers Won,0
+Ath8,St Peters York,Pen Conceded,0
+Ath8,St Peters York,Try Assists,0
+Ath8,St Peters York,Tries Scored,0
+Ath8,St Peters York,Total Carries,2
+Ath8,St Peters York,Tackles Completed,9
+Ath9,St Peters York,Linebreak,0
+Ath9,St Peters York,Defender Beaten,2
+Ath9,St Peters York,Dominant Tackle,0
+Ath9,St Peters York,Missed Tackles,1
+Ath9,St Peters York,Turnovers Won,1
+Ath9,St Peters York,Pen Conceded,0
+Ath9,St Peters York,Try Assists,2
+Ath9,St Peters York,Tries Scored,1
+Ath9,St Peters York,Total Carries,3
+Ath9,St Peters York,Tackles Completed,6
+Ath10,St Peters York,Linebreak,0
+Ath10,St Peters York,Defender Beaten,2
+Ath10,St Peters York,Dominant Tackle,0
+Ath10,St Peters York,Missed Tackles,1
+Ath10,St Peters York,Turnovers Won,1
+Ath10,St Peters York,Pen Conceded,0
+Ath10,St Peters York,Try Assists,0
+Ath10,St Peters York,Tries Scored,0
+Ath10,St Peters York,Total Carries,2
+Ath10,St Peters York,Tackles Completed,6
+Ath11,St Peters York,Linebreak,1
+Ath11,St Peters York,Defender Beaten,1
+Ath11,St Peters York,Dominant Tackle,0
+Ath11,St Peters York,Missed Tackles,1
+Ath11,St Peters York,Turnovers Won,0
+Ath11,St Peters York,Pen Conceded,0
+Ath11,St Peters York,Try Assists,0
+Ath11,St Peters York,Tries Scored,0
+Ath11,St Peters York,Total Carries,1
+Ath11,St Peters York,Tackles Completed,3
+Ath12,St Peters York,Linebreak,0
+Ath12,St Peters York,Defender Beaten,3
+Ath12,St Peters York,Dominant Tackle,1
+Ath12,St Peters York,Missed Tackles,2
+Ath12,St Peters York,Turnovers Won,0
+Ath12,St Peters York,Pen Conceded,1
+Ath12,St Peters York,Try Assists,0
+Ath12,St Peters York,Tries Scored,0
+Ath12,St Peters York,Total Carries,3
+Ath12,St Peters York,Tackles Completed,5
+Ath13,St Peters York,Linebreak,2
+Ath13,St Peters York,Defender Beaten,2
+Ath13,St Peters York,Dominant Tackle,0
+Ath13,St Peters York,Missed Tackles,4
+Ath13,St Peters York,Turnovers Won,1
+Ath13,St Peters York,Pen Conceded,1
+Ath13,St Peters York,Try Assists,0
+Ath13,St Peters York,Tries Scored,1
+Ath13,St Peters York,Total Carries,7
+Ath13,St Peters York,Tackles Completed,3
+Ath14,St Peters York,Linebreak,0
+Ath14,St Peters York,Defender Beaten,1
+Ath14,St Peters York,Dominant Tackle,0
+Ath14,St Peters York,Missed Tackles,1
+Ath14,St Peters York,Turnovers Won,0
+Ath14,St Peters York,Pen Conceded,1
+Ath14,St Peters York,Try Assists,0
+Ath14,St Peters York,Tries Scored,0
+Ath14,St Peters York,Total Carries,1
+Ath14,St Peters York,Tackles Completed,2
+Ath15,St Peters York,Linebreak,0
+Ath15,St Peters York,Defender Beaten,4
+Ath15,St Peters York,Dominant Tackle,0
+Ath15,St Peters York,Missed Tackles,6
+Ath15,St Peters York,Turnovers Won,0
+Ath15,St Peters York,Pen Conceded,1
+Ath15,St Peters York,Try Assists,0
+Ath15,St Peters York,Tries Scored,0
+Ath15,St Peters York,Total Carries,4
+Ath15,St Peters York,Tackles Completed,5
+Ath16,St Peters York,Linebreak,0
+Ath16,St Peters York,Defender Beaten,0
+Ath16,St Peters York,Dominant Tackle,0
+Ath16,St Peters York,Missed Tackles,0
+Ath16,St Peters York,Turnovers Won,0
+Ath16,St Peters York,Pen Conceded,0
+Ath16,St Peters York,Try Assists,0
+Ath16,St Peters York,Tries Scored,0
+Ath16,St Peters York,Total Carries,0
+Ath16,St Peters York,Tackles Completed,1
+Ath17,St Peters York,Linebreak,0
+Ath17,St Peters York,Defender Beaten,0
+Ath17,St Peters York,Dominant Tackle,0
+Ath17,St Peters York,Missed Tackles,2
+Ath17,St Peters York,Turnovers Won,0
+Ath17,St Peters York,Pen Conceded,0
+Ath17,St Peters York,Try Assists,0
+Ath17,St Peters York,Tries Scored,1
+Ath17,St Peters York,Total Carries,6
+Ath17,St Peters York,Tackles Completed,1
+Ath18,St Peters York,Linebreak,0
+Ath18,St Peters York,Defender Beaten,0
+Ath18,St Peters York,Dominant Tackle,0
+Ath18,St Peters York,Missed Tackles,0
+Ath18,St Peters York,Turnovers Won,0
+Ath18,St Peters York,Pen Conceded,1
+Ath18,St Peters York,Try Assists,0
+Ath18,St Peters York,Tries Scored,0
+Ath18,St Peters York,Total Carries,0
+Ath18,St Peters York,Tackles Completed,4
+Ath19,St Peters York,Linebreak,0
+Ath19,St Peters York,Defender Beaten,0
+Ath19,St Peters York,Dominant Tackle,0
+Ath19,St Peters York,Missed Tackles,0
+Ath19,St Peters York,Turnovers Won,0
+Ath19,St Peters York,Pen Conceded,0
+Ath19,St Peters York,Try Assists,0
+Ath19,St Peters York,Tries Scored,0
+Ath19,St Peters York,Total Carries,1
+Ath19,St Peters York,Tackles Completed,0
+Ath20,St Peters York,Linebreak,0
+Ath20,St Peters York,Defender Beaten,0
+Ath20,St Peters York,Dominant Tackle,0
+Ath20,St Peters York,Missed Tackles,0
+Ath20,St Peters York,Turnovers Won,0
+Ath20,St Peters York,Pen Conceded,0
+Ath20,St Peters York,Try Assists,0
+Ath20,St Peters York,Tries Scored,0
+Ath20,St Peters York,Total Carries,0
+Ath20,St Peters York,Tackles Completed,0
+Ath21,St Peters York,Linebreak,0
+Ath21,St Peters York,Defender Beaten,0
+Ath21,St Peters York,Dominant Tackle,0
+Ath21,St Peters York,Missed Tackles,1
+Ath21,St Peters York,Turnovers Won,0
+Ath21,St Peters York,Pen Conceded,0
+Ath21,St Peters York,Try Assists,0
+Ath21,St Peters York,Tries Scored,0
+Ath21,St Peters York,Total Carries,0
+Ath21,St Peters York,Tackles Completed,2
+Ath22,St Peters York,Linebreak,0
+Ath22,St Peters York,Defender Beaten,2
+Ath22,St Peters York,Dominant Tackle,0
+Ath22,St Peters York,Missed Tackles,2
+Ath22,St Peters York,Turnovers Won,0
+Ath22,St Peters York,Pen Conceded,0
+Ath22,St Peters York,Try Assists,0
+Ath22,St Peters York,Tries Scored,0
+Ath22,St Peters York,Total Carries,4
+Ath22,St Peters York,Tackles Completed,1
+Ath23,Scarborogh College,Linebreak,0
+Ath23,Scarborogh College,Defender Beaten,0
+Ath23,Scarborogh College,Dominant Tackle,0
+Ath23,Scarborogh College,Missed Tackles,1
+Ath23,Scarborogh College,Turnovers Won,0
+Ath23,Scarborogh College,Pen Conceded,0
+Ath23,Scarborogh College,Try Assists,0
+Ath23,Scarborogh College,Tries Scored,0
+Ath23,Scarborogh College,Total Carries,3
+Ath23,Scarborogh College,Tackles Completed,0
+Ath3,Scarborogh College,Linebreak,0
+Ath3,Scarborogh College,Defender Beaten,0
+Ath3,Scarborogh College,Dominant Tackle,0
+Ath3,Scarborogh College,Missed Tackles,1
+Ath3,Scarborogh College,Turnovers Won,0
+Ath3,Scarborogh College,Pen Conceded,0
+Ath3,Scarborogh College,Try Assists,0
+Ath3,Scarborogh College,Tries Scored,0
+Ath3,Scarborogh College,Total Carries,3
+Ath3,Scarborogh College,Tackles Completed,1
+Ath24,Scarborogh College,Linebreak,0
+Ath24,Scarborogh College,Defender Beaten,0
+Ath24,Scarborogh College,Dominant Tackle,0
+Ath24,Scarborogh College,Missed Tackles,1
+Ath24,Scarborogh College,Turnovers Won,1
+Ath24,Scarborogh College,Pen Conceded,0
+Ath24,Scarborogh College,Try Assists,0
+Ath24,Scarborogh College,Tries Scored,0
+Ath24,Scarborogh College,Total Carries,3
+Ath24,Scarborogh College,Tackles Completed,8
+Ath4,Scarborogh College,Linebreak,0
+Ath4,Scarborogh College,Defender Beaten,0
+Ath4,Scarborogh College,Dominant Tackle,0
+Ath4,Scarborogh College,Missed Tackles,1
+Ath4,Scarborogh College,Turnovers Won,0
+Ath4,Scarborogh College,Pen Conceded,0
+Ath4,Scarborogh College,Try Assists,0
+Ath4,Scarborogh College,Tries Scored,0
+Ath4,Scarborogh College,Total Carries,1
+Ath4,Scarborogh College,Tackles Completed,4
+Ath1,Scarborogh College,Linebreak,0
+Ath1,Scarborogh College,Defender Beaten,1
+Ath1,Scarborogh College,Dominant Tackle,0
+Ath1,Scarborogh College,Missed Tackles,1
+Ath1,Scarborogh College,Turnovers Won,0
+Ath1,Scarborogh College,Pen Conceded,2
+Ath1,Scarborogh College,Try Assists,0
+Ath1,Scarborogh College,Tries Scored,0
+Ath1,Scarborogh College,Total Carries,6
+Ath1,Scarborogh College,Tackles Completed,1
+Ath6,Scarborogh College,Linebreak,0
+Ath6,Scarborogh College,Defender Beaten,1
+Ath6,Scarborogh College,Dominant Tackle,0
+Ath6,Scarborogh College,Missed Tackles,2
+Ath6,Scarborogh College,Turnovers Won,0
+Ath6,Scarborogh College,Pen Conceded,0
+Ath6,Scarborogh College,Try Assists,0
+Ath6,Scarborogh College,Tries Scored,0
+Ath6,Scarborogh College,Total Carries,3
+Ath6,Scarborogh College,Tackles Completed,4
+Ath7,Scarborogh College,Linebreak,1
+Ath7,Scarborogh College,Defender Beaten,3
+Ath7,Scarborogh College,Dominant Tackle,0
+Ath7,Scarborogh College,Missed Tackles,3
+Ath7,Scarborogh College,Turnovers Won,0
+Ath7,Scarborogh College,Pen Conceded,0
+Ath7,Scarborogh College,Try Assists,0
+Ath7,Scarborogh College,Tries Scored,2
+Ath7,Scarborogh College,Total Carries,4
+Ath7,Scarborogh College,Tackles Completed,8
+Ath8,Scarborogh College,Linebreak,0
+Ath8,Scarborogh College,Defender Beaten,0
+Ath8,Scarborogh College,Dominant Tackle,0
+Ath8,Scarborogh College,Missed Tackles,1
+Ath8,Scarborogh College,Turnovers Won,1
+Ath8,Scarborogh College,Pen Conceded,0
+Ath8,Scarborogh College,Try Assists,0
+Ath8,Scarborogh College,Tries Scored,0
+Ath8,Scarborogh College,Total Carries,1
+Ath8,Scarborogh College,Tackles Completed,8
+Ath25,Scarborogh College,Linebreak,0
+Ath25,Scarborogh College,Defender Beaten,0
+Ath25,Scarborogh College,Dominant Tackle,0
+Ath25,Scarborogh College,Missed Tackles,2
+Ath25,Scarborogh College,Turnovers Won,0
+Ath25,Scarborogh College,Pen Conceded,0
+Ath25,Scarborogh College,Try Assists,0
+Ath25,Scarborogh College,Tries Scored,0
+Ath25,Scarborogh College,Total Carries,1
+Ath25,Scarborogh College,Tackles Completed,0
+Ath10,Scarborogh College,Linebreak,0
+Ath10,Scarborogh College,Defender Beaten,0
+Ath10,Scarborogh College,Dominant Tackle,0
+Ath10,Scarborogh College,Missed Tackles,2
+Ath10,Scarborogh College,Turnovers Won,0
+Ath10,Scarborogh College,Pen Conceded,1
+Ath10,Scarborogh College,Try Assists,2
+Ath10,Scarborogh College,Tries Scored,0
+Ath10,Scarborogh College,Total Carries,1
+Ath10,Scarborogh College,Tackles Completed,7
+Ath11,Scarborogh College,Linebreak,0
+Ath11,Scarborogh College,Defender Beaten,0
+Ath11,Scarborogh College,Dominant Tackle,0
+Ath11,Scarborogh College,Missed Tackles,1
+Ath11,Scarborogh College,Turnovers Won,0
+Ath11,Scarborogh College,Pen Conceded,0
+Ath11,Scarborogh College,Try Assists,0
+Ath11,Scarborogh College,Tries Scored,0
+Ath11,Scarborogh College,Total Carries,2
+Ath11,Scarborogh College,Tackles Completed,2
+Ath26,Scarborogh College,Linebreak,0
+Ath26,Scarborogh College,Defender Beaten,1
+Ath26,Scarborogh College,Dominant Tackle,2
+Ath26,Scarborogh College,Missed Tackles,1
+Ath26,Scarborogh College,Turnovers Won,0
+Ath26,Scarborogh College,Pen Conceded,1
+Ath26,Scarborogh College,Try Assists,0
+Ath26,Scarborogh College,Tries Scored,0
+Ath26,Scarborogh College,Total Carries,8
+Ath26,Scarborogh College,Tackles Completed,11
+Ath12,Scarborogh College,Linebreak,0
+Ath12,Scarborogh College,Defender Beaten,0
+Ath12,Scarborogh College,Dominant Tackle,0
+Ath12,Scarborogh College,Missed Tackles,2
+Ath12,Scarborogh College,Turnovers Won,1
+Ath12,Scarborogh College,Pen Conceded,0
+Ath12,Scarborogh College,Try Assists,0
+Ath12,Scarborogh College,Tries Scored,1
+Ath12,Scarborogh College,Total Carries,2
+Ath12,Scarborogh College,Tackles Completed,7
+Ath22,Scarborogh College,Linebreak,0
+Ath22,Scarborogh College,Defender Beaten,1
+Ath22,Scarborogh College,Dominant Tackle,0
+Ath22,Scarborogh College,Missed Tackles,1
+Ath22,Scarborogh College,Turnovers Won,0
+Ath22,Scarborogh College,Pen Conceded,0
+Ath22,Scarborogh College,Try Assists,0
+Ath22,Scarborogh College,Tries Scored,0
+Ath22,Scarborogh College,Total Carries,3
+Ath22,Scarborogh College,Tackles Completed,1
+Ath15,Scarborogh College,Linebreak,0
+Ath15,Scarborogh College,Defender Beaten,0
+Ath15,Scarborogh College,Dominant Tackle,0
+Ath15,Scarborogh College,Missed Tackles,5
+Ath15,Scarborogh College,Turnovers Won,0
+Ath15,Scarborogh College,Pen Conceded,0
+Ath15,Scarborogh College,Try Assists,0
+Ath15,Scarborogh College,Tries Scored,0
+Ath15,Scarborogh College,Total Carries,5
+Ath15,Scarborogh College,Tackles Completed,6
+Ath2,Scarborogh College,Linebreak,0
+Ath2,Scarborogh College,Defender Beaten,0
+Ath2,Scarborogh College,Dominant Tackle,0
+Ath2,Scarborogh College,Missed Tackles,2
+Ath2,Scarborogh College,Turnovers Won,0
+Ath2,Scarborogh College,Pen Conceded,0
+Ath2,Scarborogh College,Try Assists,0
+Ath2,Scarborogh College,Tries Scored,0
+Ath2,Scarborogh College,Total Carries,1
+Ath2,Scarborogh College,Tackles Completed,4
+Ath17,Scarborogh College,Linebreak,0
+Ath17,Scarborogh College,Defender Beaten,0
+Ath17,Scarborogh College,Dominant Tackle,0
+Ath17,Scarborogh College,Missed Tackles,0
+Ath17,Scarborogh College,Turnovers Won,0
+Ath17,Scarborogh College,Pen Conceded,1
+Ath17,Scarborogh College,Try Assists,0
+Ath17,Scarborogh College,Tries Scored,0
+Ath17,Scarborogh College,Total Carries,1
+Ath17,Scarborogh College,Tackles Completed,4
+Ath5,Scarborogh College,Linebreak,0
+Ath5,Scarborogh College,Defender Beaten,1
+Ath5,Scarborogh College,Dominant Tackle,0
+Ath5,Scarborogh College,Missed Tackles,1
+Ath5,Scarborogh College,Turnovers Won,2
+Ath5,Scarborogh College,Pen Conceded,0
+Ath5,Scarborogh College,Try Assists,0
+Ath5,Scarborogh College,Tries Scored,0
+Ath5,Scarborogh College,Total Carries,2
+Ath5,Scarborogh College,Tackles Completed,1
+Ath9,Scarborogh College,Linebreak,0
+Ath9,Scarborogh College,Defender Beaten,1
+Ath9,Scarborogh College,Dominant Tackle,0
+Ath9,Scarborogh College,Missed Tackles,0
+Ath9,Scarborogh College,Turnovers Won,0
+Ath9,Scarborogh College,Pen Conceded,0
+Ath9,Scarborogh College,Try Assists,0
+Ath9,Scarborogh College,Tries Scored,0
+Ath9,Scarborogh College,Total Carries,3
+Ath9,Scarborogh College,Tackles Completed,2
+Ath27,Scarborogh College,Linebreak,0
+Ath27,Scarborogh College,Defender Beaten,0
+Ath27,Scarborogh College,Dominant Tackle,0
+Ath27,Scarborogh College,Missed Tackles,0
+Ath27,Scarborogh College,Turnovers Won,0
+Ath27,Scarborogh College,Pen Conceded,0
+Ath27,Scarborogh College,Try Assists,0
+Ath27,Scarborogh College,Tries Scored,0
+Ath27,Scarborogh College,Total Carries,0
+Ath27,Scarborogh College,Tackles Completed,2
+Ath17,Tyne Met,Linebreak,0
+Ath17,Tyne Met,Defender Beaten,0
+Ath17,Tyne Met,Dominant Tackle,0
+Ath17,Tyne Met,Missed Tackles,3
+Ath17,Tyne Met,Turnovers Won,0
+Ath17,Tyne Met,Pen Conceded,1
+Ath17,Tyne Met,Try Assists,0
+Ath17,Tyne Met,Tries Scored,0
+Ath17,Tyne Met,Total Carries,3
+Ath17,Tyne Met,Tackles Completed,7
+Ath3,Tyne Met,Linebreak,0
+Ath3,Tyne Met,Defender Beaten,3
+Ath3,Tyne Met,Dominant Tackle,1
+Ath3,Tyne Met,Missed Tackles,3
+Ath3,Tyne Met,Turnovers Won,1
+Ath3,Tyne Met,Pen Conceded,2
+Ath3,Tyne Met,Try Assists,0
+Ath3,Tyne Met,Tries Scored,0
+Ath3,Tyne Met,Total Carries,4
+Ath3,Tyne Met,Tackles Completed,7
+Ath23,Tyne Met,Linebreak,0
+Ath23,Tyne Met,Defender Beaten,0
+Ath23,Tyne Met,Dominant Tackle,0
+Ath23,Tyne Met,Missed Tackles,2
+Ath23,Tyne Met,Turnovers Won,1
+Ath23,Tyne Met,Pen Conceded,3
+Ath23,Tyne Met,Try Assists,0
+Ath23,Tyne Met,Tries Scored,0
+Ath23,Tyne Met,Total Carries,2
+Ath23,Tyne Met,Tackles Completed,11
+Ath1,Tyne Met,Linebreak,1
+Ath1,Tyne Met,Defender Beaten,0
+Ath1,Tyne Met,Dominant Tackle,1
+Ath1,Tyne Met,Missed Tackles,0
+Ath1,Tyne Met,Turnovers Won,0
+Ath1,Tyne Met,Pen Conceded,0
+Ath1,Tyne Met,Try Assists,0
+Ath1,Tyne Met,Tries Scored,0
+Ath1,Tyne Met,Total Carries,9
+Ath1,Tyne Met,Tackles Completed,5
+Ath4,Tyne Met,Linebreak,0
+Ath4,Tyne Met,Defender Beaten,1
+Ath4,Tyne Met,Dominant Tackle,2
+Ath4,Tyne Met,Missed Tackles,4
+Ath4,Tyne Met,Turnovers Won,1
+Ath4,Tyne Met,Pen Conceded,2
+Ath4,Tyne Met,Try Assists,0
+Ath4,Tyne Met,Tries Scored,1
+Ath4,Tyne Met,Total Carries,6
+Ath4,Tyne Met,Tackles Completed,12
+Ath6,Tyne Met,Linebreak,0
+Ath6,Tyne Met,Defender Beaten,1
+Ath6,Tyne Met,Dominant Tackle,1
+Ath6,Tyne Met,Missed Tackles,0
+Ath6,Tyne Met,Turnovers Won,3
+Ath6,Tyne Met,Pen Conceded,1
+Ath6,Tyne Met,Try Assists,0
+Ath6,Tyne Met,Tries Scored,0
+Ath6,Tyne Met,Total Carries,4
+Ath6,Tyne Met,Tackles Completed,14
+Ath7,Tyne Met,Linebreak,2
+Ath7,Tyne Met,Defender Beaten,15
+Ath7,Tyne Met,Dominant Tackle,1
+Ath7,Tyne Met,Missed Tackles,1
+Ath7,Tyne Met,Turnovers Won,1
+Ath7,Tyne Met,Pen Conceded,0
+Ath7,Tyne Met,Try Assists,1
+Ath7,Tyne Met,Tries Scored,0
+Ath7,Tyne Met,Total Carries,13
+Ath7,Tyne Met,Tackles Completed,12
+Ath8,Tyne Met,Linebreak,0
+Ath8,Tyne Met,Defender Beaten,0
+Ath8,Tyne Met,Dominant Tackle,0
+Ath8,Tyne Met,Missed Tackles,2
+Ath8,Tyne Met,Turnovers Won,0
+Ath8,Tyne Met,Pen Conceded,0
+Ath8,Tyne Met,Try Assists,0
+Ath8,Tyne Met,Tries Scored,3
+Ath8,Tyne Met,Total Carries,0
+Ath8,Tyne Met,Tackles Completed,3
+Ath20,Tyne Met,Linebreak,0
+Ath20,Tyne Met,Defender Beaten,1
+Ath20,Tyne Met,Dominant Tackle,0
+Ath20,Tyne Met,Missed Tackles,4
+Ath20,Tyne Met,Turnovers Won,0
+Ath20,Tyne Met,Pen Conceded,1
+Ath20,Tyne Met,Try Assists,1
+Ath20,Tyne Met,Tries Scored,0
+Ath20,Tyne Met,Total Carries,1
+Ath20,Tyne Met,Tackles Completed,5
+Ath25,Tyne Met,Linebreak,0
+Ath25,Tyne Met,Defender Beaten,4
+Ath25,Tyne Met,Dominant Tackle,0
+Ath25,Tyne Met,Missed Tackles,0
+Ath25,Tyne Met,Turnovers Won,0
+Ath25,Tyne Met,Pen Conceded,0
+Ath25,Tyne Met,Try Assists,1
+Ath25,Tyne Met,Tries Scored,0
+Ath25,Tyne Met,Total Carries,4
+Ath25,Tyne Met,Tackles Completed,4
+Ath26,Tyne Met,Linebreak,1
+Ath26,Tyne Met,Defender Beaten,4
+Ath26,Tyne Met,Dominant Tackle,0
+Ath26,Tyne Met,Missed Tackles,1
+Ath26,Tyne Met,Turnovers Won,0
+Ath26,Tyne Met,Pen Conceded,0
+Ath26,Tyne Met,Try Assists,0
+Ath26,Tyne Met,Tries Scored,0
+Ath26,Tyne Met,Total Carries,7
+Ath26,Tyne Met,Tackles Completed,3
+Ath10,Tyne Met,Linebreak,0
+Ath10,Tyne Met,Defender Beaten,4
+Ath10,Tyne Met,Dominant Tackle,1
+Ath10,Tyne Met,Missed Tackles,0
+Ath10,Tyne Met,Turnovers Won,1
+Ath10,Tyne Met,Pen Conceded,2
+Ath10,Tyne Met,Try Assists,0
+Ath10,Tyne Met,Tries Scored,0
+Ath10,Tyne Met,Total Carries,6
+Ath10,Tyne Met,Tackles Completed,15
+Ath12,Tyne Met,Linebreak,1
+Ath12,Tyne Met,Defender Beaten,4
+Ath12,Tyne Met,Dominant Tackle,0
+Ath12,Tyne Met,Missed Tackles,2
+Ath12,Tyne Met,Turnovers Won,1
+Ath12,Tyne Met,Pen Conceded,3
+Ath12,Tyne Met,Try Assists,0
+Ath12,Tyne Met,Tries Scored,0
+Ath12,Tyne Met,Total Carries,9
+Ath12,Tyne Met,Tackles Completed,12
+Ath11,Tyne Met,Linebreak,0
+Ath11,Tyne Met,Defender Beaten,0
+Ath11,Tyne Met,Dominant Tackle,0
+Ath11,Tyne Met,Missed Tackles,4
+Ath11,Tyne Met,Turnovers Won,0
+Ath11,Tyne Met,Pen Conceded,0
+Ath11,Tyne Met,Try Assists,0
+Ath11,Tyne Met,Tries Scored,1
+Ath11,Tyne Met,Total Carries,2
+Ath11,Tyne Met,Tackles Completed,5
+Ath15,Tyne Met,Linebreak,2
+Ath15,Tyne Met,Defender Beaten,3
+Ath15,Tyne Met,Dominant Tackle,0
+Ath15,Tyne Met,Missed Tackles,2
+Ath15,Tyne Met,Turnovers Won,1
+Ath15,Tyne Met,Pen Conceded,2
+Ath15,Tyne Met,Try Assists,1
+Ath15,Tyne Met,Tries Scored,0
+Ath15,Tyne Met,Total Carries,7
+Ath15,Tyne Met,Tackles Completed,9
+Ath2,Tyne Met,Linebreak,0
+Ath2,Tyne Met,Defender Beaten,0
+Ath2,Tyne Met,Dominant Tackle,0
+Ath2,Tyne Met,Missed Tackles,1
+Ath2,Tyne Met,Turnovers Won,0
+Ath2,Tyne Met,Pen Conceded,0
+Ath2,Tyne Met,Try Assists,0
+Ath2,Tyne Met,Tries Scored,0
+Ath2,Tyne Met,Total Carries,3
+Ath2,Tyne Met,Tackles Completed,2
+Ath5,Tyne Met,Linebreak,0
+Ath5,Tyne Met,Defender Beaten,0
+Ath5,Tyne Met,Dominant Tackle,0
+Ath5,Tyne Met,Missed Tackles,0
+Ath5,Tyne Met,Turnovers Won,1
+Ath5,Tyne Met,Pen Conceded,0
+Ath5,Tyne Met,Try Assists,0
+Ath5,Tyne Met,Tries Scored,0
+Ath5,Tyne Met,Total Carries,0
+Ath5,Tyne Met,Tackles Completed,2
+Ath27,Tyne Met,Linebreak,0
+Ath27,Tyne Met,Defender Beaten,0
+Ath27,Tyne Met,Dominant Tackle,0
+Ath27,Tyne Met,Missed Tackles,1
+Ath27,Tyne Met,Turnovers Won,1
+Ath27,Tyne Met,Pen Conceded,1
+Ath27,Tyne Met,Try Assists,0
+Ath27,Tyne Met,Tries Scored,0
+Ath27,Tyne Met,Total Carries,2
+Ath27,Tyne Met,Tackles Completed,4
