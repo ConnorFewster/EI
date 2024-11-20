@@ -1,601 +1,271 @@
-ID,opposition,KPI,value,grp
-Ath1,St Peters York,Linebreak,0,Forwards
-Ath1,St Peters York,Defender Beaten,0,Forwards
-Ath1,St Peters York,Dominant Tackle,0,Forwards
-Ath1,St Peters York,Missed Tackles,0,Forwards
-Ath1,St Peters York,Turnovers Won,2,Forwards
-Ath1,St Peters York,Pen Conceded,0,Forwards
-Ath1,St Peters York,Try Assists,0,Forwards
-Ath1,St Peters York,Tries Scored,0,Forwards
-Ath1,St Peters York,Total Carries,7,Forwards
-Ath1,St Peters York,Tackles Completed,4,Forwards
-Ath2,St Peters York,Linebreak,0,Forwards
-Ath2,St Peters York,Defender Beaten,0,Forwards
-Ath2,St Peters York,Dominant Tackle,0,Forwards
-Ath2,St Peters York,Missed Tackles,5,Forwards
-Ath2,St Peters York,Turnovers Won,0,Forwards
-Ath2,St Peters York,Pen Conceded,0,Forwards
-Ath2,St Peters York,Try Assists,0,Forwards
-Ath2,St Peters York,Tries Scored,0,Forwards
-Ath2,St Peters York,Total Carries,1,Forwards
-Ath2,St Peters York,Tackles Completed,3,Forwards
-Ath3,St Peters York,Linebreak,0,Forwards
-Ath3,St Peters York,Defender Beaten,1,Forwards
-Ath3,St Peters York,Dominant Tackle,0,Forwards
-Ath3,St Peters York,Missed Tackles,2,Forwards
-Ath3,St Peters York,Turnovers Won,0,Forwards
-Ath3,St Peters York,Pen Conceded,0,Forwards
-Ath3,St Peters York,Try Assists,0,Forwards
-Ath3,St Peters York,Tries Scored,0,Forwards
-Ath3,St Peters York,Total Carries,1,Forwards
-Ath3,St Peters York,Tackles Completed,3,Forwards
-Ath4,St Peters York,Linebreak,0,Forwards
-Ath4,St Peters York,Defender Beaten,0,Forwards
-Ath4,St Peters York,Dominant Tackle,0,Forwards
-Ath4,St Peters York,Missed Tackles,1,Forwards
-Ath4,St Peters York,Turnovers Won,1,Forwards
-Ath4,St Peters York,Pen Conceded,1,Forwards
-Ath4,St Peters York,Try Assists,0,Forwards
-Ath4,St Peters York,Tries Scored,0,Forwards
-Ath4,St Peters York,Total Carries,0,Forwards
-Ath4,St Peters York,Tackles Completed,1,Forwards
-Ath5,St Peters York,Linebreak,0,Forwards
-Ath5,St Peters York,Defender Beaten,0,Forwards
-Ath5,St Peters York,Dominant Tackle,0,Forwards
-Ath5,St Peters York,Missed Tackles,1,Forwards
-Ath5,St Peters York,Turnovers Won,0,Forwards
-Ath5,St Peters York,Pen Conceded,0,Forwards
-Ath5,St Peters York,Try Assists,0,Forwards
-Ath5,St Peters York,Tries Scored,0,Forwards
-Ath5,St Peters York,Total Carries,1,Forwards
-Ath5,St Peters York,Tackles Completed,3,Forwards
-Ath6,St Peters York,Linebreak,0,Forwards
-Ath6,St Peters York,Defender Beaten,0,Forwards
-Ath6,St Peters York,Dominant Tackle,0,Forwards
-Ath6,St Peters York,Missed Tackles,2,Forwards
-Ath6,St Peters York,Turnovers Won,0,Forwards
-Ath6,St Peters York,Pen Conceded,0,Forwards
-Ath6,St Peters York,Try Assists,0,Forwards
-Ath6,St Peters York,Tries Scored,0,Forwards
-Ath6,St Peters York,Total Carries,3,Forwards
-Ath6,St Peters York,Tackles Completed,6,Forwards
-Ath7,St Peters York,Linebreak,0,Forwards
-Ath7,St Peters York,Defender Beaten,4,Forwards
-Ath7,St Peters York,Dominant Tackle,0,Forwards
-Ath7,St Peters York,Missed Tackles,1,Forwards
-Ath7,St Peters York,Turnovers Won,0,Forwards
-Ath7,St Peters York,Pen Conceded,0,Forwards
-Ath7,St Peters York,Try Assists,0,Forwards
-Ath7,St Peters York,Tries Scored,1,Forwards
-Ath7,St Peters York,Total Carries,4,Forwards
-Ath7,St Peters York,Tackles Completed,8,Forwards
-Ath8,St Peters York,Linebreak,0,Forwards
-Ath8,St Peters York,Defender Beaten,1,Forwards
-Ath8,St Peters York,Dominant Tackle,0,Forwards
-Ath8,St Peters York,Missed Tackles,1,Forwards
-Ath8,St Peters York,Turnovers Won,0,Forwards
-Ath8,St Peters York,Pen Conceded,0,Forwards
-Ath8,St Peters York,Try Assists,0,Forwards
-Ath8,St Peters York,Tries Scored,0,Forwards
-Ath8,St Peters York,Total Carries,2,Forwards
-Ath8,St Peters York,Tackles Completed,9,Forwards
-Ath9,St Peters York,Linebreak,0,Backs
-Ath9,St Peters York,Defender Beaten,2,Backs
-Ath9,St Peters York,Dominant Tackle,0,Backs
-Ath9,St Peters York,Missed Tackles,1,Backs
-Ath9,St Peters York,Turnovers Won,1,Backs
-Ath9,St Peters York,Pen Conceded,0,Backs
-Ath9,St Peters York,Try Assists,2,Backs
-Ath9,St Peters York,Tries Scored,1,Backs
-Ath9,St Peters York,Total Carries,3,Backs
-Ath9,St Peters York,Tackles Completed,6,Backs
-Ath10,St Peters York,Linebreak,0,Backs
-Ath10,St Peters York,Defender Beaten,2,Backs
-Ath10,St Peters York,Dominant Tackle,0,Backs
-Ath10,St Peters York,Missed Tackles,1,Backs
-Ath10,St Peters York,Turnovers Won,1,Backs
-Ath10,St Peters York,Pen Conceded,0,Backs
-Ath10,St Peters York,Try Assists,0,Backs
-Ath10,St Peters York,Tries Scored,0,Backs
-Ath10,St Peters York,Total Carries,2,Backs
-Ath10,St Peters York,Tackles Completed,6,Backs
-Ath11,St Peters York,Linebreak,1,Backs
-Ath11,St Peters York,Defender Beaten,1,Backs
-Ath11,St Peters York,Dominant Tackle,0,Backs
-Ath11,St Peters York,Missed Tackles,1,Backs
-Ath11,St Peters York,Turnovers Won,0,Backs
-Ath11,St Peters York,Pen Conceded,0,Backs
-Ath11,St Peters York,Try Assists,0,Backs
-Ath11,St Peters York,Tries Scored,0,Backs
-Ath11,St Peters York,Total Carries,1,Backs
-Ath11,St Peters York,Tackles Completed,3,Backs
-Ath12,St Peters York,Linebreak,0,Backs
-Ath12,St Peters York,Defender Beaten,3,Backs
-Ath12,St Peters York,Dominant Tackle,1,Backs
-Ath12,St Peters York,Missed Tackles,2,Backs
-Ath12,St Peters York,Turnovers Won,0,Backs
-Ath12,St Peters York,Pen Conceded,1,Backs
-Ath12,St Peters York,Try Assists,0,Backs
-Ath12,St Peters York,Tries Scored,0,Backs
-Ath12,St Peters York,Total Carries,3,Backs
-Ath12,St Peters York,Tackles Completed,5,Backs
-Ath13,St Peters York,Linebreak,2,Backs
-Ath13,St Peters York,Defender Beaten,2,Backs
-Ath13,St Peters York,Dominant Tackle,0,Backs
-Ath13,St Peters York,Missed Tackles,4,Backs
-Ath13,St Peters York,Turnovers Won,1,Backs
-Ath13,St Peters York,Pen Conceded,1,Backs
-Ath13,St Peters York,Try Assists,0,Backs
-Ath13,St Peters York,Tries Scored,1,Backs
-Ath13,St Peters York,Total Carries,7,Backs
-Ath13,St Peters York,Tackles Completed,3,Backs
-Ath14,St Peters York,Linebreak,0,Backs
-Ath14,St Peters York,Defender Beaten,1,Backs
-Ath14,St Peters York,Dominant Tackle,0,Backs
-Ath14,St Peters York,Missed Tackles,1,Backs
-Ath14,St Peters York,Turnovers Won,0,Backs
-Ath14,St Peters York,Pen Conceded,1,Backs
-Ath14,St Peters York,Try Assists,0,Backs
-Ath14,St Peters York,Tries Scored,0,Backs
-Ath14,St Peters York,Total Carries,1,Backs
-Ath14,St Peters York,Tackles Completed,2,Backs
-Ath15,St Peters York,Linebreak,0,Backs
-Ath15,St Peters York,Defender Beaten,4,Backs
-Ath15,St Peters York,Dominant Tackle,0,Backs
-Ath15,St Peters York,Missed Tackles,6,Backs
-Ath15,St Peters York,Turnovers Won,0,Backs
-Ath15,St Peters York,Pen Conceded,1,Backs
-Ath15,St Peters York,Try Assists,0,Backs
-Ath15,St Peters York,Tries Scored,0,Backs
-Ath15,St Peters York,Total Carries,4,Backs
-Ath15,St Peters York,Tackles Completed,5,Backs
-Ath16,St Peters York,Linebreak,0,Forwards
-Ath16,St Peters York,Defender Beaten,0,Forwards
-Ath16,St Peters York,Dominant Tackle,0,Forwards
-Ath16,St Peters York,Missed Tackles,0,Forwards
-Ath16,St Peters York,Turnovers Won,0,Forwards
-Ath16,St Peters York,Pen Conceded,0,Forwards
-Ath16,St Peters York,Try Assists,0,Forwards
-Ath16,St Peters York,Tries Scored,0,Forwards
-Ath16,St Peters York,Total Carries,0,Forwards
-Ath16,St Peters York,Tackles Completed,1,Forwards
-Ath17,St Peters York,Linebreak,0,Forwards
-Ath17,St Peters York,Defender Beaten,0,Forwards
-Ath17,St Peters York,Dominant Tackle,0,Forwards
-Ath17,St Peters York,Missed Tackles,2,Forwards
-Ath17,St Peters York,Turnovers Won,0,Forwards
-Ath17,St Peters York,Pen Conceded,0,Forwards
-Ath17,St Peters York,Try Assists,0,Forwards
-Ath17,St Peters York,Tries Scored,1,Forwards
-Ath17,St Peters York,Total Carries,6,Forwards
-Ath17,St Peters York,Tackles Completed,1,Forwards
-Ath18,St Peters York,Linebreak,0,Forwards
-Ath18,St Peters York,Defender Beaten,0,Forwards
-Ath18,St Peters York,Dominant Tackle,0,Forwards
-Ath18,St Peters York,Missed Tackles,0,Forwards
-Ath18,St Peters York,Turnovers Won,0,Forwards
-Ath18,St Peters York,Pen Conceded,1,Forwards
-Ath18,St Peters York,Try Assists,0,Forwards
-Ath18,St Peters York,Tries Scored,0,Forwards
-Ath18,St Peters York,Total Carries,0,Forwards
-Ath18,St Peters York,Tackles Completed,4,Forwards
-Ath19,St Peters York,Linebreak,0,Forwards
-Ath19,St Peters York,Defender Beaten,0,Forwards
-Ath19,St Peters York,Dominant Tackle,0,Forwards
-Ath19,St Peters York,Missed Tackles,0,Forwards
-Ath19,St Peters York,Turnovers Won,0,Forwards
-Ath19,St Peters York,Pen Conceded,0,Forwards
-Ath19,St Peters York,Try Assists,0,Forwards
-Ath19,St Peters York,Tries Scored,0,Forwards
-Ath19,St Peters York,Total Carries,1,Forwards
-Ath19,St Peters York,Tackles Completed,0,Forwards
-Ath20,St Peters York,Linebreak,0,Backs
-Ath20,St Peters York,Defender Beaten,0,Backs
-Ath20,St Peters York,Dominant Tackle,0,Backs
-Ath20,St Peters York,Missed Tackles,0,Backs
-Ath20,St Peters York,Turnovers Won,0,Backs
-Ath20,St Peters York,Pen Conceded,0,Backs
-Ath20,St Peters York,Try Assists,0,Backs
-Ath20,St Peters York,Tries Scored,0,Backs
-Ath20,St Peters York,Total Carries,0,Backs
-Ath20,St Peters York,Tackles Completed,0,Backs
-Ath21,St Peters York,Linebreak,0,Backs
-Ath21,St Peters York,Defender Beaten,0,Backs
-Ath21,St Peters York,Dominant Tackle,0,Backs
-Ath21,St Peters York,Missed Tackles,1,Backs
-Ath21,St Peters York,Turnovers Won,0,Backs
-Ath21,St Peters York,Pen Conceded,0,Backs
-Ath21,St Peters York,Try Assists,0,Backs
-Ath21,St Peters York,Tries Scored,0,Backs
-Ath21,St Peters York,Total Carries,0,Backs
-Ath21,St Peters York,Tackles Completed,2,Backs
-Ath22,St Peters York,Linebreak,0,Forwards
-Ath22,St Peters York,Defender Beaten,2,Forwards
-Ath22,St Peters York,Dominant Tackle,0,Forwards
-Ath22,St Peters York,Missed Tackles,2,Forwards
-Ath22,St Peters York,Turnovers Won,0,Forwards
-Ath22,St Peters York,Pen Conceded,0,Forwards
-Ath22,St Peters York,Try Assists,0,Forwards
-Ath22,St Peters York,Tries Scored,0,Forwards
-Ath22,St Peters York,Total Carries,4,Forwards
-Ath22,St Peters York,Tackles Completed,1,Forwards
-Ath23,Scarborogh College,Linebreak,0,Forwards
-Ath23,Scarborogh College,Defender Beaten,0,Forwards
-Ath23,Scarborogh College,Dominant Tackle,0,Forwards
-Ath23,Scarborogh College,Missed Tackles,1,Forwards
-Ath23,Scarborogh College,Turnovers Won,0,Forwards
-Ath23,Scarborogh College,Pen Conceded,0,Forwards
-Ath23,Scarborogh College,Try Assists,0,Forwards
-Ath23,Scarborogh College,Tries Scored,0,Forwards
-Ath23,Scarborogh College,Total Carries,3,Forwards
-Ath23,Scarborogh College,Tackles Completed,0,Forwards
-Ath3,Scarborogh College,Linebreak,0,Forwards
-Ath3,Scarborogh College,Defender Beaten,0,Forwards
-Ath3,Scarborogh College,Dominant Tackle,0,Forwards
-Ath3,Scarborogh College,Missed Tackles,1,Forwards
-Ath3,Scarborogh College,Turnovers Won,0,Forwards
-Ath3,Scarborogh College,Pen Conceded,0,Forwards
-Ath3,Scarborogh College,Try Assists,0,Forwards
-Ath3,Scarborogh College,Tries Scored,0,Forwards
-Ath3,Scarborogh College,Total Carries,3,Forwards
-Ath3,Scarborogh College,Tackles Completed,1,Forwards
-Ath24,Scarborogh College,Linebreak,0,Backs
-Ath24,Scarborogh College,Defender Beaten,0,Backs
-Ath24,Scarborogh College,Dominant Tackle,0,Backs
-Ath24,Scarborogh College,Missed Tackles,1,Backs
-Ath24,Scarborogh College,Turnovers Won,1,Backs
-Ath24,Scarborogh College,Pen Conceded,0,Backs
-Ath24,Scarborogh College,Try Assists,0,Backs
-Ath24,Scarborogh College,Tries Scored,0,Backs
-Ath24,Scarborogh College,Total Carries,3,Backs
-Ath24,Scarborogh College,Tackles Completed,8,Backs
-Ath4,Scarborogh College,Linebreak,0,Forwards
-Ath4,Scarborogh College,Defender Beaten,0,Forwards
-Ath4,Scarborogh College,Dominant Tackle,0,Forwards
-Ath4,Scarborogh College,Missed Tackles,1,Forwards
-Ath4,Scarborogh College,Turnovers Won,0,Forwards
-Ath4,Scarborogh College,Pen Conceded,0,Forwards
-Ath4,Scarborogh College,Try Assists,0,Forwards
-Ath4,Scarborogh College,Tries Scored,0,Forwards
-Ath4,Scarborogh College,Total Carries,1,Forwards
-Ath4,Scarborogh College,Tackles Completed,4,Forwards
-Ath1,Scarborogh College,Linebreak,0,Forwards
-Ath1,Scarborogh College,Defender Beaten,1,Forwards
-Ath1,Scarborogh College,Dominant Tackle,0,Forwards
-Ath1,Scarborogh College,Missed Tackles,1,Forwards
-Ath1,Scarborogh College,Turnovers Won,0,Forwards
-Ath1,Scarborogh College,Pen Conceded,2,Forwards
-Ath1,Scarborogh College,Try Assists,0,Forwards
-Ath1,Scarborogh College,Tries Scored,0,Forwards
-Ath1,Scarborogh College,Total Carries,6,Forwards
-Ath1,Scarborogh College,Tackles Completed,1,Forwards
-Ath6,Scarborogh College,Linebreak,0,Forwards
-Ath6,Scarborogh College,Defender Beaten,1,Forwards
-Ath6,Scarborogh College,Dominant Tackle,0,Forwards
-Ath6,Scarborogh College,Missed Tackles,2,Forwards
-Ath6,Scarborogh College,Turnovers Won,0,Forwards
-Ath6,Scarborogh College,Pen Conceded,0,Forwards
-Ath6,Scarborogh College,Try Assists,0,Forwards
-Ath6,Scarborogh College,Tries Scored,0,Forwards
-Ath6,Scarborogh College,Total Carries,3,Forwards
-Ath6,Scarborogh College,Tackles Completed,4,Forwards
-Ath7,Scarborogh College,Linebreak,1,Forwards
-Ath7,Scarborogh College,Defender Beaten,3,Forwards
-Ath7,Scarborogh College,Dominant Tackle,0,Forwards
-Ath7,Scarborogh College,Missed Tackles,3,Forwards
-Ath7,Scarborogh College,Turnovers Won,0,Forwards
-Ath7,Scarborogh College,Pen Conceded,0,Forwards
-Ath7,Scarborogh College,Try Assists,0,Forwards
-Ath7,Scarborogh College,Tries Scored,2,Forwards
-Ath7,Scarborogh College,Total Carries,4,Forwards
-Ath7,Scarborogh College,Tackles Completed,8,Forwards
-Ath8,Scarborogh College,Linebreak,0,Forwards
-Ath8,Scarborogh College,Defender Beaten,0,Forwards
-Ath8,Scarborogh College,Dominant Tackle,0,Forwards
-Ath8,Scarborogh College,Missed Tackles,1,Forwards
-Ath8,Scarborogh College,Turnovers Won,1,Forwards
-Ath8,Scarborogh College,Pen Conceded,0,Forwards
-Ath8,Scarborogh College,Try Assists,0,Forwards
-Ath8,Scarborogh College,Tries Scored,0,Forwards
-Ath8,Scarborogh College,Total Carries,1,Forwards
-Ath8,Scarborogh College,Tackles Completed,8,Forwards
-Ath25,Scarborogh College,Linebreak,0,Backs
-Ath25,Scarborogh College,Defender Beaten,0,Backs
-Ath25,Scarborogh College,Dominant Tackle,0,Backs
-Ath25,Scarborogh College,Missed Tackles,2,Backs
-Ath25,Scarborogh College,Turnovers Won,0,Backs
-Ath25,Scarborogh College,Pen Conceded,0,Backs
-Ath25,Scarborogh College,Try Assists,0,Backs
-Ath25,Scarborogh College,Tries Scored,0,Backs
-Ath25,Scarborogh College,Total Carries,1,Backs
-Ath25,Scarborogh College,Tackles Completed,0,Backs
-Ath10,Scarborogh College,Linebreak,0,Backs
-Ath10,Scarborogh College,Defender Beaten,0,Backs
-Ath10,Scarborogh College,Dominant Tackle,0,Backs
-Ath10,Scarborogh College,Missed Tackles,2,Backs
-Ath10,Scarborogh College,Turnovers Won,0,Backs
-Ath10,Scarborogh College,Pen Conceded,1,Backs
-Ath10,Scarborogh College,Try Assists,2,Backs
-Ath10,Scarborogh College,Tries Scored,0,Backs
-Ath10,Scarborogh College,Total Carries,1,Backs
-Ath10,Scarborogh College,Tackles Completed,7,Backs
-Ath11,Scarborogh College,Linebreak,0,Backs
-Ath11,Scarborogh College,Defender Beaten,0,Backs
-Ath11,Scarborogh College,Dominant Tackle,0,Backs
-Ath11,Scarborogh College,Missed Tackles,1,Backs
-Ath11,Scarborogh College,Turnovers Won,0,Backs
-Ath11,Scarborogh College,Pen Conceded,0,Backs
-Ath11,Scarborogh College,Try Assists,0,Backs
-Ath11,Scarborogh College,Tries Scored,0,Backs
-Ath11,Scarborogh College,Total Carries,2,Backs
-Ath11,Scarborogh College,Tackles Completed,2,Backs
-Ath26,Scarborogh College,Linebreak,0,Backs
-Ath26,Scarborogh College,Defender Beaten,1,Backs
-Ath26,Scarborogh College,Dominant Tackle,2,Backs
-Ath26,Scarborogh College,Missed Tackles,1,Backs
-Ath26,Scarborogh College,Turnovers Won,0,Backs
-Ath26,Scarborogh College,Pen Conceded,1,Backs
-Ath26,Scarborogh College,Try Assists,0,Backs
-Ath26,Scarborogh College,Tries Scored,0,Backs
-Ath26,Scarborogh College,Total Carries,8,Backs
-Ath26,Scarborogh College,Tackles Completed,11,Backs
-Ath12,Scarborogh College,Linebreak,0,Backs
-Ath12,Scarborogh College,Defender Beaten,0,Backs
-Ath12,Scarborogh College,Dominant Tackle,0,Backs
-Ath12,Scarborogh College,Missed Tackles,2,Backs
-Ath12,Scarborogh College,Turnovers Won,1,Backs
-Ath12,Scarborogh College,Pen Conceded,0,Backs
-Ath12,Scarborogh College,Try Assists,0,Backs
-Ath12,Scarborogh College,Tries Scored,1,Backs
-Ath12,Scarborogh College,Total Carries,2,Backs
-Ath12,Scarborogh College,Tackles Completed,7,Backs
-Ath22,Scarborogh College,Linebreak,0,Forwards
-Ath22,Scarborogh College,Defender Beaten,1,Forwards
-Ath22,Scarborogh College,Dominant Tackle,0,Forwards
-Ath22,Scarborogh College,Missed Tackles,1,Forwards
-Ath22,Scarborogh College,Turnovers Won,0,Forwards
-Ath22,Scarborogh College,Pen Conceded,0,Forwards
-Ath22,Scarborogh College,Try Assists,0,Forwards
-Ath22,Scarborogh College,Tries Scored,0,Forwards
-Ath22,Scarborogh College,Total Carries,3,Forwards
-Ath22,Scarborogh College,Tackles Completed,1,Forwards
-Ath15,Scarborogh College,Linebreak,0,Backs
-Ath15,Scarborogh College,Defender Beaten,0,Backs
-Ath15,Scarborogh College,Dominant Tackle,0,Backs
-Ath15,Scarborogh College,Missed Tackles,5,Backs
-Ath15,Scarborogh College,Turnovers Won,0,Backs
-Ath15,Scarborogh College,Pen Conceded,0,Backs
-Ath15,Scarborogh College,Try Assists,0,Backs
-Ath15,Scarborogh College,Tries Scored,0,Backs
-Ath15,Scarborogh College,Total Carries,5,Backs
-Ath15,Scarborogh College,Tackles Completed,6,Backs
-Ath2,Scarborogh College,Linebreak,0,Forwards
-Ath2,Scarborogh College,Defender Beaten,0,Forwards
-Ath2,Scarborogh College,Dominant Tackle,0,Forwards
-Ath2,Scarborogh College,Missed Tackles,2,Forwards
-Ath2,Scarborogh College,Turnovers Won,0,Forwards
-Ath2,Scarborogh College,Pen Conceded,0,Forwards
-Ath2,Scarborogh College,Try Assists,0,Forwards
-Ath2,Scarborogh College,Tries Scored,0,Forwards
-Ath2,Scarborogh College,Total Carries,1,Forwards
-Ath2,Scarborogh College,Tackles Completed,4,Forwards
-Ath17,Scarborogh College,Linebreak,0,Forwards
-Ath17,Scarborogh College,Defender Beaten,0,Forwards
-Ath17,Scarborogh College,Dominant Tackle,0,Forwards
-Ath17,Scarborogh College,Missed Tackles,0,Forwards
-Ath17,Scarborogh College,Turnovers Won,0,Forwards
-Ath17,Scarborogh College,Pen Conceded,1,Forwards
-Ath17,Scarborogh College,Try Assists,0,Forwards
-Ath17,Scarborogh College,Tries Scored,0,Forwards
-Ath17,Scarborogh College,Total Carries,1,Forwards
-Ath17,Scarborogh College,Tackles Completed,4,Forwards
-Ath5,Scarborogh College,Linebreak,0,Forwards
-Ath5,Scarborogh College,Defender Beaten,1,Forwards
-Ath5,Scarborogh College,Dominant Tackle,0,Forwards
-Ath5,Scarborogh College,Missed Tackles,1,Forwards
-Ath5,Scarborogh College,Turnovers Won,2,Forwards
-Ath5,Scarborogh College,Pen Conceded,0,Forwards
-Ath5,Scarborogh College,Try Assists,0,Forwards
-Ath5,Scarborogh College,Tries Scored,0,Forwards
-Ath5,Scarborogh College,Total Carries,2,Forwards
-Ath5,Scarborogh College,Tackles Completed,1,Forwards
-Ath9,Scarborogh College,Linebreak,0,Backs
-Ath9,Scarborogh College,Defender Beaten,1,Backs
-Ath9,Scarborogh College,Dominant Tackle,0,Backs
-Ath9,Scarborogh College,Missed Tackles,0,Backs
-Ath9,Scarborogh College,Turnovers Won,0,Backs
-Ath9,Scarborogh College,Pen Conceded,0,Backs
-Ath9,Scarborogh College,Try Assists,0,Backs
-Ath9,Scarborogh College,Tries Scored,0,Backs
-Ath9,Scarborogh College,Total Carries,3,Backs
-Ath9,Scarborogh College,Tackles Completed,2,Backs
-Ath27,Scarborogh College,Linebreak,0,Forwards
-Ath27,Scarborogh College,Defender Beaten,0,Forwards
-Ath27,Scarborogh College,Dominant Tackle,0,Forwards
-Ath27,Scarborogh College,Missed Tackles,0,Forwards
-Ath27,Scarborogh College,Turnovers Won,0,Forwards
-Ath27,Scarborogh College,Pen Conceded,0,Forwards
-Ath27,Scarborogh College,Try Assists,0,Forwards
-Ath27,Scarborogh College,Tries Scored,0,Forwards
-Ath27,Scarborogh College,Total Carries,0,Forwards
-Ath27,Scarborogh College,Tackles Completed,2,Forwards
-Ath17,Tyne Met,Linebreak,0,Forwards
-Ath17,Tyne Met,Defender Beaten,0,Forwards
-Ath17,Tyne Met,Dominant Tackle,0,Forwards
-Ath17,Tyne Met,Missed Tackles,3,Forwards
-Ath17,Tyne Met,Turnovers Won,0,Forwards
-Ath17,Tyne Met,Pen Conceded,1,Forwards
-Ath17,Tyne Met,Try Assists,0,Forwards
-Ath17,Tyne Met,Tries Scored,0,Forwards
-Ath17,Tyne Met,Total Carries,3,Forwards
-Ath17,Tyne Met,Tackles Completed,7,Forwards
-Ath3,Tyne Met,Linebreak,0,Forwards
-Ath3,Tyne Met,Defender Beaten,3,Forwards
-Ath3,Tyne Met,Dominant Tackle,1,Forwards
-Ath3,Tyne Met,Missed Tackles,3,Forwards
-Ath3,Tyne Met,Turnovers Won,1,Forwards
-Ath3,Tyne Met,Pen Conceded,2,Forwards
-Ath3,Tyne Met,Try Assists,0,Forwards
-Ath3,Tyne Met,Tries Scored,0,Forwards
-Ath3,Tyne Met,Total Carries,4,Forwards
-Ath3,Tyne Met,Tackles Completed,7,Forwards
-Ath23,Tyne Met,Linebreak,0,Forwards
-Ath23,Tyne Met,Defender Beaten,0,Forwards
-Ath23,Tyne Met,Dominant Tackle,0,Forwards
-Ath23,Tyne Met,Missed Tackles,2,Forwards
-Ath23,Tyne Met,Turnovers Won,1,Forwards
-Ath23,Tyne Met,Pen Conceded,3,Forwards
-Ath23,Tyne Met,Try Assists,0,Forwards
-Ath23,Tyne Met,Tries Scored,0,Forwards
-Ath23,Tyne Met,Total Carries,2,Forwards
-Ath23,Tyne Met,Tackles Completed,11,Forwards
-Ath1,Tyne Met,Linebreak,1,Forwards
-Ath1,Tyne Met,Defender Beaten,0,Forwards
-Ath1,Tyne Met,Dominant Tackle,1,Forwards
-Ath1,Tyne Met,Missed Tackles,0,Forwards
-Ath1,Tyne Met,Turnovers Won,0,Forwards
-Ath1,Tyne Met,Pen Conceded,0,Forwards
-Ath1,Tyne Met,Try Assists,0,Forwards
-Ath1,Tyne Met,Tries Scored,0,Forwards
-Ath1,Tyne Met,Total Carries,9,Forwards
-Ath1,Tyne Met,Tackles Completed,5,Forwards
-Ath4,Tyne Met,Linebreak,0,Forwards
-Ath4,Tyne Met,Defender Beaten,1,Forwards
-Ath4,Tyne Met,Dominant Tackle,2,Forwards
-Ath4,Tyne Met,Missed Tackles,4,Forwards
-Ath4,Tyne Met,Turnovers Won,1,Forwards
-Ath4,Tyne Met,Pen Conceded,2,Forwards
-Ath4,Tyne Met,Try Assists,0,Forwards
-Ath4,Tyne Met,Tries Scored,1,Forwards
-Ath4,Tyne Met,Total Carries,6,Forwards
-Ath4,Tyne Met,Tackles Completed,12,Forwards
-Ath6,Tyne Met,Linebreak,0,Forwards
-Ath6,Tyne Met,Defender Beaten,1,Forwards
-Ath6,Tyne Met,Dominant Tackle,1,Forwards
-Ath6,Tyne Met,Missed Tackles,0,Forwards
-Ath6,Tyne Met,Turnovers Won,3,Forwards
-Ath6,Tyne Met,Pen Conceded,1,Forwards
-Ath6,Tyne Met,Try Assists,0,Forwards
-Ath6,Tyne Met,Tries Scored,0,Forwards
-Ath6,Tyne Met,Total Carries,4,Forwards
-Ath6,Tyne Met,Tackles Completed,14,Forwards
-Ath7,Tyne Met,Linebreak,2,Forwards
-Ath7,Tyne Met,Defender Beaten,15,Forwards
-Ath7,Tyne Met,Dominant Tackle,1,Forwards
-Ath7,Tyne Met,Missed Tackles,1,Forwards
-Ath7,Tyne Met,Turnovers Won,1,Forwards
-Ath7,Tyne Met,Pen Conceded,0,Forwards
-Ath7,Tyne Met,Try Assists,1,Forwards
-Ath7,Tyne Met,Tries Scored,0,Forwards
-Ath7,Tyne Met,Total Carries,13,Forwards
-Ath7,Tyne Met,Tackles Completed,12,Forwards
-Ath8,Tyne Met,Linebreak,0,Forwards
-Ath8,Tyne Met,Defender Beaten,0,Forwards
-Ath8,Tyne Met,Dominant Tackle,0,Forwards
-Ath8,Tyne Met,Missed Tackles,2,Forwards
-Ath8,Tyne Met,Turnovers Won,0,Forwards
-Ath8,Tyne Met,Pen Conceded,0,Forwards
-Ath8,Tyne Met,Try Assists,0,Forwards
-Ath8,Tyne Met,Tries Scored,3,Forwards
-Ath8,Tyne Met,Total Carries,0,Forwards
-Ath8,Tyne Met,Tackles Completed,3,Forwards
-Ath20,Tyne Met,Linebreak,0,Backs
-Ath20,Tyne Met,Defender Beaten,1,Backs
-Ath20,Tyne Met,Dominant Tackle,0,Backs
-Ath20,Tyne Met,Missed Tackles,4,Backs
-Ath20,Tyne Met,Turnovers Won,0,Backs
-Ath20,Tyne Met,Pen Conceded,1,Backs
-Ath20,Tyne Met,Try Assists,1,Backs
-Ath20,Tyne Met,Tries Scored,0,Backs
-Ath20,Tyne Met,Total Carries,1,Backs
-Ath20,Tyne Met,Tackles Completed,5,Backs
-Ath25,Tyne Met,Linebreak,0,Backs
-Ath25,Tyne Met,Defender Beaten,4,Backs
-Ath25,Tyne Met,Dominant Tackle,0,Backs
-Ath25,Tyne Met,Missed Tackles,0,Backs
-Ath25,Tyne Met,Turnovers Won,0,Backs
-Ath25,Tyne Met,Pen Conceded,0,Backs
-Ath25,Tyne Met,Try Assists,1,Backs
-Ath25,Tyne Met,Tries Scored,0,Backs
-Ath25,Tyne Met,Total Carries,4,Backs
-Ath25,Tyne Met,Tackles Completed,4,Backs
-Ath26,Tyne Met,Linebreak,1,Backs
-Ath26,Tyne Met,Defender Beaten,4,Backs
-Ath26,Tyne Met,Dominant Tackle,0,Backs
-Ath26,Tyne Met,Missed Tackles,1,Backs
-Ath26,Tyne Met,Turnovers Won,0,Backs
-Ath26,Tyne Met,Pen Conceded,0,Backs
-Ath26,Tyne Met,Try Assists,0,Backs
-Ath26,Tyne Met,Tries Scored,0,Backs
-Ath26,Tyne Met,Total Carries,7,Backs
-Ath26,Tyne Met,Tackles Completed,3,Backs
-Ath10,Tyne Met,Linebreak,0,Backs
-Ath10,Tyne Met,Defender Beaten,4,Backs
-Ath10,Tyne Met,Dominant Tackle,1,Backs
-Ath10,Tyne Met,Missed Tackles,0,Backs
-Ath10,Tyne Met,Turnovers Won,1,Backs
-Ath10,Tyne Met,Pen Conceded,2,Backs
-Ath10,Tyne Met,Try Assists,0,Backs
-Ath10,Tyne Met,Tries Scored,0,Backs
-Ath10,Tyne Met,Total Carries,6,Backs
-Ath10,Tyne Met,Tackles Completed,15,Backs
-Ath12,Tyne Met,Linebreak,1,Backs
-Ath12,Tyne Met,Defender Beaten,4,Backs
-Ath12,Tyne Met,Dominant Tackle,0,Backs
-Ath12,Tyne Met,Missed Tackles,2,Backs
-Ath12,Tyne Met,Turnovers Won,1,Backs
-Ath12,Tyne Met,Pen Conceded,3,Backs
-Ath12,Tyne Met,Try Assists,0,Backs
-Ath12,Tyne Met,Tries Scored,0,Backs
-Ath12,Tyne Met,Total Carries,9,Backs
-Ath12,Tyne Met,Tackles Completed,12,Backs
-Ath11,Tyne Met,Linebreak,0,Backs
-Ath11,Tyne Met,Defender Beaten,0,Backs
-Ath11,Tyne Met,Dominant Tackle,0,Backs
-Ath11,Tyne Met,Missed Tackles,4,Backs
-Ath11,Tyne Met,Turnovers Won,0,Backs
-Ath11,Tyne Met,Pen Conceded,0,Backs
-Ath11,Tyne Met,Try Assists,0,Backs
-Ath11,Tyne Met,Tries Scored,1,Backs
-Ath11,Tyne Met,Total Carries,2,Backs
-Ath11,Tyne Met,Tackles Completed,5,Backs
-Ath15,Tyne Met,Linebreak,2,Backs
-Ath15,Tyne Met,Defender Beaten,3,Backs
-Ath15,Tyne Met,Dominant Tackle,0,Backs
-Ath15,Tyne Met,Missed Tackles,2,Backs
-Ath15,Tyne Met,Turnovers Won,1,Backs
-Ath15,Tyne Met,Pen Conceded,2,Backs
-Ath15,Tyne Met,Try Assists,1,Backs
-Ath15,Tyne Met,Tries Scored,0,Backs
-Ath15,Tyne Met,Total Carries,7,Backs
-Ath15,Tyne Met,Tackles Completed,9,Backs
-Ath2,Tyne Met,Linebreak,0,Forwards
-Ath2,Tyne Met,Defender Beaten,0,Forwards
-Ath2,Tyne Met,Dominant Tackle,0,Forwards
-Ath2,Tyne Met,Missed Tackles,1,Forwards
-Ath2,Tyne Met,Turnovers Won,0,Forwards
-Ath2,Tyne Met,Pen Conceded,0,Forwards
-Ath2,Tyne Met,Try Assists,0,Forwards
-Ath2,Tyne Met,Tries Scored,0,Forwards
-Ath2,Tyne Met,Total Carries,3,Forwards
-Ath2,Tyne Met,Tackles Completed,2,Forwards
-Ath5,Tyne Met,Linebreak,0,Forwards
-Ath5,Tyne Met,Defender Beaten,0,Forwards
-Ath5,Tyne Met,Dominant Tackle,0,Forwards
-Ath5,Tyne Met,Missed Tackles,0,Forwards
-Ath5,Tyne Met,Turnovers Won,1,Forwards
-Ath5,Tyne Met,Pen Conceded,0,Forwards
-Ath5,Tyne Met,Try Assists,0,Forwards
-Ath5,Tyne Met,Tries Scored,0,Forwards
-Ath5,Tyne Met,Total Carries,0,Forwards
-Ath5,Tyne Met,Tackles Completed,2,Forwards
-Ath27,Tyne Met,Linebreak,0,Forwards
-Ath27,Tyne Met,Defender Beaten,0,Forwards
-Ath27,Tyne Met,Dominant Tackle,0,Forwards
-Ath27,Tyne Met,Missed Tackles,1,Forwards
-Ath27,Tyne Met,Turnovers Won,1,Forwards
-Ath27,Tyne Met,Pen Conceded,1,Forwards
-Ath27,Tyne Met,Try Assists,0,Forwards
-Ath27,Tyne Met,Tries Scored,0,Forwards
-Ath27,Tyne Met,Total Carries,2,Forwards
-Ath27,Tyne Met,Tackles Completed,4,Forwards
+ID,KPI,total_value,grp
+Ath1,Defender Beaten,1,Forwards
+Ath1,Dominant Tackle,1,Forwards
+Ath1,Linebreak,1,Forwards
+Ath1,Missed Tackles,1,Forwards
+Ath1,Pen Conceded,2,Forwards
+Ath1,Tackles Completed,10,Forwards
+Ath1,Total Carries,22,Forwards
+Ath1,Tries Scored,0,Forwards
+Ath1,Try Assists,0,Forwards
+Ath1,Turnovers Won,2,Forwards
+Ath10,Defender Beaten,6,Backs
+Ath10,Dominant Tackle,1,Backs
+Ath10,Linebreak,0,Backs
+Ath10,Missed Tackles,3,Backs
+Ath10,Pen Conceded,3,Backs
+Ath10,Tackles Completed,28,Backs
+Ath10,Total Carries,9,Backs
+Ath10,Tries Scored,0,Backs
+Ath10,Try Assists,2,Backs
+Ath10,Turnovers Won,2,Backs
+Ath11,Defender Beaten,1,Backs
+Ath11,Dominant Tackle,0,Backs
+Ath11,Linebreak,1,Backs
+Ath11,Missed Tackles,6,Backs
+Ath11,Pen Conceded,0,Backs
+Ath11,Tackles Completed,10,Backs
+Ath11,Total Carries,5,Backs
+Ath11,Tries Scored,1,Backs
+Ath11,Try Assists,0,Backs
+Ath11,Turnovers Won,0,Backs
+Ath12,Defender Beaten,7,Backs
+Ath12,Dominant Tackle,1,Backs
+Ath12,Linebreak,1,Backs
+Ath12,Missed Tackles,6,Backs
+Ath12,Pen Conceded,4,Backs
+Ath12,Tackles Completed,24,Backs
+Ath12,Total Carries,14,Backs
+Ath12,Tries Scored,1,Backs
+Ath12,Try Assists,0,Backs
+Ath12,Turnovers Won,2,Backs
+Ath13,Defender Beaten,2,Backs
+Ath13,Dominant Tackle,0,Backs
+Ath13,Linebreak,2,Backs
+Ath13,Missed Tackles,4,Backs
+Ath13,Pen Conceded,1,Backs
+Ath13,Tackles Completed,3,Backs
+Ath13,Total Carries,7,Backs
+Ath13,Tries Scored,1,Backs
+Ath13,Try Assists,0,Backs
+Ath13,Turnovers Won,1,Backs
+Ath14,Defender Beaten,1,Backs
+Ath14,Dominant Tackle,0,Backs
+Ath14,Linebreak,0,Backs
+Ath14,Missed Tackles,1,Backs
+Ath14,Pen Conceded,1,Backs
+Ath14,Tackles Completed,2,Backs
+Ath14,Total Carries,1,Backs
+Ath14,Tries Scored,0,Backs
+Ath14,Try Assists,0,Backs
+Ath14,Turnovers Won,0,Backs
+Ath15,Defender Beaten,7,Backs
+Ath15,Dominant Tackle,0,Backs
+Ath15,Linebreak,2,Backs
+Ath15,Missed Tackles,13,Backs
+Ath15,Pen Conceded,3,Backs
+Ath15,Tackles Completed,20,Backs
+Ath15,Total Carries,16,Backs
+Ath15,Tries Scored,0,Backs
+Ath15,Try Assists,1,Backs
+Ath15,Turnovers Won,1,Backs
+Ath16,Defender Beaten,0,Forwards
+Ath16,Dominant Tackle,0,Forwards
+Ath16,Linebreak,0,Forwards
+Ath16,Missed Tackles,0,Forwards
+Ath16,Pen Conceded,0,Forwards
+Ath16,Tackles Completed,1,Forwards
+Ath16,Total Carries,0,Forwards
+Ath16,Tries Scored,0,Forwards
+Ath16,Try Assists,0,Forwards
+Ath16,Turnovers Won,0,Forwards
+Ath17,Defender Beaten,0,Forwards
+Ath17,Dominant Tackle,0,Forwards
+Ath17,Linebreak,0,Forwards
+Ath17,Missed Tackles,5,Forwards
+Ath17,Pen Conceded,2,Forwards
+Ath17,Tackles Completed,12,Forwards
+Ath17,Total Carries,10,Forwards
+Ath17,Tries Scored,1,Forwards
+Ath17,Try Assists,0,Forwards
+Ath17,Turnovers Won,0,Forwards
+Ath18,Defender Beaten,0,Forwards
+Ath18,Dominant Tackle,0,Forwards
+Ath18,Linebreak,0,Forwards
+Ath18,Missed Tackles,0,Forwards
+Ath18,Pen Conceded,1,Forwards
+Ath18,Tackles Completed,4,Forwards
+Ath18,Total Carries,0,Forwards
+Ath18,Tries Scored,0,Forwards
+Ath18,Try Assists,0,Forwards
+Ath18,Turnovers Won,0,Forwards
+Ath19,Defender Beaten,0,Forwards
+Ath19,Dominant Tackle,0,Forwards
+Ath19,Linebreak,0,Forwards
+Ath19,Missed Tackles,0,Forwards
+Ath19,Pen Conceded,0,Forwards
+Ath19,Tackles Completed,0,Forwards
+Ath19,Total Carries,1,Forwards
+Ath19,Tries Scored,0,Forwards
+Ath19,Try Assists,0,Forwards
+Ath19,Turnovers Won,0,Forwards
+Ath2,Defender Beaten,0,Forwards
+Ath2,Dominant Tackle,0,Forwards
+Ath2,Linebreak,0,Forwards
+Ath2,Missed Tackles,8,Forwards
+Ath2,Pen Conceded,0,Forwards
+Ath2,Tackles Completed,9,Forwards
+Ath2,Total Carries,5,Forwards
+Ath2,Tries Scored,0,Forwards
+Ath2,Try Assists,0,Forwards
+Ath2,Turnovers Won,0,Forwards
+Ath20,Defender Beaten,1,Backs
+Ath20,Dominant Tackle,0,Backs
+Ath20,Linebreak,0,Backs
+Ath20,Missed Tackles,4,Backs
+Ath20,Pen Conceded,1,Backs
+Ath20,Tackles Completed,5,Backs
+Ath20,Total Carries,1,Backs
+Ath20,Tries Scored,0,Backs
+Ath20,Try Assists,1,Backs
+Ath20,Turnovers Won,0,Backs
+Ath21,Defender Beaten,0,Backs
+Ath21,Dominant Tackle,0,Backs
+Ath21,Linebreak,0,Backs
+Ath21,Missed Tackles,1,Backs
+Ath21,Pen Conceded,0,Backs
+Ath21,Tackles Completed,2,Backs
+Ath21,Total Carries,0,Backs
+Ath21,Tries Scored,0,Backs
+Ath21,Try Assists,0,Backs
+Ath21,Turnovers Won,0,Backs
+Ath22,Defender Beaten,3,Forwards
+Ath22,Dominant Tackle,0,Forwards
+Ath22,Linebreak,0,Forwards
+Ath22,Missed Tackles,3,Forwards
+Ath22,Pen Conceded,0,Forwards
+Ath22,Tackles Completed,2,Forwards
+Ath22,Total Carries,7,Forwards
+Ath22,Tries Scored,0,Forwards
+Ath22,Try Assists,0,Forwards
+Ath22,Turnovers Won,0,Forwards
+Ath23,Defender Beaten,0,Forwards
+Ath23,Dominant Tackle,0,Forwards
+Ath23,Linebreak,0,Forwards
+Ath23,Missed Tackles,3,Forwards
+Ath23,Pen Conceded,3,Forwards
+Ath23,Tackles Completed,11,Forwards
+Ath23,Total Carries,5,Forwards
+Ath23,Tries Scored,0,Forwards
+Ath23,Try Assists,0,Forwards
+Ath23,Turnovers Won,1,Forwards
+Ath24,Defender Beaten,0,Backs
+Ath24,Dominant Tackle,0,Backs
+Ath24,Linebreak,0,Backs
+Ath24,Missed Tackles,1,Backs
+Ath24,Pen Conceded,0,Backs
+Ath24,Tackles Completed,8,Backs
+Ath24,Total Carries,3,Backs
+Ath24,Tries Scored,0,Backs
+Ath24,Try Assists,0,Backs
+Ath24,Turnovers Won,1,Backs
+Ath25,Defender Beaten,4,Backs
+Ath25,Dominant Tackle,0,Backs
+Ath25,Linebreak,0,Backs
+Ath25,Missed Tackles,2,Backs
+Ath25,Pen Conceded,0,Backs
+Ath25,Tackles Completed,4,Backs
+Ath25,Total Carries,5,Backs
+Ath25,Tries Scored,0,Backs
+Ath25,Try Assists,1,Backs
+Ath25,Turnovers Won,0,Backs
+Ath26,Defender Beaten,5,Backs
+Ath26,Dominant Tackle,2,Backs
+Ath26,Linebreak,1,Backs
+Ath26,Missed Tackles,2,Backs
+Ath26,Pen Conceded,1,Backs
+Ath26,Tackles Completed,14,Backs
+Ath26,Total Carries,15,Backs
+Ath26,Tries Scored,0,Backs
+Ath26,Try Assists,0,Backs
+Ath26,Turnovers Won,0,Backs
+Ath27,Defender Beaten,0,Forwards
+Ath27,Dominant Tackle,0,Forwards
+Ath27,Linebreak,0,Forwards
+Ath27,Missed Tackles,1,Forwards
+Ath27,Pen Conceded,1,Forwards
+Ath27,Tackles Completed,6,Forwards
+Ath27,Total Carries,2,Forwards
+Ath27,Tries Scored,0,Forwards
+Ath27,Try Assists,0,Forwards
+Ath27,Turnovers Won,1,Forwards
+Ath3,Defender Beaten,4,Forwards
+Ath3,Dominant Tackle,1,Forwards
+Ath3,Linebreak,0,Forwards
+Ath3,Missed Tackles,6,Forwards
+Ath3,Pen Conceded,2,Forwards
+Ath3,Tackles Completed,11,Forwards
+Ath3,Total Carries,8,Forwards
+Ath3,Tries Scored,0,Forwards
+Ath3,Try Assists,0,Forwards
+Ath3,Turnovers Won,1,Forwards
+Ath4,Defender Beaten,1,Forwards
+Ath4,Dominant Tackle,2,Forwards
+Ath4,Linebreak,0,Forwards
+Ath4,Missed Tackles,6,Forwards
+Ath4,Pen Conceded,3,Forwards
+Ath4,Tackles Completed,17,Forwards
+Ath4,Total Carries,7,Forwards
+Ath4,Tries Scored,1,Forwards
+Ath4,Try Assists,0,Forwards
+Ath4,Turnovers Won,2,Forwards
+Ath5,Defender Beaten,1,Forwards
+Ath5,Dominant Tackle,0,Forwards
+Ath5,Linebreak,0,Forwards
+Ath5,Missed Tackles,2,Forwards
+Ath5,Pen Conceded,0,Forwards
+Ath5,Tackles Completed,6,Forwards
+Ath5,Total Carries,3,Forwards
+Ath5,Tries Scored,0,Forwards
+Ath5,Try Assists,0,Forwards
+Ath5,Turnovers Won,3,Forwards
+Ath6,Defender Beaten,2,Forwards
+Ath6,Dominant Tackle,1,Forwards
+Ath6,Linebreak,0,Forwards
+Ath6,Missed Tackles,4,Forwards
+Ath6,Pen Conceded,1,Forwards
+Ath6,Tackles Completed,24,Forwards
+Ath6,Total Carries,10,Forwards
+Ath6,Tries Scored,0,Forwards
+Ath6,Try Assists,0,Forwards
+Ath6,Turnovers Won,3,Forwards
+Ath7,Defender Beaten,22,Forwards
+Ath7,Dominant Tackle,1,Forwards
+Ath7,Linebreak,3,Forwards
+Ath7,Missed Tackles,5,Forwards
+Ath7,Pen Conceded,0,Forwards
+Ath7,Tackles Completed,28,Forwards
+Ath7,Total Carries,21,Forwards
+Ath7,Tries Scored,3,Forwards
+Ath7,Try Assists,1,Forwards
+Ath7,Turnovers Won,1,Forwards
+Ath8,Defender Beaten,1,Forwards
+Ath8,Dominant Tackle,0,Forwards
+Ath8,Linebreak,0,Forwards
+Ath8,Missed Tackles,4,Forwards
+Ath8,Pen Conceded,0,Forwards
+Ath8,Tackles Completed,20,Forwards
+Ath8,Total Carries,3,Forwards
+Ath8,Tries Scored,3,Forwards
+Ath8,Try Assists,0,Forwards
+Ath8,Turnovers Won,1,Forwards
+Ath9,Defender Beaten,3,Backs
+Ath9,Dominant Tackle,0,Backs
+Ath9,Linebreak,0,Backs
+Ath9,Missed Tackles,1,Backs
+Ath9,Pen Conceded,0,Backs
+Ath9,Tackles Completed,8,Backs
+Ath9,Total Carries,6,Backs
+Ath9,Tries Scored,1,Backs
+Ath9,Try Assists,2,Backs
+Ath9,Turnovers Won,1,Backs
