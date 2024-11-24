@@ -1,4 +1,13 @@
 id,opposition,Event,Value
+Ath1,Chester,try,0
+Ath1,Chester,try assist,0
+Ath1,Chester,tackle,10
+Ath1,Chester,dominant tackle,1
+Ath1,Chester,missed tackle,1
+Ath1,Chester,carry,4
+Ath1,Chester,gls,3
+Ath1,Chester,linebreak,0
+Ath1,Chester,defender beaten,0
 Ath1,Durham Uni,try,1
 Ath1,Durham Uni,try assist,1
 Ath1,Durham Uni,tackle,3
@@ -98,6 +107,15 @@ Ath1,Wharfedale,carry,7
 Ath1,Wharfedale,gls,3
 Ath1,Wharfedale,linebreak,0
 Ath1,Wharfedale,defender beaten,1
+Ath10,Chester,try,0
+Ath10,Chester,try assist,0
+Ath10,Chester,tackle,0
+Ath10,Chester,dominant tackle,0
+Ath10,Chester,missed tackle,0
+Ath10,Chester,carry,1
+Ath10,Chester,gls,0
+Ath10,Chester,linebreak,0
+Ath10,Chester,defender beaten,0
 Ath10,Durham Uni,try,0
 Ath10,Durham Uni,try assist,0
 Ath10,Durham Uni,tackle,4
@@ -260,6 +278,15 @@ Ath11,Wharfedale,carry,9
 Ath11,Wharfedale,gls,3
 Ath11,Wharfedale,linebreak,1
 Ath11,Wharfedale,defender beaten,4
+Ath12,Chester,try,0
+Ath12,Chester,try assist,1
+Ath12,Chester,tackle,13
+Ath12,Chester,dominant tackle,1
+Ath12,Chester,missed tackle,3
+Ath12,Chester,carry,2
+Ath12,Chester,gls,0
+Ath12,Chester,linebreak,1
+Ath12,Chester,defender beaten,0
 Ath12,Durham Uni,try,1
 Ath12,Durham Uni,try assist,0
 Ath12,Durham Uni,tackle,7
@@ -359,6 +386,15 @@ Ath12,Wharfedale,carry,3
 Ath12,Wharfedale,gls,1
 Ath12,Wharfedale,linebreak,1
 Ath12,Wharfedale,defender beaten,2
+Ath13,Chester,try,1
+Ath13,Chester,try assist,0
+Ath13,Chester,tackle,9
+Ath13,Chester,dominant tackle,0
+Ath13,Chester,missed tackle,0
+Ath13,Chester,carry,7
+Ath13,Chester,gls,5
+Ath13,Chester,linebreak,0
+Ath13,Chester,defender beaten,0
 Ath13,Durham Uni,try,0
 Ath13,Durham Uni,try assist,0
 Ath13,Durham Uni,tackle,2
@@ -458,6 +494,15 @@ Ath13,Wharfedale,carry,6
 Ath13,Wharfedale,gls,4
 Ath13,Wharfedale,linebreak,0
 Ath13,Wharfedale,defender beaten,4
+Ath14,Chester,try,0
+Ath14,Chester,try assist,0
+Ath14,Chester,tackle,3
+Ath14,Chester,dominant tackle,0
+Ath14,Chester,missed tackle,2
+Ath14,Chester,carry,5
+Ath14,Chester,gls,0
+Ath14,Chester,linebreak,0
+Ath14,Chester,defender beaten,1
 Ath14,Durham Uni,try,0
 Ath14,Durham Uni,try assist,0
 Ath14,Durham Uni,tackle,2
@@ -548,6 +593,15 @@ Ath14,Wharfedale,carry,7
 Ath14,Wharfedale,gls,1
 Ath14,Wharfedale,linebreak,0
 Ath14,Wharfedale,defender beaten,4
+Ath15,Chester,try,0
+Ath15,Chester,try assist,0
+Ath15,Chester,tackle,7
+Ath15,Chester,dominant tackle,0
+Ath15,Chester,missed tackle,1
+Ath15,Chester,carry,7
+Ath15,Chester,gls,0
+Ath15,Chester,linebreak,0
+Ath15,Chester,defender beaten,3
 Ath15,Durham Uni,try,0
 Ath15,Durham Uni,try assist,0
 Ath15,Durham Uni,tackle,1
@@ -647,6 +701,15 @@ Ath15,Wharfedale,carry,7
 Ath15,Wharfedale,gls,3
 Ath15,Wharfedale,linebreak,0
 Ath15,Wharfedale,defender beaten,2
+Ath16,Chester,try,0
+Ath16,Chester,try assist,0
+Ath16,Chester,tackle,5
+Ath16,Chester,dominant tackle,0
+Ath16,Chester,missed tackle,0
+Ath16,Chester,carry,3
+Ath16,Chester,gls,2
+Ath16,Chester,linebreak,0
+Ath16,Chester,defender beaten,0
 Ath16,Durham Uni,try,1
 Ath16,Durham Uni,try assist,0
 Ath16,Durham Uni,tackle,1
@@ -890,6 +953,15 @@ Ath19,Tynedale,carry,0
 Ath19,Tynedale,gls,0
 Ath19,Tynedale,linebreak,0
 Ath19,Tynedale,defender beaten,0
+Ath2,Chester,try,0
+Ath2,Chester,try assist,0
+Ath2,Chester,tackle,8
+Ath2,Chester,dominant tackle,0
+Ath2,Chester,missed tackle,1
+Ath2,Chester,carry,2
+Ath2,Chester,gls,1
+Ath2,Chester,linebreak,0
+Ath2,Chester,defender beaten,0
 Ath2,Durham Uni,try,0
 Ath2,Durham Uni,try assist,0
 Ath2,Durham Uni,tackle,3
@@ -1034,6 +1106,15 @@ Ath21,Durham Uni,carry,5
 Ath21,Durham Uni,gls,0
 Ath21,Durham Uni,linebreak,0
 Ath21,Durham Uni,defender beaten,0
+Ath22,Chester,try,1
+Ath22,Chester,try assist,0
+Ath22,Chester,tackle,5
+Ath22,Chester,dominant tackle,0
+Ath22,Chester,missed tackle,3
+Ath22,Chester,carry,1
+Ath22,Chester,gls,0
+Ath22,Chester,linebreak,1
+Ath22,Chester,defender beaten,0
 Ath22,Durham Uni,try,1
 Ath22,Durham Uni,try assist,0
 Ath22,Durham Uni,tackle,2
@@ -1133,6 +1214,15 @@ Ath22,Wharfedale,carry,3
 Ath22,Wharfedale,gls,1
 Ath22,Wharfedale,linebreak,0
 Ath22,Wharfedale,defender beaten,3
+Ath23,Chester,try,0
+Ath23,Chester,try assist,0
+Ath23,Chester,tackle,1
+Ath23,Chester,dominant tackle,0
+Ath23,Chester,missed tackle,0
+Ath23,Chester,carry,2
+Ath23,Chester,gls,0
+Ath23,Chester,linebreak,0
+Ath23,Chester,defender beaten,0
 Ath23,Durham Uni,try,0
 Ath23,Durham Uni,try assist,0
 Ath23,Durham Uni,tackle,0
@@ -1160,6 +1250,15 @@ Ath23,Sheffield,carry,3
 Ath23,Sheffield,gls,1
 Ath23,Sheffield,linebreak,0
 Ath23,Sheffield,defender beaten,0
+Ath24,Chester,try,0
+Ath24,Chester,try assist,0
+Ath24,Chester,tackle,5
+Ath24,Chester,dominant tackle,0
+Ath24,Chester,missed tackle,0
+Ath24,Chester,carry,2
+Ath24,Chester,gls,2
+Ath24,Chester,linebreak,1
+Ath24,Chester,defender beaten,0
 Ath24,Durham Uni,try,0
 Ath24,Durham Uni,try assist,0
 Ath24,Durham Uni,tackle,0
@@ -1214,6 +1313,15 @@ Ath24,Preston,carry,3
 Ath24,Preston,gls,2
 Ath24,Preston,linebreak,0
 Ath24,Preston,defender beaten,0
+Ath25,Chester,try,0
+Ath25,Chester,try assist,0
+Ath25,Chester,tackle,0
+Ath25,Chester,dominant tackle,0
+Ath25,Chester,missed tackle,0
+Ath25,Chester,carry,3
+Ath25,Chester,gls,0
+Ath25,Chester,linebreak,0
+Ath25,Chester,defender beaten,0
 Ath25,Durham Uni,try,0
 Ath25,Durham Uni,try assist,0
 Ath25,Durham Uni,tackle,0
@@ -1295,6 +1403,15 @@ Ath27,Lymm,carry,10
 Ath27,Lymm,gls,8
 Ath27,Lymm,linebreak,0
 Ath27,Lymm,defender beaten,7
+Ath29,Chester,try,0
+Ath29,Chester,try assist,0
+Ath29,Chester,tackle,7
+Ath29,Chester,dominant tackle,0
+Ath29,Chester,missed tackle,1
+Ath29,Chester,carry,6
+Ath29,Chester,gls,1
+Ath29,Chester,linebreak,0
+Ath29,Chester,defender beaten,1
 Ath29,Harrogate,try,1
 Ath29,Harrogate,try assist,0
 Ath29,Harrogate,tackle,16
@@ -1358,6 +1475,15 @@ Ath29,Wharfedale,carry,10
 Ath29,Wharfedale,gls,5
 Ath29,Wharfedale,linebreak,0
 Ath29,Wharfedale,defender beaten,2
+Ath3,Chester,try,0
+Ath3,Chester,try assist,0
+Ath3,Chester,tackle,6
+Ath3,Chester,dominant tackle,0
+Ath3,Chester,missed tackle,0
+Ath3,Chester,carry,1
+Ath3,Chester,gls,1
+Ath3,Chester,linebreak,0
+Ath3,Chester,defender beaten,0
 Ath3,Durham Uni,try,0
 Ath3,Durham Uni,try assist,0
 Ath3,Durham Uni,tackle,2
@@ -1457,6 +1583,15 @@ Ath34,Leeds,carry,2
 Ath34,Leeds,gls,1
 Ath34,Leeds,linebreak,0
 Ath34,Leeds,defender beaten,0
+Ath35,Chester,try,1
+Ath35,Chester,try assist,0
+Ath35,Chester,tackle,3
+Ath35,Chester,dominant tackle,1
+Ath35,Chester,missed tackle,0
+Ath35,Chester,carry,5
+Ath35,Chester,gls,3
+Ath35,Chester,linebreak,0
+Ath35,Chester,defender beaten,2
 Ath35,Hull I's,try,1
 Ath35,Hull I's,try assist,0
 Ath35,Hull I's,tackle,4
@@ -1511,6 +1646,15 @@ Ath36,Sheffield,carry,6
 Ath36,Sheffield,gls,5
 Ath36,Sheffield,linebreak,0
 Ath36,Sheffield,defender beaten,2
+Ath39,Chester,try,0
+Ath39,Chester,try assist,0
+Ath39,Chester,tackle,6
+Ath39,Chester,dominant tackle,0
+Ath39,Chester,missed tackle,0
+Ath39,Chester,carry,1
+Ath39,Chester,gls,0
+Ath39,Chester,linebreak,0
+Ath39,Chester,defender beaten,0
 Ath39,Preston,try,0
 Ath39,Preston,try assist,0
 Ath39,Preston,tackle,4
@@ -1520,6 +1664,15 @@ Ath39,Preston,carry,5
 Ath39,Preston,gls,1
 Ath39,Preston,linebreak,0
 Ath39,Preston,defender beaten,0
+Ath4,Chester,try,0
+Ath4,Chester,try assist,0
+Ath4,Chester,tackle,9
+Ath4,Chester,dominant tackle,0
+Ath4,Chester,missed tackle,1
+Ath4,Chester,carry,8
+Ath4,Chester,gls,0
+Ath4,Chester,linebreak,0
+Ath4,Chester,defender beaten,0
 Ath4,Durham Uni,try,0
 Ath4,Durham Uni,try assist,0
 Ath4,Durham Uni,tackle,2
@@ -1610,6 +1763,15 @@ Ath4,Wharfedale,carry,0
 Ath4,Wharfedale,gls,0
 Ath4,Wharfedale,linebreak,0
 Ath4,Wharfedale,defender beaten,0
+Ath40,Chester,try,0
+Ath40,Chester,try assist,0
+Ath40,Chester,tackle,3
+Ath40,Chester,dominant tackle,0
+Ath40,Chester,missed tackle,0
+Ath40,Chester,carry,1
+Ath40,Chester,gls,0
+Ath40,Chester,linebreak,0
+Ath40,Chester,defender beaten,0
 Ath5,Durham Uni,try,1
 Ath5,Durham Uni,try assist,0
 Ath5,Durham Uni,tackle,2
@@ -1673,6 +1835,15 @@ Ath5,Wharfedale,carry,6
 Ath5,Wharfedale,gls,1
 Ath5,Wharfedale,linebreak,0
 Ath5,Wharfedale,defender beaten,0
+Ath6,Chester,try,0
+Ath6,Chester,try assist,0
+Ath6,Chester,tackle,12
+Ath6,Chester,dominant tackle,1
+Ath6,Chester,missed tackle,1
+Ath6,Chester,carry,10
+Ath6,Chester,gls,4
+Ath6,Chester,linebreak,0
+Ath6,Chester,defender beaten,2
 Ath6,Durham Uni,try,1
 Ath6,Durham Uni,try assist,0
 Ath6,Durham Uni,tackle,5
@@ -1772,6 +1943,15 @@ Ath6,Wharfedale,carry,9
 Ath6,Wharfedale,gls,4
 Ath6,Wharfedale,linebreak,0
 Ath6,Wharfedale,defender beaten,0
+Ath7,Chester,try,0
+Ath7,Chester,try assist,0
+Ath7,Chester,tackle,2
+Ath7,Chester,dominant tackle,0
+Ath7,Chester,missed tackle,0
+Ath7,Chester,carry,0
+Ath7,Chester,gls,0
+Ath7,Chester,linebreak,0
+Ath7,Chester,defender beaten,0
 Ath7,Durham Uni,try,1
 Ath7,Durham Uni,try assist,0
 Ath7,Durham Uni,tackle,6
@@ -1862,6 +2042,15 @@ Ath7,Wharfedale,carry,4
 Ath7,Wharfedale,gls,3
 Ath7,Wharfedale,linebreak,0
 Ath7,Wharfedale,defender beaten,0
+Ath8,Chester,try,0
+Ath8,Chester,try assist,0
+Ath8,Chester,tackle,12
+Ath8,Chester,dominant tackle,0
+Ath8,Chester,missed tackle,2
+Ath8,Chester,carry,6
+Ath8,Chester,gls,1
+Ath8,Chester,linebreak,0
+Ath8,Chester,defender beaten,0
 Ath8,Durham Uni,try,0
 Ath8,Durham Uni,try assist,0
 Ath8,Durham Uni,tackle,3
@@ -2051,6 +2240,15 @@ Team,Harrogate,carry,0
 Team,Harrogate,gls,0
 Team,Harrogate,linebreak,0
 Team,Harrogate,defender beaten,0
+team,Chester,try,0
+team,Chester,try assist,0
+team,Chester,tackle,0
+team,Chester,dominant tackle,0
+team,Chester,missed tackle,0
+team,Chester,carry,0
+team,Chester,gls,0
+team,Chester,linebreak,0
+team,Chester,defender beaten,0
 team,Lymm,try,0
 team,Lymm,try assist,0
 team,Lymm,tackle,0
