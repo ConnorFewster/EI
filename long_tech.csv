@@ -2,20 +2,20 @@ ID,KPI,value,grp
 Ath1,Defender Beaten,2,Forwards
 Ath1,Dominant Tackle,1,Forwards
 Ath1,Linebreak,1,Forwards
-Ath1,Missed Tackles,1,Forwards
+Ath1,Missed Tackles,3,Forwards
 Ath1,Pen Conceded,4,Forwards
-Ath1,Tackles Completed,17,Forwards
-Ath1,Total Carries,29,Forwards
-Ath1,Tries Scored,0,Forwards
-Ath1,Try Assists,1,Forwards
+Ath1,Tackles Completed,25,Forwards
+Ath1,Total Carries,37,Forwards
+Ath1,Tries Scored,1,Forwards
+Ath1,Try Assists,2,Forwards
 Ath1,Turnovers Won,3,Forwards
-Ath10,Defender Beaten,10,Backs
+Ath10,Defender Beaten,12,Backs
 Ath10,Dominant Tackle,1,Backs
 Ath10,Linebreak,1,Backs
 Ath10,Missed Tackles,5,Backs
 Ath10,Pen Conceded,3,Backs
-Ath10,Tackles Completed,32,Backs
-Ath10,Total Carries,17,Backs
+Ath10,Tackles Completed,34,Backs
+Ath10,Total Carries,20,Backs
 Ath10,Tries Scored,1,Backs
 Ath10,Try Assists,2,Backs
 Ath10,Turnovers Won,3,Backs
@@ -29,26 +29,26 @@ Ath11,Total Carries,5,Backs
 Ath11,Tries Scored,1,Backs
 Ath11,Try Assists,0,Backs
 Ath11,Turnovers Won,0,Backs
-Ath12,Defender Beaten,10,Backs
+Ath12,Defender Beaten,15,Backs
 Ath12,Dominant Tackle,1,Backs
-Ath12,Linebreak,1,Backs
+Ath12,Linebreak,2,Backs
 Ath12,Missed Tackles,6,Backs
-Ath12,Pen Conceded,4,Backs
-Ath12,Tackles Completed,25,Backs
-Ath12,Total Carries,20,Backs
+Ath12,Pen Conceded,5,Backs
+Ath12,Tackles Completed,26,Backs
+Ath12,Total Carries,25,Backs
 Ath12,Tries Scored,1,Backs
 Ath12,Try Assists,0,Backs
 Ath12,Turnovers Won,2,Backs
-Ath13,Defender Beaten,2,Backs
+Ath13,Defender Beaten,3,Backs
 Ath13,Dominant Tackle,0,Backs
 Ath13,Linebreak,2,Backs
-Ath13,Missed Tackles,5,Backs
+Ath13,Missed Tackles,7,Backs
 Ath13,Pen Conceded,1,Backs
-Ath13,Tackles Completed,4,Backs
-Ath13,Total Carries,9,Backs
+Ath13,Tackles Completed,7,Backs
+Ath13,Total Carries,13,Backs
 Ath13,Tries Scored,1,Backs
 Ath13,Try Assists,0,Backs
-Ath13,Turnovers Won,1,Backs
+Ath13,Turnovers Won,2,Backs
 Ath14,Defender Beaten,1,Backs
 Ath14,Dominant Tackle,0,Backs
 Ath14,Linebreak,0,Backs
@@ -59,16 +59,16 @@ Ath14,Total Carries,1,Backs
 Ath14,Tries Scored,0,Backs
 Ath14,Try Assists,0,Backs
 Ath14,Turnovers Won,0,Backs
-Ath15,Defender Beaten,10,Backs
+Ath15,Defender Beaten,17,Backs
 Ath15,Dominant Tackle,0,Backs
-Ath15,Linebreak,2,Backs
+Ath15,Linebreak,3,Backs
 Ath15,Missed Tackles,13,Backs
 Ath15,Pen Conceded,4,Backs
-Ath15,Tackles Completed,22,Backs
-Ath15,Total Carries,22,Backs
+Ath15,Tackles Completed,26,Backs
+Ath15,Total Carries,29,Backs
 Ath15,Tries Scored,0,Backs
 Ath15,Try Assists,1,Backs
-Ath15,Turnovers Won,1,Backs
+Ath15,Turnovers Won,2,Backs
 Ath16,Defender Beaten,0,Forwards
 Ath16,Dominant Tackle,0,Forwards
 Ath16,Linebreak,0,Forwards
@@ -82,10 +82,10 @@ Ath16,Turnovers Won,0,Forwards
 Ath17,Defender Beaten,0,Forwards
 Ath17,Dominant Tackle,0,Forwards
 Ath17,Linebreak,0,Forwards
-Ath17,Missed Tackles,6,Forwards
+Ath17,Missed Tackles,7,Forwards
 Ath17,Pen Conceded,3,Forwards
-Ath17,Tackles Completed,15,Forwards
-Ath17,Total Carries,12,Forwards
+Ath17,Tackles Completed,20,Forwards
+Ath17,Total Carries,15,Forwards
 Ath17,Tries Scored,1,Forwards
 Ath17,Try Assists,0,Forwards
 Ath17,Turnovers Won,0,Forwards
@@ -102,21 +102,21 @@ Ath18,Turnovers Won,0,Forwards
 Ath19,Defender Beaten,0,Forwards
 Ath19,Dominant Tackle,0,Forwards
 Ath19,Linebreak,0,Forwards
-Ath19,Missed Tackles,0,Forwards
-Ath19,Pen Conceded,0,Forwards
-Ath19,Tackles Completed,2,Forwards
-Ath19,Total Carries,1,Forwards
+Ath19,Missed Tackles,5,Forwards
+Ath19,Pen Conceded,1,Forwards
+Ath19,Tackles Completed,9,Forwards
+Ath19,Total Carries,2,Forwards
 Ath19,Tries Scored,0,Forwards
 Ath19,Try Assists,0,Forwards
-Ath19,Turnovers Won,0,Forwards
+Ath19,Turnovers Won,1,Forwards
 Ath2,Defender Beaten,0,Forwards
-Ath2,Dominant Tackle,0,Forwards
+Ath2,Dominant Tackle,3,Forwards
 Ath2,Linebreak,0,Forwards
-Ath2,Missed Tackles,9,Forwards
+Ath2,Missed Tackles,12,Forwards
 Ath2,Pen Conceded,0,Forwards
-Ath2,Tackles Completed,12,Forwards
-Ath2,Total Carries,8,Forwards
-Ath2,Tries Scored,0,Forwards
+Ath2,Tackles Completed,20,Forwards
+Ath2,Total Carries,16,Forwards
+Ath2,Tries Scored,1,Forwards
 Ath2,Try Assists,0,Forwards
 Ath2,Turnovers Won,1,Forwards
 Ath20,Defender Beaten,1,Backs
@@ -139,63 +139,63 @@ Ath21,Total Carries,0,Backs
 Ath21,Tries Scored,0,Backs
 Ath21,Try Assists,0,Backs
 Ath21,Turnovers Won,0,Backs
-Ath22,Defender Beaten,3,Forwards
+Ath22,Defender Beaten,6,Forwards
 Ath22,Dominant Tackle,0,Forwards
 Ath22,Linebreak,0,Forwards
-Ath22,Missed Tackles,3,Forwards
+Ath22,Missed Tackles,7,Forwards
 Ath22,Pen Conceded,0,Forwards
 Ath22,Tackles Completed,4,Forwards
-Ath22,Total Carries,9,Forwards
+Ath22,Total Carries,12,Forwards
 Ath22,Tries Scored,0,Forwards
 Ath22,Try Assists,0,Forwards
 Ath22,Turnovers Won,0,Forwards
 Ath23,Defender Beaten,0,Forwards
 Ath23,Dominant Tackle,0,Forwards
 Ath23,Linebreak,0,Forwards
-Ath23,Missed Tackles,4,Forwards
-Ath23,Pen Conceded,4,Forwards
-Ath23,Tackles Completed,13,Forwards
-Ath23,Total Carries,5,Forwards
+Ath23,Missed Tackles,6,Forwards
+Ath23,Pen Conceded,5,Forwards
+Ath23,Tackles Completed,20,Forwards
+Ath23,Total Carries,7,Forwards
 Ath23,Tries Scored,0,Forwards
 Ath23,Try Assists,0,Forwards
 Ath23,Turnovers Won,2,Forwards
-Ath24,Defender Beaten,0,Backs
+Ath24,Defender Beaten,1,Backs
 Ath24,Dominant Tackle,0,Backs
 Ath24,Linebreak,0,Backs
 Ath24,Missed Tackles,1,Backs
-Ath24,Pen Conceded,0,Backs
-Ath24,Tackles Completed,8,Backs
-Ath24,Total Carries,3,Backs
+Ath24,Pen Conceded,1,Backs
+Ath24,Tackles Completed,9,Backs
+Ath24,Total Carries,5,Backs
 Ath24,Tries Scored,0,Backs
 Ath24,Try Assists,0,Backs
 Ath24,Turnovers Won,1,Backs
-Ath25,Defender Beaten,6,Backs
+Ath25,Defender Beaten,7,Backs
 Ath25,Dominant Tackle,0,Backs
 Ath25,Linebreak,1,Backs
 Ath25,Missed Tackles,5,Backs
 Ath25,Pen Conceded,0,Backs
-Ath25,Tackles Completed,7,Backs
-Ath25,Total Carries,8,Backs
+Ath25,Tackles Completed,9,Backs
+Ath25,Total Carries,9,Backs
 Ath25,Tries Scored,0,Backs
 Ath25,Try Assists,1,Backs
 Ath25,Turnovers Won,0,Backs
 Ath26,Defender Beaten,5,Backs
 Ath26,Dominant Tackle,2,Backs
-Ath26,Linebreak,1,Backs
+Ath26,Linebreak,2,Backs
 Ath26,Missed Tackles,2,Backs
 Ath26,Pen Conceded,1,Backs
-Ath26,Tackles Completed,14,Backs
-Ath26,Total Carries,15,Backs
-Ath26,Tries Scored,0,Backs
+Ath26,Tackles Completed,15,Backs
+Ath26,Total Carries,17,Backs
+Ath26,Tries Scored,1,Backs
 Ath26,Try Assists,0,Backs
 Ath26,Turnovers Won,0,Backs
 Ath27,Defender Beaten,0,Forwards
 Ath27,Dominant Tackle,0,Forwards
 Ath27,Linebreak,0,Forwards
-Ath27,Missed Tackles,2,Forwards
+Ath27,Missed Tackles,4,Forwards
 Ath27,Pen Conceded,1,Forwards
-Ath27,Tackles Completed,12,Forwards
-Ath27,Total Carries,3,Forwards
+Ath27,Tackles Completed,17,Forwards
+Ath27,Total Carries,5,Forwards
 Ath27,Tries Scored,0,Forwards
 Ath27,Try Assists,0,Forwards
 Ath27,Turnovers Won,1,Forwards
@@ -204,37 +204,37 @@ Ath29,Dominant Tackle,0,Backs
 Ath29,Linebreak,1,Backs
 Ath29,Missed Tackles,1,Backs
 Ath29,Pen Conceded,0,Backs
-Ath29,Tackles Completed,1,Backs
-Ath29,Total Carries,4,Backs
+Ath29,Tackles Completed,3,Backs
+Ath29,Total Carries,5,Backs
 Ath29,Tries Scored,1,Backs
 Ath29,Try Assists,0,Backs
 Ath29,Turnovers Won,0,Backs
 Ath3,Defender Beaten,6,Forwards
 Ath3,Dominant Tackle,2,Forwards
 Ath3,Linebreak,1,Forwards
-Ath3,Missed Tackles,9,Forwards
+Ath3,Missed Tackles,11,Forwards
 Ath3,Pen Conceded,2,Forwards
-Ath3,Tackles Completed,15,Forwards
-Ath3,Total Carries,12,Forwards
+Ath3,Tackles Completed,20,Forwards
+Ath3,Total Carries,16,Forwards
 Ath3,Tries Scored,0,Forwards
 Ath3,Try Assists,0,Forwards
 Ath3,Turnovers Won,1,Forwards
 Ath4,Defender Beaten,2,Forwards
-Ath4,Dominant Tackle,2,Forwards
+Ath4,Dominant Tackle,3,Forwards
 Ath4,Linebreak,0,Forwards
-Ath4,Missed Tackles,7,Forwards
+Ath4,Missed Tackles,8,Forwards
 Ath4,Pen Conceded,3,Forwards
-Ath4,Tackles Completed,22,Forwards
-Ath4,Total Carries,12,Forwards
+Ath4,Tackles Completed,29,Forwards
+Ath4,Total Carries,15,Forwards
 Ath4,Tries Scored,1,Forwards
 Ath4,Try Assists,0,Forwards
 Ath4,Turnovers Won,2,Forwards
 Ath5,Defender Beaten,1,Forwards
-Ath5,Dominant Tackle,0,Forwards
+Ath5,Dominant Tackle,1,Forwards
 Ath5,Linebreak,0,Forwards
 Ath5,Missed Tackles,2,Forwards
 Ath5,Pen Conceded,0,Forwards
-Ath5,Tackles Completed,8,Forwards
+Ath5,Tackles Completed,10,Forwards
 Ath5,Total Carries,3,Forwards
 Ath5,Tries Scored,0,Forwards
 Ath5,Try Assists,0,Forwards
@@ -245,17 +245,17 @@ Ath6,Linebreak,0,Forwards
 Ath6,Missed Tackles,4,Forwards
 Ath6,Pen Conceded,1,Forwards
 Ath6,Tackles Completed,24,Forwards
-Ath6,Total Carries,10,Forwards
+Ath6,Total Carries,11,Forwards
 Ath6,Tries Scored,0,Forwards
 Ath6,Try Assists,0,Forwards
 Ath6,Turnovers Won,3,Forwards
-Ath7,Defender Beaten,34,Forwards
-Ath7,Dominant Tackle,3,Forwards
-Ath7,Linebreak,4,Forwards
-Ath7,Missed Tackles,6,Forwards
-Ath7,Pen Conceded,1,Forwards
-Ath7,Tackles Completed,43,Forwards
-Ath7,Total Carries,35,Forwards
+Ath7,Defender Beaten,37,Forwards
+Ath7,Dominant Tackle,6,Forwards
+Ath7,Linebreak,5,Forwards
+Ath7,Missed Tackles,8,Forwards
+Ath7,Pen Conceded,2,Forwards
+Ath7,Tackles Completed,56,Forwards
+Ath7,Total Carries,43,Forwards
 Ath7,Tries Scored,3,Forwards
 Ath7,Try Assists,2,Forwards
 Ath7,Turnovers Won,1,Forwards
@@ -269,13 +269,13 @@ Ath8,Total Carries,3,Forwards
 Ath8,Tries Scored,3,Forwards
 Ath8,Try Assists,0,Forwards
 Ath8,Turnovers Won,1,Forwards
-Ath9,Defender Beaten,12,Backs
-Ath9,Dominant Tackle,1,Backs
-Ath9,Linebreak,1,Backs
-Ath9,Missed Tackles,2,Backs
+Ath9,Defender Beaten,16,Backs
+Ath9,Dominant Tackle,3,Backs
+Ath9,Linebreak,3,Backs
+Ath9,Missed Tackles,3,Backs
 Ath9,Pen Conceded,1,Backs
-Ath9,Tackles Completed,15,Backs
-Ath9,Total Carries,18,Backs
-Ath9,Tries Scored,3,Backs
+Ath9,Tackles Completed,21,Backs
+Ath9,Total Carries,23,Backs
+Ath9,Tries Scored,5,Backs
 Ath9,Try Assists,3,Backs
 Ath9,Turnovers Won,1,Backs
