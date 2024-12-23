@@ -107,6 +107,15 @@ Ath1,Tynedale,carry,9
 Ath1,Tynedale,gls,3
 Ath1,Tynedale,linebreak,0
 Ath1,Tynedale,defender beaten,0
+Ath1,Tynedale (H),try,0
+Ath1,Tynedale (H),try assist,0
+Ath1,Tynedale (H),tackle,8
+Ath1,Tynedale (H),dominant tackle,0
+Ath1,Tynedale (H),missed tackle,3
+Ath1,Tynedale (H),carry,1
+Ath1,Tynedale (H),gls,0
+Ath1,Tynedale (H),linebreak,0
+Ath1,Tynedale (H),defender beaten,0
 Ath1,Wharfedale,try,0
 Ath1,Wharfedale,try assist,0
 Ath1,Wharfedale,tackle,6
@@ -404,6 +413,15 @@ Ath12,Tynedale,carry,4
 Ath12,Tynedale,gls,2
 Ath12,Tynedale,linebreak,0
 Ath12,Tynedale,defender beaten,1
+Ath12,Tynedale (H),try,1
+Ath12,Tynedale (H),try assist,0
+Ath12,Tynedale (H),tackle,9
+Ath12,Tynedale (H),dominant tackle,0
+Ath12,Tynedale (H),missed tackle,2
+Ath12,Tynedale (H),carry,4
+Ath12,Tynedale (H),gls,2
+Ath12,Tynedale (H),linebreak,0
+Ath12,Tynedale (H),defender beaten,3
 Ath12,Wharfedale,try,1
 Ath12,Wharfedale,try assist,0
 Ath12,Wharfedale,tackle,9
@@ -521,6 +539,15 @@ Ath13,Tynedale,carry,4
 Ath13,Tynedale,gls,1
 Ath13,Tynedale,linebreak,0
 Ath13,Tynedale,defender beaten,1
+Ath13,Tynedale (H),try,0
+Ath13,Tynedale (H),try assist,0
+Ath13,Tynedale (H),tackle,5
+Ath13,Tynedale (H),dominant tackle,0
+Ath13,Tynedale (H),missed tackle,0
+Ath13,Tynedale (H),carry,2
+Ath13,Tynedale (H),gls,1
+Ath13,Tynedale (H),linebreak,0
+Ath13,Tynedale (H),defender beaten,1
 Ath13,Wharfedale,try,0
 Ath13,Wharfedale,try assist,0
 Ath13,Wharfedale,tackle,13
@@ -629,6 +656,15 @@ Ath14,Tynedale,carry,6
 Ath14,Tynedale,gls,1
 Ath14,Tynedale,linebreak,0
 Ath14,Tynedale,defender beaten,0
+Ath14,Tynedale (H),try,0
+Ath14,Tynedale (H),try assist,0
+Ath14,Tynedale (H),tackle,3
+Ath14,Tynedale (H),dominant tackle,0
+Ath14,Tynedale (H),missed tackle,0
+Ath14,Tynedale (H),carry,2
+Ath14,Tynedale (H),gls,1
+Ath14,Tynedale (H),linebreak,0
+Ath14,Tynedale (H),defender beaten,0
 Ath14,Wharfedale,try,0
 Ath14,Wharfedale,try assist,0
 Ath14,Wharfedale,tackle,5
@@ -746,6 +782,15 @@ Ath15,Tynedale,carry,10
 Ath15,Tynedale,gls,2
 Ath15,Tynedale,linebreak,0
 Ath15,Tynedale,defender beaten,4
+Ath15,Tynedale (H),try,0
+Ath15,Tynedale (H),try assist,2
+Ath15,Tynedale (H),tackle,14
+Ath15,Tynedale (H),dominant tackle,0
+Ath15,Tynedale (H),missed tackle,2
+Ath15,Tynedale (H),carry,4
+Ath15,Tynedale (H),gls,2
+Ath15,Tynedale (H),linebreak,1
+Ath15,Tynedale (H),defender beaten,1
 Ath15,Wharfedale,try,0
 Ath15,Wharfedale,try assist,0
 Ath15,Wharfedale,tackle,5
@@ -989,6 +1034,15 @@ Ath18,Sheffield Tigers,carry,1
 Ath18,Sheffield Tigers,gls,0
 Ath18,Sheffield Tigers,linebreak,0
 Ath18,Sheffield Tigers,defender beaten,0
+Ath18,Tynedale (H),try,0
+Ath18,Tynedale (H),try assist,0
+Ath18,Tynedale (H),tackle,6
+Ath18,Tynedale (H),dominant tackle,0
+Ath18,Tynedale (H),missed tackle,2
+Ath18,Tynedale (H),carry,0
+Ath18,Tynedale (H),gls,0
+Ath18,Tynedale (H),linebreak,0
+Ath18,Tynedale (H),defender beaten,0
 Ath18,Wharfedale,try,0
 Ath18,Wharfedale,try assist,0
 Ath18,Wharfedale,tackle,5
@@ -1124,6 +1178,15 @@ Ath2,Tynedale,carry,3
 Ath2,Tynedale,gls,1
 Ath2,Tynedale,linebreak,0
 Ath2,Tynedale,defender beaten,0
+Ath2,Tynedale (H),try,0
+Ath2,Tynedale (H),try assist,0
+Ath2,Tynedale (H),tackle,11
+Ath2,Tynedale (H),dominant tackle,0
+Ath2,Tynedale (H),missed tackle,1
+Ath2,Tynedale (H),carry,3
+Ath2,Tynedale (H),gls,1
+Ath2,Tynedale (H),linebreak,0
+Ath2,Tynedale (H),defender beaten,0
 Ath2,Wharfedale,try,0
 Ath2,Wharfedale,try assist,0
 Ath2,Wharfedale,tackle,9
@@ -1277,6 +1340,15 @@ Ath22,Tynedale,carry,1
 Ath22,Tynedale,gls,0
 Ath22,Tynedale,linebreak,0
 Ath22,Tynedale,defender beaten,0
+Ath22,Tynedale (H),try,0
+Ath22,Tynedale (H),try assist,0
+Ath22,Tynedale (H),tackle,7
+Ath22,Tynedale (H),dominant tackle,0
+Ath22,Tynedale (H),missed tackle,2
+Ath22,Tynedale (H),carry,0
+Ath22,Tynedale (H),gls,0
+Ath22,Tynedale (H),linebreak,0
+Ath22,Tynedale (H),defender beaten,0
 Ath22,Wharfedale,try,2
 Ath22,Wharfedale,try assist,0
 Ath22,Wharfedale,tackle,2
@@ -1331,6 +1403,15 @@ Ath23,Sheffield Tigers,carry,5
 Ath23,Sheffield Tigers,gls,1
 Ath23,Sheffield Tigers,linebreak,0
 Ath23,Sheffield Tigers,defender beaten,0
+Ath23,Tynedale (H),try,1
+Ath23,Tynedale (H),try assist,0
+Ath23,Tynedale (H),tackle,7
+Ath23,Tynedale (H),dominant tackle,0
+Ath23,Tynedale (H),missed tackle,1
+Ath23,Tynedale (H),carry,2
+Ath23,Tynedale (H),gls,1
+Ath23,Tynedale (H),linebreak,1
+Ath23,Tynedale (H),defender beaten,0
 Ath24,Chester,try,0
 Ath24,Chester,try assist,0
 Ath24,Chester,tackle,5
@@ -1403,6 +1484,15 @@ Ath24,Sheffield Tigers,carry,4
 Ath24,Sheffield Tigers,gls,3
 Ath24,Sheffield Tigers,linebreak,1
 Ath24,Sheffield Tigers,defender beaten,1
+Ath24,Tynedale (H),try,1
+Ath24,Tynedale (H),try assist,0
+Ath24,Tynedale (H),tackle,10
+Ath24,Tynedale (H),dominant tackle,0
+Ath24,Tynedale (H),missed tackle,3
+Ath24,Tynedale (H),carry,1
+Ath24,Tynedale (H),gls,0
+Ath24,Tynedale (H),linebreak,1
+Ath24,Tynedale (H),defender beaten,3
 Ath25,Chester,try,0
 Ath25,Chester,try assist,0
 Ath25,Chester,tackle,0
@@ -1466,6 +1556,15 @@ Ath25,Wharfedale,carry,1
 Ath25,Wharfedale,gls,0
 Ath25,Wharfedale,linebreak,0
 Ath25,Wharfedale,defender beaten,0
+Ath26,Tynedale (H),try,0
+Ath26,Tynedale (H),try assist,0
+Ath26,Tynedale (H),tackle,0
+Ath26,Tynedale (H),dominant tackle,0
+Ath26,Tynedale (H),missed tackle,0
+Ath26,Tynedale (H),carry,0
+Ath26,Tynedale (H),gls,0
+Ath26,Tynedale (H),linebreak,0
+Ath26,Tynedale (H),defender beaten,1
 Ath27,Durham Uni,try,0
 Ath27,Durham Uni,try assist,0
 Ath27,Durham Uni,tackle,3
@@ -1565,6 +1664,15 @@ Ath29,Tynedale,carry,15
 Ath29,Tynedale,gls,6
 Ath29,Tynedale,linebreak,0
 Ath29,Tynedale,defender beaten,3
+Ath29,Tynedale (H),try,0
+Ath29,Tynedale (H),try assist,0
+Ath29,Tynedale (H),tackle,10
+Ath29,Tynedale (H),dominant tackle,0
+Ath29,Tynedale (H),missed tackle,1
+Ath29,Tynedale (H),carry,11
+Ath29,Tynedale (H),gls,3
+Ath29,Tynedale (H),linebreak,0
+Ath29,Tynedale (H),defender beaten,2
 Ath29,Wharfedale,try,0
 Ath29,Wharfedale,try assist,0
 Ath29,Wharfedale,tackle,11
@@ -1646,6 +1754,15 @@ Ath3,Tynedale,carry,7
 Ath3,Tynedale,gls,6
 Ath3,Tynedale,linebreak,0
 Ath3,Tynedale,defender beaten,4
+Ath3,Tynedale (H),try,0
+Ath3,Tynedale (H),try assist,0
+Ath3,Tynedale (H),tackle,3
+Ath3,Tynedale (H),dominant tackle,0
+Ath3,Tynedale (H),missed tackle,2
+Ath3,Tynedale (H),carry,1
+Ath3,Tynedale (H),gls,0
+Ath3,Tynedale (H),linebreak,0
+Ath3,Tynedale (H),defender beaten,0
 Ath31,Hull,try,0
 Ath31,Hull,try assist,0
 Ath31,Hull,tackle,10
@@ -1682,6 +1799,15 @@ Ath31,Sheffield Tigers,carry,3
 Ath31,Sheffield Tigers,gls,0
 Ath31,Sheffield Tigers,linebreak,0
 Ath31,Sheffield Tigers,defender beaten,2
+Ath31,Tynedale (H),try,0
+Ath31,Tynedale (H),try assist,0
+Ath31,Tynedale (H),tackle,7
+Ath31,Tynedale (H),dominant tackle,0
+Ath31,Tynedale (H),missed tackle,4
+Ath31,Tynedale (H),carry,3
+Ath31,Tynedale (H),gls,0
+Ath31,Tynedale (H),linebreak,0
+Ath31,Tynedale (H),defender beaten,0
 Ath31,Wharfedale,try,0
 Ath31,Wharfedale,try assist,0
 Ath31,Wharfedale,tackle,4
@@ -1736,6 +1862,15 @@ Ath35,Preston,carry,5
 Ath35,Preston,gls,4
 Ath35,Preston,linebreak,0
 Ath35,Preston,defender beaten,1
+Ath35,Tynedale (H),try,0
+Ath35,Tynedale (H),try assist,0
+Ath35,Tynedale (H),tackle,5
+Ath35,Tynedale (H),dominant tackle,0
+Ath35,Tynedale (H),missed tackle,1
+Ath35,Tynedale (H),carry,5
+Ath35,Tynedale (H),gls,5
+Ath35,Tynedale (H),linebreak,0
+Ath35,Tynedale (H),defender beaten,0
 Ath36,Lymm,try,0
 Ath36,Lymm,try assist,0
 Ath36,Lymm,tackle,11
@@ -1790,6 +1925,15 @@ Ath39,Sheffield Tigers,carry,4
 Ath39,Sheffield Tigers,gls,2
 Ath39,Sheffield Tigers,linebreak,0
 Ath39,Sheffield Tigers,defender beaten,0
+Ath39,Tynedale (H),try,0
+Ath39,Tynedale (H),try assist,0
+Ath39,Tynedale (H),tackle,3
+Ath39,Tynedale (H),dominant tackle,0
+Ath39,Tynedale (H),missed tackle,2
+Ath39,Tynedale (H),carry,3
+Ath39,Tynedale (H),gls,2
+Ath39,Tynedale (H),linebreak,0
+Ath39,Tynedale (H),defender beaten,0
 Ath4,Chester,try,0
 Ath4,Chester,try assist,0
 Ath4,Chester,tackle,9
@@ -1988,6 +2132,24 @@ Ath50,Sheffield Tigers,carry,1
 Ath50,Sheffield Tigers,gls,0
 Ath50,Sheffield Tigers,linebreak,0
 Ath50,Sheffield Tigers,defender beaten,0
+Ath50,Tynedale (H),try,0
+Ath50,Tynedale (H),try assist,1
+Ath50,Tynedale (H),tackle,6
+Ath50,Tynedale (H),dominant tackle,0
+Ath50,Tynedale (H),missed tackle,1
+Ath50,Tynedale (H),carry,2
+Ath50,Tynedale (H),gls,0
+Ath50,Tynedale (H),linebreak,0
+Ath50,Tynedale (H),defender beaten,0
+Ath52,Tynedale (H),try,0
+Ath52,Tynedale (H),try assist,0
+Ath52,Tynedale (H),tackle,2
+Ath52,Tynedale (H),dominant tackle,0
+Ath52,Tynedale (H),missed tackle,0
+Ath52,Tynedale (H),carry,3
+Ath52,Tynedale (H),gls,1
+Ath52,Tynedale (H),linebreak,0
+Ath52,Tynedale (H),defender beaten,0
 Ath6,Chester,try,0
 Ath6,Chester,try assist,0
 Ath6,Chester,tackle,12
@@ -2087,6 +2249,15 @@ Ath6,Tynedale,carry,12
 Ath6,Tynedale,gls,4
 Ath6,Tynedale,linebreak,0
 Ath6,Tynedale,defender beaten,0
+Ath6,Tynedale (H),try,0
+Ath6,Tynedale (H),try assist,0
+Ath6,Tynedale (H),tackle,18
+Ath6,Tynedale (H),dominant tackle,0
+Ath6,Tynedale (H),missed tackle,4
+Ath6,Tynedale (H),carry,8
+Ath6,Tynedale (H),gls,4
+Ath6,Tynedale (H),linebreak,0
+Ath6,Tynedale (H),defender beaten,0
 Ath6,Wharfedale,try,0
 Ath6,Wharfedale,try assist,0
 Ath6,Wharfedale,tackle,9
@@ -2116,7 +2287,7 @@ Ath7,Durham Uni,linebreak,0
 Ath7,Durham Uni,defender beaten,0
 Ath7,Harrogate,try,0
 Ath7,Harrogate,try assist,0
-Ath7,Harrogate,tackle,14
+Ath7,Harrogate,tackle,15
 Ath7,Harrogate,dominant tackle,1
 Ath7,Harrogate,missed tackle,1
 Ath7,Harrogate,carry,5
@@ -2195,6 +2366,15 @@ Ath7,Tynedale,carry,7
 Ath7,Tynedale,gls,5
 Ath7,Tynedale,linebreak,0
 Ath7,Tynedale,defender beaten,0
+Ath7,Tynedale (H),try,0
+Ath7,Tynedale (H),try assist,0
+Ath7,Tynedale (H),tackle,22
+Ath7,Tynedale (H),dominant tackle,0
+Ath7,Tynedale (H),missed tackle,4
+Ath7,Tynedale (H),carry,2
+Ath7,Tynedale (H),gls,2
+Ath7,Tynedale (H),linebreak,0
+Ath7,Tynedale (H),defender beaten,0
 Ath7,Wharfedale,try,0
 Ath7,Wharfedale,try assist,0
 Ath7,Wharfedale,tackle,9
@@ -2303,6 +2483,15 @@ Ath8,Tynedale,carry,8
 Ath8,Tynedale,gls,5
 Ath8,Tynedale,linebreak,0
 Ath8,Tynedale,defender beaten,2
+Ath8,Tynedale (H),try,0
+Ath8,Tynedale (H),try assist,0
+Ath8,Tynedale (H),tackle,17
+Ath8,Tynedale (H),dominant tackle,0
+Ath8,Tynedale (H),missed tackle,6
+Ath8,Tynedale (H),carry,8
+Ath8,Tynedale (H),gls,3
+Ath8,Tynedale (H),linebreak,0
+Ath8,Tynedale (H),defender beaten,0
 Ath8,Wharfedale,try,0
 Ath8,Wharfedale,try assist,0
 Ath8,Wharfedale,tackle,0
@@ -2456,6 +2645,15 @@ team,Sheffield Tigers,carry,0
 team,Sheffield Tigers,gls,0
 team,Sheffield Tigers,linebreak,0
 team,Sheffield Tigers,defender beaten,0
+team,Tynedale (H),try,0
+team,Tynedale (H),try assist,0
+team,Tynedale (H),tackle,0
+team,Tynedale (H),dominant tackle,0
+team,Tynedale (H),missed tackle,0
+team,Tynedale (H),carry,0
+team,Tynedale (H),gls,0
+team,Tynedale (H),linebreak,0
+team,Tynedale (H),defender beaten,0
 ,Hull,try,0
 ,Hull,try assist,0
 ,Hull,tackle,0
