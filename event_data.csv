@@ -35,6 +35,15 @@ Ath1,Hull,carry,6
 Ath1,Hull,gls,3
 Ath1,Hull,linebreak,0
 Ath1,Hull,defender beaten,0
+Ath1,Hull (H),try,0
+Ath1,Hull (H),try assist,0
+Ath1,Hull (H),tackle,10
+Ath1,Hull (H),dominant tackle,0
+Ath1,Hull (H),missed tackle,0
+Ath1,Hull (H),carry,0
+Ath1,Hull (H),gls,0
+Ath1,Hull (H),linebreak,0
+Ath1,Hull (H),defender beaten,0
 Ath1,Hull I's,try,0
 Ath1,Hull I's,try assist,0
 Ath1,Hull I's,tackle,6
@@ -224,6 +233,15 @@ Ath10,Wharfedale,carry,0
 Ath10,Wharfedale,gls,0
 Ath10,Wharfedale,linebreak,0
 Ath10,Wharfedale,defender beaten,0
+Ath100,Hull (H),try,0
+Ath100,Hull (H),try assist,0
+Ath100,Hull (H),tackle,1
+Ath100,Hull (H),dominant tackle,0
+Ath100,Hull (H),missed tackle,0
+Ath100,Hull (H),carry,1
+Ath100,Hull (H),gls,1
+Ath100,Hull (H),linebreak,0
+Ath100,Hull (H),defender beaten,0
 Ath11,Durham Uni,try,0
 Ath11,Durham Uni,try assist,1
 Ath11,Durham Uni,tackle,3
@@ -341,6 +359,15 @@ Ath12,Hull,carry,6
 Ath12,Hull,gls,2
 Ath12,Hull,linebreak,1
 Ath12,Hull,defender beaten,2
+Ath12,Hull (H),try,0
+Ath12,Hull (H),try assist,0
+Ath12,Hull (H),tackle,13
+Ath12,Hull (H),dominant tackle,0
+Ath12,Hull (H),missed tackle,3
+Ath12,Hull (H),carry,3
+Ath12,Hull (H),gls,2
+Ath12,Hull (H),linebreak,0
+Ath12,Hull (H),defender beaten,0
 Ath12,Hull I's,try,1
 Ath12,Hull I's,try assist,0
 Ath12,Hull I's,tackle,11
@@ -467,6 +494,15 @@ Ath13,Hull,carry,0
 Ath13,Hull,gls,0
 Ath13,Hull,linebreak,1
 Ath13,Hull,defender beaten,0
+Ath13,Hull (H),try,1
+Ath13,Hull (H),try assist,0
+Ath13,Hull (H),tackle,9
+Ath13,Hull (H),dominant tackle,0
+Ath13,Hull (H),missed tackle,2
+Ath13,Hull (H),carry,0
+Ath13,Hull (H),gls,0
+Ath13,Hull (H),linebreak,2
+Ath13,Hull (H),defender beaten,4
 Ath13,Hull I's,try,0
 Ath13,Hull I's,try assist,0
 Ath13,Hull I's,tackle,12
@@ -710,6 +746,15 @@ Ath15,Hull,carry,4
 Ath15,Hull,gls,0
 Ath15,Hull,linebreak,0
 Ath15,Hull,defender beaten,1
+Ath15,Hull (H),try,1
+Ath15,Hull (H),try assist,2
+Ath15,Hull (H),tackle,13
+Ath15,Hull (H),dominant tackle,0
+Ath15,Hull (H),missed tackle,5
+Ath15,Hull (H),carry,9
+Ath15,Hull (H),gls,2
+Ath15,Hull (H),linebreak,0
+Ath15,Hull (H),defender beaten,5
 Ath15,Hull I's,try,0
 Ath15,Hull I's,try assist,0
 Ath15,Hull I's,tackle,9
@@ -836,6 +881,15 @@ Ath16,Hull,carry,3
 Ath16,Hull,gls,2
 Ath16,Hull,linebreak,0
 Ath16,Hull,defender beaten,0
+Ath16,Hull (H),try,0
+Ath16,Hull (H),try assist,0
+Ath16,Hull (H),tackle,6
+Ath16,Hull (H),dominant tackle,0
+Ath16,Hull (H),missed tackle,1
+Ath16,Hull (H),carry,0
+Ath16,Hull (H),gls,0
+Ath16,Hull (H),linebreak,0
+Ath16,Hull (H),defender beaten,0
 Ath16,Hull I's,try,0
 Ath16,Hull I's,try assist,0
 Ath16,Hull I's,tackle,11
@@ -1106,6 +1160,15 @@ Ath2,Hull,carry,0
 Ath2,Hull,gls,0
 Ath2,Hull,linebreak,0
 Ath2,Hull,defender beaten,0
+Ath2,Hull (H),try,0
+Ath2,Hull (H),try assist,0
+Ath2,Hull (H),tackle,16
+Ath2,Hull (H),dominant tackle,0
+Ath2,Hull (H),missed tackle,1
+Ath2,Hull (H),carry,0
+Ath2,Hull (H),gls,0
+Ath2,Hull (H),linebreak,1
+Ath2,Hull (H),defender beaten,0
 Ath2,Hull I's,try,0
 Ath2,Hull I's,try assist,0
 Ath2,Hull I's,tackle,13
@@ -1205,6 +1268,15 @@ Ath20,Durham Uni,carry,7
 Ath20,Durham Uni,gls,5
 Ath20,Durham Uni,linebreak,0
 Ath20,Durham Uni,defender beaten,0
+Ath20,Hull (H),try,0
+Ath20,Hull (H),try assist,1
+Ath20,Hull (H),tackle,12
+Ath20,Hull (H),dominant tackle,0
+Ath20,Hull (H),missed tackle,1
+Ath20,Hull (H),carry,6
+Ath20,Hull (H),gls,4
+Ath20,Hull (H),linebreak,0
+Ath20,Hull (H),defender beaten,0
 Ath20,Hull I's,try,0
 Ath20,Hull I's,try assist,0
 Ath20,Hull I's,tackle,12
@@ -1277,6 +1349,15 @@ Ath22,Hull,carry,5
 Ath22,Hull,gls,2
 Ath22,Hull,linebreak,0
 Ath22,Hull,defender beaten,0
+Ath22,Hull (H),try,0
+Ath22,Hull (H),try assist,0
+Ath22,Hull (H),tackle,1
+Ath22,Hull (H),dominant tackle,0
+Ath22,Hull (H),missed tackle,1
+Ath22,Hull (H),carry,0
+Ath22,Hull (H),gls,0
+Ath22,Hull (H),linebreak,0
+Ath22,Hull (H),defender beaten,0
 Ath22,Hull I's,try,0
 Ath22,Hull I's,try assist,0
 Ath22,Hull I's,tackle,0
@@ -1385,6 +1466,15 @@ Ath23,Hull,carry,2
 Ath23,Hull,gls,0
 Ath23,Hull,linebreak,1
 Ath23,Hull,defender beaten,0
+Ath23,Hull (H),try,0
+Ath23,Hull (H),try assist,0
+Ath23,Hull (H),tackle,3
+Ath23,Hull (H),dominant tackle,0
+Ath23,Hull (H),missed tackle,0
+Ath23,Hull (H),carry,4
+Ath23,Hull (H),gls,3
+Ath23,Hull (H),linebreak,1
+Ath23,Hull (H),defender beaten,1
 Ath23,Sheffield,try,0
 Ath23,Sheffield,try assist,0
 Ath23,Sheffield,tackle,2
@@ -1439,6 +1529,15 @@ Ath24,Hull,carry,4
 Ath24,Hull,gls,2
 Ath24,Hull,linebreak,0
 Ath24,Hull,defender beaten,0
+Ath24,Hull (H),try,0
+Ath24,Hull (H),try assist,0
+Ath24,Hull (H),tackle,2
+Ath24,Hull (H),dominant tackle,0
+Ath24,Hull (H),missed tackle,1
+Ath24,Hull (H),carry,2
+Ath24,Hull (H),gls,0
+Ath24,Hull (H),linebreak,0
+Ath24,Hull (H),defender beaten,0
 Ath24,Hull I's,try,0
 Ath24,Hull I's,try assist,0
 Ath24,Hull I's,tackle,2
@@ -1610,6 +1709,15 @@ Ath29,Harrogate,carry,9
 Ath29,Harrogate,gls,4
 Ath29,Harrogate,linebreak,1
 Ath29,Harrogate,defender beaten,1
+Ath29,Hull (H),try,1
+Ath29,Hull (H),try assist,0
+Ath29,Hull (H),tackle,10
+Ath29,Hull (H),dominant tackle,0
+Ath29,Hull (H),missed tackle,1
+Ath29,Hull (H),carry,11
+Ath29,Hull (H),gls,7
+Ath29,Hull (H),linebreak,0
+Ath29,Hull (H),defender beaten,1
 Ath29,Leeds,try,1
 Ath29,Leeds,try assist,0
 Ath29,Leeds,tackle,7
@@ -1709,6 +1817,15 @@ Ath3,Harrogate,carry,1
 Ath3,Harrogate,gls,1
 Ath3,Harrogate,linebreak,0
 Ath3,Harrogate,defender beaten,0
+Ath3,Hull (H),try,0
+Ath3,Hull (H),try assist,0
+Ath3,Hull (H),tackle,5
+Ath3,Hull (H),dominant tackle,0
+Ath3,Hull (H),missed tackle,1
+Ath3,Hull (H),carry,1
+Ath3,Hull (H),gls,1
+Ath3,Hull (H),linebreak,0
+Ath3,Hull (H),defender beaten,1
 Ath3,Lymm,try,0
 Ath3,Lymm,try assist,0
 Ath3,Lymm,tackle,3
@@ -1835,6 +1952,15 @@ Ath35,Chester,carry,5
 Ath35,Chester,gls,3
 Ath35,Chester,linebreak,0
 Ath35,Chester,defender beaten,2
+Ath35,Hull (H),try,0
+Ath35,Hull (H),try assist,0
+Ath35,Hull (H),tackle,4
+Ath35,Hull (H),dominant tackle,0
+Ath35,Hull (H),missed tackle,1
+Ath35,Hull (H),carry,8
+Ath35,Hull (H),gls,6
+Ath35,Hull (H),linebreak,0
+Ath35,Hull (H),defender beaten,4
 Ath35,Hull I's,try,1
 Ath35,Hull I's,try assist,0
 Ath35,Hull I's,tackle,4
@@ -1871,6 +1997,15 @@ Ath35,Tynedale (H),carry,5
 Ath35,Tynedale (H),gls,5
 Ath35,Tynedale (H),linebreak,0
 Ath35,Tynedale (H),defender beaten,0
+Ath36,Hull (H),try,0
+Ath36,Hull (H),try assist,0
+Ath36,Hull (H),tackle,6
+Ath36,Hull (H),dominant tackle,0
+Ath36,Hull (H),missed tackle,2
+Ath36,Hull (H),carry,1
+Ath36,Hull (H),gls,1
+Ath36,Hull (H),linebreak,1
+Ath36,Hull (H),defender beaten,1
 Ath36,Lymm,try,0
 Ath36,Lymm,try assist,0
 Ath36,Lymm,tackle,11
@@ -2150,6 +2285,15 @@ Ath52,Tynedale (H),carry,3
 Ath52,Tynedale (H),gls,1
 Ath52,Tynedale (H),linebreak,0
 Ath52,Tynedale (H),defender beaten,0
+Ath53,Hull (H),try,0
+Ath53,Hull (H),try assist,0
+Ath53,Hull (H),tackle,3
+Ath53,Hull (H),dominant tackle,0
+Ath53,Hull (H),missed tackle,2
+Ath53,Hull (H),carry,3
+Ath53,Hull (H),gls,2
+Ath53,Hull (H),linebreak,0
+Ath53,Hull (H),defender beaten,1
 Ath6,Chester,try,0
 Ath6,Chester,try assist,0
 Ath6,Chester,tackle,12
@@ -2186,6 +2330,15 @@ Ath6,Hull,carry,9
 Ath6,Hull,gls,6
 Ath6,Hull,linebreak,0
 Ath6,Hull,defender beaten,0
+Ath6,Hull (H),try,1
+Ath6,Hull (H),try assist,0
+Ath6,Hull (H),tackle,17
+Ath6,Hull (H),dominant tackle,0
+Ath6,Hull (H),missed tackle,2
+Ath6,Hull (H),carry,12
+Ath6,Hull (H),gls,5
+Ath6,Hull (H),linebreak,1
+Ath6,Hull (H),defender beaten,3
 Ath6,Hull I's,try,0
 Ath6,Hull I's,try assist,0
 Ath6,Hull I's,tackle,10
@@ -2303,6 +2456,15 @@ Ath7,Hull,carry,7
 Ath7,Hull,gls,3
 Ath7,Hull,linebreak,0
 Ath7,Hull,defender beaten,1
+Ath7,Hull (H),try,0
+Ath7,Hull (H),try assist,0
+Ath7,Hull (H),tackle,23
+Ath7,Hull (H),dominant tackle,0
+Ath7,Hull (H),missed tackle,3
+Ath7,Hull (H),carry,4
+Ath7,Hull (H),gls,2
+Ath7,Hull (H),linebreak,0
+Ath7,Hull (H),defender beaten,0
 Ath7,Hull I's,try,0
 Ath7,Hull I's,try assist,0
 Ath7,Hull I's,tackle,15
@@ -2420,6 +2582,15 @@ Ath8,Hull,carry,8
 Ath8,Hull,gls,0
 Ath8,Hull,linebreak,0
 Ath8,Hull,defender beaten,0
+Ath8,Hull (H),try,0
+Ath8,Hull (H),try assist,0
+Ath8,Hull (H),tackle,7
+Ath8,Hull (H),dominant tackle,0
+Ath8,Hull (H),missed tackle,1
+Ath8,Hull (H),carry,6
+Ath8,Hull (H),gls,2
+Ath8,Hull (H),linebreak,0
+Ath8,Hull (H),defender beaten,0
 Ath8,Hull I's,try,0
 Ath8,Hull I's,try assist,0
 Ath8,Hull I's,tackle,0
@@ -2528,6 +2699,15 @@ Ath9,Hull,carry,4
 Ath9,Hull,gls,2
 Ath9,Hull,linebreak,0
 Ath9,Hull,defender beaten,0
+Ath9,Hull (H),try,0
+Ath9,Hull (H),try assist,1
+Ath9,Hull (H),tackle,10
+Ath9,Hull (H),dominant tackle,0
+Ath9,Hull (H),missed tackle,1
+Ath9,Hull (H),carry,5
+Ath9,Hull (H),gls,0
+Ath9,Hull (H),linebreak,0
+Ath9,Hull (H),defender beaten,0
 Ath9,Hull I's,try,0
 Ath9,Hull I's,try assist,1
 Ath9,Hull I's,tackle,6
@@ -2618,6 +2798,15 @@ team,Chester,carry,0
 team,Chester,gls,0
 team,Chester,linebreak,0
 team,Chester,defender beaten,0
+team,Hull (H),try,0
+team,Hull (H),try assist,0
+team,Hull (H),tackle,0
+team,Hull (H),dominant tackle,0
+team,Hull (H),missed tackle,0
+team,Hull (H),carry,0
+team,Hull (H),gls,0
+team,Hull (H),linebreak,0
+team,Hull (H),defender beaten,0
 team,Lymm,try,0
 team,Lymm,try assist,0
 team,Lymm,tackle,0
