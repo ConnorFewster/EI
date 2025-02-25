@@ -107,6 +107,15 @@ Ath1,Otley,carry,4
 Ath1,Otley,gls,1
 Ath1,Otley,linebreak,0
 Ath1,Otley,defender beaten,0
+Ath1,Otley (A),try,1
+Ath1,Otley (A),try assist,0
+Ath1,Otley (A),tackle,11
+Ath1,Otley (A),dominant tackle,0
+Ath1,Otley (A),missed tackle,2
+Ath1,Otley (A),carry,4
+Ath1,Otley (A),gls,3
+Ath1,Otley (A),linebreak,0
+Ath1,Otley (A),defender beaten,1
 Ath1,Preston,try,0
 Ath1,Preston,try assist,0
 Ath1,Preston,tackle,6
@@ -467,6 +476,15 @@ Ath12,Otley,carry,3
 Ath12,Otley,gls,2
 Ath12,Otley,linebreak,0
 Ath12,Otley,defender beaten,1
+Ath12,Otley (A),try,0
+Ath12,Otley (A),try assist,0
+Ath12,Otley (A),tackle,15
+Ath12,Otley (A),dominant tackle,0
+Ath12,Otley (A),missed tackle,3
+Ath12,Otley (A),carry,2
+Ath12,Otley (A),gls,1
+Ath12,Otley (A),linebreak,0
+Ath12,Otley (A),defender beaten,2
 Ath12,Preston,try,0
 Ath12,Preston,try assist,0
 Ath12,Preston,tackle,11
@@ -638,6 +656,15 @@ Ath13,Otley,carry,4
 Ath13,Otley,gls,3
 Ath13,Otley,linebreak,0
 Ath13,Otley,defender beaten,0
+Ath13,Otley (A),try,0
+Ath13,Otley (A),try assist,0
+Ath13,Otley (A),tackle,14
+Ath13,Otley (A),dominant tackle,1
+Ath13,Otley (A),missed tackle,4
+Ath13,Otley (A),carry,3
+Ath13,Otley (A),gls,2
+Ath13,Otley (A),linebreak,0
+Ath13,Otley (A),defender beaten,0
 Ath13,Preston,try,0
 Ath13,Preston,try assist,0
 Ath13,Preston,tackle,14
@@ -926,6 +953,15 @@ Ath15,Otley,carry,8
 Ath15,Otley,gls,3
 Ath15,Otley,linebreak,1
 Ath15,Otley,defender beaten,1
+Ath15,Otley (A),try,1
+Ath15,Otley (A),try assist,0
+Ath15,Otley (A),tackle,9
+Ath15,Otley (A),dominant tackle,0
+Ath15,Otley (A),missed tackle,4
+Ath15,Otley (A),carry,5
+Ath15,Otley (A),gls,1
+Ath15,Otley (A),linebreak,1
+Ath15,Otley (A),defender beaten,1
 Ath15,Preston,try,0
 Ath15,Preston,try assist,1
 Ath15,Preston,tackle,9
@@ -1250,6 +1286,15 @@ Ath18,Otley,carry,2
 Ath18,Otley,gls,1
 Ath18,Otley,linebreak,0
 Ath18,Otley,defender beaten,0
+Ath18,Otley (A),try,0
+Ath18,Otley (A),try assist,0
+Ath18,Otley (A),tackle,3
+Ath18,Otley (A),dominant tackle,1
+Ath18,Otley (A),missed tackle,1
+Ath18,Otley (A),carry,1
+Ath18,Otley (A),gls,1
+Ath18,Otley (A),linebreak,0
+Ath18,Otley (A),defender beaten,1
 Ath18,Sheffield,try,0
 Ath18,Sheffield,try assist,0
 Ath18,Sheffield,tackle,3
@@ -1412,6 +1457,15 @@ Ath2,Otley,carry,3
 Ath2,Otley,gls,1
 Ath2,Otley,linebreak,0
 Ath2,Otley,defender beaten,0
+Ath2,Otley (A),try,0
+Ath2,Otley (A),try assist,0
+Ath2,Otley (A),tackle,15
+Ath2,Otley (A),dominant tackle,0
+Ath2,Otley (A),missed tackle,1
+Ath2,Otley (A),carry,2
+Ath2,Otley (A),gls,1
+Ath2,Otley (A),linebreak,0
+Ath2,Otley (A),defender beaten,0
 Ath2,Preston,try,0
 Ath2,Preston,try assist,0
 Ath2,Preston,tackle,8
@@ -1538,6 +1592,15 @@ Ath20,Lymm,carry,1
 Ath20,Lymm,gls,0
 Ath20,Lymm,linebreak,1
 Ath20,Lymm,defender beaten,0
+Ath20,Otley (A),try,1
+Ath20,Otley (A),try assist,0
+Ath20,Otley (A),tackle,13
+Ath20,Otley (A),dominant tackle,0
+Ath20,Otley (A),missed tackle,1
+Ath20,Otley (A),carry,7
+Ath20,Otley (A),gls,6
+Ath20,Otley (A),linebreak,0
+Ath20,Otley (A),defender beaten,2
 Ath20,Tynedale,try,0
 Ath20,Tynedale,try assist,0
 Ath20,Tynedale,tackle,6
@@ -1673,6 +1736,15 @@ Ath22,Otley,carry,0
 Ath22,Otley,gls,0
 Ath22,Otley,linebreak,0
 Ath22,Otley,defender beaten,0
+Ath22,Otley (A),try,0
+Ath22,Otley (A),try assist,0
+Ath22,Otley (A),tackle,10
+Ath22,Otley (A),dominant tackle,0
+Ath22,Otley (A),missed tackle,6
+Ath22,Otley (A),carry,3
+Ath22,Otley (A),gls,0
+Ath22,Otley (A),linebreak,0
+Ath22,Otley (A),defender beaten,0
 Ath22,Preston,try,1
 Ath22,Preston,try assist,0
 Ath22,Preston,tackle,2
@@ -1790,6 +1862,15 @@ Ath23,Leeds (A),carry,4
 Ath23,Leeds (A),gls,2
 Ath23,Leeds (A),linebreak,1
 Ath23,Leeds (A),defender beaten,1
+Ath23,Otley (A),try,0
+Ath23,Otley (A),try assist,0
+Ath23,Otley (A),tackle,8
+Ath23,Otley (A),dominant tackle,0
+Ath23,Otley (A),missed tackle,5
+Ath23,Otley (A),carry,6
+Ath23,Otley (A),gls,2
+Ath23,Otley (A),linebreak,0
+Ath23,Otley (A),defender beaten,0
 Ath23,Sheffield,try,0
 Ath23,Sheffield,try assist,0
 Ath23,Sheffield,tackle,2
@@ -2258,6 +2339,15 @@ Ath3,Otley,carry,1
 Ath3,Otley,gls,0
 Ath3,Otley,linebreak,0
 Ath3,Otley,defender beaten,0
+Ath3,Otley (A),try,0
+Ath3,Otley (A),try assist,0
+Ath3,Otley (A),tackle,4
+Ath3,Otley (A),dominant tackle,0
+Ath3,Otley (A),missed tackle,0
+Ath3,Otley (A),carry,3
+Ath3,Otley (A),gls,1
+Ath3,Otley (A),linebreak,0
+Ath3,Otley (A),defender beaten,0
 Ath3,Preston,try,0
 Ath3,Preston,try assist,0
 Ath3,Preston,tackle,3
@@ -2339,6 +2429,15 @@ Ath31,Leeds,carry,9
 Ath31,Leeds,gls,4
 Ath31,Leeds,linebreak,0
 Ath31,Leeds,defender beaten,5
+Ath31,Otley (A),try,0
+Ath31,Otley (A),try assist,0
+Ath31,Otley (A),tackle,16
+Ath31,Otley (A),dominant tackle,2
+Ath31,Otley (A),missed tackle,2
+Ath31,Otley (A),carry,8
+Ath31,Otley (A),gls,2
+Ath31,Otley (A),linebreak,0
+Ath31,Otley (A),defender beaten,2
 Ath31,Sheffield Tigers,try,0
 Ath31,Sheffield Tigers,try assist,0
 Ath31,Sheffield Tigers,tackle,6
@@ -2564,6 +2663,15 @@ Ath39,Leeds (A),carry,4
 Ath39,Leeds (A),gls,2
 Ath39,Leeds (A),linebreak,0
 Ath39,Leeds (A),defender beaten,0
+Ath39,Otley (A),try,0
+Ath39,Otley (A),try assist,0
+Ath39,Otley (A),tackle,12
+Ath39,Otley (A),dominant tackle,0
+Ath39,Otley (A),missed tackle,4
+Ath39,Otley (A),carry,2
+Ath39,Otley (A),gls,1
+Ath39,Otley (A),linebreak,0
+Ath39,Otley (A),defender beaten,0
 Ath39,Preston,try,0
 Ath39,Preston,try assist,0
 Ath39,Preston,tackle,4
@@ -2681,6 +2789,15 @@ Ath4,Otley,carry,1
 Ath4,Otley,gls,1
 Ath4,Otley,linebreak,0
 Ath4,Otley,defender beaten,0
+Ath4,Otley (A),try,0
+Ath4,Otley (A),try assist,0
+Ath4,Otley (A),tackle,0
+Ath4,Otley (A),dominant tackle,0
+Ath4,Otley (A),missed tackle,0
+Ath4,Otley (A),carry,5
+Ath4,Otley (A),gls,2
+Ath4,Otley (A),linebreak,0
+Ath4,Otley (A),defender beaten,0
 Ath4,Preston,try,0
 Ath4,Preston,try assist,0
 Ath4,Preston,tackle,0
@@ -2825,6 +2942,15 @@ Ath5,Wharfedale,carry,6
 Ath5,Wharfedale,gls,1
 Ath5,Wharfedale,linebreak,0
 Ath5,Wharfedale,defender beaten,0
+Ath50,Otley (A),try,0
+Ath50,Otley (A),try assist,0
+Ath50,Otley (A),tackle,8
+Ath50,Otley (A),dominant tackle,1
+Ath50,Otley (A),missed tackle,2
+Ath50,Otley (A),carry,4
+Ath50,Otley (A),gls,1
+Ath50,Otley (A),linebreak,0
+Ath50,Otley (A),defender beaten,1
 Ath50,Sheffield Tigers,try,0
 Ath50,Sheffield Tigers,try assist,0
 Ath50,Sheffield Tigers,tackle,5
@@ -2897,6 +3023,15 @@ Ath53,Leeds (A),carry,3
 Ath53,Leeds (A),gls,1
 Ath53,Leeds (A),linebreak,0
 Ath53,Leeds (A),defender beaten,1
+Ath53,Otley (A),try,0
+Ath53,Otley (A),try assist,0
+Ath53,Otley (A),tackle,8
+Ath53,Otley (A),dominant tackle,0
+Ath53,Otley (A),missed tackle,5
+Ath53,Otley (A),carry,8
+Ath53,Otley (A),gls,5
+Ath53,Otley (A),linebreak,0
+Ath53,Otley (A),defender beaten,2
 Ath53,Wharfedale (H),try,0
 Ath53,Wharfedale (H),try assist,0
 Ath53,Wharfedale (H),tackle,8
@@ -2906,6 +3041,15 @@ Ath53,Wharfedale (H),carry,3
 Ath53,Wharfedale (H),gls,3
 Ath53,Wharfedale (H),linebreak,0
 Ath53,Wharfedale (H),defender beaten,1
+Ath59,Otley (A),try,0
+Ath59,Otley (A),try assist,0
+Ath59,Otley (A),tackle,2
+Ath59,Otley (A),dominant tackle,0
+Ath59,Otley (A),missed tackle,1
+Ath59,Otley (A),carry,0
+Ath59,Otley (A),gls,0
+Ath59,Otley (A),linebreak,0
+Ath59,Otley (A),defender beaten,0
 Ath6,Chester,try,0
 Ath6,Chester,try assist,0
 Ath6,Chester,tackle,12
@@ -2996,6 +3140,15 @@ Ath6,Otley,carry,11
 Ath6,Otley,gls,4
 Ath6,Otley,linebreak,0
 Ath6,Otley,defender beaten,1
+Ath6,Otley (A),try,0
+Ath6,Otley (A),try assist,0
+Ath6,Otley (A),tackle,18
+Ath6,Otley (A),dominant tackle,0
+Ath6,Otley (A),missed tackle,3
+Ath6,Otley (A),carry,11
+Ath6,Otley (A),gls,2
+Ath6,Otley (A),linebreak,1
+Ath6,Otley (A),defender beaten,1
 Ath6,Preston,try,0
 Ath6,Preston,try assist,0
 Ath6,Preston,tackle,14
@@ -3149,6 +3302,15 @@ Ath7,Otley,carry,7
 Ath7,Otley,gls,2
 Ath7,Otley,linebreak,0
 Ath7,Otley,defender beaten,0
+Ath7,Otley (A),try,0
+Ath7,Otley (A),try assist,0
+Ath7,Otley (A),tackle,16
+Ath7,Otley (A),dominant tackle,3
+Ath7,Otley (A),missed tackle,1
+Ath7,Otley (A),carry,8
+Ath7,Otley (A),gls,2
+Ath7,Otley (A),linebreak,0
+Ath7,Otley (A),defender beaten,1
 Ath7,Preston,try,1
 Ath7,Preston,try assist,0
 Ath7,Preston,tackle,14
@@ -3509,6 +3671,15 @@ Ath9,Wharfedale (H),carry,3
 Ath9,Wharfedale (H),gls,0
 Ath9,Wharfedale (H),linebreak,0
 Ath9,Wharfedale (H),defender beaten,0
+Ath91,Otley (A),try,0
+Ath91,Otley (A),try assist,0
+Ath91,Otley (A),tackle,0
+Ath91,Otley (A),dominant tackle,0
+Ath91,Otley (A),missed tackle,0
+Ath91,Otley (A),carry,1
+Ath91,Otley (A),gls,1
+Ath91,Otley (A),linebreak,1
+Ath91,Otley (A),defender beaten,2
 Team,Harrogate,try,0
 Team,Harrogate,try assist,0
 Team,Harrogate,tackle,0
@@ -3572,6 +3743,15 @@ team,Lymm,carry,0
 team,Lymm,gls,0
 team,Lymm,linebreak,0
 team,Lymm,defender beaten,0
+team,Otley (A),try,0
+team,Otley (A),try assist,0
+team,Otley (A),tackle,0
+team,Otley (A),dominant tackle,0
+team,Otley (A),missed tackle,0
+team,Otley (A),carry,0
+team,Otley (A),gls,0
+team,Otley (A),linebreak,0
+team,Otley (A),defender beaten,0
 team,Sheffield,try,0
 team,Sheffield,try assist,0
 team,Sheffield,tackle,0
