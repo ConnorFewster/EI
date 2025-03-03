@@ -134,6 +134,15 @@ Ath1,Sheffield,carry,7
 Ath1,Sheffield,gls,4
 Ath1,Sheffield,linebreak,0
 Ath1,Sheffield,defender beaten,0
+Ath1,Sheffield (A),try,0
+Ath1,Sheffield (A),try assist,0
+Ath1,Sheffield (A),tackle,15
+Ath1,Sheffield (A),dominant tackle,2
+Ath1,Sheffield (A),missed tackle,0
+Ath1,Sheffield (A),carry,3
+Ath1,Sheffield (A),gls,0
+Ath1,Sheffield (A),linebreak,0
+Ath1,Sheffield (A),defender beaten,1
 Ath1,Sheffield Tigers,try,1
 Ath1,Sheffield Tigers,try assist,0
 Ath1,Sheffield Tigers,tackle,10
@@ -287,6 +296,15 @@ Ath100,Hull (H),carry,1
 Ath100,Hull (H),gls,1
 Ath100,Hull (H),linebreak,0
 Ath100,Hull (H),defender beaten,0
+Ath101,Sheffield (A),try,0
+Ath101,Sheffield (A),try assist,0
+Ath101,Sheffield (A),tackle,1
+Ath101,Sheffield (A),dominant tackle,0
+Ath101,Sheffield (A),missed tackle,1
+Ath101,Sheffield (A),carry,2
+Ath101,Sheffield (A),gls,0
+Ath101,Sheffield (A),linebreak,0
+Ath101,Sheffield (A),defender beaten,1
 Ath11,Durham Uni,try,0
 Ath11,Durham Uni,try assist,1
 Ath11,Durham Uni,tackle,3
@@ -341,6 +359,15 @@ Ath11,Sheffield,carry,1
 Ath11,Sheffield,gls,0
 Ath11,Sheffield,linebreak,2
 Ath11,Sheffield,defender beaten,2
+Ath11,Sheffield (A),try,0
+Ath11,Sheffield (A),try assist,0
+Ath11,Sheffield (A),tackle,1
+Ath11,Sheffield (A),dominant tackle,0
+Ath11,Sheffield (A),missed tackle,1
+Ath11,Sheffield (A),carry,1
+Ath11,Sheffield (A),gls,1
+Ath11,Sheffield (A),linebreak,0
+Ath11,Sheffield (A),defender beaten,0
 Ath11,Sheffield Tigers,try,0
 Ath11,Sheffield Tigers,try assist,0
 Ath11,Sheffield Tigers,tackle,1
@@ -683,6 +710,15 @@ Ath13,Sheffield,carry,10
 Ath13,Sheffield,gls,6
 Ath13,Sheffield,linebreak,0
 Ath13,Sheffield,defender beaten,0
+Ath13,Sheffield (A),try,0
+Ath13,Sheffield (A),try assist,0
+Ath13,Sheffield (A),tackle,25
+Ath13,Sheffield (A),dominant tackle,0
+Ath13,Sheffield (A),missed tackle,2
+Ath13,Sheffield (A),carry,2
+Ath13,Sheffield (A),gls,2
+Ath13,Sheffield (A),linebreak,0
+Ath13,Sheffield (A),defender beaten,0
 Ath13,Sheffield Tigers,try,0
 Ath13,Sheffield Tigers,try assist,0
 Ath13,Sheffield Tigers,tackle,1
@@ -809,6 +845,15 @@ Ath14,Sheffield,carry,1
 Ath14,Sheffield,gls,1
 Ath14,Sheffield,linebreak,0
 Ath14,Sheffield,defender beaten,0
+Ath14,Sheffield (A),try,0
+Ath14,Sheffield (A),try assist,0
+Ath14,Sheffield (A),tackle,4
+Ath14,Sheffield (A),dominant tackle,0
+Ath14,Sheffield (A),missed tackle,1
+Ath14,Sheffield (A),carry,3
+Ath14,Sheffield (A),gls,3
+Ath14,Sheffield (A),linebreak,1
+Ath14,Sheffield (A),defender beaten,3
 Ath14,Sheffield Tigers,try,1
 Ath14,Sheffield Tigers,try assist,0
 Ath14,Sheffield Tigers,tackle,3
@@ -980,6 +1025,15 @@ Ath15,Sheffield,carry,9
 Ath15,Sheffield,gls,7
 Ath15,Sheffield,linebreak,0
 Ath15,Sheffield,defender beaten,2
+Ath15,Sheffield (A),try,0
+Ath15,Sheffield (A),try assist,1
+Ath15,Sheffield (A),tackle,17
+Ath15,Sheffield (A),dominant tackle,0
+Ath15,Sheffield (A),missed tackle,6
+Ath15,Sheffield (A),carry,8
+Ath15,Sheffield (A),gls,1
+Ath15,Sheffield (A),linebreak,0
+Ath15,Sheffield (A),defender beaten,3
 Ath15,Sheffield Tigers,try,0
 Ath15,Sheffield Tigers,try assist,0
 Ath15,Sheffield Tigers,tackle,9
@@ -1304,6 +1358,15 @@ Ath18,Sheffield,carry,0
 Ath18,Sheffield,gls,0
 Ath18,Sheffield,linebreak,0
 Ath18,Sheffield,defender beaten,0
+Ath18,Sheffield (A),try,0
+Ath18,Sheffield (A),try assist,0
+Ath18,Sheffield (A),tackle,3
+Ath18,Sheffield (A),dominant tackle,0
+Ath18,Sheffield (A),missed tackle,1
+Ath18,Sheffield (A),carry,0
+Ath18,Sheffield (A),gls,0
+Ath18,Sheffield (A),linebreak,0
+Ath18,Sheffield (A),defender beaten,0
 Ath18,Sheffield Tigers,try,0
 Ath18,Sheffield Tigers,try assist,0
 Ath18,Sheffield Tigers,tackle,0
@@ -1484,6 +1547,15 @@ Ath2,Sheffield,carry,2
 Ath2,Sheffield,gls,1
 Ath2,Sheffield,linebreak,0
 Ath2,Sheffield,defender beaten,0
+Ath2,Sheffield (A),try,0
+Ath2,Sheffield (A),try assist,0
+Ath2,Sheffield (A),tackle,14
+Ath2,Sheffield (A),dominant tackle,0
+Ath2,Sheffield (A),missed tackle,3
+Ath2,Sheffield (A),carry,2
+Ath2,Sheffield (A),gls,0
+Ath2,Sheffield (A),linebreak,0
+Ath2,Sheffield (A),defender beaten,0
 Ath2,Sheffield Tigers,try,0
 Ath2,Sheffield Tigers,try assist,0
 Ath2,Sheffield Tigers,tackle,16
@@ -1601,6 +1673,15 @@ Ath20,Otley (A),carry,7
 Ath20,Otley (A),gls,6
 Ath20,Otley (A),linebreak,0
 Ath20,Otley (A),defender beaten,2
+Ath20,Sheffield (A),try,1
+Ath20,Sheffield (A),try assist,0
+Ath20,Sheffield (A),tackle,16
+Ath20,Sheffield (A),dominant tackle,0
+Ath20,Sheffield (A),missed tackle,4
+Ath20,Sheffield (A),carry,6
+Ath20,Sheffield (A),gls,1
+Ath20,Sheffield (A),linebreak,1
+Ath20,Sheffield (A),defender beaten,2
 Ath20,Tynedale,try,0
 Ath20,Tynedale,try assist,0
 Ath20,Tynedale,tackle,6
@@ -1763,6 +1844,15 @@ Ath22,Sheffield,carry,4
 Ath22,Sheffield,gls,0
 Ath22,Sheffield,linebreak,0
 Ath22,Sheffield,defender beaten,1
+Ath22,Sheffield (A),try,0
+Ath22,Sheffield (A),try assist,0
+Ath22,Sheffield (A),tackle,12
+Ath22,Sheffield (A),dominant tackle,0
+Ath22,Sheffield (A),missed tackle,6
+Ath22,Sheffield (A),carry,1
+Ath22,Sheffield (A),gls,1
+Ath22,Sheffield (A),linebreak,0
+Ath22,Sheffield (A),defender beaten,1
 Ath22,Tynedale,try,0
 Ath22,Tynedale,try assist,0
 Ath22,Tynedale,tackle,2
@@ -2006,6 +2096,15 @@ Ath24,Preston,carry,3
 Ath24,Preston,gls,2
 Ath24,Preston,linebreak,0
 Ath24,Preston,defender beaten,0
+Ath24,Sheffield (A),try,0
+Ath24,Sheffield (A),try assist,0
+Ath24,Sheffield (A),tackle,11
+Ath24,Sheffield (A),dominant tackle,0
+Ath24,Sheffield (A),missed tackle,4
+Ath24,Sheffield (A),carry,4
+Ath24,Sheffield (A),gls,0
+Ath24,Sheffield (A),linebreak,0
+Ath24,Sheffield (A),defender beaten,0
 Ath24,Sheffield Tigers,try,0
 Ath24,Sheffield Tigers,try assist,0
 Ath24,Sheffield Tigers,tackle,7
@@ -2222,6 +2321,15 @@ Ath29,Sheffield,carry,15
 Ath29,Sheffield,gls,8
 Ath29,Sheffield,linebreak,0
 Ath29,Sheffield,defender beaten,4
+Ath29,Sheffield (A),try,1
+Ath29,Sheffield (A),try assist,0
+Ath29,Sheffield (A),tackle,16
+Ath29,Sheffield (A),dominant tackle,0
+Ath29,Sheffield (A),missed tackle,3
+Ath29,Sheffield (A),carry,6
+Ath29,Sheffield (A),gls,3
+Ath29,Sheffield (A),linebreak,1
+Ath29,Sheffield (A),defender beaten,0
 Ath29,Sheffield Tigers,try,1
 Ath29,Sheffield Tigers,try assist,0
 Ath29,Sheffield Tigers,tackle,14
@@ -2357,6 +2465,15 @@ Ath3,Preston,carry,10
 Ath3,Preston,gls,4
 Ath3,Preston,linebreak,0
 Ath3,Preston,defender beaten,6
+Ath3,Sheffield (A),try,0
+Ath3,Sheffield (A),try assist,0
+Ath3,Sheffield (A),tackle,6
+Ath3,Sheffield (A),dominant tackle,0
+Ath3,Sheffield (A),missed tackle,1
+Ath3,Sheffield (A),carry,3
+Ath3,Sheffield (A),gls,2
+Ath3,Sheffield (A),linebreak,0
+Ath3,Sheffield (A),defender beaten,0
 Ath3,Sheffield Tigers,try,0
 Ath3,Sheffield Tigers,try assist,0
 Ath3,Sheffield Tigers,tackle,3
@@ -2438,6 +2555,15 @@ Ath31,Otley (A),carry,8
 Ath31,Otley (A),gls,2
 Ath31,Otley (A),linebreak,0
 Ath31,Otley (A),defender beaten,2
+Ath31,Sheffield (A),try,0
+Ath31,Sheffield (A),try assist,0
+Ath31,Sheffield (A),tackle,11
+Ath31,Sheffield (A),dominant tackle,1
+Ath31,Sheffield (A),missed tackle,1
+Ath31,Sheffield (A),carry,1
+Ath31,Sheffield (A),gls,1
+Ath31,Sheffield (A),linebreak,0
+Ath31,Sheffield (A),defender beaten,1
 Ath31,Sheffield Tigers,try,0
 Ath31,Sheffield Tigers,try assist,0
 Ath31,Sheffield Tigers,tackle,6
@@ -2807,6 +2933,15 @@ Ath4,Preston,carry,1
 Ath4,Preston,gls,1
 Ath4,Preston,linebreak,0
 Ath4,Preston,defender beaten,0
+Ath4,Sheffield (A),try,0
+Ath4,Sheffield (A),try assist,0
+Ath4,Sheffield (A),tackle,8
+Ath4,Sheffield (A),dominant tackle,0
+Ath4,Sheffield (A),missed tackle,1
+Ath4,Sheffield (A),carry,1
+Ath4,Sheffield (A),gls,0
+Ath4,Sheffield (A),linebreak,0
+Ath4,Sheffield (A),defender beaten,0
 Ath4,Sheffield Tigers,try,0
 Ath4,Sheffield Tigers,try assist,0
 Ath4,Sheffield Tigers,tackle,1
@@ -2951,6 +3086,15 @@ Ath50,Otley (A),carry,4
 Ath50,Otley (A),gls,1
 Ath50,Otley (A),linebreak,0
 Ath50,Otley (A),defender beaten,1
+Ath50,Sheffield (A),try,0
+Ath50,Sheffield (A),try assist,0
+Ath50,Sheffield (A),tackle,12
+Ath50,Sheffield (A),dominant tackle,0
+Ath50,Sheffield (A),missed tackle,4
+Ath50,Sheffield (A),carry,3
+Ath50,Sheffield (A),gls,1
+Ath50,Sheffield (A),linebreak,0
+Ath50,Sheffield (A),defender beaten,0
 Ath50,Sheffield Tigers,try,0
 Ath50,Sheffield Tigers,try assist,0
 Ath50,Sheffield Tigers,tackle,5
@@ -3167,6 +3311,15 @@ Ath6,Sheffield,carry,10
 Ath6,Sheffield,gls,3
 Ath6,Sheffield,linebreak,0
 Ath6,Sheffield,defender beaten,1
+Ath6,Sheffield (A),try,0
+Ath6,Sheffield (A),try assist,0
+Ath6,Sheffield (A),tackle,20
+Ath6,Sheffield (A),dominant tackle,2
+Ath6,Sheffield (A),missed tackle,3
+Ath6,Sheffield (A),carry,7
+Ath6,Sheffield (A),gls,3
+Ath6,Sheffield (A),linebreak,0
+Ath6,Sheffield (A),defender beaten,1
 Ath6,Tynedale,try,0
 Ath6,Tynedale,try assist,0
 Ath6,Tynedale,tackle,18
@@ -3329,6 +3482,15 @@ Ath7,Sheffield,carry,6
 Ath7,Sheffield,gls,2
 Ath7,Sheffield,linebreak,0
 Ath7,Sheffield,defender beaten,0
+Ath7,Sheffield (A),try,0
+Ath7,Sheffield (A),try assist,0
+Ath7,Sheffield (A),tackle,17
+Ath7,Sheffield (A),dominant tackle,2
+Ath7,Sheffield (A),missed tackle,5
+Ath7,Sheffield (A),carry,7
+Ath7,Sheffield (A),gls,0
+Ath7,Sheffield (A),linebreak,0
+Ath7,Sheffield (A),defender beaten,0
 Ath7,Sheffield Tigers,try,0
 Ath7,Sheffield Tigers,try assist,0
 Ath7,Sheffield Tigers,tackle,8
@@ -3635,6 +3797,15 @@ Ath9,Sheffield,carry,3
 Ath9,Sheffield,gls,1
 Ath9,Sheffield,linebreak,0
 Ath9,Sheffield,defender beaten,2
+Ath9,Sheffield (A),try,0
+Ath9,Sheffield (A),try assist,0
+Ath9,Sheffield (A),tackle,6
+Ath9,Sheffield (A),dominant tackle,0
+Ath9,Sheffield (A),missed tackle,2
+Ath9,Sheffield (A),carry,4
+Ath9,Sheffield (A),gls,1
+Ath9,Sheffield (A),linebreak,0
+Ath9,Sheffield (A),defender beaten,0
 Ath9,Sheffield Tigers,try,0
 Ath9,Sheffield Tigers,try assist,2
 Ath9,Sheffield Tigers,tackle,2
@@ -3761,6 +3932,15 @@ team,Sheffield,carry,0
 team,Sheffield,gls,0
 team,Sheffield,linebreak,0
 team,Sheffield,defender beaten,0
+team,Sheffield (A),try,0
+team,Sheffield (A),try assist,0
+team,Sheffield (A),tackle,0
+team,Sheffield (A),dominant tackle,0
+team,Sheffield (A),missed tackle,0
+team,Sheffield (A),carry,0
+team,Sheffield (A),gls,0
+team,Sheffield (A),linebreak,0
+team,Sheffield (A),defender beaten,0
 team,Sheffield Tigers,try,0
 team,Sheffield Tigers,try assist,0
 team,Sheffield Tigers,tackle,0
