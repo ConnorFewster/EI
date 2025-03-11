@@ -125,6 +125,15 @@ Ath1,Preston,carry,10
 Ath1,Preston,gls,6
 Ath1,Preston,linebreak,0
 Ath1,Preston,defender beaten,2
+Ath1,Preston (H),try,1
+Ath1,Preston (H),try assist,0
+Ath1,Preston (H),tackle,8
+Ath1,Preston (H),dominant tackle,1
+Ath1,Preston (H),missed tackle,0
+Ath1,Preston (H),carry,4
+Ath1,Preston (H),gls,1
+Ath1,Preston (H),linebreak,2
+Ath1,Preston (H),defender beaten,0
 Ath1,Sheffield,try,0
 Ath1,Sheffield,try assist,1
 Ath1,Sheffield,tackle,12
@@ -350,6 +359,15 @@ Ath11,Otley,carry,6
 Ath11,Otley,gls,2
 Ath11,Otley,linebreak,1
 Ath11,Otley,defender beaten,2
+Ath11,Preston (H),try,0
+Ath11,Preston (H),try assist,0
+Ath11,Preston (H),tackle,3
+Ath11,Preston (H),dominant tackle,0
+Ath11,Preston (H),missed tackle,2
+Ath11,Preston (H),carry,1
+Ath11,Preston (H),gls,1
+Ath11,Preston (H),linebreak,0
+Ath11,Preston (H),defender beaten,0
 Ath11,Sheffield,try,1
 Ath11,Sheffield,try assist,0
 Ath11,Sheffield,tackle,10
@@ -521,6 +539,15 @@ Ath12,Preston,carry,2
 Ath12,Preston,gls,2
 Ath12,Preston,linebreak,0
 Ath12,Preston,defender beaten,1
+Ath12,Preston (H),try,0
+Ath12,Preston (H),try assist,0
+Ath12,Preston (H),tackle,10
+Ath12,Preston (H),dominant tackle,0
+Ath12,Preston (H),missed tackle,6
+Ath12,Preston (H),carry,5
+Ath12,Preston (H),gls,3
+Ath12,Preston (H),linebreak,1
+Ath12,Preston (H),defender beaten,3
 Ath12,Sheffield,try,0
 Ath12,Sheffield,try assist,0
 Ath12,Sheffield,tackle,13
@@ -701,6 +728,15 @@ Ath13,Preston,carry,6
 Ath13,Preston,gls,2
 Ath13,Preston,linebreak,1
 Ath13,Preston,defender beaten,1
+Ath13,Preston (H),try,0
+Ath13,Preston (H),try assist,1
+Ath13,Preston (H),tackle,7
+Ath13,Preston (H),dominant tackle,0
+Ath13,Preston (H),missed tackle,2
+Ath13,Preston (H),carry,5
+Ath13,Preston (H),gls,1
+Ath13,Preston (H),linebreak,0
+Ath13,Preston (H),defender beaten,0
 Ath13,Sheffield,try,0
 Ath13,Sheffield,try assist,0
 Ath13,Sheffield,tackle,13
@@ -836,6 +872,15 @@ Ath14,Preston,carry,5
 Ath14,Preston,gls,2
 Ath14,Preston,linebreak,0
 Ath14,Preston,defender beaten,3
+Ath14,Preston (H),try,0
+Ath14,Preston (H),try assist,0
+Ath14,Preston (H),tackle,2
+Ath14,Preston (H),dominant tackle,0
+Ath14,Preston (H),missed tackle,1
+Ath14,Preston (H),carry,2
+Ath14,Preston (H),gls,2
+Ath14,Preston (H),linebreak,0
+Ath14,Preston (H),defender beaten,1
 Ath14,Sheffield,try,0
 Ath14,Sheffield,try assist,0
 Ath14,Sheffield,tackle,3
@@ -1016,6 +1061,15 @@ Ath15,Preston,carry,7
 Ath15,Preston,gls,4
 Ath15,Preston,linebreak,1
 Ath15,Preston,defender beaten,3
+Ath15,Preston (H),try,1
+Ath15,Preston (H),try assist,1
+Ath15,Preston (H),tackle,15
+Ath15,Preston (H),dominant tackle,0
+Ath15,Preston (H),missed tackle,1
+Ath15,Preston (H),carry,4
+Ath15,Preston (H),gls,1
+Ath15,Preston (H),linebreak,1
+Ath15,Preston (H),defender beaten,3
 Ath15,Sheffield,try,0
 Ath15,Sheffield,try assist,0
 Ath15,Sheffield,tackle,15
@@ -1178,6 +1232,15 @@ Ath16,Preston,carry,4
 Ath16,Preston,gls,3
 Ath16,Preston,linebreak,0
 Ath16,Preston,defender beaten,1
+Ath16,Preston (H),try,0
+Ath16,Preston (H),try assist,0
+Ath16,Preston (H),tackle,7
+Ath16,Preston (H),dominant tackle,0
+Ath16,Preston (H),missed tackle,0
+Ath16,Preston (H),carry,0
+Ath16,Preston (H),gls,0
+Ath16,Preston (H),linebreak,0
+Ath16,Preston (H),defender beaten,0
 Ath16,Sheffield,try,0
 Ath16,Sheffield,try assist,0
 Ath16,Sheffield,tackle,9
@@ -1259,6 +1322,15 @@ Ath17,Preston,carry,0
 Ath17,Preston,gls,0
 Ath17,Preston,linebreak,0
 Ath17,Preston,defender beaten,0
+Ath17,Preston (H),try,0
+Ath17,Preston (H),try assist,0
+Ath17,Preston (H),tackle,2
+Ath17,Preston (H),dominant tackle,0
+Ath17,Preston (H),missed tackle,0
+Ath17,Preston (H),carry,1
+Ath17,Preston (H),gls,0
+Ath17,Preston (H),linebreak,0
+Ath17,Preston (H),defender beaten,0
 Ath17,Sheffield,try,0
 Ath17,Sheffield,try assist,0
 Ath17,Sheffield,tackle,8
@@ -1538,6 +1610,15 @@ Ath2,Preston,carry,0
 Ath2,Preston,gls,0
 Ath2,Preston,linebreak,0
 Ath2,Preston,defender beaten,0
+Ath2,Preston (H),try,0
+Ath2,Preston (H),try assist,0
+Ath2,Preston (H),tackle,5
+Ath2,Preston (H),dominant tackle,0
+Ath2,Preston (H),missed tackle,3
+Ath2,Preston (H),carry,0
+Ath2,Preston (H),gls,0
+Ath2,Preston (H),linebreak,0
+Ath2,Preston (H),defender beaten,0
 Ath2,Sheffield,try,0
 Ath2,Sheffield,try assist,0
 Ath2,Sheffield,tackle,5
@@ -1673,6 +1754,15 @@ Ath20,Otley (A),carry,7
 Ath20,Otley (A),gls,6
 Ath20,Otley (A),linebreak,0
 Ath20,Otley (A),defender beaten,2
+Ath20,Preston (H),try,0
+Ath20,Preston (H),try assist,0
+Ath20,Preston (H),tackle,9
+Ath20,Preston (H),dominant tackle,0
+Ath20,Preston (H),missed tackle,0
+Ath20,Preston (H),carry,4
+Ath20,Preston (H),gls,0
+Ath20,Preston (H),linebreak,2
+Ath20,Preston (H),defender beaten,2
 Ath20,Sheffield (A),try,1
 Ath20,Sheffield (A),try assist,0
 Ath20,Sheffield (A),tackle,16
@@ -1835,6 +1925,15 @@ Ath22,Preston,carry,2
 Ath22,Preston,gls,1
 Ath22,Preston,linebreak,1
 Ath22,Preston,defender beaten,1
+Ath22,Preston (H),try,1
+Ath22,Preston (H),try assist,1
+Ath22,Preston (H),tackle,7
+Ath22,Preston (H),dominant tackle,0
+Ath22,Preston (H),missed tackle,5
+Ath22,Preston (H),carry,1
+Ath22,Preston (H),gls,0
+Ath22,Preston (H),linebreak,0
+Ath22,Preston (H),defender beaten,1
 Ath22,Sheffield,try,0
 Ath22,Sheffield,try assist,0
 Ath22,Sheffield,tackle,7
@@ -2096,6 +2195,15 @@ Ath24,Preston,carry,3
 Ath24,Preston,gls,2
 Ath24,Preston,linebreak,0
 Ath24,Preston,defender beaten,0
+Ath24,Preston (H),try,1
+Ath24,Preston (H),try assist,1
+Ath24,Preston (H),tackle,3
+Ath24,Preston (H),dominant tackle,0
+Ath24,Preston (H),missed tackle,2
+Ath24,Preston (H),carry,5
+Ath24,Preston (H),gls,2
+Ath24,Preston (H),linebreak,1
+Ath24,Preston (H),defender beaten,3
 Ath24,Sheffield (A),try,0
 Ath24,Sheffield (A),try assist,0
 Ath24,Sheffield (A),tackle,11
@@ -2312,6 +2420,15 @@ Ath29,Otley,carry,8
 Ath29,Otley,gls,2
 Ath29,Otley,linebreak,0
 Ath29,Otley,defender beaten,2
+Ath29,Preston (H),try,0
+Ath29,Preston (H),try assist,0
+Ath29,Preston (H),tackle,11
+Ath29,Preston (H),dominant tackle,1
+Ath29,Preston (H),missed tackle,2
+Ath29,Preston (H),carry,12
+Ath29,Preston (H),gls,7
+Ath29,Preston (H),linebreak,0
+Ath29,Preston (H),defender beaten,2
 Ath29,Sheffield,try,0
 Ath29,Sheffield,try assist,0
 Ath29,Sheffield,tackle,8
@@ -2681,6 +2798,15 @@ Ath35,Preston,carry,5
 Ath35,Preston,gls,4
 Ath35,Preston,linebreak,0
 Ath35,Preston,defender beaten,1
+Ath35,Preston (H),try,0
+Ath35,Preston (H),try assist,0
+Ath35,Preston (H),tackle,1
+Ath35,Preston (H),dominant tackle,0
+Ath35,Preston (H),missed tackle,0
+Ath35,Preston (H),carry,7
+Ath35,Preston (H),gls,3
+Ath35,Preston (H),linebreak,0
+Ath35,Preston (H),defender beaten,0
 Ath35,Tynedale (H),try,0
 Ath35,Tynedale (H),try assist,0
 Ath35,Tynedale (H),tackle,5
@@ -2933,6 +3059,15 @@ Ath4,Preston,carry,1
 Ath4,Preston,gls,1
 Ath4,Preston,linebreak,0
 Ath4,Preston,defender beaten,0
+Ath4,Preston (H),try,0
+Ath4,Preston (H),try assist,0
+Ath4,Preston (H),tackle,12
+Ath4,Preston (H),dominant tackle,0
+Ath4,Preston (H),missed tackle,0
+Ath4,Preston (H),carry,2
+Ath4,Preston (H),gls,2
+Ath4,Preston (H),linebreak,0
+Ath4,Preston (H),defender beaten,1
 Ath4,Sheffield (A),try,0
 Ath4,Sheffield (A),try assist,0
 Ath4,Sheffield (A),tackle,8
@@ -3302,6 +3437,15 @@ Ath6,Preston,carry,8
 Ath6,Preston,gls,3
 Ath6,Preston,linebreak,1
 Ath6,Preston,defender beaten,1
+Ath6,Preston (H),try,0
+Ath6,Preston (H),try assist,0
+Ath6,Preston (H),tackle,6
+Ath6,Preston (H),dominant tackle,0
+Ath6,Preston (H),missed tackle,1
+Ath6,Preston (H),carry,3
+Ath6,Preston (H),gls,3
+Ath6,Preston (H),linebreak,0
+Ath6,Preston (H),defender beaten,0
 Ath6,Sheffield,try,0
 Ath6,Sheffield,try assist,0
 Ath6,Sheffield,tackle,15
@@ -3473,6 +3617,15 @@ Ath7,Preston,carry,4
 Ath7,Preston,gls,2
 Ath7,Preston,linebreak,0
 Ath7,Preston,defender beaten,1
+Ath7,Preston (H),try,0
+Ath7,Preston (H),try assist,0
+Ath7,Preston (H),tackle,14
+Ath7,Preston (H),dominant tackle,0
+Ath7,Preston (H),missed tackle,0
+Ath7,Preston (H),carry,3
+Ath7,Preston (H),gls,1
+Ath7,Preston (H),linebreak,0
+Ath7,Preston (H),defender beaten,0
 Ath7,Sheffield,try,0
 Ath7,Sheffield,try assist,0
 Ath7,Sheffield,tackle,15
@@ -3644,6 +3797,15 @@ Ath8,Preston,carry,10
 Ath8,Preston,gls,3
 Ath8,Preston,linebreak,0
 Ath8,Preston,defender beaten,0
+Ath8,Preston (H),try,0
+Ath8,Preston (H),try assist,0
+Ath8,Preston (H),tackle,13
+Ath8,Preston (H),dominant tackle,0
+Ath8,Preston (H),missed tackle,0
+Ath8,Preston (H),carry,5
+Ath8,Preston (H),gls,3
+Ath8,Preston (H),linebreak,0
+Ath8,Preston (H),defender beaten,1
 Ath8,Sheffield,try,0
 Ath8,Sheffield,try assist,0
 Ath8,Sheffield,tackle,15
@@ -3788,6 +3950,15 @@ Ath9,Preston,carry,3
 Ath9,Preston,gls,1
 Ath9,Preston,linebreak,0
 Ath9,Preston,defender beaten,2
+Ath9,Preston (H),try,0
+Ath9,Preston (H),try assist,0
+Ath9,Preston (H),tackle,7
+Ath9,Preston (H),dominant tackle,0
+Ath9,Preston (H),missed tackle,1
+Ath9,Preston (H),carry,4
+Ath9,Preston (H),gls,0
+Ath9,Preston (H),linebreak,0
+Ath9,Preston (H),defender beaten,0
 Ath9,Sheffield,try,0
 Ath9,Sheffield,try assist,0
 Ath9,Sheffield,tackle,4
@@ -3851,6 +4022,15 @@ Ath91,Otley (A),carry,1
 Ath91,Otley (A),gls,1
 Ath91,Otley (A),linebreak,1
 Ath91,Otley (A),defender beaten,2
+Ath91,Preston (H),try,0
+Ath91,Preston (H),try assist,0
+Ath91,Preston (H),tackle,2
+Ath91,Preston (H),dominant tackle,0
+Ath91,Preston (H),missed tackle,0
+Ath91,Preston (H),carry,2
+Ath91,Preston (H),gls,1
+Ath91,Preston (H),linebreak,0
+Ath91,Preston (H),defender beaten,1
 Team,Harrogate,try,0
 Team,Harrogate,try assist,0
 Team,Harrogate,tackle,0
@@ -3923,6 +4103,15 @@ team,Otley (A),carry,0
 team,Otley (A),gls,0
 team,Otley (A),linebreak,0
 team,Otley (A),defender beaten,0
+team,Preston (H),try,0
+team,Preston (H),try assist,0
+team,Preston (H),tackle,0
+team,Preston (H),dominant tackle,0
+team,Preston (H),missed tackle,0
+team,Preston (H),carry,0
+team,Preston (H),gls,0
+team,Preston (H),linebreak,0
+team,Preston (H),defender beaten,0
 team,Sheffield,try,0
 team,Sheffield,try assist,0
 team,Sheffield,tackle,0
