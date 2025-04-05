@@ -1,0 +1,15 @@
+"","event_id","ID","Event_Type","Team","Opponent","Half","Minute","Kick_Type","Kick_Outcome","X_Pos","Y_Pos","End_X_Pos","End_Y_Pos","kick_distance"
+"1",1,"10","Kick","Hull I's","Tynedale","First Half",00:21:33,"Open Play","Opposition Collection",32.83,54.6,19.12,60.51,15
+"2",2,"13","Kick","Hull I's","Tynedale","First Half",00:21:45,"Open Play","Opposition Collection",68.5,50,22.9,32.4,49
+"3",3,"11","Kick","Hull I's","Tynedale","First Half",00:24:47,"Chip","Error",22.06,2.99,21,2.99,1
+"4",4,"13","Kick","Hull I's","Tynedale","First Half",00:25:59,"Penalty Goal","Successful",26.25,25.05,-0.05,35.29,28
+"5",5,"9","Kick","Hull I's","Tynedale","First Half",00:26:42,"Box","Opposition Collection",64.03,53.68,39.4,60.64,26
+"6",6,"13","Kick","Hull I's","Tynedale","First Half",00:28:00,"Conversion","Successful",8.77,35.16,-0.05,35.16,9
+"7",7,"15","Kick","Hull I's","Tynedale","First Half",00:29:34,"Open Play","Error",63.05,42.39,13.66,13.89,57
+"8",8,"10","Kick","Hull I's","Tynedale","First Half",00:33:17,"Kick-Off","Opposition Collection",49.9,35.69,18.56,60.77,40
+"9",9,"13","Kick","Hull I's","Tynedale","First Half",00:34:45,"Conversion","Successful",9.19,34.24,0.09,34.9,9
+"10",10,"10","Kick","Hull I's","Tynedale","First Half",00:35:34,"Open Play","Opposition Collection",80.81,46.85,30.45,54.6,51
+"11",11,"9","Kick","Hull I's","Tynedale","First Half",00:36:40,"Box","Retained",65,64.32,41.64,54.86,25
+"12",12,"13","Kick","Hull I's","Tynedale","First Half",00:38:35,"Conversion","Successful",11.15,27.68,-0.05,34.77,13
+"13",13,"9","Kick","Hull I's","Tynedale","First Half",00:39:34,"Box","Error",76.48,46.98,76.48,46.19,1
+"14",14,"15","Kick","Hull I's","Tynedale","First Half",00:39:40,"Open Play","In Touch",93.54,64.58,42.76,70.23,51
