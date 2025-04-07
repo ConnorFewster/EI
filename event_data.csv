@@ -35,6 +35,15 @@ Ath1,Fylde,carry,5
 Ath1,Fylde,gls,4
 Ath1,Fylde,linebreak,1
 Ath1,Fylde,defender beaten,4
+Ath1,Fylde (A),try,0
+Ath1,Fylde (A),try assist,0
+Ath1,Fylde (A),tackle,3
+Ath1,Fylde (A),dominant tackle,0
+Ath1,Fylde (A),missed tackle,0
+Ath1,Fylde (A),carry,7
+Ath1,Fylde (A),gls,5
+Ath1,Fylde (A),linebreak,0
+Ath1,Fylde (A),defender beaten,5
 Ath1,Harrogate,try,0
 Ath1,Harrogate,try assist,0
 Ath1,Harrogate,tackle,6
@@ -485,6 +494,15 @@ Ath12,Fylde,carry,5
 Ath12,Fylde,gls,3
 Ath12,Fylde,linebreak,0
 Ath12,Fylde,defender beaten,6
+Ath12,Fylde (A),try,0
+Ath12,Fylde (A),try assist,0
+Ath12,Fylde (A),tackle,9
+Ath12,Fylde (A),dominant tackle,2
+Ath12,Fylde (A),missed tackle,1
+Ath12,Fylde (A),carry,3
+Ath12,Fylde (A),gls,0
+Ath12,Fylde (A),linebreak,0
+Ath12,Fylde (A),defender beaten,2
 Ath12,Harrogate,try,0
 Ath12,Harrogate,try assist,0
 Ath12,Harrogate,tackle,16
@@ -692,6 +710,15 @@ Ath13,Fylde,carry,6
 Ath13,Fylde,gls,4
 Ath13,Fylde,linebreak,1
 Ath13,Fylde,defender beaten,3
+Ath13,Fylde (A),try,0
+Ath13,Fylde (A),try assist,0
+Ath13,Fylde (A),tackle,9
+Ath13,Fylde (A),dominant tackle,0
+Ath13,Fylde (A),missed tackle,4
+Ath13,Fylde (A),carry,5
+Ath13,Fylde (A),gls,3
+Ath13,Fylde (A),linebreak,0
+Ath13,Fylde (A),defender beaten,0
 Ath13,Harrogate,try,1
 Ath13,Harrogate,try assist,1
 Ath13,Harrogate,tackle,9
@@ -890,6 +917,15 @@ Ath14,Durham Uni,carry,4
 Ath14,Durham Uni,gls,2
 Ath14,Durham Uni,linebreak,0
 Ath14,Durham Uni,defender beaten,1
+Ath14,Fylde (A),try,0
+Ath14,Fylde (A),try assist,0
+Ath14,Fylde (A),tackle,5
+Ath14,Fylde (A),dominant tackle,0
+Ath14,Fylde (A),missed tackle,3
+Ath14,Fylde (A),carry,4
+Ath14,Fylde (A),gls,2
+Ath14,Fylde (A),linebreak,1
+Ath14,Fylde (A),defender beaten,3
 Ath14,Harrogate,try,2
 Ath14,Harrogate,try assist,0
 Ath14,Harrogate,tackle,3
@@ -1052,6 +1088,15 @@ Ath15,Fylde,carry,9
 Ath15,Fylde,gls,4
 Ath15,Fylde,linebreak,0
 Ath15,Fylde,defender beaten,2
+Ath15,Fylde (A),try,0
+Ath15,Fylde (A),try assist,1
+Ath15,Fylde (A),tackle,14
+Ath15,Fylde (A),dominant tackle,0
+Ath15,Fylde (A),missed tackle,6
+Ath15,Fylde (A),carry,3
+Ath15,Fylde (A),gls,0
+Ath15,Fylde (A),linebreak,0
+Ath15,Fylde (A),defender beaten,1
 Ath15,Harrogate,try,0
 Ath15,Harrogate,try assist,0
 Ath15,Harrogate,tackle,6
@@ -1385,6 +1430,15 @@ Ath17,Durham Uni,carry,1
 Ath17,Durham Uni,gls,1
 Ath17,Durham Uni,linebreak,0
 Ath17,Durham Uni,defender beaten,0
+Ath17,Fylde (A),try,0
+Ath17,Fylde (A),try assist,0
+Ath17,Fylde (A),tackle,5
+Ath17,Fylde (A),dominant tackle,0
+Ath17,Fylde (A),missed tackle,2
+Ath17,Fylde (A),carry,0
+Ath17,Fylde (A),gls,0
+Ath17,Fylde (A),linebreak,0
+Ath17,Fylde (A),defender beaten,0
 Ath17,Harrogate,try,0
 Ath17,Harrogate,try assist,0
 Ath17,Harrogate,tackle,1
@@ -1475,6 +1529,15 @@ Ath18,Durham Uni,carry,2
 Ath18,Durham Uni,gls,0
 Ath18,Durham Uni,linebreak,1
 Ath18,Durham Uni,defender beaten,1
+Ath18,Fylde (A),try,0
+Ath18,Fylde (A),try assist,0
+Ath18,Fylde (A),tackle,1
+Ath18,Fylde (A),dominant tackle,0
+Ath18,Fylde (A),missed tackle,1
+Ath18,Fylde (A),carry,0
+Ath18,Fylde (A),gls,0
+Ath18,Fylde (A),linebreak,0
+Ath18,Fylde (A),defender beaten,0
 Ath18,Hull,try,0
 Ath18,Hull,try assist,0
 Ath18,Hull,tackle,11
@@ -1628,6 +1691,15 @@ Ath2,Fylde,carry,5
 Ath2,Fylde,gls,4
 Ath2,Fylde,linebreak,0
 Ath2,Fylde,defender beaten,0
+Ath2,Fylde (A),try,0
+Ath2,Fylde (A),try assist,0
+Ath2,Fylde (A),tackle,4
+Ath2,Fylde (A),dominant tackle,0
+Ath2,Fylde (A),missed tackle,2
+Ath2,Fylde (A),carry,5
+Ath2,Fylde (A),gls,3
+Ath2,Fylde (A),linebreak,0
+Ath2,Fylde (A),defender beaten,1
 Ath2,Harrogate,try,0
 Ath2,Harrogate,try assist,0
 Ath2,Harrogate,tackle,13
@@ -1961,6 +2033,15 @@ Ath22,Fylde,carry,1
 Ath22,Fylde,gls,1
 Ath22,Fylde,linebreak,0
 Ath22,Fylde,defender beaten,2
+Ath22,Fylde (A),try,0
+Ath22,Fylde (A),try assist,0
+Ath22,Fylde (A),tackle,5
+Ath22,Fylde (A),dominant tackle,0
+Ath22,Fylde (A),missed tackle,4
+Ath22,Fylde (A),carry,3
+Ath22,Fylde (A),gls,0
+Ath22,Fylde (A),linebreak,1
+Ath22,Fylde (A),defender beaten,0
 Ath22,Harrogate,try,0
 Ath22,Harrogate,try assist,0
 Ath22,Harrogate,tackle,1
@@ -2276,6 +2357,15 @@ Ath24,Fylde,carry,3
 Ath24,Fylde,gls,1
 Ath24,Fylde,linebreak,1
 Ath24,Fylde,defender beaten,2
+Ath24,Fylde (A),try,0
+Ath24,Fylde (A),try assist,0
+Ath24,Fylde (A),tackle,6
+Ath24,Fylde (A),dominant tackle,0
+Ath24,Fylde (A),missed tackle,3
+Ath24,Fylde (A),carry,3
+Ath24,Fylde (A),gls,0
+Ath24,Fylde (A),linebreak,2
+Ath24,Fylde (A),defender beaten,2
 Ath24,Hull,try,0
 Ath24,Hull,try assist,0
 Ath24,Hull,tackle,3
@@ -2546,6 +2636,15 @@ Ath29,Chester (H),carry,13
 Ath29,Chester (H),gls,8
 Ath29,Chester (H),linebreak,1
 Ath29,Chester (H),defender beaten,3
+Ath29,Fylde (A),try,0
+Ath29,Fylde (A),try assist,0
+Ath29,Fylde (A),tackle,7
+Ath29,Fylde (A),dominant tackle,0
+Ath29,Fylde (A),missed tackle,1
+Ath29,Fylde (A),carry,16
+Ath29,Fylde (A),gls,10
+Ath29,Fylde (A),linebreak,1
+Ath29,Fylde (A),defender beaten,5
 Ath29,Harrogate,try,1
 Ath29,Harrogate,try assist,0
 Ath29,Harrogate,tackle,16
@@ -2843,6 +2942,15 @@ Ath31,Chester (H),carry,8
 Ath31,Chester (H),gls,3
 Ath31,Chester (H),linebreak,0
 Ath31,Chester (H),defender beaten,0
+Ath31,Fylde (A),try,0
+Ath31,Fylde (A),try assist,0
+Ath31,Fylde (A),tackle,4
+Ath31,Fylde (A),dominant tackle,0
+Ath31,Fylde (A),missed tackle,1
+Ath31,Fylde (A),carry,3
+Ath31,Fylde (A),gls,2
+Ath31,Fylde (A),linebreak,0
+Ath31,Fylde (A),defender beaten,0
 Ath31,Hull,try,0
 Ath31,Hull,try assist,0
 Ath31,Hull,tackle,10
@@ -2978,6 +3086,15 @@ Ath35,Fylde,carry,7
 Ath35,Fylde,gls,5
 Ath35,Fylde,linebreak,1
 Ath35,Fylde,defender beaten,4
+Ath35,Fylde (A),try,0
+Ath35,Fylde (A),try assist,0
+Ath35,Fylde (A),tackle,2
+Ath35,Fylde (A),dominant tackle,0
+Ath35,Fylde (A),missed tackle,0
+Ath35,Fylde (A),carry,9
+Ath35,Fylde (A),gls,7
+Ath35,Fylde (A),linebreak,0
+Ath35,Fylde (A),defender beaten,1
 Ath35,Hull (H),try,0
 Ath35,Hull (H),try assist,0
 Ath35,Hull (H),tackle,4
@@ -3149,6 +3266,15 @@ Ath39,Chester,carry,1
 Ath39,Chester,gls,0
 Ath39,Chester,linebreak,0
 Ath39,Chester,defender beaten,0
+Ath39,Fylde (A),try,0
+Ath39,Fylde (A),try assist,0
+Ath39,Fylde (A),tackle,0
+Ath39,Fylde (A),dominant tackle,0
+Ath39,Fylde (A),missed tackle,0
+Ath39,Fylde (A),carry,2
+Ath39,Fylde (A),gls,2
+Ath39,Fylde (A),linebreak,0
+Ath39,Fylde (A),defender beaten,0
 Ath39,Hull I's (A),try,0
 Ath39,Hull I's (A),try assist,0
 Ath39,Hull I's (A),tackle,1
@@ -3248,6 +3374,15 @@ Ath4,Fylde,carry,1
 Ath4,Fylde,gls,0
 Ath4,Fylde,linebreak,0
 Ath4,Fylde,defender beaten,0
+Ath4,Fylde (A),try,0
+Ath4,Fylde (A),try assist,0
+Ath4,Fylde (A),tackle,3
+Ath4,Fylde (A),dominant tackle,0
+Ath4,Fylde (A),missed tackle,0
+Ath4,Fylde (A),carry,1
+Ath4,Fylde (A),gls,0
+Ath4,Fylde (A),linebreak,0
+Ath4,Fylde (A),defender beaten,0
 Ath4,Harrogate,try,0
 Ath4,Harrogate,try assist,0
 Ath4,Harrogate,tackle,3
@@ -3626,6 +3761,15 @@ Ath6,Durham Uni,carry,17
 Ath6,Durham Uni,gls,12
 Ath6,Durham Uni,linebreak,0
 Ath6,Durham Uni,defender beaten,0
+Ath6,Fylde (A),try,1
+Ath6,Fylde (A),try assist,0
+Ath6,Fylde (A),tackle,12
+Ath6,Fylde (A),dominant tackle,0
+Ath6,Fylde (A),missed tackle,4
+Ath6,Fylde (A),carry,13
+Ath6,Fylde (A),gls,7
+Ath6,Fylde (A),linebreak,1
+Ath6,Fylde (A),defender beaten,2
 Ath6,Harrogate,try,1
 Ath6,Harrogate,try assist,0
 Ath6,Harrogate,tackle,12
@@ -3815,6 +3959,15 @@ Ath7,Fylde,carry,11
 Ath7,Fylde,gls,3
 Ath7,Fylde,linebreak,0
 Ath7,Fylde,defender beaten,0
+Ath7,Fylde (A),try,0
+Ath7,Fylde (A),try assist,0
+Ath7,Fylde (A),tackle,12
+Ath7,Fylde (A),dominant tackle,0
+Ath7,Fylde (A),missed tackle,2
+Ath7,Fylde (A),carry,10
+Ath7,Fylde (A),gls,3
+Ath7,Fylde (A),linebreak,1
+Ath7,Fylde (A),defender beaten,1
 Ath7,Harrogate,try,0
 Ath7,Harrogate,try assist,0
 Ath7,Harrogate,tackle,15
@@ -3986,6 +4139,15 @@ Ath7,Wharfedale (H),carry,10
 Ath7,Wharfedale (H),gls,3
 Ath7,Wharfedale (H),linebreak,0
 Ath7,Wharfedale (H),defender beaten,1
+Ath70,Fylde (A),try,0
+Ath70,Fylde (A),try assist,0
+Ath70,Fylde (A),tackle,1
+Ath70,Fylde (A),dominant tackle,0
+Ath70,Fylde (A),missed tackle,1
+Ath70,Fylde (A),carry,3
+Ath70,Fylde (A),gls,0
+Ath70,Fylde (A),linebreak,1
+Ath70,Fylde (A),defender beaten,2
 Ath8,Chester,try,0
 Ath8,Chester,try assist,0
 Ath8,Chester,tackle,12
@@ -4022,6 +4184,15 @@ Ath8,Fylde,carry,15
 Ath8,Fylde,gls,8
 Ath8,Fylde,linebreak,1
 Ath8,Fylde,defender beaten,3
+Ath8,Fylde (A),try,0
+Ath8,Fylde (A),try assist,0
+Ath8,Fylde (A),tackle,8
+Ath8,Fylde (A),dominant tackle,0
+Ath8,Fylde (A),missed tackle,3
+Ath8,Fylde (A),carry,5
+Ath8,Fylde (A),gls,3
+Ath8,Fylde (A),linebreak,0
+Ath8,Fylde (A),defender beaten,2
 Ath8,Harrogate,try,0
 Ath8,Harrogate,try assist,0
 Ath8,Harrogate,tackle,6
@@ -4193,6 +4364,15 @@ Ath9,Fylde,carry,1
 Ath9,Fylde,gls,0
 Ath9,Fylde,linebreak,0
 Ath9,Fylde,defender beaten,0
+Ath9,Fylde (A),try,0
+Ath9,Fylde (A),try assist,0
+Ath9,Fylde (A),tackle,6
+Ath9,Fylde (A),dominant tackle,0
+Ath9,Fylde (A),missed tackle,2
+Ath9,Fylde (A),carry,4
+Ath9,Fylde (A),gls,2
+Ath9,Fylde (A),linebreak,1
+Ath9,Fylde (A),defender beaten,0
 Ath9,Harrogate,try,0
 Ath9,Harrogate,try assist,0
 Ath9,Harrogate,tackle,0
@@ -4409,6 +4589,15 @@ team,Fylde,carry,0
 team,Fylde,gls,0
 team,Fylde,linebreak,0
 team,Fylde,defender beaten,0
+team,Fylde (A),try,1
+team,Fylde (A),try assist,0
+team,Fylde (A),tackle,0
+team,Fylde (A),dominant tackle,0
+team,Fylde (A),missed tackle,0
+team,Fylde (A),carry,0
+team,Fylde (A),gls,0
+team,Fylde (A),linebreak,0
+team,Fylde (A),defender beaten,0
 team,Hull (H),try,0
 team,Hull (H),try assist,0
 team,Hull (H),tackle,0
