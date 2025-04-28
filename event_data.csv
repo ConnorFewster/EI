@@ -377,6 +377,15 @@ Ath11,Harrogate,carry,3
 Ath11,Harrogate,gls,0
 Ath11,Harrogate,linebreak,2
 Ath11,Harrogate,defender beaten,1
+Ath11,Harrogate (A),try,1
+Ath11,Harrogate (A),try assist,0
+Ath11,Harrogate (A),tackle,2
+Ath11,Harrogate (A),dominant tackle,0
+Ath11,Harrogate (A),missed tackle,2
+Ath11,Harrogate (A),carry,2
+Ath11,Harrogate (A),gls,2
+Ath11,Harrogate (A),linebreak,1
+Ath11,Harrogate (A),defender beaten,1
 Ath11,Hull,try,1
 Ath11,Hull,try assist,0
 Ath11,Hull,tackle,5
@@ -530,6 +539,15 @@ Ath12,Harrogate,carry,2
 Ath12,Harrogate,gls,2
 Ath12,Harrogate,linebreak,1
 Ath12,Harrogate,defender beaten,5
+Ath12,Harrogate (A),try,0
+Ath12,Harrogate (A),try assist,0
+Ath12,Harrogate (A),tackle,7
+Ath12,Harrogate (A),dominant tackle,1
+Ath12,Harrogate (A),missed tackle,2
+Ath12,Harrogate (A),carry,2
+Ath12,Harrogate (A),gls,0
+Ath12,Harrogate (A),linebreak,0
+Ath12,Harrogate (A),defender beaten,0
 Ath12,Hull,try,0
 Ath12,Hull,try assist,1
 Ath12,Hull,tackle,6
@@ -755,6 +773,15 @@ Ath13,Harrogate,carry,2
 Ath13,Harrogate,gls,1
 Ath13,Harrogate,linebreak,1
 Ath13,Harrogate,defender beaten,1
+Ath13,Harrogate (A),try,0
+Ath13,Harrogate (A),try assist,0
+Ath13,Harrogate (A),tackle,9
+Ath13,Harrogate (A),dominant tackle,0
+Ath13,Harrogate (A),missed tackle,5
+Ath13,Harrogate (A),carry,2
+Ath13,Harrogate (A),gls,0
+Ath13,Harrogate (A),linebreak,0
+Ath13,Harrogate (A),defender beaten,0
 Ath13,Hull,try,0
 Ath13,Hull,try assist,0
 Ath13,Hull,tackle,4
@@ -971,6 +998,15 @@ Ath14,Harrogate,carry,5
 Ath14,Harrogate,gls,0
 Ath14,Harrogate,linebreak,0
 Ath14,Harrogate,defender beaten,1
+Ath14,Harrogate (A),try,0
+Ath14,Harrogate (A),try assist,0
+Ath14,Harrogate (A),tackle,0
+Ath14,Harrogate (A),dominant tackle,0
+Ath14,Harrogate (A),missed tackle,0
+Ath14,Harrogate (A),carry,2
+Ath14,Harrogate (A),gls,0
+Ath14,Harrogate (A),linebreak,0
+Ath14,Harrogate (A),defender beaten,0
 Ath14,Hull I's,try,0
 Ath14,Hull I's,try assist,0
 Ath14,Hull I's,tackle,5
@@ -1142,6 +1178,15 @@ Ath15,Harrogate,carry,8
 Ath15,Harrogate,gls,2
 Ath15,Harrogate,linebreak,1
 Ath15,Harrogate,defender beaten,6
+Ath15,Harrogate (A),try,1
+Ath15,Harrogate (A),try assist,1
+Ath15,Harrogate (A),tackle,6
+Ath15,Harrogate (A),dominant tackle,0
+Ath15,Harrogate (A),missed tackle,1
+Ath15,Harrogate (A),carry,6
+Ath15,Harrogate (A),gls,1
+Ath15,Harrogate (A),linebreak,0
+Ath15,Harrogate (A),defender beaten,0
 Ath15,Hull,try,0
 Ath15,Hull,try assist,0
 Ath15,Hull,tackle,9
@@ -1349,6 +1394,15 @@ Ath16,Harrogate,carry,1
 Ath16,Harrogate,gls,1
 Ath16,Harrogate,linebreak,0
 Ath16,Harrogate,defender beaten,0
+Ath16,Harrogate (A),try,0
+Ath16,Harrogate (A),try assist,0
+Ath16,Harrogate (A),tackle,6
+Ath16,Harrogate (A),dominant tackle,0
+Ath16,Harrogate (A),missed tackle,1
+Ath16,Harrogate (A),carry,3
+Ath16,Harrogate (A),gls,0
+Ath16,Harrogate (A),linebreak,0
+Ath16,Harrogate (A),defender beaten,0
 Ath16,Hull,try,0
 Ath16,Hull,try assist,0
 Ath16,Hull,tackle,4
@@ -1502,6 +1556,15 @@ Ath17,Harrogate,carry,1
 Ath17,Harrogate,gls,1
 Ath17,Harrogate,linebreak,0
 Ath17,Harrogate,defender beaten,0
+Ath17,Harrogate (A),try,0
+Ath17,Harrogate (A),try assist,0
+Ath17,Harrogate (A),tackle,2
+Ath17,Harrogate (A),dominant tackle,0
+Ath17,Harrogate (A),missed tackle,0
+Ath17,Harrogate (A),carry,0
+Ath17,Harrogate (A),gls,0
+Ath17,Harrogate (A),linebreak,0
+Ath17,Harrogate (A),defender beaten,0
 Ath17,Hull I's,try,0
 Ath17,Hull I's,try assist,0
 Ath17,Hull I's,tackle,6
@@ -1772,6 +1835,15 @@ Ath2,Harrogate,carry,6
 Ath2,Harrogate,gls,2
 Ath2,Harrogate,linebreak,0
 Ath2,Harrogate,defender beaten,3
+Ath2,Harrogate (A),try,0
+Ath2,Harrogate (A),try assist,0
+Ath2,Harrogate (A),tackle,6
+Ath2,Harrogate (A),dominant tackle,1
+Ath2,Harrogate (A),missed tackle,3
+Ath2,Harrogate (A),carry,1
+Ath2,Harrogate (A),gls,1
+Ath2,Harrogate (A),linebreak,0
+Ath2,Harrogate (A),defender beaten,0
 Ath2,Hull,try,0
 Ath2,Hull,try assist,0
 Ath2,Hull,tackle,6
@@ -1970,6 +2042,15 @@ Ath20,Fylde,carry,3
 Ath20,Fylde,gls,2
 Ath20,Fylde,linebreak,0
 Ath20,Fylde,defender beaten,0
+Ath20,Harrogate (A),try,0
+Ath20,Harrogate (A),try assist,0
+Ath20,Harrogate (A),tackle,5
+Ath20,Harrogate (A),dominant tackle,0
+Ath20,Harrogate (A),missed tackle,1
+Ath20,Harrogate (A),carry,11
+Ath20,Harrogate (A),gls,5
+Ath20,Harrogate (A),linebreak,1
+Ath20,Harrogate (A),defender beaten,2
 Ath20,Hull (H),try,0
 Ath20,Hull (H),try assist,1
 Ath20,Hull (H),tackle,12
@@ -2132,6 +2213,15 @@ Ath22,Harrogate,carry,1
 Ath22,Harrogate,gls,0
 Ath22,Harrogate,linebreak,0
 Ath22,Harrogate,defender beaten,0
+Ath22,Harrogate (A),try,1
+Ath22,Harrogate (A),try assist,1
+Ath22,Harrogate (A),tackle,3
+Ath22,Harrogate (A),dominant tackle,0
+Ath22,Harrogate (A),missed tackle,2
+Ath22,Harrogate (A),carry,1
+Ath22,Harrogate (A),gls,0
+Ath22,Harrogate (A),linebreak,0
+Ath22,Harrogate (A),defender beaten,0
 Ath22,Hull,try,1
 Ath22,Hull,try assist,1
 Ath22,Hull,tackle,0
@@ -2456,6 +2546,15 @@ Ath24,Fylde (A),carry,3
 Ath24,Fylde (A),gls,0
 Ath24,Fylde (A),linebreak,2
 Ath24,Fylde (A),defender beaten,2
+Ath24,Harrogate (A),try,0
+Ath24,Harrogate (A),try assist,0
+Ath24,Harrogate (A),tackle,2
+Ath24,Harrogate (A),dominant tackle,0
+Ath24,Harrogate (A),missed tackle,1
+Ath24,Harrogate (A),carry,3
+Ath24,Harrogate (A),gls,2
+Ath24,Harrogate (A),linebreak,2
+Ath24,Harrogate (A),defender beaten,2
 Ath24,Hull,try,0
 Ath24,Hull,try assist,0
 Ath24,Hull,tackle,3
@@ -2753,6 +2852,15 @@ Ath29,Harrogate,carry,9
 Ath29,Harrogate,gls,4
 Ath29,Harrogate,linebreak,1
 Ath29,Harrogate,defender beaten,1
+Ath29,Harrogate (A),try,0
+Ath29,Harrogate (A),try assist,1
+Ath29,Harrogate (A),tackle,11
+Ath29,Harrogate (A),dominant tackle,3
+Ath29,Harrogate (A),missed tackle,2
+Ath29,Harrogate (A),carry,9
+Ath29,Harrogate (A),gls,4
+Ath29,Harrogate (A),linebreak,1
+Ath29,Harrogate (A),defender beaten,2
 Ath29,Hull (H),try,1
 Ath29,Hull (H),try assist,0
 Ath29,Hull (H),tackle,10
@@ -2924,6 +3032,15 @@ Ath3,Harrogate,carry,1
 Ath3,Harrogate,gls,1
 Ath3,Harrogate,linebreak,0
 Ath3,Harrogate,defender beaten,0
+Ath3,Harrogate (A),try,0
+Ath3,Harrogate (A),try assist,0
+Ath3,Harrogate (A),tackle,4
+Ath3,Harrogate (A),dominant tackle,0
+Ath3,Harrogate (A),missed tackle,0
+Ath3,Harrogate (A),carry,3
+Ath3,Harrogate (A),gls,0
+Ath3,Harrogate (A),linebreak,0
+Ath3,Harrogate (A),defender beaten,0
 Ath3,Hull (H),try,0
 Ath3,Hull (H),try assist,0
 Ath3,Hull (H),tackle,5
@@ -3059,6 +3176,15 @@ Ath31,Fylde (A),carry,3
 Ath31,Fylde (A),gls,2
 Ath31,Fylde (A),linebreak,0
 Ath31,Fylde (A),defender beaten,0
+Ath31,Harrogate (A),try,0
+Ath31,Harrogate (A),try assist,0
+Ath31,Harrogate (A),tackle,1
+Ath31,Harrogate (A),dominant tackle,1
+Ath31,Harrogate (A),missed tackle,0
+Ath31,Harrogate (A),carry,1
+Ath31,Harrogate (A),gls,0
+Ath31,Harrogate (A),linebreak,0
+Ath31,Harrogate (A),defender beaten,1
 Ath31,Hull,try,0
 Ath31,Hull,try assist,0
 Ath31,Hull,tackle,10
@@ -3212,6 +3338,15 @@ Ath35,Fylde (A),carry,9
 Ath35,Fylde (A),gls,7
 Ath35,Fylde (A),linebreak,0
 Ath35,Fylde (A),defender beaten,1
+Ath35,Harrogate (A),try,2
+Ath35,Harrogate (A),try assist,0
+Ath35,Harrogate (A),tackle,6
+Ath35,Harrogate (A),dominant tackle,1
+Ath35,Harrogate (A),missed tackle,0
+Ath35,Harrogate (A),carry,12
+Ath35,Harrogate (A),gls,9
+Ath35,Harrogate (A),linebreak,0
+Ath35,Harrogate (A),defender beaten,5
 Ath35,Hull (H),try,0
 Ath35,Hull (H),try assist,0
 Ath35,Hull (H),tackle,4
@@ -3401,6 +3536,15 @@ Ath39,Fylde (A),carry,2
 Ath39,Fylde (A),gls,2
 Ath39,Fylde (A),linebreak,0
 Ath39,Fylde (A),defender beaten,0
+Ath39,Harrogate (A),try,0
+Ath39,Harrogate (A),try assist,0
+Ath39,Harrogate (A),tackle,6
+Ath39,Harrogate (A),dominant tackle,0
+Ath39,Harrogate (A),missed tackle,0
+Ath39,Harrogate (A),carry,3
+Ath39,Harrogate (A),gls,0
+Ath39,Harrogate (A),linebreak,0
+Ath39,Harrogate (A),defender beaten,0
 Ath39,Hull I's (A),try,0
 Ath39,Hull I's (A),try assist,0
 Ath39,Hull I's (A),tackle,1
@@ -3914,6 +4058,15 @@ Ath6,Harrogate,carry,5
 Ath6,Harrogate,gls,2
 Ath6,Harrogate,linebreak,0
 Ath6,Harrogate,defender beaten,1
+Ath6,Harrogate (A),try,0
+Ath6,Harrogate (A),try assist,0
+Ath6,Harrogate (A),tackle,13
+Ath6,Harrogate (A),dominant tackle,0
+Ath6,Harrogate (A),missed tackle,0
+Ath6,Harrogate (A),carry,9
+Ath6,Harrogate (A),gls,5
+Ath6,Harrogate (A),linebreak,0
+Ath6,Harrogate (A),defender beaten,0
 Ath6,Hull,try,0
 Ath6,Hull,try assist,0
 Ath6,Hull,tackle,13
@@ -4121,6 +4274,15 @@ Ath7,Harrogate,carry,5
 Ath7,Harrogate,gls,2
 Ath7,Harrogate,linebreak,0
 Ath7,Harrogate,defender beaten,0
+Ath7,Harrogate (A),try,0
+Ath7,Harrogate (A),try assist,1
+Ath7,Harrogate (A),tackle,6
+Ath7,Harrogate (A),dominant tackle,0
+Ath7,Harrogate (A),missed tackle,1
+Ath7,Harrogate (A),carry,5
+Ath7,Harrogate (A),gls,0
+Ath7,Harrogate (A),linebreak,0
+Ath7,Harrogate (A),defender beaten,0
 Ath7,Hull,try,0
 Ath7,Hull,try assist,0
 Ath7,Hull,tackle,21
@@ -4364,6 +4526,15 @@ Ath8,Harrogate,carry,4
 Ath8,Harrogate,gls,1
 Ath8,Harrogate,linebreak,0
 Ath8,Harrogate,defender beaten,0
+Ath8,Harrogate (A),try,0
+Ath8,Harrogate (A),try assist,0
+Ath8,Harrogate (A),tackle,8
+Ath8,Harrogate (A),dominant tackle,0
+Ath8,Harrogate (A),missed tackle,1
+Ath8,Harrogate (A),carry,6
+Ath8,Harrogate (A),gls,0
+Ath8,Harrogate (A),linebreak,0
+Ath8,Harrogate (A),defender beaten,0
 Ath8,Hull,try,0
 Ath8,Hull,try assist,0
 Ath8,Hull,tackle,11
@@ -4553,6 +4724,15 @@ Ath9,Harrogate,carry,3
 Ath9,Harrogate,gls,1
 Ath9,Harrogate,linebreak,0
 Ath9,Harrogate,defender beaten,1
+Ath9,Harrogate (A),try,0
+Ath9,Harrogate (A),try assist,0
+Ath9,Harrogate (A),tackle,1
+Ath9,Harrogate (A),dominant tackle,0
+Ath9,Harrogate (A),missed tackle,0
+Ath9,Harrogate (A),carry,1
+Ath9,Harrogate (A),gls,0
+Ath9,Harrogate (A),linebreak,0
+Ath9,Harrogate (A),defender beaten,0
 Ath9,Hull,try,1
 Ath9,Hull,try assist,0
 Ath9,Hull,tackle,9
@@ -4778,6 +4958,15 @@ team,Fylde (A),carry,0
 team,Fylde (A),gls,0
 team,Fylde (A),linebreak,0
 team,Fylde (A),defender beaten,0
+team,Harrogate (A),try,0
+team,Harrogate (A),try assist,0
+team,Harrogate (A),tackle,0
+team,Harrogate (A),dominant tackle,0
+team,Harrogate (A),missed tackle,0
+team,Harrogate (A),carry,0
+team,Harrogate (A),gls,0
+team,Harrogate (A),linebreak,0
+team,Harrogate (A),defender beaten,0
 team,Hull (H),try,0
 team,Hull (H),try assist,0
 team,Hull (H),tackle,0
