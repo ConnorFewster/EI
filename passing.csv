@@ -1,0 +1,124 @@
+"","ID","Team","Opponent","Half","Minute","Event_Type","X_Start","X_End","Y_Start","Y_End","Type","Body_Part","Rec_Player","Complete","Height","Comp","BP","dx","dy","distance","angle","pass_deg","xP","PAx"
+"1","Ath8","Hartlepool","Rotherham","First Half",00:03:39,"Pass",21.73,58.25,74.27,80.34,"Through Ball","Right Foot",10,"Completed","High",1,1,36.52,6.07000000000001,37.02,0.16,9.17,0.54,0.46
+"2","Ath5","Hartlepool","Rotherham","First Half",00:03:49,"Pass",22.18,46.38,74.03,61.66,"Other","Right Foot",7,"Completed","Low",1,1,24.2,-12.37,27.18,-0.47,-26.93,0.65,0.35
+"3","Ath8","Hartlepool","Rotherham","First Half",00:03:54,"Pass",37.77,38.06,60.72,56.28,"Standard","Right Foot",4,"Completed","Ground",1,1,0.289999999999999,-4.44,4.45,-1.51,-86.52,0.85,0.15
+"4","Ath4","Hartlepool","Rotherham","First Half",00:03:57,"Pass",36.28,5.55,55.35,48.81,"Standard","Right Foot",1,"Completed","Ground",1,1,-30.73,-6.54,31.42,-2.93,-167.88,0.69,0.31
+"5","Ath1","Hartlepool","Rotherham","First Half",00:03:57,"Pass",5.55,56.62,47.18,13.54,"Other","Right Foot",60,"Incompleted","High",0,1,51.07,-33.64,61.15,-0.58,-33.23,0.33,-0.33
+"6","Ath4","Hartlepool","Rotherham","First Half",00:04:09,"Pass",39.55,29.31,27.79,27.32,"Standard","Left Foot",6,"Completed","Ground",1,2,-10.24,-0.469999999999999,10.25,-3.1,-177.62,0.82,0.18
+"7","Ath6","Hartlepool","Rotherham","First Half",00:04:10,"Pass",28.12,78.15,25.69,32.23,"Other","Right Foot",10,"Completed","High",1,1,50.03,6.54,50.46,0.13,7.45,0.4,0.6
+"8","Ath10","Hartlepool","Rotherham","First Half",00:04:15,"Pass",77.85,77.55,29.89,45.54,"Other","Right Foot",9,"Completed","Ground",1,1,-0.299999999999997,15.65,15.65,1.59,91.1,0.69,0.31
+"9","Ath3","Hartlepool","Rotherham","First Half",00:04:38,"Pass",24.55,8.37,93.89,79.17,"Standard","Left Foot",1,"Completed","Ground",1,2,-16.18,-14.72,21.87,-2.4,-137.51,0.72,0.28
+"10","Ath1","Hartlepool","Rotherham","First Half",00:04:42,"Pass",8.67,50.68,79.41,100.43,"Other","Right Foot",60,"Incompleted","High",0,1,42.01,21.02,46.98,0.46,26.36,0.43,-0.43
+"11","Ath11","Hartlepool","Rotherham","First Half",00:05:10,"Pass",24.55,37.77,86.18,61.89,"Other","Right Foot",10,"Completed","Low",1,1,13.22,-24.29,27.65,-1.07,-61.31,0.67,0.33
+"12","Ath10","Hartlepool","Rotherham","First Half",00:05:13,"Pass",36.58,42.07,51.85,35.5,"Standard","Right Foot",2,"Completed","Ground",1,1,5.49,-16.35,17.25,-1.25,-71.62,0.76,0.24
+"13","Ath2","Hartlepool","Rotherham","First Half",00:05:21,"Pass",90.91,90.02,21.02,41.1,"Cross","Right Foot",7,"Completed","Ground",1,1,-0.890000000000001,20.08,20.1,1.62,92.82,0.65,0.35
+"14","Ath2","Hartlepool","Rotherham","First Half",00:06:34,"Pass",7.48,56.18,10.74,1.4,"Other","Right Foot",10,"Incompleted","High",0,1,48.7,-9.34,49.59,-0.19,-10.89,0.42,-0.42
+"15","Ath6","Hartlepool","Rotherham","First Half",00:08:47,"Pass",11.34,53.21,57.45,91.79,"Other","Right Foot",10,"Completed","High",1,1,41.87,34.34,54.15,0.69,39.53,0.35,0.65
+"16","Ath10","Hartlepool","Rotherham","First Half",00:09:01,"Pass",59.59,86.46,92.02,28.96,"Switch","Right Foot",60,"Incompleted","Ground",0,1,26.87,-63.06,68.55,-1.17,-67.04,0.28,-0.28
+"17","Ath9","Hartlepool","Rotherham","First Half",00:10:30,"Pass",14.9,30.49,29.19,36.9,"Through Ball","Right Foot",10,"Incompleted","Ground",0,1,15.59,7.71,17.39,0.46,26.36,0.71,-0.71
+"18","Ath6","Hartlepool","Rotherham","First Half",00:11:30,"Pass",34.65,44.15,7.94,3.03,"Standard","Right Foot",2,"Completed","Ground",1,1,9.5,-4.91,10.69,-0.48,-27.5,0.79,0.21
+"19","Ath2","Hartlepool","Rotherham","First Half",00:11:32,"Pass",47.71,58.25,2.33,6.07,"Standard","Right Foot",9,"Completed","Ground",1,1,10.54,3.74,11.18,0.34,19.48,0.76,0.24
+"20","Ath9","Hartlepool","Rotherham","First Half",00:11:36,"Pass",54.69,52.32,8.64,17.28,"Standard","Right Foot",8,"Completed","Ground",1,1,-2.37,8.64,8.96,1.84,105.42,0.74,0.26
+"21","Ath8","Hartlepool","Rotherham","First Half",00:11:37,"Pass",52.17,38.36,18.45,36.9,"Standard","Right Foot",6,"Completed","Ground",1,1,-13.81,18.45,23.05,2.21,126.62,0.61,0.39
+"22","Ath6","Hartlepool","Rotherham","First Half",00:11:41,"Pass",39.55,64.49,33.4,97.62,"Switch","Right Foot",11,"Completed","High",1,1,24.94,64.22,68.89,1.2,68.75,0.22,0.78
+"23","Ath3","Hartlepool","Rotherham","First Half",00:12:23,"Pass",16.98,0.95,86.65,80.81,"Standard","Left Foot",1,"Completed","Ground",1,2,-16.03,-5.84,17.06,-2.79,-159.86,0.77,0.23
+"24","Ath1","Hartlepool","Rotherham","First Half",00:12:25,"Pass",0.5,45.04,80.81,53.95,"Other","Right Foot",60,"Incompleted","High",0,1,44.54,-26.86,52.01,-0.54,-30.94,0.41,-0.41
+"25","Ath9","Hartlepool","Rotherham","First Half",00:13:08,"Pass",71.91,74.73,9.81,14.24,"Other","Head",7,"Completed","High",1,3,2.82000000000001,4.43,5.25,1,57.3,0.73,0.27
+"26","Ath7","Hartlepool","Rotherham","First Half",00:13:10,"Pass",75.77,78.74,13.54,19.62,"Other","Head",60,"Incompleted","High",0,3,2.97,6.08,6.77,1.12,64.17,0.72,-0.72
+"27","Ath1","Hartlepool","Rotherham","First Half",00:13:25,"Pass",7.48,21.73,23.12,7.94,"Standard","Right Foot",5,"Completed","Ground",1,1,14.25,-15.18,20.82,-0.82,-46.98,0.72,0.28
+"28","Ath5","Hartlepool","Rotherham","First Half",00:13:28,"Pass",23.81,65.68,6.07,32.93,"Through Ball","Right Foot",60,"Incompleted","Low",0,1,41.87,26.86,49.74,0.57,32.66,0.4,-0.4
+"29","Ath7","Hartlepool","Rotherham","First Half",00:13:31,"Pass",51.43,57.66,34.1,33.63,"Standard","Left Foot",9,"Completed","Ground",1,2,6.23,-0.469999999999999,6.25,-0.08,-4.58,0.78,0.22
+"30","Ath9","Hartlepool","Rotherham","First Half",00:13:33,"Pass",57.22,54.99,35.03,58.85,"Standard","Right Foot",4,"Completed","Ground",1,1,-2.23,23.82,23.92,1.66,95.11,0.62,0.38
+"31","Ath4","Hartlepool","Rotherham","First Half",00:13:35,"Pass",55.14,56.18,58.39,101.83,"Standard","Right Foot",60,"Incompleted","Ground",0,1,1.04,43.44,43.45,1.55,88.81,0.43,-0.43
+"32","Ath9","Hartlepool","Rotherham","First Half",00:14:16,"Pass",39.7,37.32,96.46,87.35,"Standard","Right Foot",8,"Completed","Ground",1,1,-2.38,-9.11,9.42,-1.83,-104.85,0.82,0.18
+"33","Ath8","Hartlepool","Rotherham","First Half",00:14:18,"Pass",35.99,43.56,83.14,87.81,"Standard","Right Foot",9,"Completed","Low",1,1,7.57,4.67,8.89,0.55,31.51,0.77,0.23
+"34","Ath7","Hartlepool","Rotherham","First Half",00:14:46,"Pass",77.55,80.67,17.28,35.03,"Cross","Left Foot",4,"Completed","Ground",1,2,3.12,17.75,18.02,1.4,80.21,0.64,0.36
+"35","Ath9","Hartlepool","Rotherham","First Half",00:14:54,"Pass",96.11,96.56,5.37,26.39,"Cross","Right Foot",60,"Incompleted","Low",0,1,0.450000000000003,21.02,21.02,1.55,88.81,0.65,-0.65
+"36","Ath9","Hartlepool","Rotherham","First Half",00:15:23,"Pass",93.74,94.33,2.57,35.96,"Shot","Right Foot",60,"Incompleted","Ground",0,1,0.590000000000003,33.39,33.4,1.55,88.81,0.53,-0.53
+"37","Ath4","Hartlepool","Rotherham","First Half",00:15:26,"Pass",76.07,82.3,31.06,30.13,"Standard","Right Foot",60,"Incompleted","Ground",0,1,6.23,-0.93,6.3,-0.15,-8.59,0.81,-0.81
+"38","Ath6","Hartlepool","Rotherham","First Half",00:15:34,"Pass",40.59,14.61,66.56,56.75,"Standard","Right Foot",1,"Completed","Ground",1,1,-25.98,-9.81,27.77,-2.78,-159.28,0.72,0.28
+"39","Ath1","Hartlepool","Rotherham","First Half",00:15:37,"Pass",14.9,21.73,55.58,80.34,"Standard","Right Foot",6,"Completed","Ground",1,1,6.83,24.76,25.68,1.3,74.48,0.61,0.39
+"40","Ath6","Hartlepool","Rotherham","First Half",00:15:40,"Pass",22.92,44.6,94.12,103.23,"Other","Left Foot",60,"Incompleted","High",0,2,21.68,9.11,23.52,0.4,22.92,0.62,-0.62
+"41","Ath3","Hartlepool","Rotherham","First Half",00:16:29,"Pass",20.99,23.52,79.17,91.08,"Standard","Left Foot",60,"Incompleted","Ground",0,2,2.53,11.91,12.18,1.36,77.92,0.7,-0.7
+"42","Ath5","Hartlepool","Rotherham","First Half",00:16:34,"Pass",12.23,39.25,57.22,79.17,"Other","Left Foot",10,"Completed","Low",1,2,27.02,21.95,34.81,0.68,38.96,0.5,0.5
+"43","Ath10","Hartlepool","Rotherham","First Half",00:16:36,"Pass",37.77,36.28,81.51,70.3,"Standard","Right Foot",8,"Completed","Low",1,1,-1.49,-11.21,11.31,-1.7,-97.4,0.81,0.19
+"44","Ath8","Hartlepool","Rotherham","First Half",00:16:38,"Pass",35.99,52.02,71.23,67.26,"Standard","Right Foot",60,"Incompleted","Ground",0,1,16.03,-3.97,16.51,-0.24,-13.75,0.74,-0.74
+"45","Ath3","Hartlepool","Rotherham","First Half",00:17:24,"Pass",3.03,36.73,78.47,77.77,"Standard","Left Foot",10,"Completed","Low",1,2,33.7,-0.700000000000003,33.71,-0.02,-1.15,0.54,0.46
+"46","Ath10","Hartlepool","Rotherham","First Half",00:17:25,"Pass",40.59,44.89,78.71,60.96,"Standard","Right Foot",60,"Incompleted","Ground",0,1,4.3,-17.75,18.26,-1.33,-76.2,0.75,-0.75
+"47","Ath7","Hartlepool","Rotherham","First Half",00:18:28,"Pass",30.94,21.44,39.7,38.3,"Standard","Left Foot",8,"Completed","Ground",1,2,-9.5,-1.40000000000001,9.6,-3,-171.89,0.82,0.18
+"48","Ath8","Hartlepool","Rotherham","First Half",00:18:30,"Pass",21.14,72.36,38.77,17.28,"Other","Right Foot",60,"Incompleted","Low",0,1,51.22,-21.49,55.55,-0.4,-22.92,0.37,-0.37
+"49","Ath9","Hartlepool","Rotherham","First Half",00:19:01,"Pass",80.67,75.48,7.24,23.12,"Flick on","Right Foot",7,"Completed","Low",1,1,-5.19,15.88,16.71,1.89,108.29,0.67,0.33
+"50","Ath7","Hartlepool","Rotherham","First Half",00:19:02,"Pass",77.85,82.3,22.89,30.59,"Standard","Left Foot",10,"Completed","Low",1,2,4.45,7.7,8.89,1.05,60.16,0.73,0.27
+"51","Ath10","Hartlepool","Rotherham","First Half",00:19:04,"Pass",83.05,83.49,33.63,43.2,"Standard","Right Foot",7,"Completed","Ground",1,1,0.439999999999998,9.57,9.58,1.52,87.09,0.74,0.26
+"52","Ath7","Hartlepool","Rotherham","First Half",00:19:05,"Pass",84.53,85.72,46.24,56.05,"Standard","Left Foot",60,"Incompleted","Ground",0,2,1.19,9.81,9.88,1.45,83.08,0.71,-0.71
+"53","Ath3","Hartlepool","Rotherham","First Half",00:19:15,"Pass",57.07,66.86,94.35,99.49,"Standard","Left Foot",11,"Completed","Ground",1,2,9.79,5.14,11.06,0.48,27.5,0.73,0.27
+"54","Ath11","Hartlepool","Rotherham","First Half",00:19:16,"Pass",66.86,68.2,99.49,93.19,"Standard","Right Foot",3,"Completed","High",1,1,1.34,-6.3,6.44,-1.36,-77.92,0.83,0.17
+"55","Ath3","Hartlepool","Rotherham","First Half",00:19:18,"Pass",68.5,77.11,94.82,97.39,"Standard","Head",60,"Incompleted","High",0,3,8.61,2.57000000000001,8.99,0.29,16.62,0.72,-0.72
+"56","Ath4","Hartlepool","Rotherham","First Half",00:20:28,"Pass",38.66,28.71,77.54,73.33,"Standard","Right Foot",6,"Completed","Ground",1,1,-9.95,-4.21000000000001,10.8,-2.74,-156.99,0.83,0.17
+"57","Ath6","Hartlepool","Rotherham","First Half",00:20:29,"Pass",25.3,73.1,73.1,28.26,"Other","Right Foot",60,"Incompleted","Low",0,1,47.8,-44.84,65.54,-0.75,-42.97,0.29,-0.29
+"58","Ath5","Hartlepool","Rotherham","First Half",00:20:40,"Pass",42.96,74.73,8.87,18.68,"Standard","Right Foot",60,"Incompleted","Ground",0,1,31.77,9.81,33.25,0.3,17.19,0.57,-0.57
+"59","Ath9","Hartlepool","Rotherham","First Half",00:21:56,"Pass",56.62,64.93,72.63,74.5,"Flick on","Head",60,"Incompleted","Low",0,3,8.31000000000001,1.87,8.52,0.22,12.61,0.73,-0.73
+"60","Ath5","Hartlepool","Rotherham","First Half",00:22:04,"Pass",36.73,8.82,63.99,54.65,"Standard","Right Foot",1,"Completed","Ground",1,1,-27.91,-9.34,29.43,-2.82,-161.57,0.71,0.29
+"61","Ath1","Hartlepool","Rotherham","First Half",00:22:06,"Pass",9.71,40.88,53.72,57.45,"Other","Right Foot",8,"Completed","Ground",1,1,31.17,3.73,31.39,0.12,6.88,0.6,0.4
+"62","Ath8","Hartlepool","Rotherham","First Half",00:22:08,"Pass",41.63,45.19,61.66,45.77,"Standard","Right Foot",60,"Incompleted","Ground",0,1,3.56,-15.89,16.28,-1.35,-77.35,0.77,-0.77
+"63","Ath1","Hartlepool","Rotherham","First Half",00:23:04,"Pass",16.09,82.01,28.02,6.77,"Other","Right Foot",60,"Incompleted","High",0,1,65.92,-21.25,69.26,-0.31,-17.76,0.25,-0.25
+"64","Ath7","Hartlepool","Rotherham","First Half",00:24:24,"Pass",99.23,81.41,0,6.3,"Standard","Left Foot",4,"Completed","Ground",1,2,-17.82,6.3,18.9,2.8,160.43,0.59,0.41
+"65","Ath4","Hartlepool","Rotherham","First Half",00:24:26,"Pass",82.6,76.22,7.24,32.93,"Standard","Right Foot",11,"Completed","Ground",1,1,-6.38,25.69,26.47,1.81,103.71,0.59,0.41
+"66","Ath11","Hartlepool","Rotherham","First Half",00:25:20,"Pass",43.26,48.46,35.73,30.36,"Standard","Right Foot",7,"Completed","Ground",1,1,5.2,-5.37,7.48,-0.8,-45.84,0.81,0.19
+"67","Ath7","Hartlepool","Rotherham","First Half",00:25:23,"Pass",46.67,42.67,40.64,70.76,"Standard","Left Foot",3,"Completed","Ground",1,2,-4,30.12,30.38,1.7,97.4,0.51,0.49
+"68","Ath3","Hartlepool","Rotherham","First Half",00:25:27,"Pass",50.98,53.06,63.52,54.18,"Standard","Left Foot",7,"Completed","Ground",1,2,2.08000000000001,-9.34,9.57,-1.35,-77.35,0.79,0.21
+"69","Ath7","Hartlepool","Rotherham","First Half",00:25:31,"Pass",74.88,75.48,37.37,49.28,"Standard","Left Foot",4,"Completed","Ground",1,2,0.600000000000009,11.91,11.93,1.52,87.09,0.69,0.31
+"70","Ath9","Hartlepool","Rotherham","First Half",00:26:06,"Pass",54.54,53.65,71,63.52,"Standard","Right Foot",7,"Completed","Ground",1,1,-0.890000000000001,-7.48,7.53,-1.69,-96.83,0.83,0.17
+"71","Ath7","Hartlepool","Rotherham","First Half",00:26:07,"Pass",53.95,68.05,61.89,30.59,"Through Ball","Left Foot",2,"Completed","Ground",1,2,14.1,-31.3,34.33,-1.15,-65.89,0.57,0.43
+"72","Ath6","Hartlepool","Rotherham","First Half",00:26:26,"Pass",21.29,48.01,2.1,16.81,"Other","Right Foot",60,"Incompleted","Ground",0,1,26.72,14.71,30.5,0.5,28.65,0.59,-0.59
+"73","Ath1","Hartlepool","Rotherham","First Half",00:27:20,"Pass",15.5,76.96,26.62,26.39,"Other","Right Foot",60,"Incompleted","High",0,1,61.46,-0.23,61.46,0,0,0.31,-0.31
+"74","Ath11","Hartlepool","Rotherham","First Half",00:27:31,"Pass",60.33,73.99,52.78,-3.04,"Switch","Right Foot",60,"Incompleted","High",0,1,13.66,-55.82,57.47,-1.33,-76.2,0.39,-0.39
+"75","Ath2","Hartlepool","Rotherham","First Half",00:28:12,"Pass",55.73,68.05,4.2,16.11,"Standard","Head",9,"Completed","Ground",1,3,12.32,11.91,17.14,0.77,44.12,0.63,0.37
+"76","Ath9","Hartlepool","Rotherham","First Half",00:28:14,"Pass",68.35,71.17,17.05,12.38,"Standard","Right Foot",7,"Completed","Ground",1,1,2.82000000000001,-4.67,5.46,-1.03,-59.01,0.83,0.17
+"77","Ath7","Hartlepool","Rotherham","First Half",00:28:17,"Pass",69.24,98.93,2.1,14.24,"Through Ball","Right Foot",9,"Completed","Ground",1,1,29.69,12.14,32.08,0.39,22.35,0.58,0.42
+"78","Ath9","Hartlepool","Rotherham","First Half",00:28:20,"Pass",99.23,98.63,17.05,-1.4,"Other","Left Foot",60,"Incompleted","Ground",0,2,-0.600000000000009,-18.45,18.46,-1.6,-91.67,0.73,-0.73
+"79","Ath6","Hartlepool","Rotherham","First Half",00:30:24,"Pass",97.6,99.23,62.36,47.41,"Cross","Head",60,"Incompleted","High",0,3,1.63000000000001,-14.95,15.04,-1.46,-83.65,0.72,-0.72
+"80","Ath8","Hartlepool","Rotherham","First Half",00:30:29,"Pass",58.55,73.4,36.43,64.93,"Standard","Left Foot",60,"Completed","High",1,2,14.85,28.5,32.14,1.09,62.45,0.52,0.48
+"81","Ath6","Hartlepool","Rotherham","First Half",00:30:32,"Pass",75.03,82.9,64.69,63.99,"Standard","Head",60,"Incompleted","Low",0,3,7.87,-0.699999999999996,7.9,-0.09,-5.16,0.74,-0.74
+"82","Ath8","Hartlepool","Rotherham","First Half",00:30:41,"Pass",54.39,66.12,41.57,17.75,"Standard","Head",7,"Completed","Ground",1,3,11.73,-23.82,26.55,-1.11,-63.6,0.61,0.39
+"83","Ath7","Hartlepool","Rotherham","First Half",00:30:45,"Pass",71.91,61.37,24.75,38.77,"Standard","Right Foot",8,"Completed","Ground",1,1,-10.54,14.02,17.54,2.22,127.2,0.66,0.34
+"84","Ath8","Hartlepool","Rotherham","First Half",00:30:50,"Pass",75.48,79.93,48.58,47.64,"Standard","Right Foot",9,"Completed","Ground",1,1,4.45,-0.939999999999998,4.55,-0.21,-12.03,0.82,0.18
+"85","Ath9","Hartlepool","Rotherham","First Half",00:31:32,"Pass",87.2,90.62,5.37,12.61,"Through Ball","Left Foot",7,"Completed","Ground",1,2,3.42,7.24,8.01,1.13,64.74,0.74,0.26
+"86","Ath7","Hartlepool","Rotherham","First Half",00:31:35,"Pass",92.99,93.74,21.02,35.26,"Cross","Left Foot",60,"Incompleted","Ground",0,2,0.75,14.24,14.26,1.52,87.09,0.67,-0.67
+"87","Ath5","Hartlepool","Rotherham","First Half",00:31:48,"Pass",33.31,22.03,7,16.81,"Standard","Right Foot",1,"Completed","Ground",1,1,-11.28,9.81,14.95,2.43,139.23,0.67,0.33
+"88","Ath1","Hartlepool","Rotherham","First Half",00:31:49,"Pass",18.62,70.58,16.58,17.98,"Other","Right Foot",60,"Incompleted","High",0,1,51.96,1.4,51.98,0.03,1.72,0.39,-0.39
+"89","Ath10","Hartlepool","Rotherham","First Half",00:35:10,"Pass",44.45,52.46,96.46,75.67,"Standard","Right Foot",7,"Completed","Ground",1,1,8.01,-20.79,22.28,-1.2,-68.75,0.72,0.28
+"90","Ath9","Hartlepool","Rotherham","First Half",00:35:19,"Pass",59,70.13,82.68,31.53,"Switch","Right Foot",2,"Completed","Ground",1,1,11.13,-51.15,52.35,-1.36,-77.92,0.44,0.56
+"91","Ath2","Hartlepool","Rotherham","First Half",00:35:26,"Pass",81.41,96.41,19.85,29.89,"Cross","Right Foot",2,"Incompleted","High",0,1,15,10.04,18.05,0.59,33.8,0.7,-0.7
+"92","Ath4","Hartlepool","Rotherham","First Half",00:37:00,"Pass",39.55,55.58,32.93,3.27,"Standard","Right Foot",2,"Incompleted","Ground",0,1,16.03,-29.66,33.71,-1.08,-61.88,0.61,-0.61
+"93","Ath2","Hartlepool","Rotherham","First Half",00:37:07,"Pass",69.83,65.68,14.71,25.92,"Standard","Right Foot",7,"Completed","Ground",1,1,-4.14999999999999,11.21,11.95,1.93,110.58,0.71,0.29
+"94","Ath7","Hartlepool","Rotherham","First Half",00:37:09,"Pass",61.37,44.45,26.86,44.84,"Standard","Left Foot",6,"Completed","Ground",1,2,-16.92,17.98,24.69,2.33,133.5,0.55,0.45
+"95","Ath6","Hartlepool","Rotherham","First Half",00:37:11,"Pass",41.92,17.28,46.47,45.31,"Standard","Right Foot",1,"Completed","Ground",1,1,-24.64,-1.16,24.67,-3.09,-177.04,0.75,0.25
+"96","Ath1","Hartlepool","Rotherham","First Half",00:37:16,"Pass",16.98,20.99,47.18,63.99,"Standard","Right Foot",6,"Completed","Ground",1,1,4.01,16.81,17.28,1.34,76.78,0.69,0.31
+"97","Ath6","Hartlepool","Rotherham","First Half",00:37:18,"Pass",20.55,28.27,71.93,93.19,"Standard","Right Foot",3,"Completed","Ground",1,1,7.72,21.26,22.62,1.22,69.9,0.64,0.36
+"98","Ath3","Hartlepool","Rotherham","First Half",00:37:18,"Pass",25.89,50.98,97.62,92.02,"Other","Left Foot",9,"Completed","High",1,2,25.09,-5.60000000000001,25.71,-0.22,-12.61,0.62,0.38
+"99","Ath9","Hartlepool","Rotherham","First Half",00:37:23,"Pass",51.87,58.11,88.98,76.84,"Other","Head",10,"Completed","High",1,3,6.24,-12.14,13.65,-1.1,-63.03,0.72,0.28
+"100","Ath10","Hartlepool","Rotherham","First Half",00:37:24,"Pass",58.55,61.67,75.2,97.16,"Other","Right Foot",60,"Incompleted","Low",0,1,3.12,21.96,22.18,1.43,81.93,0.64,-0.64
+"101","Ath8","Hartlepool","Rotherham","First Half",00:37:55,"Pass",36.13,49.79,81.04,85.48,"Standard","Head",10,"Completed","Low",1,3,13.66,4.44,14.36,0.31,17.76,0.67,0.33
+"102","Ath10","Hartlepool","Rotherham","First Half",00:37:56,"Pass",49.94,47.71,81.51,88.52,"Standard","Right Foot",60,"Incompleted","Ground",0,1,-2.23,7.00999999999999,7.36,1.88,107.72,0.75,-0.75
+"103","Ath1","Hartlepool","Rotherham","First Half",00:41:22,"Pass",22.33,60.93,70.3,89.45,"Long","Right Foot",60,"Incompleted","High",0,1,38.6,19.15,43.09,0.46,26.36,0.47,-0.47
+"104","Ath11","Hartlepool","Rotherham","First Half",00:41:26,"Pass",56.03,61.67,90.15,81.98,"Standard","Head",60,"Incompleted","High",0,3,5.64,-8.17,9.93,-0.97,-55.58,0.75,-0.75
+"105","Ath11","Hartlepool","Rotherham","First Half",00:41:29,"Pass",57.07,66.27,90.38,76.37,"Standard","Head",59,"Completed","High",1,3,9.2,-14.01,16.76,-0.99,-56.72,0.69,0.31
+"106","Ath3","Hartlepool","Rotherham","First Half",00:42:19,"Pass",7.48,18.62,62.36,59.79,"Standard","Head",4,"Completed","Ground",1,3,11.14,-2.57,11.43,-0.23,-13.18,0.72,0.28
+"107","Ath4","Hartlepool","Rotherham","First Half",00:42:20,"Pass",20.1,18.76,59.09,41.57,"Standard","Right Foot",2,"Completed","Ground",1,1,-1.34,-17.52,17.57,-1.65,-94.54,0.77,0.23
+"108","Ath2","Hartlepool","Rotherham","First Half",00:42:20,"Pass",18.02,83.79,40.4,26.39,"Through Ball","Right Foot",60,"Incompleted","Low",0,1,65.77,-14.01,67.25,-0.21,-12.03,0.27,-0.27
+"109","Ath8","Hartlepool","Rotherham","First Half",00:46:51,"Pass",25,37.47,50.91,45.54,"Standard","Head",11,"Completed","Low",1,3,12.47,-5.37,13.58,-0.41,-23.49,0.7,0.3
+"110","Ath11","Hartlepool","Rotherham","First Half",00:46:53,"Pass",39.7,44.74,42.97,40.64,"Standard","Right Foot",60,"Incompleted","High",0,1,5.04,-2.33,5.55,-0.43,-24.64,0.82,-0.82
+"111","Ath4","Hartlepool","Rotherham","First Half",00:47:49,"Pass",37.17,39.85,50.91,38.53,"Standard","Right Foot",7,"Completed","Ground",1,1,2.68,-12.38,12.67,-1.36,-77.92,0.79,0.21
+"112","Ath7","Hartlepool","Rotherham","First Half",00:47:51,"Pass",40.14,70.43,39.23,4.67,"Standard","Left Foot",9,"Completed","Ground",1,2,30.29,-34.56,45.96,-0.85,-48.7,0.44,0.56
+"113","Ath9","Hartlepool","Rotherham","First Half",00:47:57,"Pass",74.29,90.47,1.86,11.44,"Standard","Right Foot",60,"Incompleted","Ground",0,1,16.18,9.58,18.8,0.53,30.37,0.7,-0.7
+"114","Ath5","Hartlepool","Rotherham","First Half",00:48:20,"Pass",46.97,74.88,8.64,8.17,"Standard","Right Foot",60,"Incompleted","Low",0,1,27.91,-0.470000000000001,27.91,-0.02,-1.15,0.63,-0.63
+"115","Ath8","Hartlepool","Rotherham","First Half",00:48:51,"Pass",28.86,58.11,57.69,95.05,"Other","Right Foot",10,"Completed","High",1,1,29.25,37.36,47.45,0.91,52.14,0.41,0.59
+"116","Ath4","Hartlepool","Rotherham","First Half",00:49:25,"Pass",56.32,58.7,91.32,96.69,"Standard","Right Foot",11,"Completed","Ground",1,1,2.38,5.37,5.87,1.15,65.89,0.78,0.22
+"117","Ath11","Hartlepool","Rotherham","First Half",00:49:31,"Pass",59,57.96,88.28,72.4,"Standard","Right Foot",7,"Completed","Low",1,1,-1.04,-15.88,15.91,-1.64,-93.97,0.78,0.22
+"118","Ath7","Hartlepool","Rotherham","First Half",00:49:32,"Pass",59.74,34.35,71.93,46.71,"Standard","Right Foot",6,"Completed","Low",1,1,-25.39,-25.22,35.79,-2.36,-135.22,0.64,0.36
+"119","Ath6","Hartlepool","Rotherham","First Half",00:49:36,"Pass",34.06,16.98,45.77,42.74,"Standard","Left Foot",1,"Completed","Ground",1,2,-17.08,-3.03,17.35,-2.97,-170.17,0.77,0.23
+"120","Ath1","Hartlepool","Rotherham","First Half",00:49:38,"Pass",16.54,65.23,42.5,15.41,"Standard","Right Foot",60,"Incompleted","High",0,1,48.69,-27.09,55.72,-0.51,-29.22,0.38,-0.38
+"121","Ath10","Hartlepool","Rotherham","First Half",00:50:43,"Pass",75.33,92.1,66.79,61.19,"Through Ball","Right Foot",7,"Completed","Ground",1,1,16.77,-5.60000000000001,17.68,-0.32,-18.33,0.73,0.27
+"122","Ath7","Hartlepool","Rotherham","First Half",00:50:46,"Pass",98.04,94.18,66.09,53.48,"Cross","Right Foot",60,"Incompleted","Low",0,1,-3.86,-12.61,13.19,-1.87,-107.14,0.8,-0.8
+"123","Ath9","Hartlepool","Rotherham","First Half",00:50:48,"Pass",92.55,91.66,55.12,43.44,"Standard","Right Foot",4,"Completed","Ground",1,1,-0.890000000000001,-11.68,11.71,-1.65,-94.54,0.81,0.19

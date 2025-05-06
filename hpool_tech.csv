@@ -1,0 +1,301 @@
+"","ID","Team","Opponent","Half","Minute","Event_Type","X_Start","Y_Start","X_End","Y_End","Additional_Info","Type","Body_Part","Rec_Player","Complete","Height","Corner_Type","Outcome","Foul_Type","Event_Won","Offence","Shot_Outcome","Possession_Type","GK_Type","Interception_Type","Assist_Type","Card_Type","Duel_Type","Duel_Outcome","Dribble_Outcome","Beaten_By","Block_Outcome","Block_Body_Part","Clearance_Type","Player_On","Player_Off","Sub_Type"
+"1",6,"Hartlepool","Rotherham","First Half",00:03:11,"Clearance",21.88,80.11,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Head",NA,NA,NA
+"2",6,"Hartlepool","Rotherham","First Half",00:03:35,"Clearance",13.42,74.27,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Head",NA,NA,NA
+"3",11,"Hartlepool","Rotherham","First Half",00:03:37,"Clearance",25,82.68,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Right Foot",NA,NA,NA
+"4",8,"Hartlepool","Rotherham","First Half",00:03:39,"Pass",21.73,74.27,58.25,80.34,NA,"Through Ball","Right Foot","Ath10","Completed","High",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5",3,"Hartlepool","Rotherham","First Half",00:03:46,"Clearance",34.2,84.54,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Head",NA,NA,NA
+"6",5,"Hartlepool","Rotherham","First Half",00:03:49,"Clearance",24.11,77.07,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Right Foot",NA,NA,NA
+"7",5,"Hartlepool","Rotherham","First Half",00:03:49,"Pass",22.18,74.03,46.38,61.66,NA,"Other","Right Foot","Ath7","Completed","Low",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8",8,"Hartlepool","Rotherham","First Half",00:03:54,"Duel",41.03,62.82,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ground","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"9",8,"Hartlepool","Rotherham","First Half",00:03:54,"Pass",37.77,60.72,38.06,56.28,NA,"Standard","Right Foot","Ath4","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10",4,"Hartlepool","Rotherham","First Half",00:03:57,"Pass",36.28,55.35,5.55,48.81,NA,"Standard","Right Foot","Ath1","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11",1,"Hartlepool","Rotherham","First Half",00:03:57,"Pass",5.55,47.18,56.62,13.54,NA,"Other","Right Foot","Opposition","Incompleted","High",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12",2,"Hartlepool","Rotherham","First Half",00:04:07,"Duel",42.22,16.58,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"13",4,"Hartlepool","Rotherham","First Half",00:04:09,"Pass",39.55,27.79,29.31,27.32,NA,"Standard","Left Foot","Ath6","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14",6,"Hartlepool","Rotherham","First Half",00:04:10,"Pass",28.12,25.69,78.15,32.23,NA,"Other","Right Foot","Ath10","Completed","High",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15",10,"Hartlepool","Rotherham","First Half",00:04:15,"Pass",77.85,29.89,77.55,45.54,NA,"Other","Right Foot","Ath9","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16",9,"Hartlepool","Rotherham","First Half",00:04:17,"Shot",77.85,44.37,80.37,44.84,NA,NA,"Right Foot","AthNA",NA,NA,NA,NA,NA,NA,NA,"Blocked",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17",11,"Hartlepool","Rotherham","First Half",00:04:35,"Throw in",48.46,101.13,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,"Retained",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18",3,"Hartlepool","Rotherham","First Half",00:04:38,"Pass",24.55,93.89,8.37,79.17,NA,"Standard","Left Foot","Ath1","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19",1,"Hartlepool","Rotherham","First Half",00:04:42,"Pass",8.67,79.41,50.68,100.43,NA,"Other","Right Foot","Opposition","Incompleted","High",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"20",11,"Hartlepool","Rotherham","First Half",00:05:10,"Pass",24.55,86.18,37.77,61.89,NA,"Other","Right Foot","Ath10","Completed","Low",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21",10,"Hartlepool","Rotherham","First Half",00:05:13,"Pass",36.58,51.85,42.07,35.5,NA,"Standard","Right Foot","Ath2","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22",2,"Hartlepool","Rotherham","First Half",00:05:15,"Dribble",40.44,35.03,90.77,21.48,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA
+"23",2,"Hartlepool","Rotherham","First Half",00:05:21,"Pass",90.91,21.02,90.02,41.1,NA,"Cross","Right Foot","Ath7","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"24",7,"Hartlepool","Rotherham","First Half",00:05:23,"Shot",90.32,42.5,92.4,45.07,NA,NA,"Right Foot","AthNA",NA,NA,NA,NA,NA,NA,NA,"Blocked",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25",4,"Hartlepool","Rotherham","First Half",00:05:24,"Shot",84.23,37.13,102.35,50.45,NA,NA,"Right Foot","AthNA",NA,NA,NA,NA,NA,NA,NA,"Off Target",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26",8,"Hartlepool","Rotherham","First Half",00:06:01,"Duel",41.48,82.68,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"27",5,"Hartlepool","Rotherham","First Half",00:06:04,"Duel",33.61,84.54,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"28",3,"Hartlepool","Rotherham","First Half",00:06:25,"Duel",7.04,90.85,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"29",6,"Hartlepool","Rotherham","First Half",00:06:29,"Duel",11.49,50.45,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"30",2,"Hartlepool","Rotherham","First Half",00:06:34,"Pass",7.48,10.74,56.18,1.4,NA,"Other","Right Foot","Ath10","Incompleted","High",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31",2,"Hartlepool","Rotherham","First Half",00:08:33,"Throw in",58.85,-0.7,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,"Lost",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"32",8,"Hartlepool","Rotherham","First Half",00:08:36,"Duel",58.55,27.09,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ground","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"33",6,"Hartlepool","Rotherham","First Half",00:08:47,"Clearance",11.49,57.69,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Right Foot",NA,NA,NA
+"34",6,"Hartlepool","Rotherham","First Half",00:08:47,"Pass",11.34,57.45,53.21,91.79,NA,"Other","Right Foot","Ath10","Completed","High",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35",7,"Hartlepool","Rotherham","First Half",00:08:59,"Duel",56.62,92.02,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ground","Lost",NA,NA,NA,NA,NA,NA,NA,NA
+"36",10,"Hartlepool","Rotherham","First Half",00:09:01,"Pass",59.59,92.02,86.46,28.96,NA,"Switch","Right Foot","Opposition","Incompleted","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37",6,"Hartlepool","Rotherham","First Half",00:09:19,"Duel",25.45,35.96,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ground","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"38",6,"Hartlepool","Rotherham","First Half",00:09:31,"Clearance",3.18,37.13,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Right Foot",NA,NA,NA
+"39",5,"Hartlepool","Rotherham","First Half",00:10:08,"Duel",2.88,39.94,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"40",2,"Hartlepool","Rotherham","First Half",00:10:23,"Clearance",8.67,42.74,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Head",NA,NA,NA
+"41",9,"Hartlepool","Rotherham","First Half",00:10:28,"Interception",16.69,26.62,NA,NA,NA,NA,"Right Foot","AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42",9,"Hartlepool","Rotherham","First Half",00:10:30,"Pass",14.9,29.19,30.49,36.9,NA,"Through Ball","Right Foot","Ath10","Incompleted","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43",1,"Hartlepool","Rotherham","First Half",00:11:04,"Free Kick",14.01,25.69,65.38,24.99,NA,"Long","Right Foot","AthNA",NA,NA,NA,"Own Player",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"44",9,"Hartlepool","Rotherham","First Half",00:11:08,"Duel",66.42,28.02,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"45",2,"Hartlepool","Rotherham","First Half",00:11:11,"Duel",59.74,8.87,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"46",2,"Hartlepool","Rotherham","First Half",00:11:27,"Throw in",52.76,-0.47,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,"Retained",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47",6,"Hartlepool","Rotherham","First Half",00:11:30,"Pass",34.65,7.94,44.15,3.03,NA,"Standard","Right Foot","Ath2","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"48",2,"Hartlepool","Rotherham","First Half",00:11:32,"Pass",47.71,2.33,58.25,6.07,NA,"Standard","Right Foot","Ath9","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49",9,"Hartlepool","Rotherham","First Half",00:11:36,"Pass",54.69,8.64,52.32,17.28,NA,"Standard","Right Foot","Ath8","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50",8,"Hartlepool","Rotherham","First Half",00:11:37,"Pass",52.17,18.45,38.36,36.9,NA,"Standard","Right Foot","Ath6","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51",6,"Hartlepool","Rotherham","First Half",00:11:41,"Pass",39.55,33.4,64.49,97.62,NA,"Switch","Right Foot","Ath11","Completed","High",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52",6,"Hartlepool","Rotherham","First Half",00:12:00,"Duel",39.25,96.46,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"53",11,"Hartlepool","Rotherham","First Half",00:12:20,"Throw in",43.85,101.13,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,"Retained",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54",3,"Hartlepool","Rotherham","First Half",00:12:23,"Pass",16.98,86.65,0.95,80.81,NA,"Standard","Left Foot","Ath1","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55",1,"Hartlepool","Rotherham","First Half",00:12:25,"Pass",0.5,80.81,45.04,53.95,NA,"Other","Right Foot","Opposition","Incompleted","High",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56",2,"Hartlepool","Rotherham","First Half",00:12:42,"Block",6.29,36.9,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful","Chest",NA,NA,NA,NA
+"57",7,"Hartlepool","Rotherham","First Half",00:12:44,"Duel",17.13,35.96,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ground","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"58",10,"Hartlepool","Rotherham","First Half",00:12:50,"Duel",27.23,18.91,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ground","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"59",2,"Hartlepool","Rotherham","First Half",00:13:06,"Throw in",51.87,-0.7,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,"Retained",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"60",9,"Hartlepool","Rotherham","First Half",00:13:08,"Pass",71.91,9.81,74.73,14.24,NA,"Other","Head","Ath7","Completed","High",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"61",7,"Hartlepool","Rotherham","First Half",00:13:10,"Pass",75.77,13.54,78.74,19.62,NA,"Other","Head","Opposition","Incompleted","High",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"62",1,"Hartlepool","Rotherham","First Half",00:13:25,"Pass",7.48,23.12,21.73,7.94,NA,"Standard","Right Foot","Ath5","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"63",5,"Hartlepool","Rotherham","First Half",00:13:28,"Pass",23.81,6.07,65.68,32.93,NA,"Through Ball","Right Foot","Opposition","Incompleted","Low",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64",7,"Hartlepool","Rotherham","First Half",00:13:31,"Pass",51.43,34.1,57.66,33.63,NA,"Standard","Left Foot","Ath9","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65",9,"Hartlepool","Rotherham","First Half",00:13:33,"Pass",57.22,35.03,54.99,58.85,NA,"Standard","Right Foot","Ath4","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"66",4,"Hartlepool","Rotherham","First Half",00:13:35,"Pass",55.14,58.39,56.18,101.83,NA,"Standard","Right Foot","Opposition","Incompleted","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67",3,"Hartlepool","Rotherham","First Half",00:13:52,"Duel",15.05,85.48,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ground","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"68",11,"Hartlepool","Rotherham","First Half",00:14:15,"Throw in",17.87,100.66,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,"Retained",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"69",9,"Hartlepool","Rotherham","First Half",00:14:16,"Pass",39.7,96.46,37.32,87.35,NA,"Standard","Right Foot","Ath8","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70",8,"Hartlepool","Rotherham","First Half",00:14:18,"Pass",35.99,83.14,43.56,87.81,NA,"Standard","Right Foot","Ath9","Completed","Low",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"71",6,"Hartlepool","Rotherham","First Half",00:14:24,"Duel",31.24,28.72,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"72",7,"Hartlepool","Rotherham","First Half",00:14:26,"Foul",54.25,17.28,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,"Won","Free Kick","Pushing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"73",2,"Hartlepool","Rotherham","First Half",00:14:41,"Free Kick",54.1,15.41,67.9,3.73,NA,"Pass","Right Foot","AthNA",NA,NA,NA,"Blocked",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"74",7,"Hartlepool","Rotherham","First Half",00:14:43,"Dribble",64.04,3.73,75.77,18.21,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA
+"75",7,"Hartlepool","Rotherham","First Half",00:14:46,"Pass",77.55,17.28,80.67,35.03,NA,"Cross","Left Foot","Ath4","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"76",4,"Hartlepool","Rotherham","First Half",00:14:46,"Dribble",81.12,35.96,86.16,35.96,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Unsuccessful",NA,NA,NA,NA,NA,NA,NA
+"77",9,"Hartlepool","Rotherham","First Half",00:14:49,"Duel",87.05,18.91,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ground","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"78",9,"Hartlepool","Rotherham","First Half",00:14:49,"Dribble",87.05,19.85,95.81,5.13,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA
+"79",9,"Hartlepool","Rotherham","First Half",00:14:54,"Pass",96.11,5.37,96.56,26.39,NA,"Cross","Right Foot","Opposition","Incompleted","Low",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"80",2,"Hartlepool","Rotherham","First Half",00:15:19,"Throw in",65.68,0,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,"Retained",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"81",9,"Hartlepool","Rotherham","First Half",00:15:21,"Dribble",87.05,6.3,94.18,3.97,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA
+"82",9,"Hartlepool","Rotherham","First Half",00:15:23,"Pass",93.74,2.57,94.33,35.96,NA,"Shot","Right Foot","Opposition","Incompleted","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"83",4,"Hartlepool","Rotherham","First Half",00:15:26,"Pass",76.07,31.06,82.3,30.13,NA,"Standard","Right Foot","Opposition","Incompleted","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"84",6,"Hartlepool","Rotherham","First Half",00:15:32,"Dribble",46.67,53.95,39.7,67.73,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA
+"85",6,"Hartlepool","Rotherham","First Half",00:15:34,"Pass",40.59,66.56,14.61,56.75,NA,"Standard","Right Foot","Ath1","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"86",1,"Hartlepool","Rotherham","First Half",00:15:37,"Pass",14.9,55.58,21.73,80.34,NA,"Standard","Right Foot","Ath6","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"87",6,"Hartlepool","Rotherham","First Half",00:15:40,"Pass",22.92,94.12,44.6,103.23,NA,"Other","Left Foot","Opposition","Incompleted","High",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"88",3,"Hartlepool","Rotherham","First Half",00:16:07,"Duel",28.27,96.22,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ground","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"89",3,"Hartlepool","Rotherham","First Half",00:16:26,"Duel",17.43,96.22,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ground","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"90",3,"Hartlepool","Rotherham","First Half",00:16:28,"Dribble",18.32,87.35,22.03,79.64,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA
+"91",3,"Hartlepool","Rotherham","First Half",00:16:29,"Pass",20.99,79.17,23.52,91.08,NA,"Standard","Left Foot","Opposition","Incompleted","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"92",5,"Hartlepool","Rotherham","First Half",00:16:34,"Pass",12.23,57.22,39.25,79.17,NA,"Other","Left Foot","Ath10","Completed","Low",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"93",10,"Hartlepool","Rotherham","First Half",00:16:36,"Pass",37.77,81.51,36.28,70.3,NA,"Standard","Right Foot","Ath8","Completed","Low",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"94",8,"Hartlepool","Rotherham","First Half",00:16:38,"Pass",35.99,71.23,52.02,67.26,NA,"Standard","Right Foot","Opposition","Incompleted","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"95",5,"Hartlepool","Rotherham","First Half",00:16:46,"Clearance",11.05,55.58,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Head",NA,NA,NA
+"96",3,"Hartlepool","Rotherham","First Half",00:17:21,"Duel",1.99,68.9,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ground","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"97",3,"Hartlepool","Rotherham","First Half",00:17:21,"Defender Beaten",2.73,67.73,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Dribble Past",NA,NA,NA,NA,NA,NA
+"98",3,"Hartlepool","Rotherham","First Half",00:17:21,"Dribble",2.14,67.5,3.03,78.01,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA
+"99",3,"Hartlepool","Rotherham","First Half",00:17:24,"Pass",3.03,78.47,36.73,77.77,NA,"Standard","Left Foot","Ath10","Completed","Low",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"100",10,"Hartlepool","Rotherham","First Half",00:17:25,"Pass",40.59,78.71,44.89,60.96,NA,"Standard","Right Foot","Opposition","Incompleted","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"101",5,"Hartlepool","Rotherham","First Half",00:17:34,"Block",5.85,35.5,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful","Foot",NA,NA,NA,NA
+"102",2,"Hartlepool","Rotherham","First Half",00:18:10,"Clearance",6.29,41.8,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Right Foot",NA,NA,NA
+"103",7,"Hartlepool","Rotherham","First Half",00:18:12,"Duel",22.62,46.24,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"104",3,"Hartlepool","Rotherham","First Half",00:18:22,"Duel",9.41,60.96,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"105",9,"Hartlepool","Rotherham","First Half",00:18:27,"Duel",21.73,42.74,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ground","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"106",7,"Hartlepool","Rotherham","First Half",00:18:28,"Pass",30.94,39.7,21.44,38.3,NA,"Standard","Left Foot","Ath8","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"107",8,"Hartlepool","Rotherham","First Half",00:18:30,"Pass",21.14,38.77,72.36,17.28,NA,"Other","Right Foot","Opposition","Incompleted","Low",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"108",2,"Hartlepool","Rotherham","First Half",00:18:59,"Throw in",54.99,-0.47,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,"Retained",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"109",9,"Hartlepool","Rotherham","First Half",00:19:01,"Pass",80.67,7.24,75.48,23.12,NA,"Flick on","Right Foot","Ath7","Completed","Low",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"110",7,"Hartlepool","Rotherham","First Half",00:19:02,"Pass",77.85,22.89,82.3,30.59,NA,"Standard","Left Foot","Ath10","Completed","Low",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"111",10,"Hartlepool","Rotherham","First Half",00:19:04,"Pass",83.05,33.63,83.49,43.2,NA,"Standard","Right Foot","Ath7","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"112",7,"Hartlepool","Rotherham","First Half",00:19:05,"Pass",84.53,46.24,85.72,56.05,NA,"Standard","Left Foot","Opposition","Incompleted","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"113",3,"Hartlepool","Rotherham","First Half",00:19:15,"Pass",57.07,94.35,66.86,99.49,NA,"Standard","Left Foot","Ath11","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"114",11,"Hartlepool","Rotherham","First Half",00:19:16,"Pass",66.86,99.49,68.2,93.19,NA,"Standard","Right Foot","Ath3","Completed","High",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"115",3,"Hartlepool","Rotherham","First Half",00:19:18,"Pass",68.5,94.82,77.11,97.39,NA,"Standard","Head","Opposition","Incompleted","High",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"116",11,"Hartlepool","Rotherham","First Half",00:19:20,"Foul",79.34,98.09,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,"Conceded","Free Kick","Tackle",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"117",11,"Hartlepool","Rotherham","First Half",00:20:20,"Throw in",40.74,101.83,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,"Lost",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"118",10,"Hartlepool","Rotherham","First Half",00:20:22,"Duel",55.29,97.62,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Lost",NA,NA,NA,NA,NA,NA,NA,NA
+"119",3,"Hartlepool","Rotherham","First Half",00:20:27,"Duel",39.1,78.01,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ground","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"120",4,"Hartlepool","Rotherham","First Half",00:20:28,"Pass",38.66,77.54,28.71,73.33,NA,"Standard","Right Foot","Ath6","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"121",6,"Hartlepool","Rotherham","First Half",00:20:29,"Pass",25.3,73.1,73.1,28.26,NA,"Other","Right Foot","Opposition","Incompleted","Low",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"122",5,"Hartlepool","Rotherham","First Half",00:20:40,"Pass",42.96,8.87,74.73,18.68,NA,"Standard","Right Foot","Opposition","Incompleted","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"123",5,"Hartlepool","Rotherham","First Half",00:20:46,"Duel",29.01,6.07,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ground","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"124",5,"Hartlepool","Rotherham","First Half",00:20:46,"Duel",11.49,23.35,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"125",7,"Hartlepool","Rotherham","First Half",00:21:20,"Duel",27.52,15.41,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ground","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"126",2,"Hartlepool","Rotherham","First Half",00:21:22,"Clearance",19.06,14.24,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Right Foot",NA,NA,NA
+"127",1,"Hartlepool","Rotherham","First Half",00:21:51,"Goal Kick",5.7,63.29,52.61,68.43,NA,NA,NA,"AthNA",NA,"High",NA,NA,NA,NA,NA,NA,NA,"Long",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"128",4,"Hartlepool","Rotherham","First Half",00:21:55,"Duel",52.02,67.26,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Lost",NA,NA,NA,NA,NA,NA,NA,NA
+"129",9,"Hartlepool","Rotherham","First Half",00:21:56,"Pass",56.62,72.63,64.93,74.5,NA,"Flick on","Head","Opposition","Incompleted","Low",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"130",8,"Hartlepool","Rotherham","First Half",00:22:02,"Duel",47.86,64.23,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Lost",NA,NA,NA,NA,NA,NA,NA,NA
+"131",5,"Hartlepool","Rotherham","First Half",00:22:04,"Pass",36.73,63.99,8.82,54.65,NA,"Standard","Right Foot","Ath1","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"132",1,"Hartlepool","Rotherham","First Half",00:22:06,"Pass",9.71,53.72,40.88,57.45,NA,"Other","Right Foot","Ath8","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"133",8,"Hartlepool","Rotherham","First Half",00:22:08,"Pass",41.63,61.66,45.19,45.77,NA,"Standard","Right Foot","Opposition","Incompleted","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"134",2,"Hartlepool","Rotherham","First Half",00:22:12,"Foul",38.21,45.54,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,"Conceded","Free Kick","Tackle",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"135",1,"Hartlepool","Rotherham","First Half",00:22:47,"Save",1.54,50.68,NA,NA,"Caught",NA,"Right Foot","AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"136",1,"Hartlepool","Rotherham","First Half",00:23:04,"Pass",16.09,28.02,82.01,6.77,NA,"Other","Right Foot","Opposition","Incompleted","High",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"137",2,"Hartlepool","Rotherham","First Half",00:23:28,"Throw in",88.09,-0.94,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,"Retained",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"138",9,"Hartlepool","Rotherham","First Half",00:23:32,"Dribble",97.45,29.19,97.74,31.29,"Corner Won",NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA
+"139",7,"Hartlepool","Rotherham","First Half",00:24:01,"Corner",99.67,0.23,97.74,36.2,NA,NA,NA,"AthNA",NA,NA,"Inswing","Opposition",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"140",7,"Hartlepool","Rotherham","First Half",00:24:24,"Corner",99.53,0.46,81.71,3.97,NA,NA,NA,"AthNA",NA,NA,"Standard","Own Team",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"141",7,"Hartlepool","Rotherham","First Half",00:24:24,"Pass",99.23,0,81.41,6.3,NA,"Standard","Left Foot","Ath4","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"142",4,"Hartlepool","Rotherham","First Half",00:24:26,"Pass",82.6,7.24,76.22,32.93,NA,"Standard","Right Foot","Ath11","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"143",4,"Hartlepool","Rotherham","First Half",00:24:26,"Assist",82.6,9.34,NA,NA,NA,NA,"Right Foot","AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Pass",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"144",11,"Hartlepool","Rotherham","First Half",00:24:28,"Shot",77.85,31.06,99.82,54.88,NA,NA,"Right Foot","AthNA",NA,NA,NA,NA,NA,NA,NA,"Goal",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"145",11,"Hartlepool","Rotherham","First Half",00:25:14,"Dribble",34.06,73.33,43.26,35.96,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA
+"146",11,"Hartlepool","Rotherham","First Half",00:25:20,"Pass",43.26,35.73,48.46,30.36,NA,"Standard","Right Foot","Ath7","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"147",7,"Hartlepool","Rotherham","First Half",00:25:20,"Dribble",48.31,30.83,47.71,40.4,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA
+"148",7,"Hartlepool","Rotherham","First Half",00:25:23,"Pass",46.67,40.64,42.67,70.76,NA,"Standard","Left Foot","Ath3","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"149",3,"Hartlepool","Rotherham","First Half",00:25:24,"Dribble",43.26,69.13,51.43,63.29,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA
+"150",3,"Hartlepool","Rotherham","First Half",00:25:27,"Pass",50.98,63.52,53.06,54.18,NA,"Standard","Left Foot","Ath7","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"151",7,"Hartlepool","Rotherham","First Half",00:25:31,"Dribble",52.46,52.78,73.1,37.37,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA
+"152",7,"Hartlepool","Rotherham","First Half",00:25:31,"Pass",74.88,37.37,75.48,49.28,NA,"Standard","Left Foot","Ath4","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"153",4,"Hartlepool","Rotherham","First Half",00:25:34,"Shot",75.77,50.91,100.71,59.79,NA,NA,"Left Foot","AthNA",NA,NA,NA,NA,NA,NA,NA,"Off Target",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"154",8,"Hartlepool","Rotherham","First Half",00:26:04,"Duel",46.97,81.98,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"155",9,"Hartlepool","Rotherham","First Half",00:26:06,"Pass",54.54,71,53.65,63.52,NA,"Standard","Right Foot","Ath7","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"156",7,"Hartlepool","Rotherham","First Half",00:26:07,"Pass",53.95,61.89,68.05,30.59,NA,"Through Ball","Left Foot","Ath2","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"157",2,"Hartlepool","Rotherham","First Half",00:26:10,"Dribble",68.79,31.76,84.68,31.29,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA
+"158",2,"Hartlepool","Rotherham","First Half",00:26:11,"Shot",83.79,30.83,97.74,47.18,"Keeper Saved",NA,"Left Foot","AthNA",NA,NA,NA,NA,NA,NA,NA,"On Target",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"159",6,"Hartlepool","Rotherham","First Half",00:26:22,"Duel",36.13,30.36,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ground","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"160",6,"Hartlepool","Rotherham","First Half",00:26:22,"Dribble",34.2,30.83,25,2.57,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA
+"161",6,"Hartlepool","Rotherham","First Half",00:26:26,"Pass",21.29,2.1,48.01,16.81,NA,"Other","Right Foot","Opposition","Incompleted","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"162",2,"Hartlepool","Rotherham","First Half",00:26:30,"Interception",31.83,9.34,NA,NA,NA,NA,"Right Foot","AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"163",5,"Hartlepool","Rotherham","First Half",00:26:58,"Duel",16.24,13.78,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Lost",NA,NA,NA,NA,NA,NA,NA,NA
+"164",1,"Hartlepool","Rotherham","First Half",00:27:01,"Save",4.36,34.1,NA,NA,"Collection",NA,"Right Foot","AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"165",1,"Hartlepool","Rotherham","First Half",00:27:20,"Pass",15.5,26.62,76.96,26.39,NA,"Other","Right Foot","Opposition","Incompleted","High",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"166",9,"Hartlepool","Rotherham","First Half",00:27:24,"Duel",76.22,28.72,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Lost",NA,NA,NA,NA,NA,NA,NA,NA
+"167",11,"Hartlepool","Rotherham","First Half",00:27:29,"Dribble",59.59,68.43,60.93,54.18,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA
+"168",11,"Hartlepool","Rotherham","First Half",00:27:31,"Pass",60.33,52.78,73.99,-3.04,NA,"Switch","Right Foot","Opposition","Incompleted","High",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"169",2,"Hartlepool","Rotherham","First Half",00:28:12,"Pass",55.73,4.2,68.05,16.11,NA,"Standard","Head","Ath9","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"170",9,"Hartlepool","Rotherham","First Half",00:28:14,"Pass",68.35,17.05,71.17,12.38,NA,"Standard","Right Foot","Ath7","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"171",7,"Hartlepool","Rotherham","First Half",00:28:15,"Dribble",65.23,15.64,71.62,2.1,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA
+"172",7,"Hartlepool","Rotherham","First Half",00:28:17,"Pass",69.24,2.1,98.93,14.24,NA,"Through Ball","Right Foot","Ath9","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"173",9,"Hartlepool","Rotherham","First Half",00:28:20,"Pass",99.23,17.05,98.63,-1.4,NA,"Other","Left Foot","Opposition","Incompleted","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"174",2,"Hartlepool","Rotherham","First Half",00:28:52,"Throw in",65.38,-0.24,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,"Lost",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"175",2,"Hartlepool","Rotherham","First Half",00:29:37,"Throw in",87.8,-1.17,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,"Retained",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"176",9,"Hartlepool","Rotherham","First Half",00:29:38,"Dribble",93.14,14.01,98.49,16.58,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA
+"177",9,"Hartlepool","Rotherham","First Half",00:29:39,"Foul",102.2,17.75,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,"Won","Free Kick","Tackle",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"178",7,"Hartlepool","Rotherham","First Half",00:30:22,"Free Kick",97.89,16.11,98.04,62.12,NA,"Cross","Left Foot","AthNA",NA,NA,NA,"Own Player",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"179",6,"Hartlepool","Rotherham","First Half",00:30:24,"Pass",97.6,62.36,99.23,47.41,NA,"Cross","Head","Opposition","Incompleted","High",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"180",8,"Hartlepool","Rotherham","First Half",00:30:29,"Pass",58.55,36.43,73.4,64.93,NA,"Standard","Left Foot","Opposition","Completed","High",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"181",6,"Hartlepool","Rotherham","First Half",00:30:32,"Pass",75.03,64.69,82.9,63.99,NA,"Standard","Head","Opposition","Incompleted","Low",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"182",10,"Hartlepool","Rotherham","First Half",00:30:34,"Duel",86.31,71.47,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ground","Lost",NA,NA,NA,NA,NA,NA,NA,NA
+"183",8,"Hartlepool","Rotherham","First Half",00:30:41,"Pass",54.39,41.57,66.12,17.75,NA,"Standard","Head","Ath7","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"184",7,"Hartlepool","Rotherham","First Half",00:30:43,"Dribble",70.43,16.58,72.36,23.12,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA
+"185",7,"Hartlepool","Rotherham","First Half",00:30:45,"Pass",71.91,24.75,61.37,38.77,NA,"Standard","Right Foot","Ath8","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"186",8,"Hartlepool","Rotherham","First Half",00:30:46,"Dribble",60.48,37.83,75.18,46.24,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA
+"187",8,"Hartlepool","Rotherham","First Half",00:30:50,"Pass",75.48,48.58,79.93,47.64,NA,"Standard","Right Foot","Ath9","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"188",9,"Hartlepool","Rotherham","First Half",00:30:50,"Dribble",79.78,47.64,80.08,47.18,"Lost",NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Unsuccessful",NA,NA,NA,NA,NA,NA,NA
+"189",2,"Hartlepool","Rotherham","First Half",00:31:13,"Throw in",53.65,-0.47,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,"Lost",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"190",2,"Hartlepool","Rotherham","First Half",00:31:14,"Throw in",65.68,0,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,"Retained",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"191",9,"Hartlepool","Rotherham","First Half",00:31:30,"Dribble",85.57,9.34,87.05,3.73,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA
+"192",9,"Hartlepool","Rotherham","First Half",00:31:32,"Pass",87.2,5.37,90.62,12.61,NA,"Through Ball","Left Foot","Ath7","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"193",7,"Hartlepool","Rotherham","First Half",00:31:33,"Dribble",90.91,13.31,92.84,20.32,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA
+"194",7,"Hartlepool","Rotherham","First Half",00:31:35,"Pass",92.99,21.02,93.74,35.26,NA,"Cross","Left Foot","Opposition","Incompleted","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"195",5,"Hartlepool","Rotherham","First Half",00:31:48,"Pass",33.31,7,22.03,16.81,NA,"Standard","Right Foot","Ath1","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"196",1,"Hartlepool","Rotherham","First Half",00:31:49,"Pass",18.62,16.58,70.58,17.98,NA,"Other","Right Foot","Opposition","Incompleted","High",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"197",4,"Hartlepool","Rotherham","First Half",00:31:56,"Duel",59.29,24.52,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Lost",NA,NA,NA,NA,NA,NA,NA,NA
+"198",8,"Hartlepool","Rotherham","First Half",00:32:01,"Duel",35.99,6.07,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ground","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"199",2,"Hartlepool","Rotherham","First Half",00:32:40,"Foul",11.94,30.59,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,"Won","Free Kick","Pushing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"200",1,"Hartlepool","Rotherham","First Half",00:33:23,"Free Kick",16.69,26.62,61.52,26.39,NA,"Cross","Right Foot","AthNA",NA,NA,NA,"Opposition",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"201",5,"Hartlepool","Rotherham","First Half",00:33:31,"Duel",45.49,28.96,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"202",6,"Hartlepool","Rotherham","First Half",00:33:39,"Duel",19.21,71,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ground","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"203",6,"Hartlepool","Rotherham","First Half",00:33:40,"Clearance",13.42,78.71,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Right Foot",NA,NA,NA
+"204",3,"Hartlepool","Rotherham","First Half",00:34:09,"Foul",7.78,62.12,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,"Won","Free Kick","Pushing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"205",1,"Hartlepool","Rotherham","First Half",00:34:34,"Free Kick",11.94,62.59,60.18,80.81,NA,"Long","Right Foot","AthNA",NA,NA,NA,"Opposition",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"206",9,"Hartlepool","Rotherham","First Half",00:34:38,"Duel",60.04,81.27,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Lost",NA,NA,NA,NA,NA,NA,NA,NA
+"207",11,"Hartlepool","Rotherham","First Half",00:35:08,"Throw in",32.42,101.36,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,"Opposition",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"208",10,"Hartlepool","Rotherham","First Half",00:35:10,"Dribble",45.64,96.22,45.64,94.82,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA
+"209",10,"Hartlepool","Rotherham","First Half",00:35:10,"Defender Beaten",45.64,95.99,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Dribble Past",NA,NA,NA,NA,NA,NA
+"210",10,"Hartlepool","Rotherham","First Half",00:35:10,"Pass",44.45,96.46,52.46,75.67,NA,"Standard","Right Foot","Ath7","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"211",7,"Hartlepool","Rotherham","First Half",00:35:14,"Dribble",52.46,77.07,53.8,75.67,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Unsuccessful",NA,NA,NA,NA,NA,NA,NA
+"212",11,"Hartlepool","Rotherham","First Half",00:35:18,"Duel",54.1,89.68,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ground","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"213",9,"Hartlepool","Rotherham","First Half",00:35:19,"Pass",59,82.68,70.13,31.53,NA,"Switch","Right Foot","Ath2","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"214",2,"Hartlepool","Rotherham","First Half",00:35:26,"Pass",81.41,19.85,96.41,29.89,NA,"Cross","Right Foot","Ath2","Incompleted","High",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"215",7,"Hartlepool","Rotherham","First Half",00:35:29,"Foul",99.08,33.4,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,"Conceded","Free Kick","Challengeing GK",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"216",2,"Hartlepool","Rotherham","First Half",00:36:10,"Duel",44.15,19.62,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"217",9,"Hartlepool","Rotherham","First Half",00:36:12,"Foul",53.65,42.5,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,"Conceded","Free Kick","Tackle",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"218",11,"Hartlepool","Rotherham","First Half",00:36:54,"Duel",13.57,74.74,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"219",4,"Hartlepool","Rotherham","First Half",00:36:59,"Dribble",33.46,38.3,38.36,33.16,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA
+"220",4,"Hartlepool","Rotherham","First Half",00:37:00,"Pass",39.55,32.93,55.58,3.27,NA,"Standard","Right Foot","Ath2","Incompleted","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"221",2,"Hartlepool","Rotherham","First Half",00:37:03,"Dribble",55.73,2.8,69.24,12.61,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA
+"222",2,"Hartlepool","Rotherham","First Half",00:37:07,"Pass",69.83,14.71,65.68,25.92,NA,"Standard","Right Foot","Ath7","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"223",7,"Hartlepool","Rotherham","First Half",00:37:09,"Dribble",63.6,23.59,61.82,27.09,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA
+"224",7,"Hartlepool","Rotherham","First Half",00:37:09,"Pass",61.37,26.86,44.45,44.84,NA,"Standard","Left Foot","Ath6","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"225",6,"Hartlepool","Rotherham","First Half",00:37:11,"Pass",41.92,46.47,17.28,45.31,NA,"Standard","Right Foot","Ath1","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"226",1,"Hartlepool","Rotherham","First Half",00:37:16,"Pass",16.98,47.18,20.99,63.99,NA,"Standard","Right Foot","Ath6","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"227",6,"Hartlepool","Rotherham","First Half",00:37:18,"Pass",20.55,71.93,28.27,93.19,NA,"Standard","Right Foot","Ath3","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"228",3,"Hartlepool","Rotherham","First Half",00:37:18,"Pass",25.89,97.62,50.98,92.02,NA,"Other","Left Foot","Ath9","Completed","High",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"229",9,"Hartlepool","Rotherham","First Half",00:37:23,"Pass",51.87,88.98,58.11,76.84,NA,"Other","Head","Ath10","Completed","High",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"230",10,"Hartlepool","Rotherham","First Half",00:37:24,"Pass",58.55,75.2,61.67,97.16,NA,"Other","Right Foot","Opposition","Incompleted","Low",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"231",3,"Hartlepool","Rotherham","First Half",00:37:50,"Duel",30.05,97.62,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Lost",NA,NA,NA,NA,NA,NA,NA,NA
+"232",6,"Hartlepool","Rotherham","First Half",00:37:52,"Duel",29.01,95.29,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"233",8,"Hartlepool","Rotherham","First Half",00:37:55,"Pass",36.13,81.04,49.79,85.48,NA,"Standard","Head","Ath10","Completed","Low",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"234",10,"Hartlepool","Rotherham","First Half",00:37:56,"Pass",49.94,81.51,47.71,88.52,NA,"Standard","Right Foot","Opposition","Incompleted","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"235",6,"Hartlepool","Rotherham","First Half",00:38:17,"Duel",16.83,92.49,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Lost",NA,NA,NA,NA,NA,NA,NA,NA
+"236",5,"Hartlepool","Rotherham","First Half",00:38:20,"Clearance",13.87,65.86,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Right Foot",NA,NA,NA
+"237",11,"Hartlepool","Rotherham","First Half",00:38:39,"Duel",13.12,97.62,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ground","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"238",3,"Hartlepool","Rotherham","First Half",00:39:03,"Duel",6.74,62.82,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"239",1,"Hartlepool","Rotherham","First Half",00:39:08,"Save",1.54,54.88,NA,NA,"Catch",NA,"Right Foot","AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"240",1,"Hartlepool","Rotherham","First Half",00:41:22,"Pass",22.33,70.3,60.93,89.45,NA,"Long","Right Foot","Opposition","Incompleted","High",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"241",9,"Hartlepool","Rotherham","First Half",00:41:25,"Duel",63,89.68,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Lost",NA,NA,NA,NA,NA,NA,NA,NA
+"242",11,"Hartlepool","Rotherham","First Half",00:41:26,"Pass",56.03,90.15,61.67,81.98,NA,"Standard","Head","Opposition","Incompleted","High",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"243",4,"Hartlepool","Rotherham","First Half",00:41:27,"Duel",59,81.04,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Lost",NA,NA,NA,NA,NA,NA,NA,NA
+"244",11,"Hartlepool","Rotherham","First Half",00:41:29,"Pass",57.07,90.38,66.27,76.37,NA,"Standard","Head","Ath59","Completed","High",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"245",9,"Hartlepool","Rotherham","First Half",00:41:31,"Dribble",67.61,75.2,72.65,75.2,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Unsuccessful",NA,NA,NA,NA,NA,NA,NA
+"246",6,"Hartlepool","Rotherham","First Half",00:41:37,"Duel",38.36,82.44,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"247",11,"Hartlepool","Rotherham","First Half",00:41:51,"Duel",24.85,93.42,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Lost",NA,NA,NA,NA,NA,NA,NA,NA
+"248",6,"Hartlepool","Rotherham","First Half",00:41:55,"Clearance",22.92,84.08,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Right Foot",NA,NA,NA
+"249",6,"Hartlepool","Rotherham","First Half",00:41:57,"Clearance",22.03,82.91,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Left Foot",NA,NA,NA
+"250",3,"Hartlepool","Rotherham","First Half",00:42:19,"Clearance",7.78,61.42,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Head",NA,NA,NA
+"251",3,"Hartlepool","Rotherham","First Half",00:42:19,"Pass",7.48,62.36,18.62,59.79,NA,"Standard","Head","Ath4","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"252",4,"Hartlepool","Rotherham","First Half",00:42:20,"Pass",20.1,59.09,18.76,41.57,NA,"Standard","Right Foot","Ath2","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"253",2,"Hartlepool","Rotherham","First Half",00:42:20,"Pass",18.02,40.4,83.79,26.39,NA,"Through Ball","Right Foot","Opposition","Incompleted","Low",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"254",4,"Hartlepool","Rotherham","First Half",00:42:33,"Duel",46.67,28.49,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ground","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"255",5,"Hartlepool","Rotherham","First Half",00:43:19,"Duel",7.04,41.57,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"256",4,"Hartlepool","Rotherham","First Half",00:43:23,"Clearance",20.55,43.2,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Head",NA,NA,NA
+"257",11,"Hartlepool","Rotherham","First Half",00:43:26,"Dribble",25.89,60.02,23.52,57.69,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA
+"258",11,"Hartlepool","Rotherham","First Half",00:43:28,"Foul",23.22,60.72,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,"Won","Free Kick","Tackle",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"259",1,"Hartlepool","Rotherham","First Half",00:43:54,"Free Kick",24.85,71.47,65.53,75.2,NA,"Long","Right Foot","AthNA",NA,NA,NA,"Own Player",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"260",9,"Hartlepool","Rotherham","First Half",00:43:57,"Duel",65.38,75.2,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Lost",NA,NA,NA,NA,NA,NA,NA,NA
+"261",11,"Hartlepool","Rotherham","First Half",00:43:58,"Dribble",61.67,88.05,71.02,97.86,"Won throw",NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA
+"262",11,"Hartlepool","Rotherham","First Half",00:44:00,"Defender Beaten",60.04,88.98,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Dribble Past",NA,NA,NA,NA,NA,NA
+"263",11,"Hartlepool","Rotherham","First Half",00:44:13,"Throw in",66.86,101.36,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,"Lost",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"264",11,"Hartlepool","Rotherham","First Half",00:44:17,"Block",67.01,99.03,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful","Foot",NA,NA,NA,NA
+"265",6,"Hartlepool","Rotherham","First Half",00:44:49,"Duel",42.52,79.64,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"266",1,"Hartlepool","Rotherham","First Half",00:44:55,"Clearance",17.28,30.83,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Right Foot",NA,NA,NA
+"267",3,"Hartlepool","Rotherham","First Half",00:45:17,"Clearance",19.95,34.8,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Left Foot",NA,NA,NA
+"268",2,"Hartlepool","Rotherham","First Half",00:46:45,"Clearance",9.71,53.72,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Right Foot",NA,NA,NA
+"269",8,"Hartlepool","Rotherham","First Half",00:46:46,"Clearance",11.05,46.71,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Right Foot",NA,NA,NA
+"270",8,"Hartlepool","Rotherham","First Half",00:46:51,"Pass",25,50.91,37.47,45.54,NA,"Standard","Head","Ath11","Completed","Low",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"271",11,"Hartlepool","Rotherham","First Half",00:46:53,"Pass",39.7,42.97,44.74,40.64,NA,"Standard","Right Foot","Opposition","Incompleted","High",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"272",2,"Hartlepool","Rotherham","First Half",00:47:14,"Throw in",51.87,-0.47,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,"Lost",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"273",2,"Hartlepool","Rotherham","First Half",00:47:17,"Foul",57.51,7.24,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,"Conceded","Free Kick","Tackle",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"274",6,"Hartlepool","Rotherham","First Half",00:47:47,"Duel",25.15,53.25,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"275",4,"Hartlepool","Rotherham","First Half",00:47:49,"Pass",37.17,50.91,39.85,38.53,NA,"Standard","Right Foot","Ath7","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"276",7,"Hartlepool","Rotherham","First Half",00:47:51,"Pass",40.14,39.23,70.43,4.67,NA,"Standard","Left Foot","Ath9","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"277",9,"Hartlepool","Rotherham","First Half",00:47:57,"Pass",74.29,1.86,90.47,11.44,NA,"Standard","Right Foot","Opposition","Incompleted","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"278",2,"Hartlepool","Rotherham","First Half",00:48:57,"Throw in",62.11,-0.47,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,"Retained",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"279",5,"Hartlepool","Rotherham","First Half",00:48:20,"Pass",46.97,8.64,74.88,8.17,NA,"Standard","Right Foot","Opposition","Incompleted","Low",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"280",5,"Hartlepool","Rotherham","First Half",00:48:23,"Foul",49.79,8.4,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,"Conceded","Free Kick","Pushing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"281",6,"Hartlepool","Rotherham","First Half",00:48:48,"Duel",19.36,66.09,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"282",8,"Hartlepool","Rotherham","First Half",00:48:51,"Pass",28.86,57.69,58.11,95.05,NA,"Other","Right Foot","Ath10","Completed","High",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"283",10,"Hartlepool","Rotherham","First Half",00:48:56,"Dribble",60.78,94.59,98.19,96.22,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Unsuccessful",NA,NA,NA,NA,NA,NA,NA
+"284",10,"Hartlepool","Rotherham","First Half",00:48:58,"Defender Beaten",67.01,95.52,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Dribble Past",NA,NA,NA,NA,NA,NA
+"285",11,"Hartlepool","Rotherham","First Half",00:49:24,"Throw in",58.55,102.06,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,"Retained",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"286",4,"Hartlepool","Rotherham","First Half",00:49:25,"Pass",56.32,91.32,58.7,96.69,NA,"Standard","Right Foot","Ath11","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"287",11,"Hartlepool","Rotherham","First Half",00:49:27,"Dribble",58.85,96.69,61.82,92.49,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA
+"288",11,"Hartlepool","Rotherham","First Half",00:49:31,"Pass",59,88.28,57.96,72.4,NA,"Standard","Right Foot","Ath7","Completed","Low",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"289",7,"Hartlepool","Rotherham","First Half",00:49:32,"Pass",59.74,71.93,34.35,46.71,NA,"Standard","Right Foot","Ath6","Completed","Low",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"290",6,"Hartlepool","Rotherham","First Half",00:49:36,"Pass",34.06,45.77,16.98,42.74,NA,"Standard","Left Foot","Ath1","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"291",1,"Hartlepool","Rotherham","First Half",00:49:38,"Pass",16.54,42.5,65.23,15.41,NA,"Standard","Right Foot","Opposition","Incompleted","High",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"292",2,"Hartlepool","Rotherham","First Half",00:49:57,"Throw in",48.9,-1.4,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,"Lost",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"293",4,"Hartlepool","Rotherham","First Half",00:50:33,"Duel",48.75,37.13,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aerial","Won",NA,NA,NA,NA,NA,NA,NA,NA
+"294",10,"Hartlepool","Rotherham","First Half",00:50:38,"Dribble",59,63.29,73.55,70.06,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA
+"295",10,"Hartlepool","Rotherham","First Half",00:50:43,"Pass",75.33,66.79,92.1,61.19,NA,"Through Ball","Right Foot","Ath7","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"296",7,"Hartlepool","Rotherham","First Half",00:50:44,"Dribble",93.59,62.59,98.93,66.33,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful",NA,NA,NA,NA,NA,NA,NA
+"297",7,"Hartlepool","Rotherham","First Half",00:50:46,"Pass",98.04,66.09,94.18,53.48,NA,"Cross","Right Foot","Opposition","Incompleted","Low",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"298",9,"Hartlepool","Rotherham","First Half",00:50:48,"Pass",92.55,55.12,91.66,43.44,NA,"Standard","Right Foot","Ath4","Completed","Ground",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"299",4,"Hartlepool","Rotherham","First Half",00:50:50,"Shot",91.81,44.37,94.18,46.24,NA,NA,"Right Foot","AthNA",NA,NA,NA,NA,NA,NA,NA,"Blocked",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"300",4,"Hartlepool","Rotherham","First Half",00:50:52,"Block",92.84,45.54,NA,NA,NA,NA,NA,"AthNA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Successful","Leg",NA,NA,NA,NA
