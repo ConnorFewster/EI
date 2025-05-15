@@ -1,43 +1,43 @@
-"","ID","Team","Opponent","Half","Minute","Event_Type","Tackle_Type","Start_X","Start_Y"
-"1","29","Billingham","Chester","First Half",00:00:46,"Tackle","Successful",36.78,13.72
-"2","15","Billingham","Chester","First Half",00:00:58,"Tackle","Successful",34.12,50.28
-"3","1","Billingham","Chester","First Half",00:00:58,"Tackle","Assist",35.24,50.28
-"4","22","Billingham","Chester","First Half",00:02:05,"Tackle","Successful",90.28,29.5
-"5","8","Billingham","Chester","First Half",00:02:21,"Tackle","Successful",92.24,49.1
-"6","7","Billingham","Chester","First Half",00:02:28,"Tackle","Successful",93.08,55.54
-"7","11","Billingham","Chester","First Half",00:06:00,"Tackle","Successful",7.51,69.75
-"8","7","Billingham","Chester","First Half",00:08:53,"Tackle","Successful",76.83,16.22
-"9","8","Billingham","Chester","First Half",00:08:53,"Tackle","Assist",76.83,16.08
-"10","12","Billingham","Chester","First Half",00:10:29,"Tackle","Missed",36.36,51.6
-"11","2","Billingham","Chester","First Half",00:10:31,"Tackle","Successful",34.54,42.26
-"12","29","Billingham","Chester","First Half",00:10:31,"Tackle","Assist",33.42,44.23
-"13","31","Billingham","Chester","First Half",00:10:37,"Tackle","Successful",33.42,29.5
-"14","8","Billingham","Chester","First Half",00:10:37,"Tackle","Assist",34.4,28.97
-"15","1","Billingham","Chester","First Half",00:10:45,"Tackle","Successful",34.68,12.93
-"16","8","Billingham","Chester","First Half",00:10:51,"Tackle","Successful",35.1,26.74
-"17","7","Billingham","Chester","First Half",00:11:02,"Tackle","Successful",35.1,56.2
-"18","2","Billingham","Chester","First Half",00:12:03,"Tackle","Successful",82.3,52.39
-"19","2","Billingham","Chester","First Half",00:12:12,"Tackle","Successful",82.02,58.83
-"20","4","Billingham","Chester","First Half",00:12:13,"Tackle","Assist",81.46,60.8
-"21","15","Billingham","Chester","First Half",00:13:40,"Tackle","Successful",60.73,43.31
-"22","7","Billingham","Chester","First Half",00:13:40,"Tackle","Assist",60.59,44.23
-"23","31","Billingham","Chester","First Half",00:13:45,"Tackle","Successful",60.87,55.02
-"24","2","Billingham","Chester","First Half",00:13:45,"Tackle","Assist",60.31,55.67
-"25","7","Billingham","Chester","First Half",00:16:46,"Tackle","Successful",74.73,18.06
-"26","4","Billingham","Chester","First Half",00:16:46,"Tackle","Assist",74.87,17.79
-"27","2","Billingham","Chester","First Half",00:19:28,"Tackle","Successful",78.09,14.11
-"28","11","Billingham","Chester","First Half",00:22:32,"Tackle","Successful",88.32,5.04
-"29","14","Billingham","Chester","First Half",00:22:32,"Tackle","Assist",88.18,5.17
-"30","24","Billingham","Chester","Second Half",00:44:06,"Tackle","Missed",44.17,4.72
-"31","7","Billingham","Chester","Second Half",00:44:07,"Tackle","Successful",41.37,6.96
-"32","2","Billingham","Chester","Second Half",00:44:13,"Tackle","Successful",38.57,17.74
-"33","9","Billingham","Chester","Second Half",00:44:25,"Tackle","Successful",29.61,64.57
-"34","11","Billingham","Chester","Second Half",00:44:25,"Tackle","Assist",28.49,64.83
-"35","31","Billingham","Chester","Second Half",00:44:31,"Tackle","Successful",31.85,54.18
-"36","7","Billingham","Chester","Second Half",00:44:31,"Tackle","Successful",31.57,54.05
-"37","4","Billingham","Chester","Second Half",00:44:38,"Tackle","Successful",37.87,30.77
-"38","2","Billingham","Chester","Second Half",00:44:38,"Tackle","Assist",37.03,31.03
-"39","1","Billingham","Chester","Second Half",00:44:47,"Tackle","Successful",36.19,7.62
-"40","15","Billingham","Chester","Second Half",00:44:53,"Tackle","Successful",34.09,4.98999999999999
-"41","8","Billingham","Chester","Second Half",00:44:53,"Tackle","Missed",35.21,5.51000000000001
-"42","13","Billingham","Chester","Second Half",00:46:52,"Tackle","Missed",21.63,28.92
+"","ID","Team","Opponent","Half","Minute","Event_Type","Tackle_Type","Start_X","Start_Y","pitch_location","pitch_width"
+"1","29","Billingham","Chester","First Half",00:00:46,"Tackle","Successful",36.78,13.72,"Own 22 to Halfway","Lower 15"
+"2","15","Billingham","Chester","First Half",00:00:58,"Tackle","Successful",34.12,50.28,"Own 22 to Halfway","Between 15's"
+"3","1","Billingham","Chester","First Half",00:00:58,"Tackle","Assist",35.24,50.28,"Own 22 to Halfway","Between 15's"
+"4","22","Billingham","Chester","First Half",00:02:05,"Tackle","Successful",90.28,29.5,"Oppostion 22","Between 15's"
+"5","8","Billingham","Chester","First Half",00:02:21,"Tackle","Successful",92.24,49.1,"Oppostion 22","Between 15's"
+"6","7","Billingham","Chester","First Half",00:02:28,"Tackle","Successful",93.08,55.54,"Oppostion 22","Upper 15"
+"7","11","Billingham","Chester","First Half",00:06:00,"Tackle","Successful",7.51,69.75,"Own 22","Upper 15"
+"8","7","Billingham","Chester","First Half",00:08:53,"Tackle","Successful",76.83,16.22,"Halfway to Opposition 22","Between 15's"
+"9","8","Billingham","Chester","First Half",00:08:53,"Tackle","Assist",76.83,16.08,"Halfway to Opposition 22","Between 15's"
+"10","12","Billingham","Chester","First Half",00:10:29,"Tackle","Missed",36.36,51.6,"Own 22 to Halfway","Between 15's"
+"11","2","Billingham","Chester","First Half",00:10:31,"Tackle","Successful",34.54,42.26,"Own 22 to Halfway","Between 15's"
+"12","29","Billingham","Chester","First Half",00:10:31,"Tackle","Assist",33.42,44.23,"Own 22 to Halfway","Between 15's"
+"13","31","Billingham","Chester","First Half",00:10:37,"Tackle","Successful",33.42,29.5,"Own 22 to Halfway","Between 15's"
+"14","8","Billingham","Chester","First Half",00:10:37,"Tackle","Assist",34.4,28.97,"Own 22 to Halfway","Between 15's"
+"15","1","Billingham","Chester","First Half",00:10:45,"Tackle","Successful",34.68,12.93,"Own 22 to Halfway","Lower 15"
+"16","8","Billingham","Chester","First Half",00:10:51,"Tackle","Successful",35.1,26.74,"Own 22 to Halfway","Between 15's"
+"17","7","Billingham","Chester","First Half",00:11:02,"Tackle","Successful",35.1,56.2,"Own 22 to Halfway","Upper 15"
+"18","2","Billingham","Chester","First Half",00:12:03,"Tackle","Successful",82.3,52.39,"Oppostion 22","Between 15's"
+"19","2","Billingham","Chester","First Half",00:12:12,"Tackle","Successful",82.02,58.83,"Oppostion 22","Upper 15"
+"20","4","Billingham","Chester","First Half",00:12:13,"Tackle","Assist",81.46,60.8,"Oppostion 22","Upper 15"
+"21","15","Billingham","Chester","First Half",00:13:40,"Tackle","Successful",60.73,43.31,"Halfway to Opposition 22","Between 15's"
+"22","7","Billingham","Chester","First Half",00:13:40,"Tackle","Assist",60.59,44.23,"Halfway to Opposition 22","Between 15's"
+"23","31","Billingham","Chester","First Half",00:13:45,"Tackle","Successful",60.87,55.02,"Halfway to Opposition 22","Upper 15"
+"24","2","Billingham","Chester","First Half",00:13:45,"Tackle","Assist",60.31,55.67,"Halfway to Opposition 22","Upper 15"
+"25","7","Billingham","Chester","First Half",00:16:46,"Tackle","Successful",74.73,18.06,"Halfway to Opposition 22","Between 15's"
+"26","4","Billingham","Chester","First Half",00:16:46,"Tackle","Assist",74.87,17.79,"Halfway to Opposition 22","Between 15's"
+"27","2","Billingham","Chester","First Half",00:19:28,"Tackle","Successful",78.09,14.11,"Oppostion 22","Lower 15"
+"28","11","Billingham","Chester","First Half",00:22:32,"Tackle","Successful",88.32,5.04,"Oppostion 22","Lower 15"
+"29","14","Billingham","Chester","First Half",00:22:32,"Tackle","Assist",88.18,5.17,"Oppostion 22","Lower 15"
+"30","24","Billingham","Chester","Second Half",00:44:06,"Tackle","Missed",44.17,4.72,"Own 22 to Halfway","Lower 15"
+"31","7","Billingham","Chester","Second Half",00:44:07,"Tackle","Successful",41.37,6.96,"Own 22 to Halfway","Lower 15"
+"32","2","Billingham","Chester","Second Half",00:44:13,"Tackle","Successful",38.57,17.74,"Own 22 to Halfway","Between 15's"
+"33","9","Billingham","Chester","Second Half",00:44:25,"Tackle","Successful",29.61,64.57,"Own 22 to Halfway","Upper 15"
+"34","11","Billingham","Chester","Second Half",00:44:25,"Tackle","Assist",28.49,64.83,"Own 22 to Halfway","Upper 15"
+"35","31","Billingham","Chester","Second Half",00:44:31,"Tackle","Successful",31.85,54.18,"Own 22 to Halfway","Between 15's"
+"36","7","Billingham","Chester","Second Half",00:44:31,"Tackle","Successful",31.57,54.05,"Own 22 to Halfway","Between 15's"
+"37","4","Billingham","Chester","Second Half",00:44:38,"Tackle","Successful",37.87,30.77,"Own 22 to Halfway","Between 15's"
+"38","2","Billingham","Chester","Second Half",00:44:38,"Tackle","Assist",37.03,31.03,"Own 22 to Halfway","Between 15's"
+"39","1","Billingham","Chester","Second Half",00:44:47,"Tackle","Successful",36.19,7.62,"Own 22 to Halfway","Lower 15"
+"40","15","Billingham","Chester","Second Half",00:44:53,"Tackle","Successful",34.09,4.98999999999999,"Own 22 to Halfway","Lower 15"
+"41","8","Billingham","Chester","Second Half",00:44:53,"Tackle","Missed",35.21,5.51000000000001,"Own 22 to Halfway","Lower 15"
+"42","13","Billingham","Chester","Second Half",00:46:52,"Tackle","Missed",21.63,28.92,"Own 22","Between 15's"
