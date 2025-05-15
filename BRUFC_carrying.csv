@@ -1,43 +1,43 @@
-"","ID","Team","Opponent","Half","Minute","Event_Type","Start_X","Start_Y","End_X","End_Y","GLS","Linebreak","Prior_GLS","Type","Pass_Receipt","Source","Defenders_Infront","Distance"
-"1","4","Billingham","Chester","First Half",00:00:21,"Carry",20.67,7.67,20.95,9.77,"No GLS",0,0,"Kick Return",NA,NA,2,2.12
-"2","35","Billingham","Chester","First Half",00:00:26,"Carry",17.73,17.66,23.05,19.24,"GLS",0,0,"One Out","On Target","Multi-Phase",3,5.55
-"3","29","Billingham","Chester","First Half",00:00:32,"Carry",18.29,28.97,21.93,27.66,"No GLS",0,1,"One Out","On Target","Multi-Phase",2,3.87
-"4","24","Billingham","Chester","First Half",00:01:57,"Carry",25.01,8.32,49.66,3.98,"GLS",1,0,"Other","On Target","Multi-Phase",0,25.03
-"5","15","Billingham","Chester","First Half",00:03:28,"Carry",57.65,51.07,63.67,52.78,"GLS",0,0,"One Out","On Target","Multi-Phase",2,6.26
-"6","31","Billingham","Chester","First Half",00:03:34,"Carry",58.63,46.99,61.71,38.84,"No GLS",0,1,"One Out","On Target","Multi-Phase",4,8.71
-"7","35","Billingham","Chester","First Half",00:03:42,"Carry",59.19,47.65,63.11,46.99,"GLS",0,0,"One Out","On Target","Multi-Phase",2,3.98
-"8","7","Billingham","Chester","First Half",00:03:48,"Carry",59.05,54.89,62.97,57.12,"GLS",0,1,"One Out","On Target","Multi-Phase",3,4.51
-"9","15","Billingham","Chester","First Half",00:04:20,"Carry",4.99,28.32,6.25,18.19,"No GLS",0,0,"Kick Return",NA,NA,0,10.21
-"10","2","Billingham","Chester","First Half",00:04:52,"Carry",30.34,14.77,39.72,19.9,"GLS",0,0,"Other",NA,"Lineout",2,10.69
-"11","12","Billingham","Chester","First Half",00:05:03,"Carry",18.71,37.13,21.93,35.29,"No GLS",0,1,"Other",NA,NA,1,3.71
-"12","35","Billingham","Chester","First Half",00:06:56,"Carry",8.35,53.97,18.43,50.81,"GLS",0,0,"One Out","On Target","Lineout",2,10.56
-"13","35","Billingham","Chester","First Half",00:09:10,"Carry",59.33,21.61,60.31,20.56,"No GLS",0,0,"Kick Return",NA,NA,3,1.44
-"14","28","Billingham","Chester","First Half",00:09:23,"Carry",46.58,6.09,53.03,7.8,"No GLS",0,0,"Other","On Target","Multi-Phase",2,6.67
-"15","11","Billingham","Chester","First Half",00:14:00,"Carry",34.54,55.94,38.46,48.84,"No GLS",0,0,"Kick Return",NA,NA,3,8.11
-"16","15","Billingham","Chester","First Half",00:14:06,"Carry",35.8,52.12,38.18,53.18,"No GLS",0,0,"One Out","On Target","Multi-Phase",3,2.61
-"17","29","Billingham","Chester","First Half",00:14:10,"Carry",37.9,54.36,41.68,55.41,"GLS",0,0,"Pick & Go",NA,"Multi-Phase",1,3.92
-"18","31","Billingham","Chester","First Half",00:14:18,"Carry",35.66,48.44,40.56,42.39,"No GLS",0,1,"One Out","On Target","Multi-Phase",2,7.79
-"19","1","Billingham","Chester","First Half",00:14:24,"Carry",39.58,48.7,43.78,48.84,"GLS",0,0,"Other","On Target","Multi-Phase",1,4.2
-"20","31","Billingham","Chester","First Half",00:14:28,"Carry",39.86,40.42,40.7,37.66,"No GLS",0,1,"One Out","On Target","Multi-Phase",3,2.88
-"21","29","Billingham","Chester","First Half",00:17:01,"Carry",34.68,23.32,45.04,30.03,"No GLS",0,0,"Kick Return","On Target",NA,4,12.34
-"22","4","Billingham","Chester","First Half",00:17:10,"Carry",39.72,15.16,44.48,14.24,"No GLS",0,0,"Other","On Target","Multi-Phase",3,4.85
-"23","22","Billingham","Chester","First Half",00:17:15,"Carry",44.9,13.98,55.69,16.08,"No GLS",0,0,"Other",NA,NA,4,10.99
-"24","29","Billingham","Chester","First Half",00:17:22,"Carry",52.32,30.68,54.57,35.55,"No GLS",0,0,"Support Carry","On Target",NA,1,5.36
-"25","13","Billingham","Chester","First Half",00:17:29,"Carry",50.08,55.15,60.59,55.02,"GLS",0,0,"Other","On Target","Multi-Phase",2,10.51
-"26","4","Billingham","Chester","First Half",00:17:39,"Carry",50.22,19.11,55.69,16.08,"No GLS",0,0,"Other","On Target","Multi-Phase",1,6.25
-"27","35","Billingham","Chester","First Half",00:17:41,"Carry",56.25,14.51,58.63,12.14,"No GLS",0,0,"Support Carry","On Target","Multi-Phase",1,3.36
-"28","24","Billingham","Chester","First Half",00:17:43,"Carry",59.05,6.35,74.03,0.43,"GLS",0,0,"Support Carry","On Target","Multi-Phase",1,16.11
-"29","31","Billingham","Chester","First Half",00:22:02,"Carry",64.79,62.51,67.03,56.6,"GLS",0,0,"Pick & Go",NA,"Lineout",1,6.32
-"30","12","Billingham","Chester","First Half",00:22:06,"Carry",60.87,48.44,65.91,42.78,"No GLS",0,1,"Support Carry","On Target","Lineout",2,7.58
-"31","35","Billingham","Chester","First Half",00:22:12,"Carry",61.43,52.12,64.37,52.12,"No GLS",0,0,"One Out","On Target","Lineout",2,2.94
-"32","15","Billingham","Chester","First Half",00:22:19,"Carry",61.43,39.63,64.79,38.84,"No GLS",0,0,"One Out","On Target","Multi-Phase",2,3.45
-"33","2","Billingham","Chester","First Half",00:23:24,"Carry",60.31,5.43,64.23,17.53,"GLS",0,0,"Other",NA,"Lineout",1,12.72
-"34","13","Billingham","Chester","First Half",00:23:33,"Carry",60.03,38.18,78.23,45.15,"GLS",1,1,"Other","On Target","Lineout",2,19.49
-"35","9","Billingham","Chester","First Half",00:23:36,"Carry",79.22,50.15,84.12,55.15,"No GLS",0,1,"Support Carry","On Target","Lineout",1,7
-"36","11","Billingham","Chester","First Half",00:23:38,"Carry",84.12,67.38,100.08,69.49,"No GLS",0,0,"Support Carry","On Target","Lineout",1,16.1
-"37","12","Billingham","Chester","Second Half",00:43:30,"Carry",37.17,29.45,44.03,22.09,"GLS",0,0,"Other","Off Target","Lineout",1,10.06
-"38","15","Billingham","Chester","Second Half",00:43:38,"Carry",37.31,32.74,45.99,14.98,"GLS",0,1,"One Out","On Target","Multi-Phase",3,19.77
-"39","31","Billingham","Chester","Second Half",00:43:47,"Carry",43.19,20.64,53,27.48,"GLS",0,0,"One Out","On Target","Multi-Phase",1,11.96
-"40","3","Billingham","Chester","Second Half",00:43:55,"Carry",47.68,35.24,52.16,33.66,"GLS",0,1,"One Out","On Target","Multi-Phase",2,4.75
-"41","15","Billingham","Chester","Second Half",00:47:41,"Carry",16.58,17.09,21.49,15.77,"No GLS",0,0,"One Out","On Target","Scrum",1,5.08
-"42","31","Billingham","Chester","Second Half",00:48:27,"Carry",15.04,5.64,20.64,16.82,"GLS",0,0,"Pick & Go",NA,"Lineout",1,12.5
+"","ID","Team","Opponent","Half","Minute","Event_Type","Start_X","Start_Y","End_X","End_Y","GLS","Linebreak","Prior_GLS","Type","Pass_Receipt","Source","Defenders_Infront","Distance","pitch_location"
+"1","4","Billingham","Chester","First Half",00:00:21,"Carry",20.67,7.67,20.95,9.77,"No GLS",0,0,"Kick Return",NA,NA,2,2.12,"Own 22"
+"2","35","Billingham","Chester","First Half",00:00:26,"Carry",17.73,17.66,23.05,19.24,"GLS",0,0,"One Out","On Target","Multi-Phase",3,5.55,"Own 22"
+"3","29","Billingham","Chester","First Half",00:00:32,"Carry",18.29,28.97,21.93,27.66,"No GLS",0,1,"One Out","On Target","Multi-Phase",2,3.87,"Own 22"
+"4","24","Billingham","Chester","First Half",00:01:57,"Carry",25.01,8.32,49.66,3.98,"GLS",1,0,"Other","On Target","Multi-Phase",0,25.03,"Own 22 to Hlafway"
+"5","15","Billingham","Chester","First Half",00:03:28,"Carry",57.65,51.07,63.67,52.78,"GLS",0,0,"One Out","On Target","Multi-Phase",2,6.26,"Halfway to Opposition 22"
+"6","31","Billingham","Chester","First Half",00:03:34,"Carry",58.63,46.99,61.71,38.84,"No GLS",0,1,"One Out","On Target","Multi-Phase",4,8.71,"Halfway to Opposition 22"
+"7","35","Billingham","Chester","First Half",00:03:42,"Carry",59.19,47.65,63.11,46.99,"GLS",0,0,"One Out","On Target","Multi-Phase",2,3.98,"Halfway to Opposition 22"
+"8","7","Billingham","Chester","First Half",00:03:48,"Carry",59.05,54.89,62.97,57.12,"GLS",0,1,"One Out","On Target","Multi-Phase",3,4.51,"Halfway to Opposition 22"
+"9","15","Billingham","Chester","First Half",00:04:20,"Carry",4.99,28.32,6.25,18.19,"No GLS",0,0,"Kick Return",NA,NA,0,10.21,"Own 22"
+"10","2","Billingham","Chester","First Half",00:04:52,"Carry",30.34,14.77,39.72,19.9,"GLS",0,0,"Other",NA,"Lineout",2,10.69,"Own 22 to Hlafway"
+"11","12","Billingham","Chester","First Half",00:05:03,"Carry",18.71,37.13,21.93,35.29,"No GLS",0,1,"Other",NA,NA,1,3.71,"Own 22"
+"12","35","Billingham","Chester","First Half",00:06:56,"Carry",8.35,53.97,18.43,50.81,"GLS",0,0,"One Out","On Target","Lineout",2,10.56,"Own 22"
+"13","35","Billingham","Chester","First Half",00:09:10,"Carry",59.33,21.61,60.31,20.56,"No GLS",0,0,"Kick Return",NA,NA,3,1.44,"Halfway to Opposition 22"
+"14","28","Billingham","Chester","First Half",00:09:23,"Carry",46.58,6.09,53.03,7.8,"No GLS",0,0,"Other","On Target","Multi-Phase",2,6.67,"Own 22 to Hlafway"
+"15","11","Billingham","Chester","First Half",00:14:00,"Carry",34.54,55.94,38.46,48.84,"No GLS",0,0,"Kick Return",NA,NA,3,8.11,"Own 22 to Hlafway"
+"16","15","Billingham","Chester","First Half",00:14:06,"Carry",35.8,52.12,38.18,53.18,"No GLS",0,0,"One Out","On Target","Multi-Phase",3,2.61,"Own 22 to Hlafway"
+"17","29","Billingham","Chester","First Half",00:14:10,"Carry",37.9,54.36,41.68,55.41,"GLS",0,0,"Pick & Go",NA,"Multi-Phase",1,3.92,"Own 22 to Hlafway"
+"18","31","Billingham","Chester","First Half",00:14:18,"Carry",35.66,48.44,40.56,42.39,"No GLS",0,1,"One Out","On Target","Multi-Phase",2,7.79,"Own 22 to Hlafway"
+"19","1","Billingham","Chester","First Half",00:14:24,"Carry",39.58,48.7,43.78,48.84,"GLS",0,0,"Other","On Target","Multi-Phase",1,4.2,"Own 22 to Hlafway"
+"20","31","Billingham","Chester","First Half",00:14:28,"Carry",39.86,40.42,40.7,37.66,"No GLS",0,1,"One Out","On Target","Multi-Phase",3,2.88,"Own 22 to Hlafway"
+"21","29","Billingham","Chester","First Half",00:17:01,"Carry",34.68,23.32,45.04,30.03,"No GLS",0,0,"Kick Return","On Target",NA,4,12.34,"Own 22 to Hlafway"
+"22","4","Billingham","Chester","First Half",00:17:10,"Carry",39.72,15.16,44.48,14.24,"No GLS",0,0,"Other","On Target","Multi-Phase",3,4.85,"Own 22 to Hlafway"
+"23","22","Billingham","Chester","First Half",00:17:15,"Carry",44.9,13.98,55.69,16.08,"No GLS",0,0,"Other",NA,NA,4,10.99,"Own 22 to Hlafway"
+"24","29","Billingham","Chester","First Half",00:17:22,"Carry",52.32,30.68,54.57,35.55,"No GLS",0,0,"Support Carry","On Target",NA,1,5.36,"Halfway to Opposition 22"
+"25","13","Billingham","Chester","First Half",00:17:29,"Carry",50.08,55.15,60.59,55.02,"GLS",0,0,"Other","On Target","Multi-Phase",2,10.51,"Halfway to Opposition 22"
+"26","4","Billingham","Chester","First Half",00:17:39,"Carry",50.22,19.11,55.69,16.08,"No GLS",0,0,"Other","On Target","Multi-Phase",1,6.25,"Halfway to Opposition 22"
+"27","35","Billingham","Chester","First Half",00:17:41,"Carry",56.25,14.51,58.63,12.14,"No GLS",0,0,"Support Carry","On Target","Multi-Phase",1,3.36,"Halfway to Opposition 22"
+"28","24","Billingham","Chester","First Half",00:17:43,"Carry",59.05,6.35,74.03,0.43,"GLS",0,0,"Support Carry","On Target","Multi-Phase",1,16.11,"Halfway to Opposition 22"
+"29","31","Billingham","Chester","First Half",00:22:02,"Carry",64.79,62.51,67.03,56.6,"GLS",0,0,"Pick & Go",NA,"Lineout",1,6.32,"Halfway to Opposition 22"
+"30","12","Billingham","Chester","First Half",00:22:06,"Carry",60.87,48.44,65.91,42.78,"No GLS",0,1,"Support Carry","On Target","Lineout",2,7.58,"Halfway to Opposition 22"
+"31","35","Billingham","Chester","First Half",00:22:12,"Carry",61.43,52.12,64.37,52.12,"No GLS",0,0,"One Out","On Target","Lineout",2,2.94,"Halfway to Opposition 22"
+"32","15","Billingham","Chester","First Half",00:22:19,"Carry",61.43,39.63,64.79,38.84,"No GLS",0,0,"One Out","On Target","Multi-Phase",2,3.45,"Halfway to Opposition 22"
+"33","2","Billingham","Chester","First Half",00:23:24,"Carry",60.31,5.43,64.23,17.53,"GLS",0,0,"Other",NA,"Lineout",1,12.72,"Halfway to Opposition 22"
+"34","13","Billingham","Chester","First Half",00:23:33,"Carry",60.03,38.18,78.23,45.15,"GLS",1,1,"Other","On Target","Lineout",2,19.49,"Halfway to Opposition 22"
+"35","9","Billingham","Chester","First Half",00:23:36,"Carry",79.22,50.15,84.12,55.15,"No GLS",0,1,"Support Carry","On Target","Lineout",1,7,"Opposition 22"
+"36","11","Billingham","Chester","First Half",00:23:38,"Carry",84.12,67.38,100.08,69.49,"No GLS",0,0,"Support Carry","On Target","Lineout",1,16.1,"Opposition 22"
+"37","12","Billingham","Chester","Second Half",00:43:30,"Carry",37.17,29.45,44.03,22.09,"GLS",0,0,"Other","Off Target","Lineout",1,10.06,"Own 22 to Hlafway"
+"38","15","Billingham","Chester","Second Half",00:43:38,"Carry",37.31,32.74,45.99,14.98,"GLS",0,1,"One Out","On Target","Multi-Phase",3,19.77,"Own 22 to Hlafway"
+"39","31","Billingham","Chester","Second Half",00:43:47,"Carry",43.19,20.64,53,27.48,"GLS",0,0,"One Out","On Target","Multi-Phase",1,11.96,"Own 22 to Hlafway"
+"40","3","Billingham","Chester","Second Half",00:43:55,"Carry",47.68,35.24,52.16,33.66,"GLS",0,1,"One Out","On Target","Multi-Phase",2,4.75,"Own 22 to Hlafway"
+"41","15","Billingham","Chester","Second Half",00:47:41,"Carry",16.58,17.09,21.49,15.77,"No GLS",0,0,"One Out","On Target","Scrum",1,5.08,"Own 22"
+"42","31","Billingham","Chester","Second Half",00:48:27,"Carry",15.04,5.64,20.64,16.82,"GLS",0,0,"Pick & Go",NA,"Lineout",1,12.5,"Own 22"
