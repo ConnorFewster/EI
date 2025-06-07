@@ -1,0 +1,7 @@
+"","Kick_Index","Opposition","ID","Kick_Minute","Kick_Type","Kick_Start_X","Kick_Start_Y","Kick_End_X","Kick_End_Y","Kick_Direction","Next_Possession_Index","Next_Possession_Minute","Possession_Start_X","Possession_Start_Y","Possession_Direction","X_Distance","Territory","start_pitch_location","start_zone","end_pitch_location","end_zone","Distance"
+"1",6,"Chester","15",00:00:39,"Open Play",19.27,37.79,37.9,29.11,"Left to Right",11,00:01:47,33.84,52.39,"Left to Right",14.57,14.57,"Own 22","A3","Own 22 to Halfway","B2",20.55
+"2",14,"Chester","24",00:02:00,"Chip",49.8,4.12,76.97,22,"Left to Right",19,00:03:18,58.49,64.49,"Left to Right",8.69,8.69,"Own 22 to Halfway","B1","Halfway to Opposition 22","C2",32.53
+"3",25,"Chester","15",00:03:55,"Open Play",57.79,45.02,80.48,12.66,"Left to Right",27,00:04:20,4.71,28.71,"Left to Right",53.08,-53.08,"Halfway to Opposition 22","C3","Opposition 22","D1",39.52
+"4",30,"Chester","15",00:04:22,"Open Play",6.25,17.66,27.82,0.17,"Left to Right",32,00:04:52,30.06,14.9,"Left to Right",23.81,23.81,"Own 22","A2","Own 22 to Halfway","B1",27.77
+"5",114,"Chester","9",00:22:25,"Open Play",62.55,32.92,88.88,5.56,"Left to Right",118,00:23:22,61.99,5.56,"Left to Right",0.559999999999995,-0.559999999999995,"Halfway to Opposition 22","C2","Opposition 22","D1",37.97
+"6",153,"Chester","15",00:47:42,"Open Play",21.49,15.77,24.57,15.51,"Right to Left",155,00:48:19,8.45999999999999,5.25,"Right to Left",13.03,-13.03,"Own 22","A2","Own 22 to Halfway","B2",3.09
