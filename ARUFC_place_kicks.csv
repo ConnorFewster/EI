@@ -1,0 +1,22 @@
+"","ID","Venue","Team","Opponent","Half","Direction","Minute","Start_X","Start_Y","End_X","End_Y","Kick_Type","Kick_Outcome","Kick_Out","Distance","Ang_rad","Ang_deg","Angle","p_chance"
+"1","15","Away","Billingham","Tynedale","Second Half","Left to Right",00:01:23,77.8,1.37,99.77,35.37,"Conversion","Successful",1,40.3,0.99,56.57,56.57,0.57
+"2","15","Away","Billingham","Tynedale","Second Half","Left to Right",00:17:30,80.83,22.8,100.35,34.92,"Conversion","Unsuccessful",0,22.72,0.57,32.47,32.47,0.67
+"3","15","Away","Billingham","Tynedale","Second Half","Left to Right",01:04:56,71,55.9,99.48,37.61,"Penalty Goal","Unsuccessful",0,35.75,-0.62,-35.78,35.78,0.35
+"4","10","Home","Billingham","Otley","Second Half","Left to Right",00:01:23,65.37,31.33,99.91,35.03,"Penalty Goal","Successful",1,34.82,0.11,6.05,6.05,0.76
+"5","10","Home","Billingham","Otley","Second Half","Left to Right",00:57:29,75.05,63.53,99.91,30.43,"Conversion","Unsuccessful",0,37.9,-0.85,-48.83,48.83,0.23
+"6","15","Home","Billingham","Leeds Tykes","First Half","Left to Right",00:01:23,87.19,47.94,99.91,34.92,"Conversion","Successful",1,18.21,-0.79,-45.29,45.29,0.89
+"7","15","Away","Billingham","Leeds Tykes","Second Half","Left to Right",00:17:30,77.51,12.48,100.06,35.37,"Conversion","Successful",1,31.83,0.79,45.04,45.04,0.57
+"8","10","Home","Newcastle University","Edinburgh University","First Half","Right to Left",00:57:32,76.03,37.74,99.98,32.57,"Penalty Goal","Unsuccessful",0,24.13,-0.11,-6.52,6.52,0.85
+"9","10","Home","Billingham","Harrogate","Second Half","Right to Left",00:01:23,74.1,60.66,101.13,38.56,"Conversion","Unsuccessful",0,36.46,-0.78,-44.73,44.73,0.55
+"10","10","Home","Billingham","Harrogate","Second Half","Right to Left",00:57:29,72.94,14.77,100.26,34.29,"Conversion","Successful",1,33.79,0.64,36.78,36.78,0.3
+"11","10","Home","Billingham","Otley","First Half","Right to Left",01:04:48,61.23,47.64,100.26,34.97,"Penalty Goal","Successful",1,40.78,-0.32,-18.06,18.06,0.75
+"12","10","Home","Billingham","Otley","First Half","Right to Left",00:45:28,72.94,57.41,98.96,29.69,"Conversion","Unsuccessful",0,35.13,-0.69,-39.63,39.63,0.75
+"13","10","Home","Billingham","Hull I's","First Half","Right to Left",00:17:30,62.97,37.32,99.68,34.52,"Penalty Goal","Successful",1,37.1,-0.06,-3.59,3.59,0.93
+"14","10","Home","Billingham","Hull I's","First Half","Right to Left",01:04:56,67.16,36.31,100.26,35.19,"Penalty Goal","Successful",1,32.87,-0.04,-2.28,2.28,0.83
+"15","10","Home","Billingham","Hull I's","First Half","Right to Left",01:04:48,88.7,27,99.97,34.97,"Conversion","Successful",1,13.85,0.62,35.3,35.3,0.73
+"16","10","Home","Billingham","Hull I's","First Half","Right to Left",00:45:28,74.68,8.94,99.97,35.08,"Conversion","Successful",1,36.33,0.8,45.83,45.83,0.71
+"17","15","Away","Billingham","Leeds Tykes","First Half","Right to Left",00:01:23,77.13,32.95,100.12,35.19,"Penalty Goal","Successful",1,22.96,0.09,5.12,5.12,0.97
+"18","15","Away","Billingham","Leeds Tykes","First Half","Right to Left",00:57:29,78.58,34.29,100.26,34.74,"Penalty Goal","Successful",1,21.43,0.03,1.9,1.9,0.91
+"19","15","Away","Billingham","Leeds Tykes","First Half","Right to Left",00:01:23,83.78,41.36,100.26,34.52,"Conversion","Successful",1,17.42,-0.37,-21.41,21.41,0.96
+"20","15","Home","Billingham","Sheffield Tigers","First Half","Right to Left",01:04:56,92.17,34.74,100.26,34.74,"Conversion","Successful",1,7.83,0.03,1.9,1.9,0.86
+"21","15","Home","Billingham","Sheffield Tigers","First Half","Right to Left",01:04:48,92.46,34.97,99.97,34.74,"Conversion","Successful",1,7.54,0,0.23,0.23,0.87
