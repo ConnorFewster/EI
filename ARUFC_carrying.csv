@@ -1,57 +1,48 @@
-,ID,Team,Opponent,Half,Minute,Event_Type,Start_X,Start_Y,End_X,End_Y,GLS,Linebreak,Prior_GLS,Type,Pass_Receipt,Source,Defenders_Infront,Distance,pitch_location
-1,4,Billingham,Chester,First Half,00:00:21,Carry,20.67,7.67,20.95,9.77,No GLS,0,0,Kick Return,NA,NA,2,2.12,Own 22
-2,35,Billingham,Chester,First Half,00:00:26,Carry,17.73,17.66,23.05,19.24,GLS,0,0,One Out,On Target,Multi-Phase,3,5.55,Own 22
-3,29,Billingham,Chester,First Half,00:00:32,Carry,18.29,28.97,21.93,27.66,No GLS,0,1,One Out,On Target,Multi-Phase,2,3.87,Own 22
-4,24,Billingham,Chester,First Half,00:01:57,Carry,25.01,8.32,49.66,3.98,GLS,1,0,Other,On Target,Multi-Phase,0,25.03,Own 22 to Halfway
-5,15,Billingham,Chester,First Half,00:03:28,Carry,57.65,51.07,63.67,52.78,GLS,0,0,One Out,On Target,Multi-Phase,2,6.26,Halfway to Opposition 22
-6,31,Billingham,Chester,First Half,00:03:34,Carry,58.63,46.99,61.71,38.84,No GLS,0,1,One Out,On Target,Multi-Phase,4,8.71,Halfway to Opposition 22
-7,35,Billingham,Chester,First Half,00:03:42,Carry,59.19,47.65,63.11,46.99,GLS,0,0,One Out,On Target,Multi-Phase,2,3.98,Halfway to Opposition 22
-8,7,Billingham,Chester,First Half,00:03:48,Carry,59.05,54.89,62.97,57.12,GLS,0,1,One Out,On Target,Multi-Phase,3,4.51,Halfway to Opposition 22
-9,15,Billingham,Chester,First Half,00:04:20,Carry,4.99,28.32,6.25,18.19,No GLS,0,0,Kick Return,NA,NA,0,10.21,Own 22
-10,2,Billingham,Chester,First Half,00:04:52,Carry,30.34,14.77,39.72,19.9,GLS,0,0,Other,NA,Lineout,2,10.69,Own 22 to Halfway
-11,12,Billingham,Chester,First Half,00:05:03,Carry,18.71,37.13,21.93,35.29,No GLS,0,1,Other,NA,NA,1,3.71,Own 22
-12,35,Billingham,Chester,First Half,00:06:56,Carry,8.35,53.97,18.43,50.81,GLS,0,0,One Out,On Target,Lineout,2,10.56,Own 22
-13,35,Billingham,Chester,First Half,00:09:10,Carry,59.33,21.61,60.31,20.56,No GLS,0,0,Kick Return,NA,NA,3,1.44,Halfway to Opposition 22
-14,28,Billingham,Chester,First Half,00:09:23,Carry,46.58,6.09,53.03,7.8,No GLS,0,0,Other,On Target,Multi-Phase,2,6.67,Own 22 to Halfway
-15,11,Billingham,Chester,First Half,00:14:00,Carry,34.54,55.94,38.46,48.84,No GLS,0,0,Kick Return,NA,NA,3,8.11,Own 22 to Halfway
-16,15,Billingham,Chester,First Half,00:14:06,Carry,35.8,52.12,38.18,53.18,No GLS,0,0,One Out,On Target,Multi-Phase,3,2.61,Own 22 to Halfway
-17,29,Billingham,Chester,First Half,00:14:10,Carry,37.9,54.36,41.68,55.41,GLS,0,0,Pick & Go,NA,Multi-Phase,1,3.92,Own 22 to Halfway
-18,31,Billingham,Chester,First Half,00:14:18,Carry,35.66,48.44,40.56,42.39,No GLS,0,1,One Out,On Target,Multi-Phase,2,7.79,Own 22 to Halfway
-19,1,Billingham,Chester,First Half,00:14:24,Carry,39.58,48.7,43.78,48.84,GLS,0,0,Other,On Target,Multi-Phase,1,4.2,Own 22 to Halfway
-20,31,Billingham,Chester,First Half,00:14:28,Carry,39.86,40.42,40.7,37.66,No GLS,0,1,One Out,On Target,Multi-Phase,3,2.88,Own 22 to Halfway
-21,29,Billingham,Chester,First Half,00:17:01,Carry,34.68,23.32,45.04,30.03,No GLS,0,0,Kick Return,On Target,NA,4,12.34,Own 22 to Halfway
-22,4,Billingham,Chester,First Half,00:17:10,Carry,39.72,15.16,44.48,14.24,No GLS,0,0,Other,On Target,Multi-Phase,3,4.85,Own 22 to Halfway
-23,22,Billingham,Chester,First Half,00:17:15,Carry,44.9,13.98,55.69,16.08,No GLS,0,0,Other,NA,NA,4,10.99,Own 22 to Halfway
-24,29,Billingham,Chester,First Half,00:17:22,Carry,52.32,30.68,54.57,35.55,No GLS,0,0,Support Carry,On Target,NA,1,5.36,Halfway to Opposition 22
-25,13,Billingham,Chester,First Half,00:17:29,Carry,50.08,55.15,60.59,55.02,GLS,0,0,Other,On Target,Multi-Phase,2,10.51,Halfway to Opposition 22
-26,4,Billingham,Chester,First Half,00:17:39,Carry,50.22,19.11,55.69,16.08,No GLS,0,0,Other,On Target,Multi-Phase,1,6.25,Halfway to Opposition 22
-27,35,Billingham,Chester,First Half,00:17:41,Carry,56.25,14.51,58.63,12.14,No GLS,0,0,Support Carry,On Target,Multi-Phase,1,3.36,Halfway to Opposition 22
-28,24,Billingham,Chester,First Half,00:17:43,Carry,59.05,6.35,74.03,0.43,GLS,0,0,Support Carry,On Target,Multi-Phase,1,16.11,Halfway to Opposition 22
-29,31,Billingham,Chester,First Half,00:22:02,Carry,64.79,62.51,67.03,56.6,GLS,0,0,Pick & Go,NA,Lineout,1,6.32,Halfway to Opposition 22
-30,12,Billingham,Chester,First Half,00:22:06,Carry,60.87,48.44,65.91,42.78,No GLS,0,1,Support Carry,On Target,Lineout,2,7.58,Halfway to Opposition 22
-31,35,Billingham,Chester,First Half,00:22:12,Carry,61.43,52.12,64.37,52.12,No GLS,0,0,One Out,On Target,Lineout,2,2.94,Halfway to Opposition 22
-32,15,Billingham,Chester,First Half,00:22:19,Carry,61.43,39.63,64.79,38.84,No GLS,0,0,One Out,On Target,Multi-Phase,2,3.45,Halfway to Opposition 22
-33,2,Billingham,Chester,First Half,00:23:24,Carry,60.31,5.43,64.23,17.53,GLS,0,0,Other,NA,Lineout,1,12.72,Halfway to Opposition 22
-34,13,Billingham,Chester,First Half,00:23:33,Carry,60.03,38.18,78.23,45.15,GLS,1,1,Other,On Target,Lineout,2,19.49,Halfway to Opposition 22
-35,9,Billingham,Chester,First Half,00:23:36,Carry,79.22,50.15,84.12,55.15,No GLS,0,1,Support Carry,On Target,Lineout,1,7,Opposition 22
-36,11,Billingham,Chester,First Half,00:23:38,Carry,84.12,67.38,100.08,69.49,No GLS,0,0,Support Carry,On Target,Lineout,1,16.1,Opposition 22
-37,12,Newcastle University,Edinburgh University,First Half,00:49:13,Carry,24,28.97,33.78,21.89,No GLS,0,0,Other,NA,Multi-Phase,NA,12.07,Own 22 to Halfway
-38,17,Newcastle University,Edinburgh University,First Half,00:50:55,Carry,59.23,56.18,62.62,59.11,GLS,0,0,Other,NA,Multi-Phase,NA,4.48,Halfway to Opposition 22
-39,15,Newcastle University,Edinburgh University,First Half,00:52:24,Carry,54.97,21.21,64.62,21.33,GLS,0,0,Other,Off Target,Lineout,NA,9.65,Halfway to Opposition 22
-40,22,Newcastle University,Edinburgh University,First Half,00:52:37,Carry,61.24,20.99,77.29,17.39,GLS,0,1,One Out,On Target,Lineout,NA,16.45,Halfway to Opposition 22
-41,5,Newcastle University,Edinburgh University,First Half,00:52:41,Carry,74.9,35.27,77.03,34.59,No GLS,0,1,Other,On Target,Lineout,NA,2.24,Halfway to Opposition 22
-42,17,Newcastle University,Edinburgh University,First Half,00:52:49,Carry,75.28,50.22,77.29,52.02,GLS,0,0,Other,On Target,Multi-Phase,NA,2.7,Halfway to Opposition 22
-43,15,Newcastle University,Edinburgh University,First Half,00:52:58,Carry,74.03,64.5,82.68,65.85,GLS,0,1,Other,On Target,Multi-Phase,NA,8.75,Halfway to Opposition 22
-44,8,Newcastle University,Edinburgh University,First Half,00:53:10,Carry,79.04,56.86,82.68,55.4,No GLS,0,0,One Out,On Target,Multi-Phase,NA,3.92,Opposition 22
-45,20,Newcastle University,Edinburgh University,First Half,00:57:49,Carry,47.19,43.59,55.22,40.78,No GLS,0,0,Kick Return,On Target,Multi-Phase,NA,8.51,Own 22 to Halfway
-46,22,Newcastle University,Edinburgh University,First Half,00:57:59,Carry,43.06,16.72,48.45,7.27,No GLS,0,0,One Out,Off Target,Multi-Phase,NA,10.88,Own 22 to Halfway
-47,2,Newcastle University,Edinburgh University,First Half,00:58:06,Carry,43.81,16.72,52.84,17.5,GLS,0,0,One Out,On Target,Multi-Phase,NA,9.06,Own 22 to Halfway
-48,21,Newcastle University,Edinburgh University,First Half,00:58:55,Carry,42.56,8.62,46.19,7.05,GLS,0,0,Pick & Go,NA,Lineout,NA,3.95,Own 22 to Halfway
-49,14,Newcastle University,Edinburgh University,First Half,00:58:59,Carry,46.07,1.2,71.52,0.86,No GLS,1,1,One Out,On Target,Lineout,NA,25.45,Own 22 to Halfway
-50,12,Billingham,Chester,Second Half,00:43:30,Carry,37.17,29.45,44.03,22.09,GLS,0,0,Other,Off Target,Lineout,1,10.06,Own 22 to Halfway
-51,15,Billingham,Chester,Second Half,00:43:38,Carry,37.31,32.74,45.99,14.98,GLS,0,1,One Out,On Target,Multi-Phase,3,19.77,Own 22 to Halfway
-52,31,Billingham,Chester,Second Half,00:43:47,Carry,43.19,20.64,53,27.48,GLS,0,0,One Out,On Target,Multi-Phase,1,11.96,Own 22 to Halfway
-53,3,Billingham,Chester,Second Half,00:43:55,Carry,47.68,35.24,52.16,33.66,GLS,0,1,One Out,On Target,Multi-Phase,2,4.75,Own 22 to Halfway
-54,15,Billingham,Chester,Second Half,00:47:41,Carry,16.58,17.09,21.49,15.77,No GLS,0,0,One Out,On Target,Scrum,1,5.08,Own 22
-55,31,Billingham,Chester,Second Half,00:48:27,Carry,15.04,5.64,20.64,16.82,GLS,0,0,Pick & Go,NA,Lineout,1,12.5,Own 22
-56,6,Newcastle University,Edinburgh University,First Half,00:58:58,Carry,24.2,50,30,52,GLS,0,0,Support Carry,On Target,Multi-Phase,NA,5.8,Own 22 to Halfway
+"","ID","Team","Opponent","Half","Minute","Event_Type","Start_X","Start_Y","End_X","End_Y","GLS","Linebreak","Prior_GLS","Type","Pass_Receipt","Source","Defenders_Infront","Distance","pitch_location"
+"1","12","Anselmians","Chester","First Half",00:02:31,"Carry",60.95,46.99,66.85,48,"GLS",0,0,"Other",NA,"Lineout",NA,5.99,"Halfway to Opposition 22"
+"2","4","Anselmians","Chester","First Half",00:03:17,"Carry",31.49,57.67,30.74,58.57,"GLS",0,0,"Other",NA,"Lineout",NA,1.17,"Own 22 to Halfway"
+"3","13","Anselmians","Chester","First Half",00:08:43,"Carry",54.81,30.23,61.96,34.96,"GLS",0,0,"Other",NA,"Scrum",NA,8.57,"Halfway to Opposition 22"
+"4","8","Anselmians","Chester","First Half",00:08:48,"Carry",58.95,19.22,61.71,16.07,"No GLS",0,0,"One Out","On Target","Multi-Phase",NA,4.19,"Halfway to Opposition 22"
+"5","5","Anselmians","Chester","First Half",00:08:53,"Carry",59.95,11.35,63.71,7.19,"GLS",0,0,"One Out","On Target","Multi-Phase",NA,5.61,"Halfway to Opposition 22"
+"6","8","Anselmians","Chester","First Half",00:08:58,"Carry",60.7,15.06,63.21,18.32,"GLS",0,1,"One Out","On Target","Multi-Phase",NA,4.11,"Halfway to Opposition 22"
+"7","10","Anselmians","Chester","First Half",00:09:03,"Carry",60.08,31.7,62.46,35.63,"No GLS",0,1,"One Out","On Target","Multi-Phase",NA,4.59,"Halfway to Opposition 22"
+"8","9","Anselmians","Chester","First Half",00:10:04,"Carry",54.94,64.3,64.72,68.12,"No GLS",0,0,"Kick Return",NA,"Multi-Phase",NA,10.5,"Halfway to Opposition 22"
+"9","15","Anselmians","Chester","First Half",00:11:44,"Carry",37.13,67.9,38.01,70.03,"No GLS",0,0,"Kick Return",NA,"Multi-Phase",NA,2.3,"Own 22 to Halfway"
+"10","14","Anselmians","Chester","First Half",00:13:02,"Carry",18.71,11.91,21.71,13.6,"GLS",0,0,"Other","On Target","Multi-Phase",NA,3.44,"Own 22"
+"11","15","Anselmians","Chester","First Half",00:13:09,"Carry",22.97,5.84,61.96,3.59,"GLS",1,0,"Other","On Target","Multi-Phase",NA,39.05,"Own 22 to Halfway"
+"12","14","Anselmians","Chester","First Half",00:13:14,"Carry",63.71,10.45,100.2,18.43,"No GLS",0,1,"Support","On Target","Multi-Phase",NA,37.35,"Halfway to Opposition 22"
+"13","17","Anselmians","Chester","First Half",00:14:57,"Carry",23.22,16.18,28.99,24.39,"No GLS",0,0,"Kick Return",NA,"Multi-Phase",NA,10.03,"Own 22 to Halfway"
+"14","1","Anselmians","Chester","First Half",00:15:05,"Carry",26.73,18.21,32.62,16.52,"GLS",0,0,"One Out","On Target","Multi-Phase",NA,6.13,"Own 22 to Halfway"
+"15","12","Anselmians","Chester","First Half",00:20:44,"Carry",66.97,17.53,81.01,18.88,"GLS",0,0,"Other","On Target","Scrum",NA,14.1,"Halfway to Opposition 22"
+"16","13","Anselmians","Chester","First Half",00:20:45,"Carry",80.39,19.44,82.14,19.44,"No GLS",0,1,"Support Carry","On Target","Scrum",NA,1.75,"Opposition 22"
+"17","17","Anselmians","Chester","First Half",00:21:45,"Carry",47.54,33.38,52.05,34.73,"No GLS",0,0,"Other","On Target","Lineout",NA,4.71,"Own 22 to Halfway"
+"18","7","Anselmians","Chester","First Half",00:21:51,"Carry",49.92,42.49,54.18,49.01,"No GLS",0,0,"One Out","On Target","Multi-Phase",NA,7.79,"Own 22 to Halfway"
+"19","9","Anselmians","Chester","First Half",00:22:02,"Carry",53.81,61.15,61.96,60.25,"GLS",0,0,"Other","On Target","Multi-Phase",NA,8.2,"Halfway to Opposition 22"
+"20","7","Anselmians","Chester","First Half",00:22:07,"Carry",57.44,46.2,61.96,42.49,"No GLS",0,0,"One Out","On Target","Multi-Phase",NA,5.85,"Halfway to Opposition 22"
+"21","10","Anselmians","Chester","First Half",00:22:13,"Carry",55.56,34.28,58.2,39.23,"No GLS",0,0,"One Out","On Target","Multi-Phase",NA,5.61,"Halfway to Opposition 22"
+"22","7","Anselmians","Chester","First Half",00:22:23,"Carry",52.81,33.61,54.69,30.46,"No GLS",0,0,"One Out","On Target","Multi-Phase",NA,3.67,"Halfway to Opposition 22"
+"23","2","Anselmians","Chester","First Half",00:22:31,"Carry",52.56,11.8,56.57,13.03,"No GLS",0,0,"Other","On Target","Multi-Phase",NA,4.19,"Halfway to Opposition 22"
+"24","14","Anselmians","Chester","First Half",00:22:39,"Carry",55.69,1.57,57.32,2.02,"No GLS",0,0,"Other","Off Target","Multi-Phase",NA,1.69,"Halfway to Opposition 22"
+"25","17","Anselmians","Chester","First Half",00:22:45,"Carry",52.56,9.66,55.06,9.77,"No GLS",0,0,"Other","On Target","Multi-Phase",NA,2.5,"Halfway to Opposition 22"
+"26",NA,"Anselmians","Chester","First Half",00:22:50,"Carry",57.57,9.55,60.58,11.68,"GLS",0,0,"Pick & Go",NA,"Multi-Phase",NA,3.69,"Halfway to Opposition 22"
+"27","4","Anselmians","Chester","First Half",00:23:53,"Carry",78.76,17.42,79.76,20.12,"GLS",0,0,"Other",NA,"Lineout",NA,2.88,"Opposition 22"
+"28","13","Anselmians","Chester","First Half",00:25:03,"Carry",81.64,24.39,89.54,29.79,"GLS",0,0,"One Out",NA,"Lineout",NA,9.57,"Opposition 22"
+"29","14","Anselmians","Chester","First Half",00:25:08,"Carry",86.53,37.54,86.28,43.28,"No GLS",0,1,"One Out",NA,"Multi-Phase",NA,5.75,"Opposition 22"
+"30","8","Anselmians","Chester","First Half",00:25:17,"Carry",82.39,53.06,83.4,54.41,"No GLS",0,0,"One Out",NA,"Multi-Phase",NA,1.69,"Opposition 22"
+"31","2","Anselmians","Chester","First Half",00:25:21,"Carry",79.26,47.89,81.39,48,"No GLS",0,0,"One Out","On Target","Multi-Phase",NA,2.13,"Opposition 22"
+"32","15","Anselmians","Chester","First Half",00:27:33,"Carry",41.27,66.55,59.58,67.67,"No GLS",0,0,"Kick Return",NA,"Multi-Phase",NA,18.34,"Own 22 to Halfway"
+"33","2","Anselmians","Chester","First Half",00:28:35,"Carry",77.13,52.83,78.26,53.96,"No GLS",0,0,"One Out","On Target","Multi-Phase",NA,1.6,"Halfway to Opposition 22"
+"34","8","Anselmians","Chester","First Half",00:28:43,"Carry",75.75,46.54,78.26,44.96,"No GLS",0,0,"One Out","On Target","Multi-Phase",NA,2.97,"Halfway to Opposition 22"
+"35","13","Anselmians","Chester","First Half",00:28:49,"Carry",74.24,57.44,74.62,60.14,"No GLS",0,0,"One Out","On Target","Multi-Phase",NA,2.73,"Halfway to Opposition 22"
+"36","7","Anselmians","Chester","First Half",00:28:57,"Carry",74.37,51.93,77.5,51.48,"GLS",0,0,"Other","On Target","Multi-Phase",NA,3.16,"Halfway to Opposition 22"
+"37","1","Anselmians","Chester","First Half",00:29:03,"Carry",75.12,33.05,77.25,30.46,"No GLS",0,0,"Other","On Target","Multi-Phase",NA,3.35,"Halfway to Opposition 22"
+"38","4","Anselmians","Chester","First Half",00:29:09,"Carry",76,23.38,79.13,14.94,"GLS",0,0,"Other","On Target","Multi-Phase",NA,9,"Halfway to Opposition 22"
+"39","9","Anselmians","Chester","First Half",00:29:12,"Carry",78.13,16.86,83.77,17.87,"No GLS",0,1,"Support Carry","On Target","Multi-Phase",NA,5.73,"Opposition 22"
+"40","12","Anselmians","Chester","First Half",00:29:20,"Carry",83.77,12.36,86.91,10.34,"GLS",0,0,"One Out","On Target","Multi-Phase",NA,3.73,"Opposition 22"
+"41","7","Anselmians","Chester","First Half",00:29:25,"Carry",83.02,20.68,84.02,19.89,"No GLS",0,0,"Other","On Target","Multi-Phase",NA,1.27,"Opposition 22"
+"42","1","Anselmians","Chester","First Half",00:29:32,"Carry",78.76,28.55,83.4,31.58,"GLS",0,0,"One Out","On Target","Multi-Phase",NA,5.54,"Opposition 22"
+"43","10","Anselmians","Chester","First Half",00:29:37,"Carry",79.51,34.73,81.26,39.68,"No GLS",0,0,"One Out","On Target","Multi-Phase",NA,5.25,"Opposition 22"
+"44","12","Anselmians","Chester","First Half",00:33:54,"Carry",5.17,52.05,10.06,53.28,"GLS",0,0,"One Out","On Target","Scrum",NA,5.04,"Own 22"
+"45","14","Anselmians","Chester","First Half",00:34:04,"Carry",9.55,4.83,12.19,2.47,"GLS",0,1,"Other","On Target","Multi-Phase",NA,3.54,"Own 22"
+"46","11","Anselmians","Chester","First Half",00:37:38,"Carry",12.44,68.57,20.21,69.81,"GLS",0,1,"Other","On Target","Scrum",NA,7.87,"Own 22"
+"47","1","Anselmians","Chester","First Half",00:38:55,"Carry",17.33,56.99,19.08,60.37,"GLS",0,0,"Other",NA,"Lineout",NA,3.81,"Own 22"

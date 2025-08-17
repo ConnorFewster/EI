@@ -1,18 +1,18 @@
 "","ID","Team","Opponent","Half","Minute","Event_Type","Start_X","Start_Y","End_X","End_Y","Kick_Type","Distance"
-"1","15","Billingham","Chester","First Half",00:00:39,"Kick",19.27,37.79,37.9,29.11,"Open Play",20.55
-"2","24","Billingham","Chester","First Half",00:02:00,"Kick",49.8,4.12,76.97,22,"Chip",32.53
-"3","15","Billingham","Chester","First Half",00:03:55,"Kick",57.79,45.02,80.48,12.66,"Open Play",39.52
-"4","15","Billingham","Chester","First Half",00:04:22,"Kick",6.25,17.66,27.82,0.17,"Open Play",27.77
-"5","12","Billingham","Chester","First Half",00:08:47,"Kick",49.94,36.08,80.06,11.88,"Kick-Off",38.64
-"6","12","Billingham","Chester","First Half",00:11:26,"Kick",33.42,55.67,63.95,70.27,"Touch Kick",33.84
-"7","12","Billingham","Chester","First Half",00:16:39,"Kick",49.94,35.81,75.99,15.43,"Kick-Off",33.07
-"8","9","Billingham","Chester","First Half",00:22:25,"Kick",62.55,32.92,88.88,5.56,"Open Play",37.97
-"9","13","Newcastle University","Edinburgh University","First Half",00:49:17,"Kick",38.79,14.47,74.65,11.54,"Open Play",35.98
-"10","10","Newcastle University","Edinburgh University","First Half",00:49:32,"Kick",45.44,20.09,75.78,22.34,"Up & Under",30.42
-"11","15","Newcastle University","Edinburgh University","First Half",00:49:48,"Kick",36.41,56.41,70.01,57.08,"Open Play",33.61
-"12","22","Newcastle University","Edinburgh University","First Half",00:56:20,"Kick",34.78,22.56,73.27,16.04,"Open Play",39.04
-"13","10","Newcastle University","Edinburgh University","First Half",00:58:14,"Kick",44.44,26.61,84.31,14.24,"Open Play",41.74
-"14","14","Newcastle University","Edinburgh University","First Half",00:59:00,"Kick",71.27,0.640000000000001,84.56,6.6,"Grubber",14.57
-"15","12","Billingham","Chester","Second Half",00:43:15,"Kick",50.06,34.98,85.21,14.19,"Kick-Off",40.84
-"16","15","Billingham","Chester","Second Half",00:47:42,"Kick",21.49,15.77,24.57,15.51,"Open Play",3.09
-"17","15","Billingham","Chester","Second Half",00:48:34,"Kick",9.44,15.11,29.75,-0.799999999999997,"Open Play",25.8
+"1","15","Anselmians","Chester","First Half",00:01:59,"Kick",21.71,35.18,78.51,43.95,"Open Play",57.47
+"2","15","Anselmians","Chester","First Half",00:03:45,"Kick",30.99,60.25,49.42,70.03,"Touch Kick",20.86
+"3","10","Anselmians","Chester","First Half",00:04:15,"Kick",42.53,48,100.45,61.38,"Open Play",59.45
+"4","15","Anselmians","Chester","First Half",00:07:15,"Kick",50.05,35.29,76.5,1.45,"Kick-Off",42.95
+"5","15","Anselmians","Chester","First Half",00:09:13,"Kick",58.2,49.12,83.27,70.15,"Open Play",32.72
+"6","10","Anselmians","Chester","First Half",00:11:32,"Kick",29.49,23.15,77.25,36.64,"Open Play",49.63
+"7","9","Anselmians","Chester","First Half",00:15:19,"Kick",34.13,16.29,52.05,19.22,"Box",18.16
+"8","10","Anselmians","Chester","First Half",00:16:18,"Kick",43.28,35.97,77.38,49.8,"Open Play",36.8
+"9","15","Anselmians","Chester","First Half",00:16:51,"Kick",54.94,33.27,76.25,0.67,"Open Play",38.95
+"10","15","Anselmians","Chester","First Half",00:23:20,"Kick",56.19,11.8,78.26,-0.46,"Touch Kick",25.25
+"11","15","Anselmians","Chester","First Half",00:24:18,"Kick",79.38,19.55,93.05,-0.12,"Touch Kick",23.95
+"12","15","Anselmians","Chester","First Half",00:27:58,"Kick",61.08,65.54,75.62,70.03,"Touch Kick",15.22
+"13","14","Anselmians","Chester","First Half",00:34:08,"Kick",11.94,2.13,61.21,13.93,"Open Play",50.66
+"14","9","Anselmians","Chester","First Half",00:36:01,"Kick",5.17,66.21,5.29,70.26,"Open Play",4.05
+"15","10","Anselmians","Chester","First Half",00:39:00,"Kick",5.67,56.54,40.02,70.15,"Open Play",36.95
+"16","15","Anselmians","Chester","First Half",00:41:28,"Kick",49.92,35.86,74.49,13.26,"Kick-Off",33.38
+"17","15","Anselmians","Chester","First Half",00:42:15,"Kick",53.31,10.11,93.68,-0.23,"Touch Kick",41.67
