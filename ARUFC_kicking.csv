@@ -5,7 +5,7 @@
 "4","15","Anselmians","Chester","First Half",00:07:15,"Kick",50.05,35.29,76.5,1.45,"Kick-Off",42.95
 "5","15","Anselmians","Chester","First Half",00:09:13,"Kick",58.2,49.12,83.27,70.15,"Open Play",32.72
 "6","10","Anselmians","Chester","First Half",00:11:32,"Kick",29.49,23.15,77.25,36.64,"Open Play",49.63
-"7","9","Anselmians","Chester","First Half",00:15:19,"Kick",34.13,16.29,52.05,19.22,"Box",18.16
+"7","9","Anselmians","Chester","First Half",00:15:14,"Kick",34.13,16.29,52.05,19.22,"Box",18.16
 "8","10","Anselmians","Chester","First Half",00:16:18,"Kick",43.28,35.97,77.38,49.8,"Open Play",36.8
 "9","15","Anselmians","Chester","First Half",00:16:51,"Kick",54.94,33.27,76.25,0.67,"Open Play",38.95
 "10","15","Anselmians","Chester","First Half",00:23:20,"Kick",56.19,11.8,78.26,-0.46,"Touch Kick",25.25
@@ -16,3 +16,20 @@
 "15","10","Anselmians","Chester","First Half",00:39:00,"Kick",5.67,56.54,40.02,70.15,"Open Play",36.95
 "16","15","Anselmians","Chester","First Half",00:41:28,"Kick",49.92,35.86,74.49,13.26,"Kick-Off",33.38
 "17","15","Anselmians","Chester","First Half",00:42:15,"Kick",53.31,10.11,93.68,-0.23,"Touch Kick",41.67
+"18","15","Anselmians","Chester","Second Half",00:50:54,"Kick",49.88,34.52,62.31,70.2,"Kick-Off",37.78
+"19","15","Anselmians","Chester","Second Half",00:53:08,"Kick",49.29,27.34,90.86,4.12,"Touch Kick",47.62
+"20","15","Anselmians","Chester","Second Half",00:59:47,"Kick",7.34,23.3,61.14,-0.140000000000001,"Open Play",58.68
+"21","15","Anselmians","Chester","Second Half",01:04:30,"Kick",50.07,33.96,82.32,68.97,"Kick-Off",47.6
+"22","15","Anselmians","Chester","Second Half",01:06:27,"Kick",56.87,26.89,87.56,3.11,"Touch Kick",38.82
+"23","9","Anselmians","Chester","Second Half",01:08:01,"Kick",40.17,23.3,67.55,17.36,"Box",28.02
+"24","9","Anselmians","Chester","Second Half",01:09:56,"Kick",2.87,4.90000000000001,25.6,1.2,"Box",23.03
+"25","15","Anselmians","Chester","Second Half",01:14:10,"Kick",49.68,33.96,75.71,56.18,"Kick-Off",34.22
+"26","9","Anselmians","Chester","Second Half",01:16:50,"Kick",62.7,9.17,91.45,3.78,"Grubber",29.25
+"27","25","Anselmians","Chester","Second Half",01:21:46,"Kick",29.68,21.96,52.79,-0.140000000000001,"Touch Kick",31.98
+"28","25","Anselmians","Chester","Second Half",01:22:46,"Kick",55.7,18.59,88.14,-0.0300000000000011,"Touch Kick",37.4
+"29","25","Anselmians","Chester","Second Half",01:26:05,"Kick",18.8,17.81,74.74,16.57,"Open Play",55.95
+"30","25","Anselmians","Chester","Second Half",01:30:32,"Kick",-0.760000000000005,44.96,34.66,68.97,"Open Play",42.79
+"31","25","Anselmians","Chester","Second Half",01:31:21,"Kick",11.83,29.25,55.12,15.11,"Open Play",45.54
+"32","25","Anselmians","Chester","Second Half",01:33:06,"Kick",-0.370000000000005,34.97,9.66,69.98,"Goal-Line Dropout",36.42
+"33","15","Anselmians","Chester","Second Half",01:35:00,"Kick",49.81,34.41,61.81,4.79000000000001,"Kick-Off",31.96
+"34","15","Anselmians","Chester","Second Half",01:35:56,"Kick",55.12,21.17,70.67,65.49,"Cross Field",46.97
