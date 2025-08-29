@@ -1,17 +1,7 @@
 "","Kick_Index","Opposition","ID","Kick_Minute","Kick_Type","Kick_Start_X","Kick_Start_Y","Kick_End_X","Kick_End_Y","Kick_Direction","Next_Possession_Index","Next_Possession_Minute","Possession_Start_X","Possession_Start_Y","Possession_Direction","X_Distance","Territory","start_pitch_location","start_zone","end_pitch_location","end_zone","Distance"
-"1",6,"Chester","15",00:00:39,"Open Play",19.27,37.79,37.9,29.11,"Left to Right",11,00:01:47,33.84,52.39,"Left to Right",14.57,14.57,"Own 22","A3","Own 22 to Halfway","B2",20.55
-"2",14,"Chester","24",00:02:00,"Chip",49.8,4.12,76.97,22,"Left to Right",19,00:03:18,58.49,64.49,"Left to Right",8.69,8.69,"Own 22 to Halfway","B1","Halfway to Opposition 22","C2",32.53
-"3",25,"Chester","15",00:03:55,"Open Play",57.79,45.02,80.48,12.66,"Left to Right",27,00:04:20,4.71,28.71,"Left to Right",53.08,-53.08,"Halfway to Opposition 22","C3","Opposition 22","D1",39.52
-"4",30,"Chester","15",00:04:22,"Open Play",6.25,17.66,27.82,0.17,"Left to Right",32,00:04:52,30.06,14.9,"Left to Right",23.81,23.81,"Own 22","A2","Own 22 to Halfway","B1",27.77
-"5",114,"Chester","9",00:22:25,"Open Play",62.55,32.92,88.88,5.56,"Left to Right",118,00:23:22,61.99,5.56,"Left to Right",0.559999999999995,-0.559999999999995,"Halfway to Opposition 22","C2","Opposition 22","D1",37.97
-"6",496,"Chester","15",00:01:59,"Open Play",21.71,35.18,78.51,43.95,"Left to Right",498,00:02:27,60.95,70.15,"Left to Right",39.24,39.24,"Own 22","A3","Opposition 22","D3",57.47
-"7",549,"Chester","15",00:09:13,"Open Play",58.2,49.12,83.27,70.15,"Left to Right",551,00:09:59,54.69,64.19,"Left to Right",3.51,-3.51,"Halfway to Opposition 22","C3","Opposition 22","D4",32.72
-"8",564,"Chester","10",00:11:32,"Open Play",29.49,23.15,77.25,36.64,"Left to Right",566,00:11:43,35.88,67,"Left to Right",6.39,6.39,"Own 22 to Halfway","B2","Halfway to Opposition 22","C3",49.63
-"9",595,"Chester","9",00:15:14,"Box",34.13,16.29,52.05,19.22,"Left to Right",598,00:16:05,45.91,20.45,"Left to Right",11.78,11.78,"Own 22 to Halfway","B2","Halfway to Opposition 22","C2",18.16
-"10",600,"Chester","10",00:16:18,"Open Play",43.28,35.97,77.38,49.8,"Left to Right",603,00:16:44,55.06,68.57,"Left to Right",11.78,11.78,"Own 22 to Halfway","B3","Halfway to Opposition 22","C3",36.8
-"11",605,"Chester","15",00:16:51,"Open Play",54.94,33.27,76.25,0.67,"Left to Right",609,00:18:08,68.23,69.92,"Left to Right",13.29,13.29,"Halfway to Opposition 22","C2","Halfway to Opposition 22","C1",38.95
-"12",748,"Chester","14",00:34:08,"Open Play",11.94,2.13,61.21,13.93,"Left to Right",750,00:35:00,60.17,14.49,"Left to Right",48.23,48.23,"Own 22","A1","Halfway to Opposition 22","C1",50.66
-"13",758,"Chester","9",00:36:01,"Open Play",5.17,66.21,5.29,70.26,"Left to Right",760,00:37:19,5.29,55.08,"Left to Right",0.12,0.12,"Own 22","A4","Own 22","A4",4.05
-"14",774,"Chester","10",00:39:00,"Open Play",5.67,56.54,40.02,70.15,"Left to Right",788,00:42:14,52.56,10.34,"Left to Right",46.89,46.89,"Own 22","A4","Own 22 to Halfway","B4",36.95
-"15",153,"Chester","15",00:47:42,"Open Play",21.49,15.77,24.57,15.51,"Right to Left",155,00:48:19,8.45999999999999,5.25,"Right to Left",13.03,-13.03,"Own 22","A2","Own 22 to Halfway","B2",3.09
-"16",158,"Chester","15",00:48:34,"Open Play",9.44,15.11,29.75,-0.799999999999997,"Right to Left",488,00:01:02,49.92,35.27,"Left to Right",40.48,40.48,"Own 22","A2","Own 22 to Halfway","B1",25.8
+"1",10,"Durham University","13",00:04:08,"Open Play",18.63,54.88,81.53,54.76,"Left to Right",15,00:04:32,52.23,55.33,"Left to Right",33.6,33.6,"Own 22","A3","Opposition 22","D3",62.9
+"2",98,"Durham University","12",00:13:11,"Open Play",16.73,44.99,53.27,18.6,"Left to Right",100,00:13:20,36.89,56.78,"Left to Right",20.16,20.16,"Own 22","A3","Halfway to Opposition 22","C2",45.07
+"3",165,"Durham University","15",00:27:17,"Chip",63.95,64.53,78.08,68.91,"Left to Right",170,00:28:14,49.3,63.3,"Left to Right",14.65,-14.65,"Halfway to Opposition 22","C4","Opposition 22","D4",14.79
+"4",188,"Durham University","9",00:29:34,"Box",4.85,14.9,21.21,-0.26,"Left to Right",190,00:30:57,21.89,15.12,"Left to Right",17.04,17.04,"Own 22","A1","Own 22","A1",22.3
+"5",192,"Durham University","10",00:31:03,"Chip",17.8,25.23,33.98,30.17,"Left to Right",204,00:32:58,7.58,6.59,"Left to Right",10.22,-10.22,"Own 22","A2","Own 22 to Halfway","B2",16.92
+"6",244,"Durham University","15",00:38:54,"Grubber",45.22,18.49,81.16,1.31,"Left to Right",246,00:38:56,88.31,1.08,"Left to Right",43.09,43.09,"Own 22 to Halfway","B2","Opposition 22","D1",39.84

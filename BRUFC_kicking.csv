@@ -1,29 +1,16 @@
 "","ID","Team","Opponent","Half","Minute","Event_Type","Start_X","Start_Y","End_X","End_Y","Kick_Type","Distance"
-"1","15","Billingham","Chester","First Half",00:00:39,"Kick",19.27,37.79,37.9,29.11,"Open Play",20.55
-"2","24","Billingham","Chester","First Half",00:02:00,"Kick",49.8,4.12,76.97,22,"Chip",32.53
-"3","15","Billingham","Chester","First Half",00:03:55,"Kick",57.79,45.02,80.48,12.66,"Open Play",39.52
-"4","15","Billingham","Chester","First Half",00:04:22,"Kick",6.25,17.66,27.82,0.17,"Open Play",27.77
-"5","12","Billingham","Chester","First Half",00:08:47,"Kick",49.94,36.08,80.06,11.88,"Kick-Off",38.64
-"6","12","Billingham","Chester","First Half",00:11:26,"Kick",33.42,55.67,63.95,70.27,"Touch Kick",33.84
-"7","12","Billingham","Chester","First Half",00:16:39,"Kick",49.94,35.81,75.99,15.43,"Kick-Off",33.07
-"8","9","Billingham","Chester","First Half",00:22:25,"Kick",62.55,32.92,88.88,5.56,"Open Play",37.97
-"9","15","Billingham","Chester","First Half",00:01:59,"Kick",21.71,35.18,78.51,43.95,"Open Play",57.47
-"10","15","Billingham","Chester","First Half",00:03:45,"Kick",30.99,60.25,49.42,70.03,"Touch Kick",20.86
-"11","10","Billingham","Chester","First Half",00:04:15,"Kick",42.53,48,100.45,61.38,"Open Play",59.45
-"12","15","Billingham","Chester","First Half",00:07:15,"Kick",50.05,35.29,76.5,1.45,"Kick-Off",42.95
-"13","15","Billingham","Chester","First Half",00:09:13,"Kick",58.2,49.12,83.27,70.15,"Open Play",32.72
-"14","10","Billingham","Chester","First Half",00:11:32,"Kick",29.49,23.15,77.25,36.64,"Open Play",49.63
-"15","9","Billingham","Chester","First Half",00:15:14,"Kick",34.13,16.29,52.05,19.22,"Box",18.16
-"16","10","Billingham","Chester","First Half",00:16:18,"Kick",43.28,35.97,77.38,49.8,"Open Play",36.8
-"17","15","Billingham","Chester","First Half",00:16:51,"Kick",54.94,33.27,76.25,0.67,"Open Play",38.95
-"18","15","Billingham","Chester","First Half",00:23:20,"Kick",56.19,11.8,78.26,-0.46,"Touch Kick",25.25
-"19","15","Billingham","Chester","First Half",00:24:18,"Kick",79.38,19.55,93.05,-0.12,"Touch Kick",23.95
-"20","15","Billingham","Chester","First Half",00:27:58,"Kick",61.08,65.54,75.62,70.03,"Touch Kick",15.22
-"21","14","Billingham","Chester","First Half",00:34:08,"Kick",11.94,2.13,61.21,13.93,"Open Play",50.66
-"22","9","Billingham","Chester","First Half",00:36:01,"Kick",5.17,66.21,5.29,70.26,"Open Play",4.05
-"23","10","Billingham","Chester","First Half",00:39:00,"Kick",5.67,56.54,40.02,70.15,"Open Play",36.95
-"24","15","Billingham","Chester","First Half",00:41:28,"Kick",49.92,35.86,74.49,13.26,"Kick-Off",33.38
-"25","15","Billingham","Chester","First Half",00:42:15,"Kick",53.31,10.11,93.68,-0.23,"Touch Kick",41.67
-"26","12","Billingham","Chester","Second Half",00:43:15,"Kick",50.06,34.98,85.21,14.19,"Kick-Off",40.84
-"27","15","Billingham","Chester","Second Half",00:47:42,"Kick",21.49,15.77,24.57,15.51,"Open Play",3.09
-"28","15","Billingham","Chester","Second Half",00:48:34,"Kick",9.44,15.11,29.75,-0.799999999999997,"Open Play",25.8
+"1","13","Billingham","Durham University","First Half",00:04:08,"Kick",18.63,54.88,81.53,54.76,"Open Play",62.9
+"2","10","Billingham","Durham University","First Half",00:04:48,"Kick",45.68,35.67,58.61,5.46,"Cross Field",32.86
+"3","10","Billingham","Durham University","First Half",00:06:27,"Kick",43.44,11.75,72.22,-0.26,"Touch Kick",31.19
+"4","10","Billingham","Durham University","First Half",00:07:19,"Kick",63.09,44.88,78.77,70.15,"Touch Kick",29.74
+"5","10","Billingham","Durham University","First Half",00:08:22,"Kick",79.46,57.91,94.8,70.04,"Touch Kick",19.56
+"6","12","Billingham","Durham University","First Half",00:13:11,"Kick",16.73,44.99,53.27,18.6,"Open Play",45.07
+"7","10","Billingham","Durham University","First Half",00:25:04,"Kick",50.16,35.56,77.74,5.58,"Kick-Off",40.74
+"8","15","Billingham","Durham University","First Half",00:27:17,"Kick",63.95,64.53,78.08,68.91,"Chip",14.79
+"9","9","Billingham","Durham University","First Half",00:29:34,"Kick",4.85,14.9,21.21,-0.26,"Box",22.3
+"10","10","Billingham","Durham University","First Half",00:31:03,"Kick",17.8,25.23,33.98,30.17,"Chip",16.92
+"11","10","Billingham","Durham University","First Half",00:33:28,"Kick",10.13,9.28,23.59,-0.15,"Touch Kick",16.43
+"12","12","Billingham","Durham University","First Half",00:36:05,"Kick",18.31,56.56,42.67,70.04,"Touch Kick",27.84
+"13","15","Billingham","Durham University","First Half",00:38:54,"Kick",45.22,18.49,81.16,1.31,"Grubber",39.84
+"14","14","Billingham","Durham University","First Half",00:38:58,"Kick",88.49,1.08,100.41,1.31,"Grubber",11.92
+"15","10","Billingham","Durham University","First Half",00:44:23,"Kick",77.92,41.4,83.38,65.32,"Cross Field",24.54
