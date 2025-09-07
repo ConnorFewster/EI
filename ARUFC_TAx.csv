@@ -1,2 +1,2 @@
-Thrower_ID,successful,unsuccessful,total_predit_success,total_lo,TAx
-NA,12,4,NA,16,NA
+Thrower_ID,Successful,Unsuccessful,total_predict_success,total_lo,TAx
+Ath2,11,0,11,11,0
