@@ -1,6 +1,6 @@
 "","ID","Team","Opponent","Half","Minute","Event_Type","Start_X","Start_Y","End_X","End_Y","GLS","Linebreak","Prior_GLS","Type","Pass_Receipt","Source","Defenders_Infront","Distance","pitch_location"
 "1","5","Anselmians","Huddersfield","First Half",00:03:52,"Carry",66.22,55.76,65.84,57.56,"No GLS",0,0,"Kick Return",NA,"Multi-Phase",NA,1.84,"Halfway to Opposition 22"
-"2",NA,"Anselmians","Huddersfield","First Half",00:04:01,"Carry",60.83,53.73,60.2,54.18,"No GLS",0,0,"One Out","On Target","Multi-Phase",NA,0.77,"Halfway to Opposition 22"
+"2","1","Anselmians","Huddersfield","First Half",00:04:01,"Carry",60.83,53.73,60.2,54.18,"No GLS",0,0,"One Out","On Target","Multi-Phase",NA,0.77,"Halfway to Opposition 22"
 "3","8","Anselmians","Huddersfield","First Half",00:04:07,"Carry",53.81,34.84,56.82,34.84,"No GLS",0,0,"Other","On Target","Multi-Phase",NA,3.01,"Halfway to Opposition 22"
 "4","13","Anselmians","Huddersfield","First Half",00:04:17,"Carry",49.92,7.86,58.2,15.84,"No GLS",0,0,"Other","On Target","Multi-Phase",NA,11.5,"Own 22 to Halfway"
 "5","8","Anselmians","Huddersfield","First Half",00:04:23,"Carry",56.44,11.23,58.07,11.12,"GLS",0,0,"Other","On Target","Multi-Phase",NA,1.63,"Halfway to Opposition 22"
