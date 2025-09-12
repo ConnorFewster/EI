@@ -1,0 +1,24 @@
+"","ID","Team","Opponent","Half","Minute","Event_Type","Start_X","Start_Y","End_X","End_Y","Kick_Type","Distance"
+"1","12","HSFC","Scarborough","Second Half",00:42:52,"Kick",27.34,31.74,42.78,18.27,"Open Play",20.49
+"2","9","HSFC","Scarborough","Second Half",00:43:48,"Kick",2.78,3.78,39.97,10.07,"Open Play",37.72
+"3","12","HSFC","Scarborough","Second Half",00:49:23,"Kick",41.55,34.89,59.97,69.92,"Open Play",39.58
+"4","9","HSFC","Scarborough","Second Half",00:51:55,"Kick",49.45,54.54,78.39,54.65,"Box",28.94
+"5","9","HSFC","Scarborough","Second Half",00:53:15,"Kick",75.41,32.98,94.53,12.2,"Open Play",28.24
+"6","10","HSFC","Scarborough","Second Half",00:59:27,"Kick",50.15,35.33,64.53,18.94,"Kick-Off",21.8
+"7","10","HSFC","Scarborough","Second Half",01:00:36,"Kick",52.43,52.74,75.76,54.77,"Box",23.42
+"8","10","HSFC","Scarborough","Second Half",00:59:27,"Kick",50.15,35.33,64.53,18.94,"Kick-Off",21.8
+"9","10","HSFC","Scarborough","Second Half",01:00:36,"Kick",52.43,52.74,75.76,54.77,"Box",23.42
+"10","10","HSFC","Scarborough","Second Half",01:08:47,"Kick",49.97,35,60.15,15.12,"Kick-Off",22.33
+"11","10","HSFC","Scarborough","Second Half",01:12:29,"Kick",50.15,35,74.71,14.89,"Kick-Off",31.74
+"12","10","HSFC","Scarborough","Second Half",01:15:30,"Kick",50.15,35.56,72.25,11.41,"Kick-Off",32.74
+"13","10","HSFC","Scarborough","First Half",00:00:44,"Kick",50.03,34.78,71.96,65.43,"Kick-Off",37.69
+"14","10","HSFC","Scarborough","First Half",00:02:11,"Kick",37.05,26.69,78.97,-0.150000000000006,"Touch Kick",49.78
+"15","10","HSFC","Scarborough","First Half",00:09:43,"Kick",50.03,34.89,79.33,66.11,"Kick-Off",42.82
+"16","12","HSFC","Scarborough","First Half",00:10:40,"Kick",19.15,18.61,73.54,26.69,"Open Play",54.99
+"17","10","HSFC","Scarborough","First Half",00:16:56,"Kick",62.48,56.79,63.36,57.46,"Open Play",1.11
+"18","9","HSFC","Scarborough","First Half",00:17:34,"Kick",56.69,15.12,94.76,6.81,"Box",38.97
+"19","10","HSFC","Scarborough","First Half",00:23:07,"Kick",49.68,34.44,72.31,69.37,"Kick-Off",41.62
+"20","5","HSFC","Scarborough","First Half",00:24:55,"Kick",21.96,15.01,100.03,26.35,"Open Play",78.89
+"21","12","HSFC","Scarborough","First Half",00:29:11,"Kick",49.85,34.89,73.36,52.18,"Kick-Off",29.18
+"22","12","HSFC","Scarborough","First Half",00:32:04,"Kick",49.85,34.78,72.13,47.13,"Kick-Off",25.47
+"23","9","HSFC","Scarborough","First Half",00:33:03,"Kick",55.11,18.27,93.18,0.409999999999997,"Touch Kick",42.05
