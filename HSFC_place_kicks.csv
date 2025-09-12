@@ -1,6 +1,6 @@
 ID,Team,Direction,Venue,Opponent,Half,Event_Type,Start_X,Start_Y,Kick_Type,Kick_Outcome,Distance,Angle,p_chance
-9,HSFC,Left to Right,Away,Scarborough,Second Half,Kick,77.34,15.8,Conversion,1,29.7,40.27,0.1
-8,HSFC,Left to Right,Away,Scarborough,Second Half,Kick,77.34,5.23,Conversion,0,37.41,52.72,0.07
-8,HSFC,Left to Right,Away,Scarborough,Second Half,Kick,77.34,5.23,Conversion,0,37.41,52.72,0.07
-10,HSFC,Left to Right,Away,Scarborough,Second Half,Kick,77.69,69.14,Conversion,0,40.78,56.84,0.05
-9,HSFC,Right to Left,Away,Scarborough,First Half,Kick,92.66,35.56,Conversion,0,7.36,4.36,0.72
+9,HSFC,Left to Right,Away,Scarborough,Second Half,Kick,77.34,15.8,Conversion,Successful,29.7,40.27,0.1
+8,HSFC,Left to Right,Away,Scarborough,Second Half,Kick,77.34,5.23,Conversion,Unsuccessful,37.41,52.72,0.07
+8,HSFC,Left to Right,Away,Scarborough,Second Half,Kick,77.34,5.23,Conversion,Unsuccessful,37.41,52.72,0.07
+10,HSFC,Left to Right,Away,Scarborough,Second Half,Kick,77.69,69.14,Conversion,Unsuccessful,40.78,56.84,0.05
+9,HSFC,Right to Left,Away,Scarborough,First Half,Kick,92.66,35.56,Conversion,Unsuccessful,7.36,4.36,0.72

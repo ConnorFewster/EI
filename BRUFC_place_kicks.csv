@@ -1,10 +1,10 @@
 ID,Team,Direction,Venue,Opponent,Half,Event_Type,Start_X,Start_Y,Kick_Type,Kick_Outcome,Distance,Angle,p_chance
-10,Billingham,Left to Right,Home,Durham University,First Half,Kick,78.43,64.87,Conversion,1,36.84,54.17,0.9
-10,Billingham,Left to Right,Home,Durham University,First Half,Kick,76.73,0.86,Conversion,1,41.32,55.72,0.8
-10,Billingham,Left to Right,Away,Preston,Second Half,Kick,77.92,0.97,Conversion,0,40.57,57.02,0.16
-10,Billingham,Right to Left,Home,Durham University,Second Half,Kick,81.17,52.47,Conversion,1,25.69,42.85,0.86
-25,Billingham,Right to Left,Home,Durham University,Second Half,Kick,77.16,4.239999999999995,Conversion,0,38.31,53.41,0.52
-25,Billingham,Right to Left,Home,Durham University,Second Half,Kick,95.21,34.93,Conversion,1,4.79,0.84,0.91
-10,Billingham,Right to Left,Away,Preston,First Half,Kick,77.94,58.47,Conversion,1,32.21,46.77,0.71
-10,Billingham,Right to Left,Away,Preston,First Half,Kick,77.6,63.64,Conversion,0,36.36,51.97,0.62
-10,Billingham,Right to Left,Away,Preston,First Half,Kick,77.6,1.2000000000000028,Conversion,1,40.55,56.47,0.51
+10,Billingham,Left to Right,Home,Durham University,First Half,Kick,78.43,64.87,Conversion,Successful,36.84,54.17,0.9
+10,Billingham,Left to Right,Home,Durham University,First Half,Kick,76.73,0.86,Conversion,Successful,41.32,55.72,0.8
+10,Billingham,Left to Right,Away,Preston,Second Half,Kick,77.92,0.97,Conversion,Unsuccessful,40.57,57.02,0.16
+10,Billingham,Right to Left,Home,Durham University,Second Half,Kick,81.17,52.47,Conversion,Successful,25.69,42.85,0.86
+25,Billingham,Right to Left,Home,Durham University,Second Half,Kick,77.16,4.239999999999995,Conversion,Unsuccessful,38.31,53.41,0.52
+25,Billingham,Right to Left,Home,Durham University,Second Half,Kick,95.21,34.93,Conversion,Successful,4.79,0.84,0.91
+10,Billingham,Right to Left,Away,Preston,First Half,Kick,77.94,58.47,Conversion,Successful,32.21,46.77,0.71
+10,Billingham,Right to Left,Away,Preston,First Half,Kick,77.6,63.64,Conversion,Unsuccessful,36.36,51.97,0.62
+10,Billingham,Right to Left,Away,Preston,First Half,Kick,77.6,1.2000000000000028,Conversion,Successful,40.55,56.47,0.51
