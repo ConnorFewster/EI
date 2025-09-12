@@ -1,0 +1,10 @@
+"","Kick_Index","Opposition","ID","Kick_Minute","Kick_Type","Kick_Start_X","Kick_Start_Y","Kick_End_X","Kick_End_Y","Kick_Direction","Next_Possession_Index","Next_Possession_Minute","Possession_Start_X","Possession_Start_Y","Possession_Direction","X_Distance","Territory","start_pitch_location","start_zone","end_pitch_location","end_zone","Distance"
+"1",271,"Scarborough","12",00:42:52,"Open Play",27.34,31.74,42.78,18.27,"Left to Right",277,00:43:42,4.89,10.07,"Left to Right",22.45,-22.45,"Own 22 to Halfway","B2","Own 22 to Halfway","B2",20.49
+"2",279,"Scarborough","9",00:43:48,"Open Play",2.78,3.78,39.97,10.07,"Left to Right",285,00:44:59,22.6,19.05,"Left to Right",19.82,19.82,"Own 22","A1","Own 22 to Halfway","B1",37.72
+"3",330,"Scarborough","12",00:49:23,"Open Play",41.55,34.89,59.97,69.92,"Left to Right",332,00:49:58,59.8,60.04,"Left to Right",18.25,18.25,"Own 22 to Halfway","B2","Halfway to Opposition 22","C4",39.58
+"4",352,"Scarborough","9",00:51:55,"Box",49.45,54.54,78.39,54.65,"Left to Right",356,00:52:08,70.67,54.99,"Left to Right",21.22,21.22,"Own 22 to Halfway","B3","Opposition 22","D3",28.94
+"5",364,"Scarborough","9",00:53:15,"Open Play",75.41,32.98,94.53,12.2,"Left to Right",370,00:54:29,72.6,-0.15,"Left to Right",2.81,-2.81,"Halfway to Opposition 22","C2","Opposition 22","D1",28.24
+"6",401,"Scarborough","10",01:00:36,"Box",52.43,52.74,75.76,54.77,"Left to Right",407,01:01:03,67.34,30.17,"Left to Right",14.91,14.91,"Halfway to Opposition 22","C3","Halfway to Opposition 22","C3",23.42
+"7",480,"Scarborough","10",01:00:36,"Box",52.43,52.74,75.76,54.77,"Left to Right",407,01:01:03,67.34,30.17,"Left to Right",14.91,14.91,"Halfway to Opposition 22","C3","Halfway to Opposition 22","C3",23.42
+"8",85,"Scarborough","12",00:10:40,"Open Play",19.15,18.61,73.54,26.69,"Right to Left",87,00:11:21,55.29,35.9,"Right to Left",36.14,36.14,"Own 22","A2","Halfway to Opposition 22","C2",54.99
+"9",140,"Scarborough","9",00:17:34,"Box",56.69,15.12,94.76,6.81,"Right to Left",146,00:18:01,98.27,29.95,"Right to Left",41.58,41.58,"Halfway to Opposition 22","C2","Opposition 22","D1",38.97
