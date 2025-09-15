@@ -1,70 +1,70 @@
 "","ID","Team","Opponent","Half","Minute","Event_Type","Start_X","Start_Y","End_X","End_Y","Kick_Type","Distance"
-"1","Team","Anselmians","Leek","Second Half",01:15:23,"Kick",78.19,53.19,88.96,69.7,"Touch Kick",19.71
-"2","22","Anselmians","Leek","Second Half",01:34:11,"Kick",14.55,14.67,15.41,-0.38,"Open Play",15.07
+"1","10","Anselmians","Huddersfield","First Half",00:03:50,"Kick",49.96,34.17,67.46,56.09,"Kick-Off",28.05
+"2","10","Anselmians","Huddersfield","First Half",00:04:57,"Kick",59.2,21.02,76.88,-0.46,"Touch Kick",27.82
 "3","15","Anselmians","Huddersfield","First Half",00:06:37,"Kick",57.44,16.52,94.93,70.03,"Open Play",65.34
-"4","15","Anselmians","Huddersfield","First Half",00:27:20,"Kick",56.44,54.41,65.47,69.7,"Open Play",17.76
-"5","15","Anselmians","Huddersfield","First Half",00:32:04,"Kick",22.09,35.18,73.49,2.35,"Open Play",60.99
-"6","15","Anselmians","Leek","Second Half",01:08:25,"Kick",26.99,58.47,73.67,61.95,"Open Play",46.81
-"7","15","Anselmians","Leek","Second Half",01:10:21,"Kick",14.55,14.67,63.96,-0.05,"Open Play",51.56
-"8","15","Anselmians","Leek","Second Half",01:29:58,"Kick",6.55,37.24,41.98,69.93,"Touch Kick",48.21
-"9","15","Anselmians","Leek","Second Half",01:31:30,"Kick",41.3,23.32,78.1,0.52,"Open Play",43.29
-"10","13","Anselmians","Huddersfield","First Half",00:30:04,"Kick",17.33,16.41,44.91,-0.23,"Open Play",32.21
-"11","10","Anselmians","Huddersfield","First Half",00:03:50,"Kick",49.96,34.17,67.46,56.09,"Kick-Off",28.05
-"12","10","Anselmians","Huddersfield","First Half",00:04:57,"Kick",59.2,21.02,76.88,-0.46,"Touch Kick",27.82
-"13","10","Anselmians","Huddersfield","First Half",00:09:34,"Kick",18.96,1.9,59.83,4.15,"Open Play",40.93
-"14","10","Anselmians","Huddersfield","First Half",00:12:12,"Kick",23.47,32.82,62.21,14.83,"Open Play",42.71
-"15","10","Anselmians","Huddersfield","First Half",00:16:13,"Kick",50.21,33.61,70.19,60.14,"Kick-Off",33.21
-"16","10","Anselmians","Huddersfield","First Half",00:19:29,"Kick",50.17,35.29,71.99,58.34,"Kick-Off",31.74
-"17","10","Anselmians","Huddersfield","First Half",00:21:15,"Kick",59.58,32.15,87.78,3.7,"Open Play",40.06
-"18","10","Anselmians","Huddersfield","First Half",00:23:42,"Kick",59.2,20.57,88.91,-0.23,"Touch Kick",36.27
-"19","10","Anselmians","Huddersfield","First Half",00:32:47,"Kick",58.57,62.5,73.49,69.59,"Touch Kick",16.52
-"20","10","Anselmians","Huddersfield","First Half",00:40:59,"Kick",50.05,35.07,75.75,61.83,"Kick-Off",37.1
-"21","10","Anselmians","Huddersfield","First Half",00:43:13,"Kick",68.98,21.24,95.05,-0.46,"Touch Kick",33.92
-"22","10","Anselmians","Leek","Second Half",00:54:21,"Kick",36.87,64.42,60.89,69.93,"Touch Kick",24.64
-"23","10","Anselmians","Leek","Second Half",00:55:53,"Kick",60.04,55.44,81.16,70.04,"Touch Kick",25.68
-"24","10","Anselmians","Leek","Second Half",01:02:17,"Kick",34.66,22.75,54.93,-0.27,"Touch Kick",30.67
-"25","10","Anselmians","Leek","Second Half",01:07:18,"Kick",49.99,35.11,60.38,66.45,"Kick-Off",33.02
-"26","10","Anselmians","Leek","Second Half",01:09:32,"Kick",0.07,39.38,22.9,35,"Kick-Off",23.25
-"27","10","Anselmians","Leek","Second Half",01:12:42,"Kick",54.76,32.98,82.87,6.69,"Open Play",38.49
-"28","10","Anselmians","Leek","Second Half",01:14:55,"Kick",50.16,34.77,71.28,54.99,"Kick-Off",29.24
+"4","9","Anselmians","Huddersfield","First Half",00:09:27,"Kick",30.11,14.38,30.11,14.38,"Box",0
+"5","10","Anselmians","Huddersfield","First Half",00:09:34,"Kick",18.96,1.9,59.83,4.15,"Open Play",40.93
+"6","10","Anselmians","Huddersfield","First Half",00:12:12,"Kick",23.47,32.82,62.21,14.83,"Open Play",42.71
+"7","10","Anselmians","Huddersfield","First Half",00:16:13,"Kick",50.21,33.61,70.19,60.14,"Kick-Off",33.21
+"8","10","Anselmians","Huddersfield","First Half",00:19:29,"Kick",50.17,35.29,71.99,58.34,"Kick-Off",31.74
+"9","10","Anselmians","Huddersfield","First Half",00:21:15,"Kick",59.58,32.15,87.78,3.7,"Open Play",40.06
+"10","10","Anselmians","Huddersfield","First Half",00:23:42,"Kick",59.2,20.57,88.91,-0.23,"Touch Kick",36.27
+"11","15","Anselmians","Huddersfield","First Half",00:27:20,"Kick",56.44,54.41,65.47,69.7,"Open Play",17.76
+"12","13","Anselmians","Huddersfield","First Half",00:30:04,"Kick",17.33,16.41,44.91,-0.23,"Open Play",32.21
+"13","15","Anselmians","Huddersfield","First Half",00:32:04,"Kick",22.09,35.18,73.49,2.35,"Open Play",60.99
+"14","10","Anselmians","Huddersfield","First Half",00:32:47,"Kick",58.57,62.5,73.49,69.59,"Touch Kick",16.52
+"15","10","Anselmians","Huddersfield","First Half",00:40:59,"Kick",50.05,35.07,75.75,61.83,"Kick-Off",37.1
+"16","10","Anselmians","Huddersfield","First Half",00:43:13,"Kick",68.98,21.24,95.05,-0.46,"Touch Kick",33.92
+"17","10","Anselmians","Leek","Second Half",00:54:21,"Kick",36.87,64.42,60.89,69.93,"Touch Kick",24.64
+"18","10","Anselmians","Leek","Second Half",00:55:53,"Kick",60.04,55.44,81.16,70.04,"Touch Kick",25.68
+"19","9","Anselmians","Leek","Second Half",00:58:37,"Kick",30.4,16.13,46.41,14.22,"Box",16.12
+"20","9","Anselmians","Leek","Second Half",01:00:48,"Kick",28.86,16.91,40.11,10.06,"Box",13.17
+"21","10","Anselmians","Leek","Second Half",01:02:17,"Kick",34.66,22.75,54.93,-0.27,"Touch Kick",30.67
+"22","10","Anselmians","Leek","Second Half",01:07:18,"Kick",49.99,35.11,60.38,66.45,"Kick-Off",33.02
+"23","15","Anselmians","Leek","Second Half",01:08:25,"Kick",26.99,58.47,73.67,61.95,"Open Play",46.81
+"24","10","Anselmians","Leek","Second Half",01:09:32,"Kick",0.07,39.38,22.9,35,"Kick-Off",23.25
+"25","15","Anselmians","Leek","Second Half",01:10:21,"Kick",14.55,14.67,63.96,-0.05,"Open Play",51.56
+"26","10","Anselmians","Leek","Second Half",01:12:42,"Kick",54.76,32.98,82.87,6.69,"Open Play",38.49
+"27","10","Anselmians","Leek","Second Half",01:14:55,"Kick",50.16,34.77,71.28,54.99,"Kick-Off",29.24
+"28","Team","Anselmians","Leek","Second Half",01:15:23,"Kick",78.19,53.19,88.96,69.7,"Touch Kick",19.71
 "29","10","Anselmians","Leek","Second Half",01:20:29,"Kick",-2.65,29.94,24.26,-0.27,"Open Play",40.46
 "30","10","Anselmians","Leek","Second Half",01:21:37,"Kick",31.76,28.03,49.82,-0.16,"Touch Kick",33.48
-"31","9","Anselmians","Huddersfield","First Half",00:09:27,"Kick",30.11,14.38,30.11,14.38,"Box",0
-"32","9","Anselmians","Leek","Second Half",00:58:37,"Kick",30.4,16.13,46.41,14.22,"Box",16.12
-"33","9","Anselmians","Leek","Second Half",01:00:48,"Kick",28.86,16.91,40.11,10.06,"Box",13.17
-"34","15","Anselmians","Huddersfield","Second Half",01:13:15,"Kick",23.12,65.06,64.75,50.45,"Open Play",44.12
-"35","15","Anselmians","Huddersfield","Second Half",01:24:16,"Kick",48.7,7.27,63.24,0.0799999999999983,"Touch Kick",16.22
-"36","15","Anselmians","Leek","First Half",00:05:40,"Kick",35.93,35.56,73.88,6.59,"Open Play",47.74
-"37","15","Anselmians","Leek","First Half",00:05:52,"Kick",45.46,9.96,77.76,4.45,"Open Play",32.77
-"38","15","Anselmians","Leek","First Half",00:06:55,"Kick",45.11,58.81,47.58,59.04,"Open Play",2.48
-"39","15","Anselmians","Leek","First Half",00:15:49,"Kick",21.22,39.94,68.58,65.67,"Open Play",53.9
-"40","15","Anselmians","Leek","First Half",00:17:08,"Kick",20.88,40.96,67.56,55.44,"Open Play",48.87
-"41","15","Anselmians","Leek","First Half",00:20:46,"Kick",50.01,31.86,78.8,70.27,"Open Play",48
-"42","15","Anselmians","Leek","First Half",00:38:36,"Kick",21.39,3.09999999999999,66.02,17.71,"Open Play",46.96
-"43","13","Anselmians","Leek","First Half",00:17:50,"Kick",10.66,61.85,33.83,70.16,"Open Play",24.62
-"44","13","Anselmians","Leek","First Half",00:31:56,"Kick",29.23,1.31,63.81,17.03,"Open Play",37.99
-"45","10","Anselmians","Huddersfield","Second Half",00:54:56,"Kick",17.86,18.97,66.75,17.95,"Open Play",48.9
-"46","10","Anselmians","Huddersfield","Second Half",00:56:37,"Kick",43.18,26.95,60.48,12.89,"Up & Under",22.29
-"47","10","Anselmians","Huddersfield","Second Half",00:58:21,"Kick",62.36,14.58,100.85,0.299999999999997,"Touch Kick",41.05
-"48","10","Anselmians","Huddersfield","Second Half",01:10:17,"Kick",8.58,48.76,26.51,70.12,"Open Play",27.89
-"49","10","Anselmians","Huddersfield","Second Half",01:10:55,"Kick",26.01,55.28,71.26,52.69,"Up & Under",45.32
-"50","10","Anselmians","Huddersfield","Second Half",01:17:14,"Kick",43.68,42.58,54.97,9.52,"Cross Field",34.93
-"51","10","Anselmians","Huddersfield","Second Half",01:18:52,"Kick",87.19,15.26,93.33,0.189999999999998,"Touch Kick",16.27
-"52","10","Anselmians","Huddersfield","Second Half",01:35:06,"Kick",49.7,35.94,73.52,61.13,"Kick-Off",34.67
-"53","10","Anselmians","Huddersfield","Second Half",01:38:22,"Kick",49.83,35.61,88.06,53.82,"Kick-Off",42.35
-"54","10","Anselmians","Leek","First Half",00:04:52,"Kick",50.05,34.22,70.53,55.22,"Kick-Off",29.33
-"55","10","Anselmians","Leek","First Half",00:08:42,"Kick",49.87,35.34,69.77,59.94,"Kick-Off",31.64
-"56","10","Anselmians","Leek","First Half",00:10:32,"Kick",79.82,7.48,94.64,0.0699999999999932,"Touch Kick",16.57
-"57","10","Anselmians","Leek","First Half",00:19:53,"Kick",49.84,34.78,71.14,55.22,"Kick-Off",29.52
+"31","15","Anselmians","Leek","Second Half",01:29:58,"Kick",6.55,37.24,41.98,69.93,"Touch Kick",48.21
+"32","15","Anselmians","Leek","Second Half",01:31:30,"Kick",41.3,23.32,78.1,0.52,"Open Play",43.29
+"33","22","Anselmians","Leek","Second Half",01:34:11,"Kick",14.55,14.67,15.41,-0.38,"Open Play",15.07
+"34","10","Anselmians","Huddersfield","Second Half",00:54:56,"Kick",17.86,18.97,66.75,17.95,"Open Play",48.9
+"35","10","Anselmians","Huddersfield","Second Half",00:56:37,"Kick",43.18,26.95,60.48,12.89,"Up & Under",22.29
+"36","10","Anselmians","Huddersfield","Second Half",00:58:21,"Kick",62.36,14.58,100.85,0.299999999999997,"Touch Kick",41.05
+"37","8","Anselmians","Huddersfield","Second Half",01:03:12,"Kick",75.9,1.99,94.46,1.43000000000001,"Grubber",18.57
+"38","10","Anselmians","Huddersfield","Second Half",01:10:17,"Kick",8.58,48.76,26.51,70.12,"Open Play",27.89
+"39","10","Anselmians","Huddersfield","Second Half",01:10:55,"Kick",26.01,55.28,71.26,52.69,"Up & Under",45.32
+"40","15","Anselmians","Huddersfield","Second Half",01:13:15,"Kick",23.12,65.06,64.75,50.45,"Open Play",44.12
+"41","10","Anselmians","Huddersfield","Second Half",01:17:14,"Kick",43.68,42.58,54.97,9.52,"Cross Field",34.93
+"42","10","Anselmians","Huddersfield","Second Half",01:18:52,"Kick",87.19,15.26,93.33,0.189999999999998,"Touch Kick",16.27
+"43","15","Anselmians","Huddersfield","Second Half",01:24:16,"Kick",48.7,7.27,63.24,0.0799999999999983,"Touch Kick",16.22
+"44","9","Anselmians","Huddersfield","Second Half",01:30:55,"Kick",19.86,5.92,49.07,6.04,"Box",29.21
+"45","10","Anselmians","Huddersfield","Second Half",01:35:06,"Kick",49.7,35.94,73.52,61.13,"Kick-Off",34.67
+"46","10","Anselmians","Huddersfield","Second Half",01:38:22,"Kick",49.83,35.61,88.06,53.82,"Kick-Off",42.35
+"47","10","Anselmians","Leek","First Half",00:04:52,"Kick",50.05,34.22,70.53,55.22,"Kick-Off",29.33
+"48","15","Anselmians","Leek","First Half",00:05:40,"Kick",35.93,35.56,73.88,6.59,"Open Play",47.74
+"49","15","Anselmians","Leek","First Half",00:05:52,"Kick",45.46,9.96,77.76,4.45,"Open Play",32.77
+"50","15","Anselmians","Leek","First Half",00:06:55,"Kick",45.11,58.81,47.58,59.04,"Open Play",2.48
+"51","10","Anselmians","Leek","First Half",00:08:42,"Kick",49.87,35.34,69.77,59.94,"Kick-Off",31.64
+"52","10","Anselmians","Leek","First Half",00:10:32,"Kick",79.82,7.48,94.64,0.0699999999999932,"Touch Kick",16.57
+"53","15","Anselmians","Leek","First Half",00:15:49,"Kick",21.22,39.94,68.58,65.67,"Open Play",53.9
+"54","15","Anselmians","Leek","First Half",00:17:08,"Kick",20.88,40.96,67.56,55.44,"Open Play",48.87
+"55","20","Anselmians","Leek","First Half",00:17:50,"Kick",10.66,61.85,33.83,70.16,"Open Play",24.62
+"56","10","Anselmians","Leek","First Half",00:19:53,"Kick",49.84,34.78,71.14,55.22,"Kick-Off",29.52
+"57","15","Anselmians","Leek","First Half",00:20:46,"Kick",50.01,31.86,78.8,70.27,"Open Play",48
 "58","10","Anselmians","Leek","First Half",00:22:05,"Kick",56.14,52.41,81.7,70.27,"Touch Kick",31.18
 "59","10","Anselmians","Leek","First Half",00:24:20,"Kick",83.4,30.06,100.27,34.89,"Box",17.55
-"60","10","Anselmians","Leek","First Half",00:29:12,"Kick",49.84,34.89,79.31,62.07,"Kick-Off",40.09
-"61","10","Anselmians","Leek","First Half",00:31:40,"Kick",22.75,25.46,60.23,8.94,"Open Play",40.96
-"62","10","Anselmians","Leek","First Half",00:37:37,"Kick",49.84,34.67,65.68,60.05,"Kick-Off",29.92
-"63","10","Anselmians","Leek","First Half",00:38:16,"Kick",47.29,24.89,63.3,5.13,"Cross Field",25.43
-"64","10","Anselmians","Leek","First Half",00:39:42,"Kick",24.12,55,67.56,55.78,"Open Play",43.45
-"65","10","Anselmians","Leek","First Half",00:40:49,"Kick",17.64,40.51,75.74,28.15,"Open Play",59.4
-"66","10","Anselmians","Leek","First Half",00:43:30,"Kick",77.95,65.1,92.94,70.05,"Touch Kick",15.79
-"67","9","Anselmians","Huddersfield","Second Half",01:30:55,"Kick",19.86,5.92,49.07,6.04,"Box",29.21
-"68","9","Anselmians","Leek","First Half",00:25:26,"Kick",32.8,16.02,51.71,9.39,"Box",20.04
-"69","8","Anselmians","Huddersfield","Second Half",01:03:12,"Kick",75.9,1.99,94.46,1.43000000000001,"Grubber",18.57
+"60","9","Anselmians","Leek","First Half",00:25:26,"Kick",32.8,16.02,51.71,9.39,"Box",20.04
+"61","10","Anselmians","Leek","First Half",00:29:12,"Kick",49.84,34.89,79.31,62.07,"Kick-Off",40.09
+"62","10","Anselmians","Leek","First Half",00:31:40,"Kick",22.75,25.46,60.23,8.94,"Open Play",40.96
+"63","13","Anselmians","Leek","First Half",00:31:56,"Kick",29.23,1.31,63.81,17.03,"Open Play",37.99
+"64","10","Anselmians","Leek","First Half",00:37:37,"Kick",49.84,34.67,65.68,60.05,"Kick-Off",29.92
+"65","10","Anselmians","Leek","First Half",00:38:16,"Kick",47.29,24.89,63.3,5.13,"Cross Field",25.43
+"66","15","Anselmians","Leek","First Half",00:38:36,"Kick",21.39,3.09999999999999,66.02,17.71,"Open Play",46.96
+"67","10","Anselmians","Leek","First Half",00:39:42,"Kick",24.12,55,67.56,55.78,"Open Play",43.45
+"68","10","Anselmians","Leek","First Half",00:40:49,"Kick",17.64,40.51,75.74,28.15,"Open Play",59.4
+"69","10","Anselmians","Leek","First Half",00:43:30,"Kick",77.95,65.1,92.94,70.05,"Touch Kick",15.79
