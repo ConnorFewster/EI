@@ -1,7 +1,9 @@
-"Receiver_ID","chance"
-"Ath8",0.5
-"Ath5",0.5
-"Ath7",0.5
-"Ath19",0.5
-"Ath4",0.5
-"Ath18",0.5
+Receiver_ID,chance
+Ath1,0.5
+Ath18,0.5
+Ath19,0.5
+Ath29,0.5
+Ath4,0.5
+Ath5,0.5
+Ath7,0.5
+Ath8,0.5

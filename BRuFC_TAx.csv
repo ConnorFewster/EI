@@ -1,4 +1,4 @@
-"Thrower_ID","successful","unsuccessful","total_predit_success","total_lo","TAx"
-"Ath16",3,2,2.98,5,-0.02
-"Ath2",12,3,8,15,-4
-"Ath30",3,0,2,3,-1
+Thrower_ID,successful,unsuccessful,total_predicted_success,total_lo,TAx
+Ath16,3,2,3.4163171765346343,5,0.4163171765346343
+Ath2,17,6,17.86855767267048,23,0.8685576726704802
+Ath30,7,1,6.497373099037863,8,-0.5026269009621371
