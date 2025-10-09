@@ -1,24 +1,46 @@
 "","ID","Team","Opponent","Half","Minute","Event_Type","Start_X","Start_Y","End_X","End_Y","Kick_Type","Distance"
-"1","12","HSFC","Scarborough","Second Half",00:42:52,"Kick",27.34,31.74,42.78,18.27,"Open Play",20.49
-"2","9","HSFC","Scarborough","Second Half",00:43:48,"Kick",2.78,3.78,39.97,10.07,"Open Play",37.72
-"3","12","HSFC","Scarborough","Second Half",00:49:23,"Kick",41.55,34.89,59.97,69.92,"Open Play",39.58
-"4","9","HSFC","Scarborough","Second Half",00:51:55,"Kick",49.45,54.54,78.39,54.65,"Box",28.94
-"5","9","HSFC","Scarborough","Second Half",00:53:15,"Kick",75.41,32.98,94.53,12.2,"Open Play",28.24
-"6","10","HSFC","Scarborough","Second Half",00:59:27,"Kick",50.15,35.33,64.53,18.94,"Kick-Off",21.8
-"7","10","HSFC","Scarborough","Second Half",01:00:36,"Kick",52.43,52.74,75.76,54.77,"Box",23.42
-"8","10","HSFC","Scarborough","Second Half",00:59:27,"Kick",50.15,35.33,64.53,18.94,"Kick-Off",21.8
-"9","10","HSFC","Scarborough","Second Half",01:00:36,"Kick",52.43,52.74,75.76,54.77,"Box",23.42
-"10","10","HSFC","Scarborough","Second Half",01:08:47,"Kick",49.97,35,60.15,15.12,"Kick-Off",22.33
-"11","10","HSFC","Scarborough","Second Half",01:12:29,"Kick",50.15,35,74.71,14.89,"Kick-Off",31.74
-"12","10","HSFC","Scarborough","Second Half",01:15:30,"Kick",50.15,35.56,72.25,11.41,"Kick-Off",32.74
-"13","10","HSFC","Scarborough","First Half",00:00:44,"Kick",50.03,34.78,71.96,65.43,"Kick-Off",37.69
-"14","10","HSFC","Scarborough","First Half",00:02:11,"Kick",37.05,26.69,78.97,-0.150000000000006,"Touch Kick",49.78
-"15","10","HSFC","Scarborough","First Half",00:09:43,"Kick",50.03,34.89,79.33,66.11,"Kick-Off",42.82
-"16","12","HSFC","Scarborough","First Half",00:10:40,"Kick",19.15,18.61,73.54,26.69,"Open Play",54.99
-"17","10","HSFC","Scarborough","First Half",00:16:56,"Kick",62.48,56.79,63.36,57.46,"Open Play",1.11
-"18","9","HSFC","Scarborough","First Half",00:17:34,"Kick",56.69,15.12,94.76,6.81,"Box",38.97
-"19","10","HSFC","Scarborough","First Half",00:23:07,"Kick",49.68,34.44,72.31,69.37,"Kick-Off",41.62
-"20","5","HSFC","Scarborough","First Half",00:24:55,"Kick",21.96,15.01,100.03,26.35,"Open Play",78.89
-"21","12","HSFC","Scarborough","First Half",00:29:11,"Kick",49.85,34.89,73.36,52.18,"Kick-Off",29.18
-"22","12","HSFC","Scarborough","First Half",00:32:04,"Kick",49.85,34.78,72.13,47.13,"Kick-Off",25.47
-"23","9","HSFC","Scarborough","First Half",00:33:03,"Kick",55.11,18.27,93.18,0.409999999999997,"Touch Kick",42.05
+"1","Ben Gosling","HSFC","Scarborough","Second Half",00:42:52,"Kick",27.34,31.74,42.78,18.27,"Open Play",20.49
+"2","Joe Syson","HSFC","Scarborough","Second Half",00:43:48,"Kick",2.78,3.78,39.97,10.07,"Open Play",37.72
+"3","Ben Gosling","HSFC","Scarborough","Second Half",00:49:23,"Kick",41.55,34.89,59.97,69.92,"Open Play",39.58
+"4","Joe Syson","HSFC","Scarborough","Second Half",00:51:55,"Kick",49.45,54.54,78.39,54.65,"Box",28.94
+"5","Joe Syson","HSFC","Scarborough","Second Half",00:53:15,"Kick",75.41,32.98,94.53,12.2,"Open Play",28.24
+"6","Joe Cholmondely","HSFC","Scarborough","Second Half",00:59:27,"Kick",50.15,35.33,64.53,18.94,"Kick-Off",21.8
+"7","Joe Cholmondely","HSFC","Scarborough","Second Half",01:00:36,"Kick",52.43,52.74,75.76,54.77,"Box",23.42
+"8","Joe Cholmondely","HSFC","Scarborough","Second Half",00:59:27,"Kick",50.15,35.33,64.53,18.94,"Kick-Off",21.8
+"9","Joe Cholmondely","HSFC","Scarborough","Second Half",01:00:36,"Kick",52.43,52.74,75.76,54.77,"Box",23.42
+"10","Joe Cholmondely","HSFC","Scarborough","Second Half",01:08:47,"Kick",49.97,35,60.15,15.12,"Kick-Off",22.33
+"11","Joe Cholmondely","HSFC","Scarborough","Second Half",01:12:29,"Kick",50.15,35,74.71,14.89,"Kick-Off",31.74
+"12","Joe Cholmondely","HSFC","Scarborough","Second Half",01:15:30,"Kick",50.15,35.56,72.25,11.41,"Kick-Off",32.74
+"13","Joe Cholmondely","HSFC","TyneMet","First Half",00:14:18,"Kick",33.41,22.81,79.6,5.54,"Box",49.31
+"14","Joe Cholmondely","HSFC","TyneMet","First Half",00:17:01,"Kick",35.29,26.85,37.8,26.18,"Box",2.6
+"15","Joe Cholmondely","HSFC","TyneMet","First Half",00:17:16,"Kick",35.5,27.53,68.32,-0.3,"Touch Kick",43.03
+"16","Joe Cholmondely","HSFC","TyneMet","First Half",00:20:34,"Kick",28.4,17.43,67.27,4.41,"Box",40.99
+"17","Joe Cholmondely","HSFC","TyneMet","First Half",00:22:59,"Kick",10.42,61.19,58.28,47.72,"Open Play",49.72
+"18","Joe Browell","HSFC","TyneMet","First Half",00:25:03,"Kick",13.35,31.23,67.27,22.7,"Open Play",54.59
+"19","Joe Cholmondely","HSFC","TyneMet","First Half",00:28:16,"Kick",43.03,52.77,68.32,69.82,"Touch Kick",30.5
+"20","Joe Cholmondely","HSFC","TyneMet","First Half",00:30:13,"Kick",81.9,6.1,94.86,-0.07,"Touch Kick",14.35
+"21","Joe Cholmondely","HSFC","TyneMet","First Half",00:34:30,"Kick",35.08,61.86,97.58,-0.19,"Open Play",88.07
+"22","Joe Cholmondely","HSFC","TyneMet","First Half",00:41:28,"Kick",52.87,31.93,84.24,9.15,"Box",38.77
+"23","Joe Cholmondely","HSFC","TyneMet","First Half",00:44:41,"Kick",65.11,19.25,82.56,9.38,"Box",20.05
+"24","Joe Cholmondely","HSFC","TyneMet","First Half",00:46:20,"Kick",70.77,13.98,95.26,-0.27,"Touch Kick",28.33
+"25","Joe Cholmondely","HSFC","Scarborough","First Half",00:00:44,"Kick",50.03,34.78,71.96,65.43,"Kick-Off",37.69
+"26","Joe Cholmondely","HSFC","Scarborough","First Half",00:02:11,"Kick",37.05,26.69,78.97,-0.150000000000006,"Touch Kick",49.78
+"27","Joe Cholmondely","HSFC","Scarborough","First Half",00:09:43,"Kick",50.03,34.89,79.33,66.11,"Kick-Off",42.82
+"28","Ben Gosling","HSFC","Scarborough","First Half",00:10:40,"Kick",19.15,18.61,73.54,26.69,"Open Play",54.99
+"29","Joe Cholmondely","HSFC","Scarborough","First Half",00:16:56,"Kick",62.48,56.79,63.36,57.46,"Open Play",1.11
+"30","Joe Syson","HSFC","Scarborough","First Half",00:17:34,"Kick",56.69,15.12,94.76,6.81,"Box",38.97
+"31","Joe Cholmondely","HSFC","Scarborough","First Half",00:23:07,"Kick",49.68,34.44,72.31,69.37,"Kick-Off",41.62
+"32","Dan Waldock","HSFC","Scarborough","First Half",00:24:55,"Kick",21.96,15.01,100.03,26.35,"Open Play",78.89
+"33","Ben Gosling","HSFC","Scarborough","First Half",00:29:11,"Kick",49.85,34.89,73.36,52.18,"Kick-Off",29.18
+"34","Ben Gosling","HSFC","Scarborough","First Half",00:32:04,"Kick",49.85,34.78,72.13,47.13,"Kick-Off",25.47
+"35","Joe Syson","HSFC","Scarborough","First Half",00:33:03,"Kick",55.11,18.27,93.18,0.409999999999997,"Touch Kick",42.05
+"36","Joe Cholmondely","HSFC","TyneMet","Second Half",00:53:06,"Kick",49.87,34.73,82.47,62.44,"Kick-Off",42.79
+"37","Joe Cholmondely","HSFC","TyneMet","Second Half",00:55:54,"Kick",52.38,47.41,79.34,48.76,"Box",26.99
+"38","23","HSFC","TyneMet","Second Half",00:59:24,"Kick",21.23,55.49,59.9,47.19,"Open Play",39.55
+"39","Joe Cholmondely","HSFC","TyneMet","Second Half",01:01:39,"Kick",9.74,52.23,10.58,52.57,"Box",0.91
+"40","Joe Cholmondely","HSFC","TyneMet","Second Half",01:01:58,"Kick",12.87,53.24,35.03,70.07,"Touch Kick",27.83
+"41","Joe Cholmondely","HSFC","TyneMet","Second Half",01:05:12,"Kick",50.08,34.96,75.37,65.92,"Kick-Off",39.98
+"42","Joe Cholmondely","HSFC","TyneMet","Second Half",01:11:33,"Kick",34.73,38.86,63.66,63.99,"Open Play",38.32
+"43","Joe Cholmondely","HSFC","TyneMet","Second Half",01:14:46,"Kick",49.88,35.27,64.58,38.63,"Kick-Off",15.08
+"44","Joe Cholmondely","HSFC","TyneMet","Second Half",01:19:11,"Kick",9.64,5.99,21.42,0.0400000000000063,"Touch Kick",13.2
+"45","Joe Cholmondely","HSFC","TyneMet","Second Half",01:24:37,"Kick",64.88,52.88,79.42,55.24,"Box",14.73
