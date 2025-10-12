@@ -1,16 +1,16 @@
 ID,Team,Direction,Venue,Opponent,Half,Event_Type,Start_X,Start_Y,Kick_Type,Kick_Outcome,Distance,Angle,p_chance
-10,Anselmians,Left to Right,Home,Huddersfield,First Half,Kick,82.52,24.39,Conversion,Successful,20.45,31.26,0.96
-10,Anselmians,Left to Right,Home,Huddersfield,First Half,Kick,81.26,16.74,Conversion,Successful,26.17,44.26,0.94
-10,Anselmians,Left to Right,Home,Huddersfield,First Half,Kick,79.01,3.48,Conversion,Successful,37.87,56.34,0.81
-10,Anselmians,Left to Right,Home,Huddersfield,First Half,Kick,79.13,68.35,Conversion,Successful,39.34,57.96,0.78
-10,Anselmians,Left to Right,Away,Leek,Second Half,Kick,90.02,35.11,Conversion,Successful,9.98,0.63,0.89
-10,Anselmians,Left to Right,Home,Leek,Second Half,Kick,78.27,68.47,Conversion,Successful,39.91,57.01,0.59
-10,Anselmians,Left to Right,Home,Leek,Second Half,Kick,78.1,54.99,Conversion,Successful,29.65,42.39,0.81
-10,Anselmians,Right to Left,Home,Huddersfield,Second Half,Kick,76.28,19.299999999999997,Penalty Goal,Successful,28.45,33.5,0.8
-10,Anselmians,Right to Left,Home,Huddersfield,Second Half,Kick,90.95,36.39,Conversion,Successful,9.16,8.73,0.97
-10,Anselmians,Right to Left,Home,Huddersfield,Second Half,Kick,77.66,11.32,Conversion,Successful,32.55,46.67,0.76
-10,Anselmians,Right to Left,Home,Huddersfield,Second Half,Kick,77.28,6.259999999999998,Conversion,Unsuccessful,36.64,51.67,0.67
-10,Anselmians,Right to Left,Home,Huddersfield,Second Half,Kick,85.68,20.759999999999998,Conversion,Successful,20.2,44.84,0.95
-10,Anselmians,Right to Left,Home,Huddersfield,Second Half,Kick,79.28999999999999,69.11,Conversion,Unsuccessful,39.9,58.74,0.6
-10,Anselmians,Right to Left,Home,Leek,First Half,Kick,69.09,37.47,Penalty Goal,Successful,31.01,4.57,0.71
-10,Anselmians,Right to Left,Home,Leek,First Half,Kick,77.78,68.47,Conversion,Unsuccessful,40.17,56.42,0.75
+10,Anselmians,Left to Right,Home,Huddersfield,First Half,Kick,82.52,24.39,Conversion,Successful,20.45,31.26,0.98
+10,Anselmians,Left to Right,Home,Huddersfield,First Half,Kick,81.26,16.74,Conversion,Successful,26.17,44.26,0.97
+10,Anselmians,Left to Right,Home,Huddersfield,First Half,Kick,79.01,3.48,Conversion,Successful,37.87,56.34,0.83
+10,Anselmians,Left to Right,Home,Huddersfield,First Half,Kick,79.13,68.35,Conversion,Successful,39.34,57.96,0.8
+10,Anselmians,Left to Right,Away,Leek,Second Half,Kick,90.02,35.11,Conversion,Successful,9.98,0.63,0.86
+10,Anselmians,Left to Right,Home,Leek,Second Half,Kick,78.27,68.47,Conversion,Successful,39.91,57.01,0.56
+10,Anselmians,Left to Right,Home,Leek,Second Half,Kick,78.1,54.99,Conversion,Successful,29.65,42.39,0.83
+10,Anselmians,Right to Left,Home,Huddersfield,Second Half,Kick,76.28,19.299999999999997,Penalty Goal,Successful,28.45,33.5,0.81
+10,Anselmians,Right to Left,Home,Huddersfield,Second Half,Kick,90.95,36.39,Conversion,Successful,9.16,8.73,0.98
+10,Anselmians,Right to Left,Home,Huddersfield,Second Half,Kick,77.66,11.32,Conversion,Successful,32.55,46.67,0.77
+10,Anselmians,Right to Left,Home,Huddersfield,Second Half,Kick,77.28,6.259999999999998,Conversion,Unsuccessful,36.64,51.67,0.65
+10,Anselmians,Right to Left,Home,Huddersfield,Second Half,Kick,85.68,20.759999999999998,Conversion,Successful,20.2,44.84,0.97
+10,Anselmians,Right to Left,Home,Huddersfield,Second Half,Kick,79.28999999999999,69.11,Conversion,Unsuccessful,39.9,58.74,0.58
+10,Anselmians,Right to Left,Home,Leek,First Half,Kick,69.09,37.47,Penalty Goal,Successful,31.01,4.57,0.65
+10,Anselmians,Right to Left,Home,Leek,First Half,Kick,77.78,68.47,Conversion,Unsuccessful,40.17,56.42,0.76
