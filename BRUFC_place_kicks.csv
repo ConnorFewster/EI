@@ -1,21 +1,33 @@
-"","ID","Venue","Team","Opponent","Half","Direction","Minute","Start_X","Start_Y","End_X","End_Y","Kick_Type","Kick_Outcome","Kick_Out","Distance","Ang_rad","Ang_deg","Angle","p_chance"
-"1","15","Away","Billingham","Tynedale","Second Half","Left to Right",00:01:23,77.8,1.37,99.77,35.37,"Conversion","Successful",1,40.3,0.99,56.57,56.57,0.45
-"2","15","Away","Billingham","Tynedale","Second Half","Left to Right",00:17:30,80.83,22.8,100.35,34.92,"Conversion","Unsuccessful",0,22.72,0.57,32.47,32.47,0.7
-"3","15","Away","Billingham","Tynedale","Second Half","Left to Right",01:04:56,71,55.9,99.48,37.61,"Penalty Goal","Unsuccessful",0,35.75,-0.62,-35.78,35.78,0.39
-"4","10","Home","Billingham","Otley","Second Half","Left to Right",00:01:23,65.37,31.33,99.91,35.03,"Penalty Goal","Successful",1,34.82,0.11,6.05,6.05,0.89
-"5","10","Home","Billingham","Otley","Second Half","Left to Right",00:57:29,75.05,63.53,99.91,30.43,"Conversion","Unsuccessful",0,37.9,-0.85,-48.83,48.83,0.21
-"6","15","Home","Billingham","Leeds Tykes","First Half","Left to Right",00:01:23,87.19,47.94,99.91,34.92,"Conversion","Successful",1,18.21,-0.79,-45.29,45.29,0.91
-"7","15","Away","Billingham","Leeds Tykes","Second Half","Left to Right",00:17:30,77.51,12.48,100.06,35.37,"Conversion","Successful",1,31.83,0.79,45.04,45.04,0.53
-"8","10","Home","Billingham","Harrogate","Second Half","Right to Left",00:01:23,74.1,60.66,101.13,38.56,"Conversion","Unsuccessful",0,36.46,-0.78,-44.73,44.73,0.52
-"9","10","Home","Billingham","Harrogate","Second Half","Right to Left",00:57:29,72.94,14.77,100.26,34.29,"Conversion","Successful",1,33.79,0.64,36.78,36.78,0.33
-"10","10","Home","Billingham","Otley","First Half","Right to Left",01:04:48,61.23,47.64,100.26,34.97,"Penalty Goal","Successful",1,40.78,-0.32,-18.06,18.06,0.89
-"11","10","Home","Billingham","Otley","First Half","Right to Left",00:45:28,72.94,57.41,98.96,29.69,"Conversion","Unsuccessful",0,35.13,-0.69,-39.63,39.63,0.82
-"12","10","Home","Billingham","Hull I's","First Half","Right to Left",00:17:30,62.97,37.32,99.68,34.52,"Penalty Goal","Successful",1,37.1,-0.06,-3.59,3.59,0.98
-"13","10","Home","Billingham","Hull I's","First Half","Right to Left",01:04:56,67.16,36.31,100.26,35.19,"Penalty Goal","Successful",1,32.87,-0.04,-2.28,2.28,0.95
-"14","10","Home","Billingham","Hull I's","First Half","Right to Left",01:04:48,88.7,27,99.97,34.97,"Conversion","Successful",1,13.85,0.62,35.3,35.3,0.82
-"15","10","Home","Billingham","Hull I's","First Half","Right to Left",00:45:28,74.68,8.94,99.97,35.08,"Conversion","Successful",1,36.33,0.8,45.83,45.83,0.76
-"16","15","Away","Billingham","Leeds Tykes","First Half","Right to Left",00:01:23,77.13,32.95,100.12,35.19,"Penalty Goal","Successful",1,22.96,0.09,5.12,5.12,0.99
-"17","15","Away","Billingham","Leeds Tykes","First Half","Right to Left",00:57:29,78.58,34.29,100.26,34.74,"Penalty Goal","Successful",1,21.43,0.03,1.9,1.9,0.97
-"18","15","Away","Billingham","Leeds Tykes","First Half","Right to Left",00:01:23,83.78,41.36,100.26,34.52,"Conversion","Successful",1,17.42,-0.37,-21.41,21.41,0.98
-"19","15","Home","Billingham","Sheffield Tigers","First Half","Right to Left",01:04:56,92.17,34.74,100.26,34.74,"Conversion","Successful",1,7.83,0.03,1.9,1.9,0.96
-"20","15","Home","Billingham","Sheffield Tigers","First Half","Right to Left",01:04:48,92.46,34.97,99.97,34.74,"Conversion","Successful",1,7.54,0,0.23,0.23,0.97
+ID,Team,Direction,Venue,Opponent,Half,Event_Type,Start_X,Start_Y,Kick_Type,Kick_Outcome,Distance,Angle,p_chance
+10,Billingham,Left to Right,Home,Durham University,First Half,Kick,78.43,64.87,Conversion,Successful,36.84,54.17,0.78
+10,Billingham,Left to Right,Home,Durham University,First Half,Kick,76.73,0.86,Conversion,Successful,41.32,55.72,0.71
+10,Billingham,Left to Right,Away,Preston,Second Half,Kick,77.92,0.97,Conversion,Unsuccessful,40.57,57.02,0.2
+10,Billingham,Left to Right,Home,Wharfedale,Second Half,Kick,78.89,54.93,Conversion,Successful,29.03,43.35,0.82
+10,Billingham,Left to Right,Home,Wharfedale,Second Half,Kick,89.14,46.18,Conversion,Successful,15.59,45.83,0.92
+10,Billingham,Left to Right,Home,Wharfedale,Second Half,Kick,73.84,16.33,Penalty Goal,Unsuccessful,32.14,35.51,0.81
+10,Billingham,Left to Right,Home,Wharfedale,Second Half,Kick,78.12,10.05,Conversion,Successful,33.18,48.75,0.74
+12,Billingham,Left to Right,Home,DMP,First Half,Kick,90.85,30.02,Conversion,Successful,10.42,28.56,0.98
+12,Billingham,Left to Right,Away,Hull,Second Half,Kick,75.67,69.18,Conversion,Unsuccessful,41.95,54.56,0.2
+12,Billingham,Left to Right,Away,Hull,Second Half,Kick,90.36,27.1,Conversion,Successful,12.46,39.33,0.76
+12,Billingham,Left to Right,Away,Hull,Second Half,Kick,93.73,36.41,Conversion,Successful,6.43,12.67,0.9
+12,Billingham,Left to Right,Home,Otley,First Half,Kick,77.09,14.29,Conversion,Unsuccessful,30.88,42.11,0.88
+12,Billingham,Left to Right,Home,Otley,First Half,Kick,74.17,5.2,Conversion,Successful,39.44,49.08,0.77
+12,Billingham,Left to Right,Home,Otley,First Half,Kick,92.98,34.03,Conversion,Successful,7.09,7.87,0.99
+10,Billingham,Right to Left,Home,Durham University,Second Half,Kick,81.17,52.47,Conversion,Successful,25.69,42.85,0.85
+25,Billingham,Right to Left,Home,Durham University,Second Half,Kick,77.16,4.239999999999995,Conversion,Unsuccessful,38.31,53.41,0.64
+25,Billingham,Right to Left,Home,Durham University,Second Half,Kick,95.21,34.93,Conversion,Successful,4.79,0.84,0.99
+10,Billingham,Right to Left,Away,Preston,First Half,Kick,77.94,58.47,Conversion,Successful,32.21,46.77,0.53
+10,Billingham,Right to Left,Away,Preston,First Half,Kick,77.6,63.64,Conversion,Unsuccessful,36.36,51.97,0.42
+10,Billingham,Right to Left,Away,Preston,First Half,Kick,77.6,1.2000000000000028,Conversion,Successful,40.55,56.47,0.33
+10,Billingham,Right to Left,Away,Fylde,First Half,Kick,87.28,32.26,Penalty Goal,Successful,13.01,12.16,0.92
+10,Billingham,Right to Left,Away,Fylde,First Half,Kick,76.82,56.019999999999996,Penalty Goal,Successful,31.29,42.2,0.57
+12,Billingham,Right to Left,Away,Fylde,First Half,Kick,76.97,53.56,Conversion,Unsuccessful,29.58,38.87,0.62
+12,Billingham,Right to Left,Home,DMP,Second Half,Kick,74.39,0.8199999999999932,Conversion,Unsuccessful,42.71,53.16,0.56
+12,Billingham,Right to Left,Home,DMP,Second Half,Kick,75.45,67.13,Conversion,Successful,40.44,52.62,0.61
+12,Billingham,Right to Left,Home,DMP,Second Half,Kick,76.21000000000001,7,Conversion,Successful,36.74,49.65,0.68
+12,Billingham,Right to Left,Away,Hull,First Half,Kick,74.98,0.8199999999999932,Conversion,Unsuccessful,42.36,53.8,0.31
+12,Billingham,Right to Left,Home,Otley,Second Half,Kick,74.74,68.05,Conversion,Successful,41.6,52.61,0.59
+12,Billingham,Right to Left,Home,Otley,Second Half,Kick,73.28,66.03,Conversion,Successful,40.95,49.27,0.62
+12,Billingham,Right to Left,Away,Macclesfield,First Half,Kick,91.67,34.96,Conversion,Successful,8.33,0.28,0.95
+12,Billingham,Right to Left,Away,Macclesfield,First Half,Kick,90.42,40.120000000000005,Conversion,Successful,10.86,28.12,0.89
+12,Billingham,Right to Left,Away,Macclesfield,First Half,Kick,77.03999999999999,7.920000000000002,Conversion,Unsuccessful,35.5,49.71,0.45
