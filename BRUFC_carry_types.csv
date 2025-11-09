@@ -1,11 +1,11 @@
-"","Opponent","No_GLS","GLS","NA","totals","GLS_percent"
-"1","DMP",26,41,NA,67,61
-"2","Durham University",33,59,NA,92,64
-"3","Fylde",26,28,NA,54,52
-"4","Hull",33,44,NA,77,57
-"5","Macclesfield",46,36,NA,82,44
-"6","Otley",41,48,NA,89,54
-"7","Preston",49,37,NA,86,43
-"8","Sheffield",NA,NA,48,NA,NA
-"9","Sheffield Tigers",25,74,NA,99,75
-"10","Wharfedale",31,40,NA,71,56
+"","Opponent","No_GLS","GLS","totals","GLS_percent"
+"1","DMP",26,41,67,61
+"2","Durham University",33,59,92,64
+"3","Fylde",26,28,54,52
+"4","Hull",33,44,77,57
+"5","Macclesfield",46,36,82,44
+"6","Otley",41,48,89,54
+"7","Preston",49,37,86,43
+"8","Sheffield",20,28,48,58
+"9","Sheffield Tigers",25,74,99,75
+"10","Wharfedale",31,40,71,56
