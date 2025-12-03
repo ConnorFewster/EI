@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="dash.css" />
+  <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+</head>
+<body class="sidebar-collapse">
+  <div class="logo-wrapper">
+    <img
+      src="https://raw.githubusercontent.com/ConnorFewster/EI/main/EI%20Performance%20-%20Logo%20-%20Icon%20-%20Green.png"
+      alt="EI Performance Logo"
+      class="logo-img"
+      id="logo-click"
+    />
+  </div>
+
+  <aside class="main-sidebar" id="custom-sidebar">
+    <div class="sidebar">
+      <h3>Menu</h3>
+      <button class="sidebar-btn" id="go-dashboard" type="button">Dashboard</button>
+      <button class="sidebar-btn" id="go-analysis" type="button">Analysis</button>
+      <button class="sidebar-btn" id="go-manage-team" type="button">Manage Team</button>
+    </div>
+  </aside>
+
+  <main class="content-wrapper">
+    <div id="dashboard-view">
+      <section class="analysis-mode">
+        <div class="btn-group" role="group" aria-label="Analysis Mode">
+          <button class="btn active" data-mode="Discipline" type="button">Discipline</button>
+          <button class="btn" data-mode="Scrum" type="button">Scrum</button>
+          <button class="btn" data-mode="Lineout" type="button">Lineout</button>
+          <button class="btn" data-mode="Rucks" type="button">Rucks</button>
+        </div>
+      </section>
+
+      <section class="selectors">
+        <div class="selector" id="match-wrapper">
+          <label for="match-select">Match</label>
+          <select id="match-select"></select>
+        </div>
+        <div class="selector" id="id-wrapper">
+          <label for="id-select">ID</label>
+          <select id="id-select"></select>
+        </div>
+        <div class="selector" id="half-wrapper">
+          <label for="half-select">Half</label>
+          <select id="half-select"></select>
+        </div>
+      </section>
+
+      <section class="carry-locations">
+        <div class="carry-header">
+          <div class="mode-referee-selectors" id="mode-referee-selectors">
+            <div class="selector mode-referee" data-mode="Discipline">
+              <label for="discipline-mode-referee">Referee</label>
+              <select id="discipline-mode-referee"></select>
+            </div>
+            <div class="selector mode-referee" data-mode="Scrum">
+              <label for="scrum-mode-referee">Referee</label>
+              <select id="scrum-mode-referee"></select>
+            </div>
+            <div class="selector mode-referee" data-mode="Lineout">
+              <label for="lineout-mode-referee">Referee</label>
+              <select id="lineout-mode-referee"></select>
+            </div>
+          </div>
+        </div>
+        <div class="plot-container">
+          <div class="spinner" id="plot-spinner"></div>
+          <div id="carry-plot" class="plot"></div>
+        </div>
+      </section>
+
+      <section class="ai-assistant">
+        <label for="ai-input">AI Assistant</label>
+        <input
+          type="text"
+          id="ai-input"
+          placeholder="Query the database using natural language..."
+        />
+        <div id="ai-output"></div>
+      </section>
+
+      <pre id="debug-click"></pre>
+    </div>
+
+    <section class="manage-team hidden" id="manage-team-view">
+      <div class="manage-team-header">
+        <h2>Manage Team</h2>
+        <button class="primary-btn" id="add-user-btn" type="button">Add User</button>
+      </div>
+      <div class="manage-team-table">
+        <table>
+          <thead>
+            <tr>
+              <th>Forename</th>
+              <th>Surname</th>
+              <th>Role</th>
+            </tr>
+          </thead>
+          <tbody id="team-table-body"></tbody>
+        </table>
+        <p class="empty-state" id="team-empty-state">No team members have been added yet.</p>
+      </div>
+    </section>
+  </main>
+
+  <div class="modal-backdrop hidden" id="modal-backdrop">
+    <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+      <button class="modal-close" id="modal-close" aria-label="Close">&times;</button>
+      <div class="modal-body">
+        <div class="modal-video">
+          <iframe id="modal-video" src="" title="Video" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+        <div class="modal-chat">
+          <div class="chat-thread" id="chat-thread"></div>
+          <div class="chat-input">
+            <textarea id="chat-message" placeholder="Share your thoughts on this clip..."></textarea>
+            <button id="chat-send" type="button">Send</button>
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button id="modal-dismiss" type="button">Close</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal-backdrop hidden" id="user-modal-backdrop">
+    <div class="modal form-modal" role="dialog" aria-modal="true" aria-labelledby="user-modal-title">
+      <button class="modal-close" id="user-modal-close" aria-label="Close">&times;</button>
+      <h3 id="user-modal-title">Add Team Member</h3>
+      <form id="add-user-form" class="user-form">
+        <label>
+          Forename
+          <input type="text" name="forename" required />
+        </label>
+        <label>
+          Surname
+          <input type="text" name="surname" required />
+        </label>
+        <label>
+          Email
+          <input type="email" name="email" required />
+        </label>
+        <label>
+          Username
+          <input type="text" name="username" required />
+        </label>
+        <label>
+          Password
+          <input type="password" name="password" required />
+        </label>
+        <label>
+          Role
+          <input type="text" name="role" required />
+        </label>
+        <div class="modal-footer">
+          <button class="primary-btn" type="submit" id="user-modal-submit">Save User</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <script src="dash.js" defer></script>
+</body>
+</html>
