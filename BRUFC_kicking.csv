@@ -164,187 +164,206 @@
 "163","10","Billingham","Hull I's","Second Half",01:07:40,"Kick",66.02,55.07,89.84,69.88,"Touch Kick",28.05
 "164","10","Billingham","Hull I's","Second Half",01:16:46,"Kick",40.1,41.49,64.14,69.88,"Touch Kick",37.2
 "165","40","Billingham","Hull I's","Second Half",01:20:12,"Kick",62.46,66.62,63.51,68.42,"Chip",2.08
-"166","12","Billingham","Durham University","Second Half",00:54:04,"Kick",49.79,35.27,63.45,7.5,"Kick-Off",30.95
-"167","9","Billingham","Durham University","Second Half",00:55:18,"Kick",67.88,36.62,79.16,15.82,"Open Play",23.66
-"168","10","Billingham","Durham University","Second Half",00:57:58,"Kick",18.48,35.72,47.82,65.4,"Open Play",41.73
-"169","12","Billingham","Durham University","Second Half",00:59:14,"Kick",24.25,46.17,55.09,70.23,"Touch Kick",39.12
-"170","10","Billingham","Durham University","Second Half",01:10:01,"Kick",44.06,41.9,50.2,4.69,"Cross Field",37.71
-"171","11","Billingham","Durham University","Second Half",01:11:43,"Kick",4.44,53.48,30.65,52.24,"Open Play",26.24
-"172","12","Billingham","Durham University","Second Half",01:13:38,"Kick",62.24,64.05,100.23,68.77,"Touch Kick",38.28
-"173","9","Billingham","Durham University","Second Half",01:17:24,"Kick",9.95999999999999,14.69,44.94,-0.0300000000000011,"Box",37.95
-"174","10","Billingham","Durham University","Second Half",01:18:49,"Kick",43.18,14.13,78.41,-0.150000000000006,"Touch Kick",38.01
-"175","12","Billingham","Durham University","Second Half",01:25:23,"Kick",6.06999999999999,59.55,37.29,70.12,"Touch Kick",32.96
-"176","11","Billingham","Durham University","Second Half",01:30:25,"Kick",50.54,60.23,76.6,57.3,"Open Play",26.22
-"177","25","Billingham","Durham University","Second Half",01:33:09,"Kick",19.74,26.39,20.11,29.98,"Cross Field",3.61
-"178","10","Billingham","Preston","First Half",00:00:32,"Kick",19.69,34.66,55.46,56,"Open Play",41.65
-"179","12","Billingham","Preston","First Half",00:03:02,"Kick",9.47,55.1,37.4,70.38,"Touch Kick",31.84
-"180","9","Billingham","Preston","First Half",00:04:54,"Kick",12.54,55.22,36.21,70.04,"Box",27.93
-"181","12","Billingham","Preston","First Half",00:10:22,"Kick",50.18,34.78,78.28,65.88,"Kick-Off",41.91
-"182","12","Billingham","Preston","First Half",00:15:58,"Kick",49.67,34.89,73.86,55.66,"Kick-Off",31.88
-"183","12","Billingham","Preston","First Half",00:19:08,"Kick",19.35,38.03,47.45,60.16,"Open Play",35.77
-"184","12","Billingham","Preston","First Half",00:20:00,"Kick",45.92,45.89,77.94,70.38,"Touch Kick",40.31
-"185","12","Billingham","Preston","First Half",00:26:52,"Kick",49.84,35.23,74.54,61.95,"Kick-Off",36.39
-"186","12","Billingham","Preston","First Half",00:28:50,"Kick",78.11,55.66,94.81,70.15,"Touch Kick",22.11
-"187","9","Billingham","Preston","First Half",00:33:01,"Kick",14.41,8.84,58.87,5.34999999999999,"Box",44.6
-"188","12","Billingham","Preston","First Half",00:34:29,"Kick",45.24,15.24,70.96,0.530000000000001,"Touch Kick",29.63
-"189","12","Billingham","Preston","First Half",00:38:24,"Kick",49.84,35.23,71.13,60.27,"Kick-Off",32.87
-"190","12","Billingham","Preston","First Half",00:38:53,"Kick",71.98,56.11,94.47,70.15,"Touch Kick",26.51
-"191","10","Billingham","Preston","First Half",00:40:17,"Kick",80.84,39.49,84.76,69.37,"Cross Field",30.14
-"192","12","Billingham","Wharfedale","First Half",00:00:15,"Kick",49.73,35.38,79.11,10.59,"Kick-Off",38.44
-"193","13","Billingham","Wharfedale","First Half",00:03:17,"Kick",67.02,18.55,72.99,6.32,"Chip",13.61
-"194","12","Billingham","Wharfedale","First Half",00:04:22,"Kick",72.69,7.89,84.93,0.379999999999995,"Touch Kick",14.36
-"195","12","Billingham","Wharfedale","First Half",00:13:17,"Kick",56.77,53.89,88.6,70.16,"Touch Kick",35.75
-"196","10","Billingham","Wharfedale","First Half",00:16:25,"Kick",7.65000000000001,23.49,13.16,65.34,"Cross Field",42.21
-"197","15","Billingham","Wharfedale","First Half",00:18:12,"Kick",21.42,56.47,66.11,55.91,"Open Play",44.69
-"198","12","Billingham","Wharfedale","First Half",00:24:42,"Kick",62.43,57.93,93.65,70.05,"Touch Kick",33.49
-"199","12","Billingham","Wharfedale","First Half",00:30:07,"Kick",54.78,35.72,88.14,69.94,"Touch Kick",47.79
-"200","12","Billingham","Wharfedale","First Half",00:36:42,"Kick",49.73,35.16,82.79,14.96,"Kick-Off",38.74
-"201","12","Billingham","Wharfedale","First Half",00:41:56,"Kick",49.88,35.16,78.81,12.27,"Kick-Off",36.89
-"202","12","Billingham","Fylde","First Half",00:00:15,"Kick",49.87,34.84,83.31,55.26,"Kick-Off",39.18
-"203","10","Billingham","Fylde","First Half",00:01:37,"Kick",33.98,23.18,74.32,18.35,"Open Play",40.63
-"204","12","Billingham","Fylde","First Half",00:07:40,"Kick",49.87,33.61,69.72,55.6,"Kick-Off",29.62
-"205","12","Billingham","Fylde","First Half",00:09:54,"Kick",45.06,61.21,72.65,69.96,"Touch Kick",28.94
-"206","14","Billingham","Fylde","First Half",00:12:45,"Kick",26.25,39.33,70.35,15.66,"Open Play",50.05
-"207","24","Billingham","Fylde","First Half",00:16:31,"Kick",11.17,5.54000000000001,27.54,0.150000000000006,"Open Play",17.23
-"208","10","Billingham","Fylde","First Half",00:17:27,"Kick",21.88,21.24,60.75,55.91,"Open Play",52.09
-"209","12","Billingham","Fylde","First Half",00:20:00,"Kick",49.88,36.17,77.58,58.83,"Kick-Off",35.79
-"210","10","Billingham","Fylde","First Half",00:21:58,"Kick",10.71,12.72,23.87,0.150000000000006,"Open Play",18.2
-"211","12","Billingham","Fylde","First Half",00:25:54,"Kick",49.73,34.37,73.3,56.14,"Kick-Off",32.09
-"212","24","Billingham","Fylde","First Half",00:30:10,"Kick",10.1,2.06,48.81,6.1,"Open Play",38.92
-"213","12","Billingham","Fylde","First Half",00:32:02,"Kick",49.58,35.04,74.22,56.36,"Kick-Off",32.58
-"214","12","Billingham","Fylde","First Half",00:32:29,"Kick",77.89,37.29,83.25,10.02,"Kick-Off",27.79
-"215","12","Billingham","Fylde","First Half",00:32:57,"Kick",85.85,54.23,93.8,69.94,"Touch Kick",17.61
-"216","12","Billingham","Fylde","First Half",00:35:45,"Kick",85.08,64.1,94.57,70.05,"Touch Kick",11.2
-"217","12","Billingham","Fylde","First Half",00:37:53,"Kick",-0.159999999999997,14.96,26.62,0.260000000000005,"Open Play",30.55
-"218","12","Billingham","Fylde","First Half",00:42:21,"Kick",22.95,11.6,59.37,0.150000000000006,"Touch Kick",38.18
-"219","12","Billingham","Fylde","First Half",00:43:47,"Kick",65.65,35.04,94.11,0.709999999999994,"Touch Kick",44.59
-"220","12","Billingham","DMP","Second Half",00:42:14,"Kick",49.66,35.27,73.17,16.53,"Kick-Off",30.07
-"221","12","Billingham","DMP","Second Half",00:48:14,"Kick",81.37,42.34,94.57,70.16,"Touch Kick",30.79
-"222","10","Billingham","DMP","Second Half",00:51:03,"Kick",83.79,35.49,87.43,7,"Cross Field",28.72
-"223","15","Billingham","DMP","Second Half",00:52:57,"Kick",4.45,53.89,25.23,70.05,"Open Play",26.32
-"224","11","Billingham","DMP","Second Half",00:54:42,"Kick",59.37,2.40000000000001,91.83,0.379999999999995,"Chip",32.52
-"225","12","Billingham","DMP","Second Half",01:11:01,"Kick",49.66,35.49,68.32,6.32,"Kick-Off",34.63
-"226","12","Billingham","DMP","Second Half",01:20:05,"Kick",49.66,35.27,65.13,8.12,"Kick-Off",31.25
-"227","12","Billingham","DMP","Second Half",01:20:57,"Kick",41.92,33.14,69.08,70.27,"Touch Kick",46
-"228","12","Billingham","DMP","Second Half",01:24:49,"Kick",32.97,33.25,43.13,36.95,"Chip",10.81
-"229","12","Billingham","DMP","Second Half",01:25:52,"Kick",61.64,13.17,94.26,0.260000000000005,"Touch Kick",35.08
-"230","10","Billingham","Hull","First Half",00:00:43,"Kick",31.06,34.06,65.33,66.03,"Open Play",46.87
-"231","12","Billingham","Hull","First Half",00:01:54,"Kick",54.88,39.67,94.6,70.07,"Touch Kick",50.02
-"232","12","Billingham","Hull","First Half",00:06:16,"Kick",56.77,14.62,80.49,0.260000000000005,"Touch Kick",27.73
-"233","12","Billingham","Hull","First Half",00:07:53,"Kick",82.63,14.74,93.35,0.260000000000005,"Touch Kick",18.02
-"234","10","Billingham","Hull","First Half",00:09:25,"Kick",72.53,17.43,94.57,1.72,"Grubber",27.07
-"235","12","Billingham","Hull","First Half",00:19:19,"Kick",49.73,35.38,77.58,50.98,"Kick-Off",31.92
-"236","12","Billingham","Hull","First Half",00:20:42,"Kick",64.27,52.43,89.52,70.16,"Touch Kick",30.85
-"237","12","Billingham","Hull","First Half",00:26:29,"Kick",49.58,35.27,69.47,56.36,"Kick-Off",28.99
-"238","14","Billingham","Hull","First Half",00:30:18,"Kick",58.91,67.58,76.82,69.04,"Chip",17.97
-"239","12","Billingham","Hull","First Half",00:36:12,"Kick",60.44,8.57,82.63,0.489999999999995,"Touch Kick",23.62
-"240","12","Billingham","Hull","First Half",00:44:16,"Kick",52.95,10.25,77.28,0.150000000000006,"Touch Kick",26.34
-"241","12","Billingham","Otley","Second Half",00:44:11,"Kick",49.87,34.73,72.65,64.24,"Kick-Off",37.28
-"242","12","Billingham","Otley","Second Half",00:45:23,"Kick",46.52,56.95,83.1,70.19,"Touch Kick",38.9
-"243","12","Billingham","Otley","Second Half",00:46:31,"Kick",74.74,57.62,94.6,70.19,"Touch Kick",23.5
-"244","12","Billingham","Otley","Second Half",00:48:49,"Kick",17.26,33.83,64.5,37.31,"Open Play",47.37
-"245","12","Billingham","Otley","Second Half",00:51:33,"Kick",31.68,53.8,66.38,70.07,"Touch Kick",38.32
-"246","12","Billingham","Otley","Second Half",00:54:14,"Kick",50.08,34.84,73.07,55.6,"Kick-Off",30.98
-"247","12","Billingham","Otley","Second Half",00:57:48,"Kick",49.87,34.96,68.05,53.92,"Kick-Off",26.27
-"248","12","Billingham","Otley","Second Half",01:00:03,"Kick",66.8,15.66,83.1,0.180000000000007,"Touch Kick",22.48
-"249","12","Billingham","Otley","Second Half",01:01:39,"Kick",83.94,21.27,93.97,0.180000000000007,"Touch Kick",23.35
-"250","10","Billingham","Otley","Second Half",01:06:34,"Kick",56.35,27.78,98.78,0.959999999999994,"Open Play",50.2
-"251","10","Billingham","Otley","Second Half",01:13:59,"Kick",18.52,37.2,59.48,7.58,"Open Play",50.55
-"252","15","Billingham","Otley","Second Half",01:14:22,"Kick",12.46,15.1,21.86,0.0600000000000023,"Open Play",17.74
-"253","10","Billingham","Otley","Second Half",01:15:44,"Kick",21.86,37.76,49.45,69.85,"Open Play",42.32
-"254","12","Billingham","Otley","Second Half",01:19:20,"Kick",50.08,34.28,79.34,69.51,"Kick-Off",45.8
-"255","12","Billingham","Otley","Second Half",01:21:03,"Kick",58.44,64.24,77.25,69.96,"Touch Kick",19.66
-"256","12","Billingham","Otley","Second Half",01:22:44,"Kick",95.01,58.29,97.1,69.96,"Touch Kick",11.86
-"257","12","Billingham","Otley","Second Half",01:25:32,"Kick",73.28,44.6,75.99,69.85,"Open Play",25.4
-"258","12","Billingham","Macclesfield","First Half",00:03:20,"Kick",50.08,33.72,64.71,55.15,"Kick-Off",25.95
-"259","12","Billingham","Macclesfield","First Half",00:07:38,"Kick",49.87,34.73,64.08,54.93,"Kick-Off",24.7
-"260","12","Billingham","Macclesfield","First Half",00:09:32,"Kick",47.57,15.77,67.22,-0.159999999999997,"Touch Kick",25.3
-"261","12","Billingham","Macclesfield","First Half",00:15:20,"Kick",49.66,34.51,62.62,48.08,"Kick-Off",18.76
-"262","12","Billingham","Macclesfield","First Half",00:15:48,"Kick",54.88,34.84,65.75,63.9,"Cross Field",31.03
-"263","12","Billingham","Macclesfield","First Half",00:16:48,"Kick",58.44,36.3,81.43,34.96,"Chip",23.03
-"264","10","Billingham","Macclesfield","First Half",00:19:08,"Kick",23.32,26.43,33.15,2.31,"Cross Field",26.05
-"265","12","Billingham","Macclesfield","First Half",00:22:52,"Kick",50.08,34.4,71.19,53.8,"Kick-Off",28.67
-"266","12","Billingham","Macclesfield","First Half",00:23:35,"Kick",73.07,33.27,88.53,0.0600000000000023,"Touch Kick",36.63
-"267","12","Billingham","Macclesfield","First Half",00:24:42,"Kick",87.91,14.87,89.37,-0.0499999999999972,"Touch Kick",14.99
-"268","12","Billingham","Macclesfield","First Half",00:28:27,"Kick",34.82,19.14,50.08,15.77,"Chip",15.63
-"269","12","Billingham","Macclesfield","First Half",00:29:01,"Kick",40.88,30.47,61.99,-0.0499999999999972,"Touch Kick",37.11
-"270","12","Billingham","Macclesfield","First Half",00:36:58,"Kick",41.09,60.54,76.62,69.96,"Touch Kick",36.76
-"271","12","Billingham","Macclesfield","First Half",00:39:05,"Kick",51.12,15.21,74.74,-0.0499999999999972,"Touch Kick",28.12
-"272","12","Billingham","Macclesfield","First Half",00:41:06,"Kick",64.5,51.56,90,70.07,"Touch Kick",31.51
-"273","12","Billingham","Sheffield Tigers","First Half",00:01:41,"Kick",49.87,34.28,68.89,56.61,"Kick-Off",29.33
-"274","10","Billingham","Sheffield Tigers","First Half",00:04:29,"Kick",26.67,35.63,37.75,0.620000000000005,"Cross Field",36.72
-"275","12","Billingham","Sheffield Tigers","First Half",00:10:55,"Kick",49.87,34.73,70.56,56.27,"Kick-Off",29.87
-"276","12","Billingham","Sheffield Tigers","First Half",00:11:32,"Kick",68.89,52.35,88.74,70.07,"Touch Kick",26.61
-"277","12","Billingham","Sheffield Tigers","First Half",00:19:55,"Kick",46.52,54.37,70.35,69.85,"Touch Kick",28.42
-"278","12","Billingham","Sheffield Tigers","First Half",00:26:08,"Kick",59.9,27.89,80.17,-0.159999999999997,"Touch Kick",34.61
-"279","12","Billingham","Sheffield Tigers","First Half",00:33:36,"Kick",49.87,34.4,68.05,42.81,"Kick-Off",20.03
-"280","10","Billingham","Sheffield Tigers","First Half",00:41:33,"Kick",5.14,31.37,28.13,-0.159999999999997,"Open Play",39.02
-"281","12","Billingham","Sheffield","First Half",00:00:07,"Kick",49.94,34.87,74.86,61.46,"Kick-Off",36.44
-"282","12","Billingham","Sheffield","First Half",00:04:15,"Kick",49.94,34.65,74.21,57.65,"Kick-Off",33.44
-"283","12","Billingham","Sheffield","First Half",00:08:01,"Kick",50.04,34.65,65.95,55.74,"Open Play",26.42
-"284","12","Billingham","Sheffield","First Half",00:09:46,"Kick",74.52,38.8,87.84,70.1,"Touch Kick",34.02
-"285","12","Billingham","Sheffield","First Half",00:16:19,"Kick",49.88,34.76,66.26,59.56,"Kick-Off",29.72
-"286","12","Billingham","Sheffield","First Half",00:17:55,"Kick",65.03,54.73,88.3,69.99,"Touch Kick",27.83
-"287","10","Billingham","Sheffield","First Half",00:19:16,"Kick",87.22,30.27,87.68,30.05,"Grubber",0.51
-"288","12","Billingham","Sheffield","First Half",00:19:42,"Kick",86.15,22.64,89.67,0.0900000000000034,"Touch Kick",22.82
-"289","12","Billingham","Sheffield","First Half",00:22:15,"Kick",23.87,32.97,53.4,11.31,"Open Play",36.62
-"290","12","Billingham","Sheffield","First Half",00:24:29,"Kick",50.04,34.65,63.96,58.1,"Kick-Off",27.27
-"291","15","Billingham","Sheffield","First Half",00:26:11,"Kick",39.48,5.59,55.24,0.0900000000000034,"Touch Kick",16.69
-"292","10","Billingham","Sheffield","First Half",00:27:12,"Kick",49.27,17.71,80.18,-0.129999999999995,"Open Play",35.69
-"293","14","Billingham","Sheffield","First Half",00:28:20,"Kick",44.83,38.02,94.57,32.07,"Open Play",50.09
-"294","15","Billingham","Sheffield","First Half",00:31:03,"Kick",49.88,34.65,75.9,62.47,"Kick-Off",38.09
-"295","13","Billingham","Sheffield","First Half",00:33:31,"Kick",19.43,5.14,68.25,5.81999999999999,"Open Play",48.82
-"296","15","Billingham","Sheffield","First Half",00:34:09,"Kick",70.08,5.25,88.14,0.209999999999994,"Touch Kick",18.75
-"297","15","Billingham","Sheffield","First Half",00:36:36,"Kick",66.41,45.42,87.99,69.88,"Touch Kick",32.62
-"298","12","Billingham","Rossendale","Second Half",00:42:46,"Kick",49.92,34.76,78.33,14.68,"Kick-Off",34.79
-"299","12","Billingham","Rossendale","Second Half",00:48:02,"Kick",18.52,30.86,36.7,55.1,"Kick-Off",30.3
-"300","12","Billingham","Rossendale","Second Half",00:53:43,"Kick",49.87,34.79,68.47,14.93,"Kick-Off",27.21
-"301","10","Billingham","Rossendale","Second Half",00:55:35,"Kick",36.91,22.34,75.16,6.4,"Open Play",41.44
-"302","10","Billingham","Rossendale","Second Half",00:56:00,"Kick",47.57,16.95,80.59,6.18,"Open Play",34.73
-"303","12","Billingham","Rossendale","Second Half",00:59:24,"Kick",50.08,34.79,66.59,14.71,"Kick-Off",26
-"304","12","Billingham","Rossendale","Second Half",01:01:43,"Kick",-0.290000000000006,29.85,26.67,51.96,"Kick-Off",34.87
-"305","12","Billingham","Rossendale","Second Half",01:06:15,"Kick",50.08,34.79,65.75,4.95,"Kick-Off",33.7
-"306","12","Billingham","Rossendale","Second Half",01:09:24,"Kick",75.16,14.71,89.58,-0.0999999999999943,"Touch Kick",20.67
-"307","10","Billingham","Rossendale","Second Half",01:11:34,"Kick",87.49,35.91,88.53,63.74,"Cross Field",27.85
-"308","12","Billingham","Rossendale","Second Half",01:14:43,"Kick",29.8,17.51,63.24,0.0100000000000051,"Touch Kick",37.74
-"309","12","Billingham","Rossendale","Second Half",01:16:47,"Kick",51.12,18.18,78.92,-0.0999999999999943,"Touch Kick",33.27
-"310","13","Billingham","Rossendale","Second Half",01:19:27,"Kick",18.94,2.48,69.72,15.16,"Open Play",52.34
-"311","1","Billingham","Rossendale","Second Half",01:19:44,"Kick",41.51,27.39,89.79,13.58,"Open Play",50.22
-"312","10","Billingham","Rossendale","Second Half",01:23:22,"Kick",40.46,16.28,63.87,31.76,"Open Play",28.07
-"313","12","Billingham","Scunthorpe","Second Half",00:43:43,"Kick",49.68,32.32,85.48,54.76,"Kick-Off",42.25
-"314","15","Billingham","Scunthorpe","Second Half",00:44:01,"Kick",45.36,49.26,53.34,50.16,"Open Play",8.03
-"315","12","Billingham","Scunthorpe","Second Half",00:44:46,"Kick",68.44,63.74,94.75,69.91,"Touch Kick",27.02
-"316","12","Billingham","Scunthorpe","Second Half",00:50:56,"Kick",10.42,7.08,40.19,0.0100000000000051,"Touch Kick",30.6
-"317","12","Billingham","Scunthorpe","Second Half",00:57:38,"Kick",49.24,33.56,72.1,60.26,"Kick-Off",35.15
-"318","15","Billingham","Scunthorpe","Second Half",00:58:01,"Kick",14.52,0.230000000000004,20.78,-0.0999999999999943,"Open Play",6.27
-"319","12","Billingham","Scunthorpe","Second Half",01:02:41,"Kick",4.81999999999999,20.65,44.93,0.230000000000004,"Touch Kick",45.01
-"320","12","Billingham","Scunthorpe","Second Half",01:03:46,"Kick",19.27,31.87,41.91,44.1,"Kick-Off",25.73
-"321","12","Billingham","Scunthorpe","Second Half",01:04:51,"Kick",39.75,46.91,72.97,69.79,"Touch Kick",40.34
-"322","12","Billingham","Scunthorpe","Second Half",01:06:10,"Kick",65.2,53.98,93.89,70.02,"Touch Kick",32.87
-"323","15","Billingham","Scunthorpe","Second Half",01:08:18,"Kick",44.72,5.17,79.65,0.569999999999993,"Open Play",35.23
-"324","12","Billingham","Scunthorpe","Second Half",01:10:28,"Kick",27.25,14.15,51.83,-0.0999999999999943,"Touch Kick",28.41
-"325","10","Billingham","Scunthorpe","Second Half",01:11:17,"Kick",44.93,26.38,71.03,14.93,"Open Play",28.5
-"326","10","Billingham","Scunthorpe","Second Half",01:12:19,"Kick",14.74,16.61,54.2,15.04,"Open Play",39.49
-"327","10","Billingham","Scunthorpe","Second Half",01:13:02,"Kick",31.78,28.17,80.73,18.07,"Open Play",49.98
-"328","12","Billingham","Scunthorpe","Second Half",01:19:58,"Kick",19.48,34.79,39.54,70.02,"Touch Kick",40.54
-"329","10","Billingham","Scunthorpe","Second Half",01:20:35,"Kick",31.78,42.08,68.44,54.87,"Open Play",38.83
-"330","12","Billingham","Scunthorpe","Second Half",01:22:22,"Kick",75.34,14.93,94.75,0.0100000000000051,"Touch Kick",24.48
-"331","12","Billingham","Scunthorpe","Second Half",01:25:11,"Kick",78.36,15.04,89.57,0.120000000000005,"Touch Kick",18.66
-"332","10","Billingham","Hull I's","First Half",00:00:40,"Kick",16.22,24.92,59.69,15.72,"Open Play",44.43
-"333","10","Billingham","Hull I's","First Half",00:01:26,"Kick",17.05,1.47,40.46,0.0100000000000051,"Touch Kick",23.46
-"334","12","Billingham","Hull I's","First Half",00:03:48,"Kick",38.37,12.58,61.78,-0.0999999999999943,"Touch Kick",26.62
-"335","12","Billingham","Hull I's","First Half",00:06:19,"Kick",49.87,34.34,83.1,41.07,"Kick-Off",33.9
-"336","15","Billingham","Hull I's","First Half",00:06:30,"Kick",44.23,47.69,74.95,11.68,"Open Play",47.33
-"337","10","Billingham","Hull I's","First Half",00:08:36,"Kick",12.67,37.26,43.81,8.42,"Open Play",42.44
-"338","12","Billingham","Hull I's","First Half",00:09:35,"Kick",33.77,57.9,59.27,70.02,"Touch Kick",28.23
-"339","10","Billingham","Hull I's","First Half",00:11:47,"Kick",18.52,18.07,53.42,-0.219999999999999,"Open Play",39.4
-"340","13","Billingham","Hull I's","First Half",00:14:53,"Kick",69.31,4.83,74.32,4.05,"Open Play",5.07
-"341","15","Billingham","Hull I's","First Half",00:15:45,"Kick",36.28,32.55,54.68,32.88,"Open Play",18.4
-"342","12","Billingham","Hull I's","First Half",00:16:13,"Kick",80.38,37.15,91.88,5.17,"Cross Field",33.98
-"343","12","Billingham","Hull I's","First Half",00:21:45,"Kick",54.88,24.8,74.95,0.0100000000000051,"Touch Kick",31.9
-"344","10","Billingham","Hull I's","First Half",00:24:11,"Kick",23.12,16.5,67.84,23.68,"Open Play",45.29
-"345","12","Billingham","Hull I's","First Half",00:26:51,"Kick",49.66,34.57,88.74,64.3,"Kick-Off",49.1
-"346","12","Billingham","Hull I's","First Half",00:27:05,"Kick",43.18,30.3,68.47,22.34,"Open Play",26.51
-"347","9","Billingham","Hull I's","First Half",00:27:11,"Kick",68.89,29.74,98.98,19.64,"Open Play",31.74
-"348","12","Billingham","Hull I's","First Half",00:30:17,"Kick",28.34,14.15,58.65,0.0100000000000051,"Touch Kick",33.45
-"349","10","Billingham","Hull I's","First Half",00:33:59,"Kick",0.540000000000006,14.82,34.4,0.0100000000000051,"Open Play",36.96
+"166","10","Billingham","Tynedale","Second Half",00:27:03,"Kick",16.48,42.17,54.1,15.01,"Open Play",46.4
+"167","12","Billingham","Tynedale","Second Half",00:30:19,"Kick",5.61,37.68,32.37,69.99,"Open Play",41.95
+"168","12","Billingham","Tynedale","Second Half",00:32:08,"Kick",29.65,54.84,60.16,69.99,"Touch Kick",34.06
+"169","12","Billingham","Tynedale","Second Half",00:36:14,"Kick",-0.03,29.38,45.95,52.71,"Kick-Off",51.56
+"170","12","Billingham","Tynedale","Second Half",00:40:24,"Kick",50.13,37.45,83.57,12.77,"Kick-Off",41.56
+"171","10","Billingham","Tynedale","Second Half",00:42:22,"Kick",36.96,28.59,68.94,18.04,"Open Play",33.68
+"172","14","Billingham","Tynedale","Second Half",00:43:26,"Kick",67.48,5.14,95.49,10.08,"Open Play",28.44
+"173","12","Billingham","Tynedale","Second Half",00:46:06,"Kick",61.42,14.68,102.59,0.21,"Touch Kick",43.64
+"174","12","Billingham","Tynedale","Second Half",00:47:51,"Kick",15.44,14.79,54.94,6.26,"Touch Kick",40.41
+"175","10","Billingham","Tynedale","Second Half",00:55:59,"Kick",29.65,15.01,57.03,0.21,"Touch Kick",31.12
+"176","12","Billingham","Tynedale","Second Half",00:57:54,"Kick",36.76,21.86,56.61,16.92,"Open Play",20.46
+"177","12","Billingham","Tynedale","Second Half",01:05:13,"Kick",35.92,57.87,67.9,69.99,"Touch Kick",34.2
+"178","12","Billingham","Durham University","Second Half",00:54:04,"Kick",49.79,35.27,63.45,7.5,"Kick-Off",30.95
+"179","9","Billingham","Durham University","Second Half",00:55:18,"Kick",67.88,36.62,79.16,15.82,"Open Play",23.66
+"180","10","Billingham","Durham University","Second Half",00:57:58,"Kick",18.48,35.72,47.82,65.4,"Open Play",41.73
+"181","12","Billingham","Durham University","Second Half",00:59:14,"Kick",24.25,46.17,55.09,70.23,"Touch Kick",39.12
+"182","10","Billingham","Durham University","Second Half",01:10:01,"Kick",44.06,41.9,50.2,4.69,"Cross Field",37.71
+"183","11","Billingham","Durham University","Second Half",01:11:43,"Kick",4.44,53.48,30.65,52.24,"Open Play",26.24
+"184","12","Billingham","Durham University","Second Half",01:13:38,"Kick",62.24,64.05,100.23,68.77,"Touch Kick",38.28
+"185","9","Billingham","Durham University","Second Half",01:17:24,"Kick",9.95999999999999,14.69,44.94,-0.0300000000000011,"Box",37.95
+"186","10","Billingham","Durham University","Second Half",01:18:49,"Kick",43.18,14.13,78.41,-0.150000000000006,"Touch Kick",38.01
+"187","12","Billingham","Durham University","Second Half",01:25:23,"Kick",6.06999999999999,59.55,37.29,70.12,"Touch Kick",32.96
+"188","11","Billingham","Durham University","Second Half",01:30:25,"Kick",50.54,60.23,76.6,57.3,"Open Play",26.22
+"189","25","Billingham","Durham University","Second Half",01:33:09,"Kick",19.74,26.39,20.11,29.98,"Cross Field",3.61
+"190","10","Billingham","Preston","First Half",00:00:32,"Kick",19.69,34.66,55.46,56,"Open Play",41.65
+"191","12","Billingham","Preston","First Half",00:03:02,"Kick",9.47,55.1,37.4,70.38,"Touch Kick",31.84
+"192","9","Billingham","Preston","First Half",00:04:54,"Kick",12.54,55.22,36.21,70.04,"Box",27.93
+"193","12","Billingham","Preston","First Half",00:10:22,"Kick",50.18,34.78,78.28,65.88,"Kick-Off",41.91
+"194","12","Billingham","Preston","First Half",00:15:58,"Kick",49.67,34.89,73.86,55.66,"Kick-Off",31.88
+"195","12","Billingham","Preston","First Half",00:19:08,"Kick",19.35,38.03,47.45,60.16,"Open Play",35.77
+"196","12","Billingham","Preston","First Half",00:20:00,"Kick",45.92,45.89,77.94,70.38,"Touch Kick",40.31
+"197","12","Billingham","Preston","First Half",00:26:52,"Kick",49.84,35.23,74.54,61.95,"Kick-Off",36.39
+"198","12","Billingham","Preston","First Half",00:28:50,"Kick",78.11,55.66,94.81,70.15,"Touch Kick",22.11
+"199","9","Billingham","Preston","First Half",00:33:01,"Kick",14.41,8.84,58.87,5.34999999999999,"Box",44.6
+"200","12","Billingham","Preston","First Half",00:34:29,"Kick",45.24,15.24,70.96,0.530000000000001,"Touch Kick",29.63
+"201","12","Billingham","Preston","First Half",00:38:24,"Kick",49.84,35.23,71.13,60.27,"Kick-Off",32.87
+"202","12","Billingham","Preston","First Half",00:38:53,"Kick",71.98,56.11,94.47,70.15,"Touch Kick",26.51
+"203","10","Billingham","Preston","First Half",00:40:17,"Kick",80.84,39.49,84.76,69.37,"Cross Field",30.14
+"204","12","Billingham","Wharfedale","First Half",00:00:15,"Kick",49.73,35.38,79.11,10.59,"Kick-Off",38.44
+"205","13","Billingham","Wharfedale","First Half",00:03:17,"Kick",67.02,18.55,72.99,6.32,"Chip",13.61
+"206","12","Billingham","Wharfedale","First Half",00:04:22,"Kick",72.69,7.89,84.93,0.379999999999995,"Touch Kick",14.36
+"207","12","Billingham","Wharfedale","First Half",00:13:17,"Kick",56.77,53.89,88.6,70.16,"Touch Kick",35.75
+"208","10","Billingham","Wharfedale","First Half",00:16:25,"Kick",7.65000000000001,23.49,13.16,65.34,"Cross Field",42.21
+"209","15","Billingham","Wharfedale","First Half",00:18:12,"Kick",21.42,56.47,66.11,55.91,"Open Play",44.69
+"210","12","Billingham","Wharfedale","First Half",00:24:42,"Kick",62.43,57.93,93.65,70.05,"Touch Kick",33.49
+"211","12","Billingham","Wharfedale","First Half",00:30:07,"Kick",54.78,35.72,88.14,69.94,"Touch Kick",47.79
+"212","12","Billingham","Wharfedale","First Half",00:36:42,"Kick",49.73,35.16,82.79,14.96,"Kick-Off",38.74
+"213","12","Billingham","Wharfedale","First Half",00:41:56,"Kick",49.88,35.16,78.81,12.27,"Kick-Off",36.89
+"214","12","Billingham","Fylde","First Half",00:00:15,"Kick",49.87,34.84,83.31,55.26,"Kick-Off",39.18
+"215","10","Billingham","Fylde","First Half",00:01:37,"Kick",33.98,23.18,74.32,18.35,"Open Play",40.63
+"216","12","Billingham","Fylde","First Half",00:07:40,"Kick",49.87,33.61,69.72,55.6,"Kick-Off",29.62
+"217","12","Billingham","Fylde","First Half",00:09:54,"Kick",45.06,61.21,72.65,69.96,"Touch Kick",28.94
+"218","14","Billingham","Fylde","First Half",00:12:45,"Kick",26.25,39.33,70.35,15.66,"Open Play",50.05
+"219","24","Billingham","Fylde","First Half",00:16:31,"Kick",11.17,5.54000000000001,27.54,0.150000000000006,"Open Play",17.23
+"220","10","Billingham","Fylde","First Half",00:17:27,"Kick",21.88,21.24,60.75,55.91,"Open Play",52.09
+"221","12","Billingham","Fylde","First Half",00:20:00,"Kick",49.88,36.17,77.58,58.83,"Kick-Off",35.79
+"222","10","Billingham","Fylde","First Half",00:21:58,"Kick",10.71,12.72,23.87,0.150000000000006,"Open Play",18.2
+"223","12","Billingham","Fylde","First Half",00:25:54,"Kick",49.73,34.37,73.3,56.14,"Kick-Off",32.09
+"224","24","Billingham","Fylde","First Half",00:30:10,"Kick",10.1,2.06,48.81,6.1,"Open Play",38.92
+"225","12","Billingham","Fylde","First Half",00:32:02,"Kick",49.58,35.04,74.22,56.36,"Kick-Off",32.58
+"226","12","Billingham","Fylde","First Half",00:32:29,"Kick",77.89,37.29,83.25,10.02,"Kick-Off",27.79
+"227","12","Billingham","Fylde","First Half",00:32:57,"Kick",85.85,54.23,93.8,69.94,"Touch Kick",17.61
+"228","12","Billingham","Fylde","First Half",00:35:45,"Kick",85.08,64.1,94.57,70.05,"Touch Kick",11.2
+"229","12","Billingham","Fylde","First Half",00:37:53,"Kick",-0.159999999999997,14.96,26.62,0.260000000000005,"Open Play",30.55
+"230","12","Billingham","Fylde","First Half",00:42:21,"Kick",22.95,11.6,59.37,0.150000000000006,"Touch Kick",38.18
+"231","12","Billingham","Fylde","First Half",00:43:47,"Kick",65.65,35.04,94.11,0.709999999999994,"Touch Kick",44.59
+"232","12","Billingham","DMP","Second Half",00:42:14,"Kick",49.66,35.27,73.17,16.53,"Kick-Off",30.07
+"233","12","Billingham","DMP","Second Half",00:48:14,"Kick",81.37,42.34,94.57,70.16,"Touch Kick",30.79
+"234","10","Billingham","DMP","Second Half",00:51:03,"Kick",83.79,35.49,87.43,7,"Cross Field",28.72
+"235","15","Billingham","DMP","Second Half",00:52:57,"Kick",4.45,53.89,25.23,70.05,"Open Play",26.32
+"236","11","Billingham","DMP","Second Half",00:54:42,"Kick",59.37,2.40000000000001,91.83,0.379999999999995,"Chip",32.52
+"237","12","Billingham","DMP","Second Half",01:11:01,"Kick",49.66,35.49,68.32,6.32,"Kick-Off",34.63
+"238","12","Billingham","DMP","Second Half",01:20:05,"Kick",49.66,35.27,65.13,8.12,"Kick-Off",31.25
+"239","12","Billingham","DMP","Second Half",01:20:57,"Kick",41.92,33.14,69.08,70.27,"Touch Kick",46
+"240","12","Billingham","DMP","Second Half",01:24:49,"Kick",32.97,33.25,43.13,36.95,"Chip",10.81
+"241","12","Billingham","DMP","Second Half",01:25:52,"Kick",61.64,13.17,94.26,0.260000000000005,"Touch Kick",35.08
+"242","10","Billingham","Hull","First Half",00:00:43,"Kick",31.06,34.06,65.33,66.03,"Open Play",46.87
+"243","12","Billingham","Hull","First Half",00:01:54,"Kick",54.88,39.67,94.6,70.07,"Touch Kick",50.02
+"244","12","Billingham","Hull","First Half",00:06:16,"Kick",56.77,14.62,80.49,0.260000000000005,"Touch Kick",27.73
+"245","12","Billingham","Hull","First Half",00:07:53,"Kick",82.63,14.74,93.35,0.260000000000005,"Touch Kick",18.02
+"246","10","Billingham","Hull","First Half",00:09:25,"Kick",72.53,17.43,94.57,1.72,"Grubber",27.07
+"247","12","Billingham","Hull","First Half",00:19:19,"Kick",49.73,35.38,77.58,50.98,"Kick-Off",31.92
+"248","12","Billingham","Hull","First Half",00:20:42,"Kick",64.27,52.43,89.52,70.16,"Touch Kick",30.85
+"249","12","Billingham","Hull","First Half",00:26:29,"Kick",49.58,35.27,69.47,56.36,"Kick-Off",28.99
+"250","14","Billingham","Hull","First Half",00:30:18,"Kick",58.91,67.58,76.82,69.04,"Chip",17.97
+"251","12","Billingham","Hull","First Half",00:36:12,"Kick",60.44,8.57,82.63,0.489999999999995,"Touch Kick",23.62
+"252","12","Billingham","Hull","First Half",00:44:16,"Kick",52.95,10.25,77.28,0.150000000000006,"Touch Kick",26.34
+"253","12","Billingham","Otley","Second Half",00:44:11,"Kick",49.87,34.73,72.65,64.24,"Kick-Off",37.28
+"254","12","Billingham","Otley","Second Half",00:45:23,"Kick",46.52,56.95,83.1,70.19,"Touch Kick",38.9
+"255","12","Billingham","Otley","Second Half",00:46:31,"Kick",74.74,57.62,94.6,70.19,"Touch Kick",23.5
+"256","12","Billingham","Otley","Second Half",00:48:49,"Kick",17.26,33.83,64.5,37.31,"Open Play",47.37
+"257","12","Billingham","Otley","Second Half",00:51:33,"Kick",31.68,53.8,66.38,70.07,"Touch Kick",38.32
+"258","12","Billingham","Otley","Second Half",00:54:14,"Kick",50.08,34.84,73.07,55.6,"Kick-Off",30.98
+"259","12","Billingham","Otley","Second Half",00:57:48,"Kick",49.87,34.96,68.05,53.92,"Kick-Off",26.27
+"260","12","Billingham","Otley","Second Half",01:00:03,"Kick",66.8,15.66,83.1,0.180000000000007,"Touch Kick",22.48
+"261","12","Billingham","Otley","Second Half",01:01:39,"Kick",83.94,21.27,93.97,0.180000000000007,"Touch Kick",23.35
+"262","10","Billingham","Otley","Second Half",01:06:34,"Kick",56.35,27.78,98.78,0.959999999999994,"Open Play",50.2
+"263","10","Billingham","Otley","Second Half",01:13:59,"Kick",18.52,37.2,59.48,7.58,"Open Play",50.55
+"264","15","Billingham","Otley","Second Half",01:14:22,"Kick",12.46,15.1,21.86,0.0600000000000023,"Open Play",17.74
+"265","10","Billingham","Otley","Second Half",01:15:44,"Kick",21.86,37.76,49.45,69.85,"Open Play",42.32
+"266","12","Billingham","Otley","Second Half",01:19:20,"Kick",50.08,34.28,79.34,69.51,"Kick-Off",45.8
+"267","12","Billingham","Otley","Second Half",01:21:03,"Kick",58.44,64.24,77.25,69.96,"Touch Kick",19.66
+"268","12","Billingham","Otley","Second Half",01:22:44,"Kick",95.01,58.29,97.1,69.96,"Touch Kick",11.86
+"269","12","Billingham","Otley","Second Half",01:25:32,"Kick",73.28,44.6,75.99,69.85,"Open Play",25.4
+"270","12","Billingham","Macclesfield","First Half",00:03:20,"Kick",50.08,33.72,64.71,55.15,"Kick-Off",25.95
+"271","12","Billingham","Macclesfield","First Half",00:07:38,"Kick",49.87,34.73,64.08,54.93,"Kick-Off",24.7
+"272","12","Billingham","Macclesfield","First Half",00:09:32,"Kick",47.57,15.77,67.22,-0.159999999999997,"Touch Kick",25.3
+"273","12","Billingham","Macclesfield","First Half",00:15:20,"Kick",49.66,34.51,62.62,48.08,"Kick-Off",18.76
+"274","12","Billingham","Macclesfield","First Half",00:15:48,"Kick",54.88,34.84,65.75,63.9,"Cross Field",31.03
+"275","12","Billingham","Macclesfield","First Half",00:16:48,"Kick",58.44,36.3,81.43,34.96,"Chip",23.03
+"276","10","Billingham","Macclesfield","First Half",00:19:08,"Kick",23.32,26.43,33.15,2.31,"Cross Field",26.05
+"277","12","Billingham","Macclesfield","First Half",00:22:52,"Kick",50.08,34.4,71.19,53.8,"Kick-Off",28.67
+"278","12","Billingham","Macclesfield","First Half",00:23:35,"Kick",73.07,33.27,88.53,0.0600000000000023,"Touch Kick",36.63
+"279","12","Billingham","Macclesfield","First Half",00:24:42,"Kick",87.91,14.87,89.37,-0.0499999999999972,"Touch Kick",14.99
+"280","12","Billingham","Macclesfield","First Half",00:28:27,"Kick",34.82,19.14,50.08,15.77,"Chip",15.63
+"281","12","Billingham","Macclesfield","First Half",00:29:01,"Kick",40.88,30.47,61.99,-0.0499999999999972,"Touch Kick",37.11
+"282","12","Billingham","Macclesfield","First Half",00:36:58,"Kick",41.09,60.54,76.62,69.96,"Touch Kick",36.76
+"283","12","Billingham","Macclesfield","First Half",00:39:05,"Kick",51.12,15.21,74.74,-0.0499999999999972,"Touch Kick",28.12
+"284","12","Billingham","Macclesfield","First Half",00:41:06,"Kick",64.5,51.56,90,70.07,"Touch Kick",31.51
+"285","12","Billingham","Sheffield Tigers","First Half",00:01:41,"Kick",49.87,34.28,68.89,56.61,"Kick-Off",29.33
+"286","10","Billingham","Sheffield Tigers","First Half",00:04:29,"Kick",26.67,35.63,37.75,0.620000000000005,"Cross Field",36.72
+"287","12","Billingham","Sheffield Tigers","First Half",00:10:55,"Kick",49.87,34.73,70.56,56.27,"Kick-Off",29.87
+"288","12","Billingham","Sheffield Tigers","First Half",00:11:32,"Kick",68.89,52.35,88.74,70.07,"Touch Kick",26.61
+"289","12","Billingham","Sheffield Tigers","First Half",00:19:55,"Kick",46.52,54.37,70.35,69.85,"Touch Kick",28.42
+"290","12","Billingham","Sheffield Tigers","First Half",00:26:08,"Kick",59.9,27.89,80.17,-0.159999999999997,"Touch Kick",34.61
+"291","12","Billingham","Sheffield Tigers","First Half",00:33:36,"Kick",49.87,34.4,68.05,42.81,"Kick-Off",20.03
+"292","10","Billingham","Sheffield Tigers","First Half",00:41:33,"Kick",5.14,31.37,28.13,-0.159999999999997,"Open Play",39.02
+"293","12","Billingham","Sheffield","First Half",00:00:07,"Kick",49.94,34.87,74.86,61.46,"Kick-Off",36.44
+"294","12","Billingham","Sheffield","First Half",00:04:15,"Kick",49.94,34.65,74.21,57.65,"Kick-Off",33.44
+"295","12","Billingham","Sheffield","First Half",00:08:01,"Kick",50.04,34.65,65.95,55.74,"Open Play",26.42
+"296","12","Billingham","Sheffield","First Half",00:09:46,"Kick",74.52,38.8,87.84,70.1,"Touch Kick",34.02
+"297","12","Billingham","Sheffield","First Half",00:16:19,"Kick",49.88,34.76,66.26,59.56,"Kick-Off",29.72
+"298","12","Billingham","Sheffield","First Half",00:17:55,"Kick",65.03,54.73,88.3,69.99,"Touch Kick",27.83
+"299","10","Billingham","Sheffield","First Half",00:19:16,"Kick",87.22,30.27,87.68,30.05,"Grubber",0.51
+"300","12","Billingham","Sheffield","First Half",00:19:42,"Kick",86.15,22.64,89.67,0.0900000000000034,"Touch Kick",22.82
+"301","12","Billingham","Sheffield","First Half",00:22:15,"Kick",23.87,32.97,53.4,11.31,"Open Play",36.62
+"302","12","Billingham","Sheffield","First Half",00:24:29,"Kick",50.04,34.65,63.96,58.1,"Kick-Off",27.27
+"303","15","Billingham","Sheffield","First Half",00:26:11,"Kick",39.48,5.59,55.24,0.0900000000000034,"Touch Kick",16.69
+"304","10","Billingham","Sheffield","First Half",00:27:12,"Kick",49.27,17.71,80.18,-0.129999999999995,"Open Play",35.69
+"305","14","Billingham","Sheffield","First Half",00:28:20,"Kick",44.83,38.02,94.57,32.07,"Open Play",50.09
+"306","15","Billingham","Sheffield","First Half",00:31:03,"Kick",49.88,34.65,75.9,62.47,"Kick-Off",38.09
+"307","13","Billingham","Sheffield","First Half",00:33:31,"Kick",19.43,5.14,68.25,5.81999999999999,"Open Play",48.82
+"308","15","Billingham","Sheffield","First Half",00:34:09,"Kick",70.08,5.25,88.14,0.209999999999994,"Touch Kick",18.75
+"309","15","Billingham","Sheffield","First Half",00:36:36,"Kick",66.41,45.42,87.99,69.88,"Touch Kick",32.62
+"310","12","Billingham","Rossendale","Second Half",00:42:46,"Kick",49.92,34.76,78.33,14.68,"Kick-Off",34.79
+"311","12","Billingham","Rossendale","Second Half",00:48:02,"Kick",18.52,30.86,36.7,55.1,"Kick-Off",30.3
+"312","12","Billingham","Rossendale","Second Half",00:53:43,"Kick",49.87,34.79,68.47,14.93,"Kick-Off",27.21
+"313","10","Billingham","Rossendale","Second Half",00:55:35,"Kick",36.91,22.34,75.16,6.4,"Open Play",41.44
+"314","10","Billingham","Rossendale","Second Half",00:56:00,"Kick",47.57,16.95,80.59,6.18,"Open Play",34.73
+"315","12","Billingham","Rossendale","Second Half",00:59:24,"Kick",50.08,34.79,66.59,14.71,"Kick-Off",26
+"316","12","Billingham","Rossendale","Second Half",01:01:43,"Kick",-0.290000000000006,29.85,26.67,51.96,"Kick-Off",34.87
+"317","12","Billingham","Rossendale","Second Half",01:06:15,"Kick",50.08,34.79,65.75,4.95,"Kick-Off",33.7
+"318","12","Billingham","Rossendale","Second Half",01:09:24,"Kick",75.16,14.71,89.58,-0.0999999999999943,"Touch Kick",20.67
+"319","10","Billingham","Rossendale","Second Half",01:11:34,"Kick",87.49,35.91,88.53,63.74,"Cross Field",27.85
+"320","12","Billingham","Rossendale","Second Half",01:14:43,"Kick",29.8,17.51,63.24,0.0100000000000051,"Touch Kick",37.74
+"321","12","Billingham","Rossendale","Second Half",01:16:47,"Kick",51.12,18.18,78.92,-0.0999999999999943,"Touch Kick",33.27
+"322","13","Billingham","Rossendale","Second Half",01:19:27,"Kick",18.94,2.48,69.72,15.16,"Open Play",52.34
+"323","1","Billingham","Rossendale","Second Half",01:19:44,"Kick",41.51,27.39,89.79,13.58,"Open Play",50.22
+"324","10","Billingham","Rossendale","Second Half",01:23:22,"Kick",40.46,16.28,63.87,31.76,"Open Play",28.07
+"325","12","Billingham","Scunthorpe","Second Half",00:43:43,"Kick",49.68,32.32,85.48,54.76,"Kick-Off",42.25
+"326","15","Billingham","Scunthorpe","Second Half",00:44:01,"Kick",45.36,49.26,53.34,50.16,"Open Play",8.03
+"327","12","Billingham","Scunthorpe","Second Half",00:44:46,"Kick",68.44,63.74,94.75,69.91,"Touch Kick",27.02
+"328","12","Billingham","Scunthorpe","Second Half",00:50:56,"Kick",10.42,7.08,40.19,0.0100000000000051,"Touch Kick",30.6
+"329","12","Billingham","Scunthorpe","Second Half",00:57:38,"Kick",49.24,33.56,72.1,60.26,"Kick-Off",35.15
+"330","15","Billingham","Scunthorpe","Second Half",00:58:01,"Kick",14.52,0.230000000000004,20.78,-0.0999999999999943,"Open Play",6.27
+"331","12","Billingham","Scunthorpe","Second Half",01:02:41,"Kick",4.81999999999999,20.65,44.93,0.230000000000004,"Touch Kick",45.01
+"332","12","Billingham","Scunthorpe","Second Half",01:03:46,"Kick",19.27,31.87,41.91,44.1,"Kick-Off",25.73
+"333","12","Billingham","Scunthorpe","Second Half",01:04:51,"Kick",39.75,46.91,72.97,69.79,"Touch Kick",40.34
+"334","12","Billingham","Scunthorpe","Second Half",01:06:10,"Kick",65.2,53.98,93.89,70.02,"Touch Kick",32.87
+"335","15","Billingham","Scunthorpe","Second Half",01:08:18,"Kick",44.72,5.17,79.65,0.569999999999993,"Open Play",35.23
+"336","12","Billingham","Scunthorpe","Second Half",01:10:28,"Kick",27.25,14.15,51.83,-0.0999999999999943,"Touch Kick",28.41
+"337","10","Billingham","Scunthorpe","Second Half",01:11:17,"Kick",44.93,26.38,71.03,14.93,"Open Play",28.5
+"338","10","Billingham","Scunthorpe","Second Half",01:12:19,"Kick",14.74,16.61,54.2,15.04,"Open Play",39.49
+"339","10","Billingham","Scunthorpe","Second Half",01:13:02,"Kick",31.78,28.17,80.73,18.07,"Open Play",49.98
+"340","12","Billingham","Scunthorpe","Second Half",01:19:58,"Kick",19.48,34.79,39.54,70.02,"Touch Kick",40.54
+"341","10","Billingham","Scunthorpe","Second Half",01:20:35,"Kick",31.78,42.08,68.44,54.87,"Open Play",38.83
+"342","12","Billingham","Scunthorpe","Second Half",01:22:22,"Kick",75.34,14.93,94.75,0.0100000000000051,"Touch Kick",24.48
+"343","12","Billingham","Scunthorpe","Second Half",01:25:11,"Kick",78.36,15.04,89.57,0.120000000000005,"Touch Kick",18.66
+"344","10","Billingham","Hull I's","First Half",00:00:40,"Kick",16.22,24.92,59.69,15.72,"Open Play",44.43
+"345","10","Billingham","Hull I's","First Half",00:01:26,"Kick",17.05,1.47,40.46,0.0100000000000051,"Touch Kick",23.46
+"346","12","Billingham","Hull I's","First Half",00:03:48,"Kick",38.37,12.58,61.78,-0.0999999999999943,"Touch Kick",26.62
+"347","12","Billingham","Hull I's","First Half",00:06:19,"Kick",49.87,34.34,83.1,41.07,"Kick-Off",33.9
+"348","15","Billingham","Hull I's","First Half",00:06:30,"Kick",44.23,47.69,74.95,11.68,"Open Play",47.33
+"349","10","Billingham","Hull I's","First Half",00:08:36,"Kick",12.67,37.26,43.81,8.42,"Open Play",42.44
+"350","12","Billingham","Hull I's","First Half",00:09:35,"Kick",33.77,57.9,59.27,70.02,"Touch Kick",28.23
+"351","10","Billingham","Hull I's","First Half",00:11:47,"Kick",18.52,18.07,53.42,-0.219999999999999,"Open Play",39.4
+"352","13","Billingham","Hull I's","First Half",00:14:53,"Kick",69.31,4.83,74.32,4.05,"Open Play",5.07
+"353","15","Billingham","Hull I's","First Half",00:15:45,"Kick",36.28,32.55,54.68,32.88,"Open Play",18.4
+"354","12","Billingham","Hull I's","First Half",00:16:13,"Kick",80.38,37.15,91.88,5.17,"Cross Field",33.98
+"355","12","Billingham","Hull I's","First Half",00:21:45,"Kick",54.88,24.8,74.95,0.0100000000000051,"Touch Kick",31.9
+"356","10","Billingham","Hull I's","First Half",00:24:11,"Kick",23.12,16.5,67.84,23.68,"Open Play",45.29
+"357","12","Billingham","Hull I's","First Half",00:26:51,"Kick",49.66,34.57,88.74,64.3,"Kick-Off",49.1
+"358","12","Billingham","Hull I's","First Half",00:27:05,"Kick",43.18,30.3,68.47,22.34,"Open Play",26.51
+"359","9","Billingham","Hull I's","First Half",00:27:11,"Kick",68.89,29.74,98.98,19.64,"Open Play",31.74
+"360","12","Billingham","Hull I's","First Half",00:30:17,"Kick",28.34,14.15,58.65,0.0100000000000051,"Touch Kick",33.45
+"361","10","Billingham","Hull I's","First Half",00:33:59,"Kick",0.540000000000006,14.82,34.4,0.0100000000000051,"Open Play",36.96
+"362","12","Billingham","Tynedale","First Half",00:02:08,"Kick",50.08,36.25,71.19,15.72,"Kick-Off",29.45
+"363","12","Billingham","Tynedale","First Half",00:03:14,"Kick",61.36,23.57,93.13,1.13,"Touch Kick",38.9
+"364","10","Billingham","Tynedale","First Half",00:03:30,"Kick",38.16,7.53,75.37,14.93,"Open Play",37.94
+"365","15","Billingham","Tynedale","First Half",00:03:46,"Kick",27.71,43.88,52.59,38.27,"Open Play",25.5
+"366","12","Billingham","Tynedale","First Half",00:04:25,"Kick",51.33,39.5,66.59,70.02,"Touch Kick",34.12
+"367","12","Billingham","Tynedale","First Half",00:08:27,"Kick",49.45,35.8,74.74,18.18,"Kick-Off",30.82
+"368","12","Billingham","Tynedale","First Half",00:16:07,"Kick",-0.0799999999999983,30.41,15.38,49.71,"Kick-Off",24.73

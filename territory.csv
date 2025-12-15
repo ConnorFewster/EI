@@ -42,61 +42,68 @@
 "41",7147,"Scunthorpe","15",00:39:05,"Open Play",39.89,57.54,99.85,68.87,"Left to Right",7149,00:39:54,78.71,57.09,"Left to Right",38.82,38.82,"Own 22 to Halfway","B4","Opposition 22","D4",61.02
 "42",7805,"Hull I's","10",00:47:08,"Open Play",10.21,12.55,55.77,0.54,"Left to Right",3359,00:51:30,52.43,64.16,"Left to Right",42.22,42.22,"Own 22","A1","Halfway to Opposition 22","C1",47.12
 "43",7850,"Hull I's","10",00:56:26,"Open Play",13.76,32.52,28.6,36.67,"Left to Right",7859,00:59:47,27.98,55.07,"Left to Right",14.22,14.22,"Own 22","A2","Own 22 to Halfway","B3",15.41
-"44",347,"Durham University","9",00:55:18,"Open Play",67.88,36.62,79.16,15.82,"Right to Left",350,00:57:35,65.37,22.23,"Right to Left",2.50999999999999,-2.50999999999999,"Halfway to Opposition 22","C3","Opposition 22","D2",23.66
-"45",360,"Durham University","10",00:57:58,"Open Play",18.48,35.72,47.82,65.4,"Right to Left",369,00:59:13,24.13,45.16,"Right to Left",5.64999999999999,5.64999999999999,"Own 22","A3","Own 22 to Halfway","B4",41.73
-"46",480,"Durham University","11",01:11:43,"Open Play",4.44,53.48,30.65,52.24,"Right to Left",485,01:12:57,22.12,34.59,"Right to Left",17.68,17.68,"Own 22","A3","Own 22 to Halfway","B3",26.24
-"47",524,"Durham University","9",01:17:24,"Box",9.95999999999999,14.69,44.94,-0.0300000000000011,"Right to Left",526,01:18:08,44.69,5.81,"Right to Left",34.73,34.73,"Own 22","A1","Own 22 to Halfway","B1",37.95
-"48",650,"Durham University","11",01:30:25,"Open Play",50.54,60.23,76.6,57.3,"Right to Left",655,01:31:24,95.21,43.48,"Right to Left",44.67,44.67,"Halfway to Opposition 22","C4","Halfway to Opposition 22","C4",26.22
-"49",713,"Preston","10",00:00:32,"Open Play",19.69,34.66,55.46,56,"Right to Left",731,00:02:58,9.47,54.99,"Right to Left",10.22,-10.22,"Own 22","A2","Halfway to Opposition 22","C4",41.65
-"50",745,"Preston","9",00:04:54,"Box",12.54,55.22,36.21,70.04,"Right to Left",751,00:06:48,35.36,27.14,"Right to Left",22.82,22.82,"Own 22","A4","Own 22 to Halfway","B4",27.93
-"51",838,"Preston","12",00:19:08,"Open Play",19.35,38.03,47.45,60.16,"Right to Left",846,00:19:55,46.6,45.45,"Right to Left",27.25,27.25,"Own 22","A3","Own 22 to Halfway","B4",35.77
-"52",952,"Preston","9",00:33:01,"Box",14.41,8.84,58.87,5.34999999999999,"Right to Left",959,00:34:24,45.24,15.24,"Right to Left",30.83,30.83,"Own 22","A1","Halfway to Opposition 22","C1",44.6
-"53",1407,"Wharfedale","13",00:03:17,"Chip",67.02,18.55,72.99,6.32,"Right to Left",1410,00:03:58,77.12,5.54000000000001,"Right to Left",10.1,10.1,"Halfway to Opposition 22","C2","Halfway to Opposition 22","C1",13.61
-"54",1487,"Wharfedale","15",00:18:12,"Open Play",21.42,56.47,66.11,55.91,"Right to Left",1489,00:18:19,35.81,51.2,"Right to Left",14.39,14.39,"Own 22","A4","Halfway to Opposition 22","C4",44.69
-"55",1952,"Fylde","10",00:01:37,"Open Play",33.98,23.18,74.32,18.35,"Right to Left",68,00:08:41,50.08,62.56,"Right to Left",16.1,16.1,"Own 22 to Halfway","B2","Halfway to Opposition 22","C2",40.63
-"56",2016,"Fylde","14",00:12:45,"Open Play",26.25,39.33,70.35,15.66,"Right to Left",2018,00:13:42,79.55,9.94,"Right to Left",53.3,53.3,"Own 22 to Halfway","B3","Halfway to Opposition 22","C2",50.05
-"57",2040,"Fylde","24",00:16:31,"Open Play",11.17,5.54000000000001,27.54,0.150000000000006,"Right to Left",2042,00:17:06,28.31,13.05,"Right to Left",17.14,17.14,"Own 22","A1","Own 22 to Halfway","B1",17.23
-"58",2049,"Fylde","10",00:17:27,"Open Play",21.88,21.24,60.75,55.91,"Right to Left",2053,00:18:07,22.8,60.29,"Right to Left",0.920000000000002,0.920000000000002,"Own 22","A2","Halfway to Opposition 22","C4",52.09
-"59",2067,"Fylde","10",00:21:58,"Open Play",10.71,12.72,23.87,0.150000000000006,"Right to Left",2095,00:30:05,7.95,3.29000000000001,"Right to Left",2.75999999999999,-2.75999999999999,"Own 22","A1","Own 22 to Halfway","B1",18.2
-"60",2097,"Fylde","24",00:30:10,"Open Play",10.1,2.06,48.81,6.1,"Right to Left",2106,00:32:08,78.04,52.1,"Right to Left",67.94,67.94,"Own 22","A1","Own 22 to Halfway","B1",38.92
-"61",2170,"Fylde","12",00:37:53,"Open Play",-0.159999999999997,14.96,26.62,0.260000000000005,"Right to Left",2172,00:38:36,23.41,7.33,"Right to Left",23.57,23.57,"Own 22","A1","Own 22 to Halfway","B1",30.55
-"62",2846,"DMP","15",00:52:57,"Open Play",4.45,53.89,25.23,70.05,"Right to Left",2848,00:53:21,27.81,64.78,"Right to Left",23.36,23.36,"Own 22","A3","Own 22 to Halfway","B4",26.32
-"63",2860,"DMP","11",00:54:42,"Chip",59.37,2.40000000000001,91.83,0.379999999999995,"Right to Left",2864,00:57:06,39.8,10.47,"Right to Left",19.57,-19.57,"Halfway to Opposition 22","C1","Opposition 22","D1",32.52
-"64",3006,"DMP","12",01:24:49,"Chip",32.97,33.25,43.13,36.95,"Right to Left",2438,01:25:03,42.83,37.18,"Right to Left",9.86,9.86,"Own 22 to Halfway","B2","Own 22 to Halfway","B3",10.81
-"65",3050,"Hull","10",00:00:43,"Open Play",31.06,34.06,65.33,66.03,"Right to Left",3054,00:01:54,54.68,40.12,"Right to Left",23.62,23.62,"Own 22 to Halfway","B2","Halfway to Opposition 22","C4",46.87
-"66",3118,"Hull","10",00:09:25,"Grubber",72.53,17.43,94.57,1.72,"Right to Left",3120,00:09:55,89.98,5.2,"Right to Left",17.45,17.45,"Halfway to Opposition 22","C2","Opposition 22","D1",27.07
-"67",3234,"Hull","14",00:30:18,"Chip",58.91,67.58,76.82,69.04,"Right to Left",3239,00:32:07,71.92,64.44,"Right to Left",13.01,13.01,"Halfway to Opposition 22","C4","Halfway to Opposition 22","C4",17.97
-"68",4000,"Otley","12",00:48:49,"Open Play",17.26,33.83,64.5,37.31,"Right to Left",4002,00:48:56,33.77,45.95,"Right to Left",16.51,16.51,"Own 22","A2","Halfway to Opposition 22","C3",47.37
-"69",4124,"Otley","10",01:06:34,"Open Play",56.35,27.78,98.78,0.959999999999994,"Right to Left",4126,01:08:32,94.8,5.11,"Right to Left",38.45,38.45,"Halfway to Opposition 22","C2","Opposition 22","D1",50.2
-"70",4152,"Otley","10",01:13:59,"Open Play",18.52,37.2,59.48,7.58,"Right to Left",4154,01:14:04,26.04,14.42,"Right to Left",7.52000000000001,7.52000000000001,"Own 22","A3","Halfway to Opposition 22","C1",50.55
-"71",4162,"Otley","15",01:14:22,"Open Play",12.46,15.1,21.86,0.0600000000000023,"Right to Left",4164,01:15:36,20.19,20.03,"Right to Left",7.73,7.73,"Own 22","A2","Own 22","A1",17.74
-"72",4169,"Otley","10",01:15:44,"Open Play",21.86,37.76,49.45,69.85,"Right to Left",4187,01:20:13,53.21,64.24,"Right to Left",31.35,31.35,"Own 22","A3","Own 22 to Halfway","B4",42.32
-"73",4270,"Otley","12",01:25:32,"Open Play",73.28,44.6,75.99,69.85,"Right to Left",4279,00:03:25,62.83,53.36,"Right to Left",10.45,-10.45,"Halfway to Opposition 22","C3","Halfway to Opposition 22","C4",25.4
-"74",4355,"Macclesfield","12",00:16:48,"Chip",58.44,36.3,81.43,34.96,"Right to Left",4359,00:17:17,64.08,13.19,"Right to Left",5.64,5.64,"Halfway to Opposition 22","C3","Opposition 22","D2",23.03
-"75",4454,"Macclesfield","12",00:28:27,"Chip",34.82,19.14,50.08,15.77,"Right to Left",4457,00:29:19,61.78,9.15,"Right to Left",26.96,26.96,"Own 22 to Halfway","B2","Halfway to Opposition 22","C2",15.63
-"76",5204,"Sheffield Tigers","10",00:41:33,"Open Play",5.14,31.37,28.13,-0.159999999999997,"Right to Left",5210,00:42:18,20.4,1.97,"Right to Left",15.26,15.26,"Own 22","A2","Own 22 to Halfway","B1",39.02
-"77",5746,"Sheffield","10",00:19:16,"Grubber",87.22,30.27,87.68,30.05,"Right to Left",5749,00:20:07,89.56,6.6,"Right to Left",2.34,2.34,"Opposition 22","D2","Opposition 22","D2",0.51
-"78",5768,"Sheffield","12",00:22:15,"Open Play",23.87,32.97,53.4,11.31,"Right to Left",5793,00:25:36,17.14,4.92,"Right to Left",6.73,-6.73,"Own 22 to Halfway","B2","Halfway to Opposition 22","C1",36.62
-"79",5805,"Sheffield","10",00:27:12,"Open Play",49.27,17.71,80.18,-0.129999999999995,"Right to Left",5811,00:28:09,59.98,7.05,"Right to Left",10.71,10.71,"Own 22 to Halfway","B2","Opposition 22","D1",35.69
-"80",5816,"Sheffield","14",00:28:20,"Open Play",44.83,38.02,94.57,32.07,"Right to Left",2656,00:29:09,72.38,56.08,"Right to Left",27.55,27.55,"Own 22 to Halfway","B3","Opposition 22","D2",50.09
-"81",5841,"Sheffield","13",00:33:31,"Open Play",19.43,5.14,68.25,5.81999999999999,"Right to Left",5846,00:34:35,87.84,5.37,"Right to Left",68.41,68.41,"Own 22","A1","Halfway to Opposition 22","C1",48.82
-"82",6611,"Rossendale","10",00:55:35,"Open Play",36.91,22.34,75.16,6.4,"Right to Left",6613,00:55:46,21.03,4.95,"Right to Left",15.88,-15.88,"Own 22 to Halfway","B2","Halfway to Opposition 22","C1",41.44
-"83",6620,"Rossendale","10",00:56:00,"Open Play",47.57,16.95,80.59,6.18,"Right to Left",6622,00:56:39,51.33,12.13,"Right to Left",3.76,3.76,"Own 22 to Halfway","B2","Opposition 22","D1",34.73
-"84",6796,"Rossendale","13",01:19:27,"Open Play",18.94,2.48,69.72,15.16,"Right to Left",6798,01:19:41,41.93,37.37,"Right to Left",22.99,22.99,"Own 22","A1","Halfway to Opposition 22","C2",52.34
-"85",6800,"Rossendale","1",01:19:44,"Open Play",41.51,27.39,89.79,13.58,"Right to Left",4821,01:20:34,74.53,13.14,"Right to Left",33.02,33.02,"Own 22 to Halfway","B2","Opposition 22","D1",50.22
-"86",6814,"Rossendale","10",01:23:22,"Open Play",40.46,16.28,63.87,31.76,"Right to Left",6868,00:04:20,81.01,6.29,"Left to Right",40.55,40.55,"Own 22 to Halfway","B2","Halfway to Opposition 22","C2",28.07
-"87",7182,"Scunthorpe","15",00:44:01,"Open Play",45.36,49.26,53.34,50.16,"Right to Left",7184,00:44:03,53.56,48.03,"Right to Left",8.2,8.2,"Own 22 to Halfway","B3","Halfway to Opposition 22","C3",8.03
-"88",7244,"Scunthorpe","15",00:58:01,"Open Play",14.52,0.230000000000004,20.78,-0.0999999999999943,"Right to Left",7253,00:59:16,5.25,25.93,"Right to Left",9.27,-9.27,"Own 22","A1","Own 22","A1",6.27
-"89",7300,"Scunthorpe","15",01:08:18,"Open Play",44.72,5.17,79.65,0.569999999999993,"Right to Left",3507,01:10:08,22.5,7.86,"Right to Left",22.22,-22.22,"Own 22 to Halfway","B1","Opposition 22","D1",35.23
-"90",7315,"Scunthorpe","10",01:11:17,"Open Play",44.93,26.38,71.03,14.93,"Right to Left",7318,01:11:54,30.05,5.06,"Right to Left",14.88,-14.88,"Own 22 to Halfway","B2","Halfway to Opposition 22","C1",28.5
-"91",7330,"Scunthorpe","10",01:12:19,"Open Play",14.74,16.61,54.2,15.04,"Right to Left",7332,01:12:29,33.72,52.74,"Right to Left",18.98,18.98,"Own 22","A2","Halfway to Opposition 22","C2",39.49
-"92",7347,"Scunthorpe","10",01:13:02,"Open Play",31.78,28.17,80.73,18.07,"Right to Left",6754,01:14:10,66.07,9.66,"Right to Left",34.29,34.29,"Own 22 to Halfway","B2","Opposition 22","D2",49.98
-"93",7384,"Scunthorpe","10",01:20:35,"Open Play",31.78,42.08,68.44,54.87,"Right to Left",7386,01:21:23,68.65,54.76,"Right to Left",36.87,36.87,"Own 22 to Halfway","B3","Halfway to Opposition 22","C3",38.83
-"94",7462,"Hull I's","10",00:00:40,"Open Play",16.22,24.92,59.69,15.72,"Right to Left",7464,00:00:48,17.68,3.59999999999999,"Right to Left",1.46000000000001,1.46000000000001,"Own 22","A2","Halfway to Opposition 22","C2",44.43
-"95",7491,"Hull I's","15",00:06:30,"Open Play",44.23,47.69,74.95,11.68,"Right to Left",7494,00:08:20,17.47,64.86,"Right to Left",26.76,-26.76,"Own 22 to Halfway","B3","Halfway to Opposition 22","C1",47.33
-"96",7502,"Hull I's","10",00:08:36,"Open Play",12.67,37.26,43.81,8.42,"Right to Left",7505,00:08:47,34.82,5.17,"Right to Left",22.15,22.15,"Own 22","A3","Own 22 to Halfway","B1",42.44
-"97",7539,"Hull I's","10",00:11:47,"Open Play",18.52,18.07,53.42,-0.219999999999999,"Right to Left",2018,00:13:42,46.94,63.51,"Right to Left",28.42,28.42,"Own 22","A2","Halfway to Opposition 22","C1",39.4
-"98",7673,"Hull I's","10",00:24:11,"Open Play",23.12,16.5,67.84,23.68,"Right to Left",161,00:27:00,39,59.59,"Right to Left",15.88,15.88,"Own 22 to Halfway","B2","Halfway to Opposition 22","C2",45.29
-"99",7691,"Hull I's","12",00:27:05,"Open Play",43.18,30.3,68.47,22.34,"Right to Left",7693,00:27:11,68.68,28.06,"Right to Left",25.5,25.5,"Own 22 to Halfway","B2","Halfway to Opposition 22","C2",26.51
-"100",7694,"Hull I's","9",00:27:11,"Open Play",68.89,29.74,98.98,19.64,"Right to Left",7697,00:27:54,77.67,59.7,"Right to Left",8.78,8.78,"Halfway to Opposition 22","C2","Opposition 22","D2",31.74
-"101",7735,"Hull I's","10",00:33:59,"Open Play",0.540000000000006,14.82,34.4,0.0100000000000051,"Right to Left",7168,00:42:22,31.27,7.08,"Left to Right",30.73,30.73,"Own 22","A1","Own 22 to Halfway","B1",36.96
+"44",8148,"Tynedale","10",00:27:03,"Open Play",16.48,42.17,54.1,15.01,"Left to Right",8153,00:29:05,21.5,14.9,"Left to Right",5.02,5.02,"Own 22","A3","Halfway to Opposition 22","C2",46.4
+"45",8162,"Tynedale","12",00:30:19,"Open Play",5.61,37.68,32.37,69.99,"Left to Right",8165,00:31:45,31.74,55.07,"Left to Right",26.13,26.13,"Own 22","A3","Own 22 to Halfway","B4",41.95
+"46",8223,"Tynedale","10",00:42:22,"Open Play",36.96,28.59,68.94,18.04,"Left to Right",6562,00:43:18,65.81,60.45,"Left to Right",28.85,28.85,"Own 22 to Halfway","B2","Halfway to Opposition 22","C2",33.68
+"47",8229,"Tynedale","14",00:43:26,"Open Play",67.48,5.14,95.49,10.08,"Left to Right",8231,00:44:08,68.52,30.27,"Left to Right",1.03999999999999,1.03999999999999,"Halfway to Opposition 22","C1","Opposition 22","D1",28.44
+"48",8340,"Tynedale","12",00:57:54,"Open Play",36.76,21.86,56.61,16.92,"Left to Right",1743,00:58:31,63.51,42.28,"Left to Right",26.75,26.75,"Own 22 to Halfway","B2","Halfway to Opposition 22","C2",20.46
+"49",347,"Durham University","9",00:55:18,"Open Play",67.88,36.62,79.16,15.82,"Right to Left",350,00:57:35,65.37,22.23,"Right to Left",2.50999999999999,-2.50999999999999,"Halfway to Opposition 22","C3","Opposition 22","D2",23.66
+"50",360,"Durham University","10",00:57:58,"Open Play",18.48,35.72,47.82,65.4,"Right to Left",369,00:59:13,24.13,45.16,"Right to Left",5.64999999999999,5.64999999999999,"Own 22","A3","Own 22 to Halfway","B4",41.73
+"51",480,"Durham University","11",01:11:43,"Open Play",4.44,53.48,30.65,52.24,"Right to Left",485,01:12:57,22.12,34.59,"Right to Left",17.68,17.68,"Own 22","A3","Own 22 to Halfway","B3",26.24
+"52",524,"Durham University","9",01:17:24,"Box",9.95999999999999,14.69,44.94,-0.0300000000000011,"Right to Left",526,01:18:08,44.69,5.81,"Right to Left",34.73,34.73,"Own 22","A1","Own 22 to Halfway","B1",37.95
+"53",650,"Durham University","11",01:30:25,"Open Play",50.54,60.23,76.6,57.3,"Right to Left",655,01:31:24,95.21,43.48,"Right to Left",44.67,44.67,"Halfway to Opposition 22","C4","Halfway to Opposition 22","C4",26.22
+"54",713,"Preston","10",00:00:32,"Open Play",19.69,34.66,55.46,56,"Right to Left",731,00:02:58,9.47,54.99,"Right to Left",10.22,-10.22,"Own 22","A2","Halfway to Opposition 22","C4",41.65
+"55",745,"Preston","9",00:04:54,"Box",12.54,55.22,36.21,70.04,"Right to Left",751,00:06:48,35.36,27.14,"Right to Left",22.82,22.82,"Own 22","A4","Own 22 to Halfway","B4",27.93
+"56",838,"Preston","12",00:19:08,"Open Play",19.35,38.03,47.45,60.16,"Right to Left",846,00:19:55,46.6,45.45,"Right to Left",27.25,27.25,"Own 22","A3","Own 22 to Halfway","B4",35.77
+"57",952,"Preston","9",00:33:01,"Box",14.41,8.84,58.87,5.34999999999999,"Right to Left",959,00:34:24,45.24,15.24,"Right to Left",30.83,30.83,"Own 22","A1","Halfway to Opposition 22","C1",44.6
+"58",1407,"Wharfedale","13",00:03:17,"Chip",67.02,18.55,72.99,6.32,"Right to Left",1410,00:03:58,77.12,5.54000000000001,"Right to Left",10.1,10.1,"Halfway to Opposition 22","C2","Halfway to Opposition 22","C1",13.61
+"59",1487,"Wharfedale","15",00:18:12,"Open Play",21.42,56.47,66.11,55.91,"Right to Left",1489,00:18:19,35.81,51.2,"Right to Left",14.39,14.39,"Own 22","A4","Halfway to Opposition 22","C4",44.69
+"60",1952,"Fylde","10",00:01:37,"Open Play",33.98,23.18,74.32,18.35,"Right to Left",68,00:08:41,50.08,62.56,"Right to Left",16.1,16.1,"Own 22 to Halfway","B2","Halfway to Opposition 22","C2",40.63
+"61",2016,"Fylde","14",00:12:45,"Open Play",26.25,39.33,70.35,15.66,"Right to Left",2018,00:13:42,79.55,9.94,"Right to Left",53.3,53.3,"Own 22 to Halfway","B3","Halfway to Opposition 22","C2",50.05
+"62",2040,"Fylde","24",00:16:31,"Open Play",11.17,5.54000000000001,27.54,0.150000000000006,"Right to Left",2042,00:17:06,28.31,13.05,"Right to Left",17.14,17.14,"Own 22","A1","Own 22 to Halfway","B1",17.23
+"63",2049,"Fylde","10",00:17:27,"Open Play",21.88,21.24,60.75,55.91,"Right to Left",2053,00:18:07,22.8,60.29,"Right to Left",0.920000000000002,0.920000000000002,"Own 22","A2","Halfway to Opposition 22","C4",52.09
+"64",2067,"Fylde","10",00:21:58,"Open Play",10.71,12.72,23.87,0.150000000000006,"Right to Left",2095,00:30:05,7.95,3.29000000000001,"Right to Left",2.75999999999999,-2.75999999999999,"Own 22","A1","Own 22 to Halfway","B1",18.2
+"65",2097,"Fylde","24",00:30:10,"Open Play",10.1,2.06,48.81,6.1,"Right to Left",2106,00:32:08,78.04,52.1,"Right to Left",67.94,67.94,"Own 22","A1","Own 22 to Halfway","B1",38.92
+"66",2170,"Fylde","12",00:37:53,"Open Play",-0.159999999999997,14.96,26.62,0.260000000000005,"Right to Left",2172,00:38:36,23.41,7.33,"Right to Left",23.57,23.57,"Own 22","A1","Own 22 to Halfway","B1",30.55
+"67",2846,"DMP","15",00:52:57,"Open Play",4.45,53.89,25.23,70.05,"Right to Left",2848,00:53:21,27.81,64.78,"Right to Left",23.36,23.36,"Own 22","A3","Own 22 to Halfway","B4",26.32
+"68",2860,"DMP","11",00:54:42,"Chip",59.37,2.40000000000001,91.83,0.379999999999995,"Right to Left",2864,00:57:06,39.8,10.47,"Right to Left",19.57,-19.57,"Halfway to Opposition 22","C1","Opposition 22","D1",32.52
+"69",3006,"DMP","12",01:24:49,"Chip",32.97,33.25,43.13,36.95,"Right to Left",2438,01:25:03,42.83,37.18,"Right to Left",9.86,9.86,"Own 22 to Halfway","B2","Own 22 to Halfway","B3",10.81
+"70",3050,"Hull","10",00:00:43,"Open Play",31.06,34.06,65.33,66.03,"Right to Left",3054,00:01:54,54.68,40.12,"Right to Left",23.62,23.62,"Own 22 to Halfway","B2","Halfway to Opposition 22","C4",46.87
+"71",3118,"Hull","10",00:09:25,"Grubber",72.53,17.43,94.57,1.72,"Right to Left",3120,00:09:55,89.98,5.2,"Right to Left",17.45,17.45,"Halfway to Opposition 22","C2","Opposition 22","D1",27.07
+"72",3234,"Hull","14",00:30:18,"Chip",58.91,67.58,76.82,69.04,"Right to Left",3239,00:32:07,71.92,64.44,"Right to Left",13.01,13.01,"Halfway to Opposition 22","C4","Halfway to Opposition 22","C4",17.97
+"73",4000,"Otley","12",00:48:49,"Open Play",17.26,33.83,64.5,37.31,"Right to Left",4002,00:48:56,33.77,45.95,"Right to Left",16.51,16.51,"Own 22","A2","Halfway to Opposition 22","C3",47.37
+"74",4124,"Otley","10",01:06:34,"Open Play",56.35,27.78,98.78,0.959999999999994,"Right to Left",4126,01:08:32,94.8,5.11,"Right to Left",38.45,38.45,"Halfway to Opposition 22","C2","Opposition 22","D1",50.2
+"75",4152,"Otley","10",01:13:59,"Open Play",18.52,37.2,59.48,7.58,"Right to Left",4154,01:14:04,26.04,14.42,"Right to Left",7.52000000000001,7.52000000000001,"Own 22","A3","Halfway to Opposition 22","C1",50.55
+"76",4162,"Otley","15",01:14:22,"Open Play",12.46,15.1,21.86,0.0600000000000023,"Right to Left",4164,01:15:36,20.19,20.03,"Right to Left",7.73,7.73,"Own 22","A2","Own 22","A1",17.74
+"77",4169,"Otley","10",01:15:44,"Open Play",21.86,37.76,49.45,69.85,"Right to Left",4187,01:20:13,53.21,64.24,"Right to Left",31.35,31.35,"Own 22","A3","Own 22 to Halfway","B4",42.32
+"78",4270,"Otley","12",01:25:32,"Open Play",73.28,44.6,75.99,69.85,"Right to Left",4279,00:03:25,62.83,53.36,"Right to Left",10.45,-10.45,"Halfway to Opposition 22","C3","Halfway to Opposition 22","C4",25.4
+"79",4355,"Macclesfield","12",00:16:48,"Chip",58.44,36.3,81.43,34.96,"Right to Left",4359,00:17:17,64.08,13.19,"Right to Left",5.64,5.64,"Halfway to Opposition 22","C3","Opposition 22","D2",23.03
+"80",4454,"Macclesfield","12",00:28:27,"Chip",34.82,19.14,50.08,15.77,"Right to Left",4457,00:29:19,61.78,9.15,"Right to Left",26.96,26.96,"Own 22 to Halfway","B2","Halfway to Opposition 22","C2",15.63
+"81",5204,"Sheffield Tigers","10",00:41:33,"Open Play",5.14,31.37,28.13,-0.159999999999997,"Right to Left",5210,00:42:18,20.4,1.97,"Right to Left",15.26,15.26,"Own 22","A2","Own 22 to Halfway","B1",39.02
+"82",5746,"Sheffield","10",00:19:16,"Grubber",87.22,30.27,87.68,30.05,"Right to Left",5749,00:20:07,89.56,6.6,"Right to Left",2.34,2.34,"Opposition 22","D2","Opposition 22","D2",0.51
+"83",5768,"Sheffield","12",00:22:15,"Open Play",23.87,32.97,53.4,11.31,"Right to Left",5793,00:25:36,17.14,4.92,"Right to Left",6.73,-6.73,"Own 22 to Halfway","B2","Halfway to Opposition 22","C1",36.62
+"84",5805,"Sheffield","10",00:27:12,"Open Play",49.27,17.71,80.18,-0.129999999999995,"Right to Left",5811,00:28:09,59.98,7.05,"Right to Left",10.71,10.71,"Own 22 to Halfway","B2","Opposition 22","D1",35.69
+"85",5816,"Sheffield","14",00:28:20,"Open Play",44.83,38.02,94.57,32.07,"Right to Left",2656,00:29:09,72.38,56.08,"Right to Left",27.55,27.55,"Own 22 to Halfway","B3","Opposition 22","D2",50.09
+"86",5841,"Sheffield","13",00:33:31,"Open Play",19.43,5.14,68.25,5.81999999999999,"Right to Left",5846,00:34:35,87.84,5.37,"Right to Left",68.41,68.41,"Own 22","A1","Halfway to Opposition 22","C1",48.82
+"87",6611,"Rossendale","10",00:55:35,"Open Play",36.91,22.34,75.16,6.4,"Right to Left",6613,00:55:46,21.03,4.95,"Right to Left",15.88,-15.88,"Own 22 to Halfway","B2","Halfway to Opposition 22","C1",41.44
+"88",6620,"Rossendale","10",00:56:00,"Open Play",47.57,16.95,80.59,6.18,"Right to Left",6622,00:56:39,51.33,12.13,"Right to Left",3.76,3.76,"Own 22 to Halfway","B2","Opposition 22","D1",34.73
+"89",6796,"Rossendale","13",01:19:27,"Open Play",18.94,2.48,69.72,15.16,"Right to Left",6798,01:19:41,41.93,37.37,"Right to Left",22.99,22.99,"Own 22","A1","Halfway to Opposition 22","C2",52.34
+"90",6800,"Rossendale","1",01:19:44,"Open Play",41.51,27.39,89.79,13.58,"Right to Left",4821,01:20:34,74.53,13.14,"Right to Left",33.02,33.02,"Own 22 to Halfway","B2","Opposition 22","D1",50.22
+"91",6814,"Rossendale","10",01:23:22,"Open Play",40.46,16.28,63.87,31.76,"Right to Left",6868,00:04:20,81.01,6.29,"Left to Right",40.55,40.55,"Own 22 to Halfway","B2","Halfway to Opposition 22","C2",28.07
+"92",7182,"Scunthorpe","15",00:44:01,"Open Play",45.36,49.26,53.34,50.16,"Right to Left",7184,00:44:03,53.56,48.03,"Right to Left",8.2,8.2,"Own 22 to Halfway","B3","Halfway to Opposition 22","C3",8.03
+"93",7244,"Scunthorpe","15",00:58:01,"Open Play",14.52,0.230000000000004,20.78,-0.0999999999999943,"Right to Left",7253,00:59:16,5.25,25.93,"Right to Left",9.27,-9.27,"Own 22","A1","Own 22","A1",6.27
+"94",7300,"Scunthorpe","15",01:08:18,"Open Play",44.72,5.17,79.65,0.569999999999993,"Right to Left",3507,01:10:08,22.5,7.86,"Right to Left",22.22,-22.22,"Own 22 to Halfway","B1","Opposition 22","D1",35.23
+"95",7315,"Scunthorpe","10",01:11:17,"Open Play",44.93,26.38,71.03,14.93,"Right to Left",7318,01:11:54,30.05,5.06,"Right to Left",14.88,-14.88,"Own 22 to Halfway","B2","Halfway to Opposition 22","C1",28.5
+"96",7330,"Scunthorpe","10",01:12:19,"Open Play",14.74,16.61,54.2,15.04,"Right to Left",7332,01:12:29,33.72,52.74,"Right to Left",18.98,18.98,"Own 22","A2","Halfway to Opposition 22","C2",39.49
+"97",7347,"Scunthorpe","10",01:13:02,"Open Play",31.78,28.17,80.73,18.07,"Right to Left",6754,01:14:10,66.07,9.66,"Right to Left",34.29,34.29,"Own 22 to Halfway","B2","Opposition 22","D2",49.98
+"98",7384,"Scunthorpe","10",01:20:35,"Open Play",31.78,42.08,68.44,54.87,"Right to Left",7386,01:21:23,68.65,54.76,"Right to Left",36.87,36.87,"Own 22 to Halfway","B3","Halfway to Opposition 22","C3",38.83
+"99",7462,"Hull I's","10",00:00:40,"Open Play",16.22,24.92,59.69,15.72,"Right to Left",7464,00:00:48,17.68,3.59999999999999,"Right to Left",1.46000000000001,1.46000000000001,"Own 22","A2","Halfway to Opposition 22","C2",44.43
+"100",7491,"Hull I's","15",00:06:30,"Open Play",44.23,47.69,74.95,11.68,"Right to Left",7494,00:08:20,17.47,64.86,"Right to Left",26.76,-26.76,"Own 22 to Halfway","B3","Halfway to Opposition 22","C1",47.33
+"101",7502,"Hull I's","10",00:08:36,"Open Play",12.67,37.26,43.81,8.42,"Right to Left",7505,00:08:47,34.82,5.17,"Right to Left",22.15,22.15,"Own 22","A3","Own 22 to Halfway","B1",42.44
+"102",7539,"Hull I's","10",00:11:47,"Open Play",18.52,18.07,53.42,-0.219999999999999,"Right to Left",2018,00:13:42,46.94,63.51,"Right to Left",28.42,28.42,"Own 22","A2","Halfway to Opposition 22","C1",39.4
+"103",7673,"Hull I's","10",00:24:11,"Open Play",23.12,16.5,67.84,23.68,"Right to Left",161,00:27:00,39,59.59,"Right to Left",15.88,15.88,"Own 22 to Halfway","B2","Halfway to Opposition 22","C2",45.29
+"104",7691,"Hull I's","12",00:27:05,"Open Play",43.18,30.3,68.47,22.34,"Right to Left",7693,00:27:11,68.68,28.06,"Right to Left",25.5,25.5,"Own 22 to Halfway","B2","Halfway to Opposition 22","C2",26.51
+"105",7694,"Hull I's","9",00:27:11,"Open Play",68.89,29.74,98.98,19.64,"Right to Left",7697,00:27:54,77.67,59.7,"Right to Left",8.78,8.78,"Halfway to Opposition 22","C2","Opposition 22","D2",31.74
+"106",7735,"Hull I's","10",00:33:59,"Open Play",0.540000000000006,14.82,34.4,0.0100000000000051,"Right to Left",7168,00:42:22,31.27,7.08,"Left to Right",30.73,30.73,"Own 22","A1","Own 22 to Halfway","B1",36.96
+"107",8026,"Tynedale","10",00:03:30,"Open Play",38.16,7.53,75.37,14.93,"Right to Left",8028,00:03:40,22.28,11.9,"Right to Left",15.88,-15.88,"Own 22 to Halfway","B1","Halfway to Opposition 22","C1",37.94
+"108",8030,"Tynedale","15",00:03:46,"Open Play",27.71,43.88,52.59,38.27,"Right to Left",8034,00:04:50,66.59,57.12,"Right to Left",38.88,38.88,"Own 22 to Halfway","B3","Halfway to Opposition 22","C3",25.5
